@@ -1,0 +1,66 @@
+<section id="content">
+  <article class="post">
+
+    <header>
+      <h1>{{ page.title }}{% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+    </header>
+
+    <section>
+      <div class="post-extra">
+        <div class="pull-left">
+          <span>{{ page.date | date_to_long_string }}</span>
+        </div>
+        <div class="pull-right">
+          {% include widgets/share_buttons %}
+        </div>
+      </div>
+      {{ content }}
+      {% if page.license != false %}
+      <footer>
+
+      </footer>
+      {% endif %}
+    </section>
+
+  </article>
+</section>
+
+<section>
+
+  {% unless page.categories == empty %}
+  <ul class="tag-box inline">
+    <li><i class="icon-large icon-folder-open"></i></li>
+    {% assign categories_list = page.categories %}
+    {% include JB/categories_list %}
+  </ul>
+  {% endunless %}
+
+  {% unless page.tags == empty %}
+  <ul class="tag-box inline">
+    <li><i class="icon-large icon-tags"></i></li>
+    {% assign tags_list = page.tags %}
+    {% include JB/tags_list %}
+  </ul>
+  {% endunless %}
+
+  <div class="pagination">
+    <ul>
+      {% if page.previous %}
+      <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+      {% else %}
+      <li class="prev disabled"><a>&larr; Previous</a></li>
+      {% endif %}
+      <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">List</a></li>
+      {% if page.next %}
+      <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+      {% else %}
+      <li class="next disabled"><a>Next &rarr;</a></li>
+      {% endif %}
+    </ul>
+  </div>
+
+</section>
+
+<section id="comments">
+  {% include JB/comments %}
+</section>

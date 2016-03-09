@@ -1,0 +1,7 @@
+<a href="{{ site.JB.categories_path }}" title="See all content"><i class="icon-fixed-width icon-folder-open"></i> Content</a>
+<span title="All categories">{{ site.categories | size }}</span>
+<ul>
+{% for category in site.categories %}
+  <li>{{ category[0] }} ({{ category[1] | size }})</li>
+{% endfor %}
+</ul>
