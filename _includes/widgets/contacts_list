@@ -1,9 +1,0 @@
-<a href="#"><i class="icon-fixed-width icon-heart"></i> Contact</a>
-<div id="contacts-list">
-  <a href="mailto:venyao@qq.com" target="_blank" title="QQ">
-    <i class="icon-large icon-fixed-width icon-envelope"></i>
-  </a>
-  <a href="https://github.com/venyao" target="_blank" title="Github">
-    <i class="icon-large icon-fixed-width icon-github"></i>
-  </a>
-</div>
