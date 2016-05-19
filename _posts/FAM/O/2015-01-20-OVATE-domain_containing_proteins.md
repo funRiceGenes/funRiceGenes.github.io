@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsOFP01, [LOC_Os01g12690](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g12690), [Os01g0226700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0226700).

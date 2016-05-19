@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [transcription factor, salinity, drought, growth, seed germination,  ABA , panicle, salt, seed, salt stress, fertility, abiotic stress, seedling, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsABF1,OsABI5,OREB1,OsbZIP10  

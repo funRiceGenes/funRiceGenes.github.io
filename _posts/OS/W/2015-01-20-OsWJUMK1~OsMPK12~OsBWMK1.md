@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [defense response,  sa , defense, transcription factor, cell death, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsWJUMK1,OsMPK12,OsBWMK1  

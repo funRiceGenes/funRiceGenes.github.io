@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, ethylene, root, yield, salinity, grain, architecture, drought resistance, jasmonate, blast, seed, culm, seedling, transcription factor, reproductive, grain yield, stomata, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsNAC19,SNAC1,OsNAC9  

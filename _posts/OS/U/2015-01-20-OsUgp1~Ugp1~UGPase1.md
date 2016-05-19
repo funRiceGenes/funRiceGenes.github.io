@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seed, pollen, meiosis, anther development, growth, anther, sterility, endosperm, fertility, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsUgp1,Ugp1,UGPase1  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root development, auxin, seed, lateral root, root, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCel9A,OsGLU5  

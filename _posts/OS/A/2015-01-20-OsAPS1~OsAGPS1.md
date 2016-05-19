@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seed development, leaf, seed, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsAPS1,OsAGPS1  

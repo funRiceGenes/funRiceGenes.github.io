@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seed germination, seed, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OslecRK,OsLecRK1  

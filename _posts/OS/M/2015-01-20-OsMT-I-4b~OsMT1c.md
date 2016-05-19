@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seedling, shoot, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsMT-I-4b,OsMT1c  

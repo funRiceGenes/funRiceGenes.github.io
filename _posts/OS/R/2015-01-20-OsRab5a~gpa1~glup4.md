@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [endosperm, seed, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsRab5a,gpa1,glup4  

@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsAGO11, [LOC_Os03g47830](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g47830), [Os03g0682600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0682600).

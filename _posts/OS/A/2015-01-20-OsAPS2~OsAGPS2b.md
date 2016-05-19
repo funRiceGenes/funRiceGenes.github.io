@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [starch, seed, endosperm, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsAPS2,OsAGPS2b  

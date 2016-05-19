@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsDof1, [LOC_Os01g09720](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g09720), None.

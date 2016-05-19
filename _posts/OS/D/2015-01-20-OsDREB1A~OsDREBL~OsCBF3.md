@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [salt, temperature, drought, transcription factor, abiotic stress, cold stress, salt stress, tolerance, cold tolerance, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsDREB1A,OsDREBL,OsCBF3  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seedling, shoot, root, jasmonate, submergence, growth, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsPRP,RePRP1.1  

@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsPILS1, [LOC_Os09g31478](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g31478), [Os09g0491740](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0491740).

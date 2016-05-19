@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [ BR , ethylene, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: DWF1,DIM;DWF1,DIM  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [leaf, transporter, vegetative, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsSUT5,OsSUT5Z  

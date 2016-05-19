@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, drought, flower, cold stress, seed development, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCDPK13,OsCDPK11,OsCPK11  

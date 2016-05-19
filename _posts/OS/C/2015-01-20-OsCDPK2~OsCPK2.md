@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [stem, seed, flower, root, seed development, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCDPK2,OsCPK2  

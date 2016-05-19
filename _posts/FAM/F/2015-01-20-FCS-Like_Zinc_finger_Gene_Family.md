@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsaFLZ1, [LOC_Os04g49620](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g49620), [Os03g0793500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0793500).

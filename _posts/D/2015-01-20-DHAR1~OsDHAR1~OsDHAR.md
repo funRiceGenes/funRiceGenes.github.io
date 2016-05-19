@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seedling, temperature, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: DHAR1,OsDHAR1,OsDHAR  

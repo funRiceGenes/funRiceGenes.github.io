@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, height, heading date, Brassinosteroid, plant height, nucleus, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: brd2,DIM,DWF1,LHDD10  

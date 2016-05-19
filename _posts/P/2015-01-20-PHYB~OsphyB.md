@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flowering time, floral, drought, sheath, drought tolerance, gibberellin, root, leaf, erect, stomata, stomatal, branching, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: PHYB,OsphyB  

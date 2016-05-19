@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [sterility, fertility, growth, panicle, sterile, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsRacD,OsRac5  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [temperature, transcription factor, salinity, drought, cold stress, shoot, ethylene,  ABA , seed, salt, drought tolerance, tolerance, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsDREB1F,RCBF2  

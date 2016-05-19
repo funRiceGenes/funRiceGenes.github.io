@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [grain, seed, cellulose, cell elongation, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: SRS3,OsKINESIN-13A  

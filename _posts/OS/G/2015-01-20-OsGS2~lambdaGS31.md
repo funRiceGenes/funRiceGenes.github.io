@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [drought tolerance, salt stress, drought, chloroplast, salt, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsGS2,lambdaGS31  

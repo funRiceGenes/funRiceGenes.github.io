@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [homeostasis, mitochondria, root, shoot, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsGpx3,GPX3,OsGPx03  

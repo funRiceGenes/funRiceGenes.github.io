@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [leaf, chloroplast, salicylic acid, jasmonic, jasmonic acid, senescence, leaf senescence, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsAkaGal,Osh69  

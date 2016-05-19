@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [drought, jasmonate, drought tolerance, JA signalling repressor , Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsJAZ1,OsTIFY3,EG2  

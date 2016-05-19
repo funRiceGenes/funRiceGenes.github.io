@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [actin protein, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsACT1,OsActin-1  

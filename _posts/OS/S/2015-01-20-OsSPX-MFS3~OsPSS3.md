@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [shoot,  pi , transporter, plasma membrane, Pi, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsSPX-MFS3,OsPSS3  

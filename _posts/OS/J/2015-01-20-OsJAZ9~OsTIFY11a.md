@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsJAZ9,OsTIFY11a  

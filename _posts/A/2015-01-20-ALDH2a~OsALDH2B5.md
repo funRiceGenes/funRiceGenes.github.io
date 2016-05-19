@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [mitochondria, seedling, sheath, submergence, panicle, leaf, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: ALDH2a,OsALDH2B5  

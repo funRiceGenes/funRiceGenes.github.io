@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [drought, pollen,  ABA , anther, drought tolerance, fertility, anther development, tapetal, vegetative, yield, tapetum, abiotic stress, reproductive, drought resistance, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsDIL,OsLTP6  

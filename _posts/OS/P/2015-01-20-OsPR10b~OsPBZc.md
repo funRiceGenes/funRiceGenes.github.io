@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: 
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsPR10b,OsPBZc  

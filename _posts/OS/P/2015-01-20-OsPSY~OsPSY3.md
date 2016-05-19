@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root, drought, salt, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsPSY,OsPSY3  

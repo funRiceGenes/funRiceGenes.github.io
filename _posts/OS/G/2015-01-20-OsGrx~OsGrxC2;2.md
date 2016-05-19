@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [oxidative, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsGrx,OsGrxC2;2  

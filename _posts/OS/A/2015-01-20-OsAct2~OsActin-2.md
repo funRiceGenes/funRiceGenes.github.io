@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: 
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsAct2,OsActin-2  

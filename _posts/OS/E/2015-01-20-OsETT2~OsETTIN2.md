@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [ awn , leaf, vascular bundle, meristem, transcription factor, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsETT2,OsETTIN2  

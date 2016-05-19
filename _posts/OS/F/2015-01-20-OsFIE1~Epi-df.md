@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [floral, dwarf, endosperm, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsFIE1,Epi-df  

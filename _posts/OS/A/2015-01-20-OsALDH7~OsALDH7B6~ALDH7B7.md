@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsALDH7,OsALDH7B6,ALDH7B7  

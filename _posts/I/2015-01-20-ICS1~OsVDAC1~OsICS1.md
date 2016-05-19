@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [defense, defense response,  sa , SA, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: ICS1,OsVDAC1,OsICS1  

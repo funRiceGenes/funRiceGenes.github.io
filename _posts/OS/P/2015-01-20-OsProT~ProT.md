@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [salt stress, drought, oxidative, salt tolerance, salt, seedling, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsProT,ProT  

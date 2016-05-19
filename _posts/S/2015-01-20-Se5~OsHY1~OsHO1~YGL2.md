@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, photosynthesis, defense, temperature, chloroplast, heading date, leaf, seed, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: Se5,OsHY1,OsHO1,YGL2  

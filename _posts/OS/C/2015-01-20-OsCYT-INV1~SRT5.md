@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [growth, root development, root, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCYT-INV1,SRT5  

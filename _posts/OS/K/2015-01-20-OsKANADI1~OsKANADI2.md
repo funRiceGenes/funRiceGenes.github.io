@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [meristem, transcription factor, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsKANADI1,OsKANADI2  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [nitrogen, seed, starch, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: AlaAT,OsAlaAT1  

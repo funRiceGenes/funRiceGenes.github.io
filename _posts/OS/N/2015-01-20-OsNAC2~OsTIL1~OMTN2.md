@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsNAC2,OsTIL1,OMTN2  

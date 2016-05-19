@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, vegetative, pollen, growth, culm, stem, stomata, height, architecture, cell division, anther, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCD1,OsCSLD4,NRL1,ND1,sle1,DNL1  

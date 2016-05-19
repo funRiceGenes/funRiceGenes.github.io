@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [tiller, cytokinin, cytokinin response, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: MOC3,OsWUS,TAB1,OsTAB1  

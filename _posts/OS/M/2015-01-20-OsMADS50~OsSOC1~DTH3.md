@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [heading date, floral, flower, flowering time, vegetative, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsMADS50,OsSOC1,DTH3  

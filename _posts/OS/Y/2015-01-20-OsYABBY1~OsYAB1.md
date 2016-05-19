@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [floral, flower, vascular bundle, lemma, sheath, growth, meristem, vegetative, palea, stamen, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsYABBY1,OsYAB1  

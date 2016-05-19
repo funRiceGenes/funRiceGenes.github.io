@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [stamen, flower, palea, floral, leaf, lemma, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsMADS7,OsMADS45  

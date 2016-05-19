@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root, transcription factor, growth, jasmonate, disease, seedling, salinity, homeostasis, seed, seed germination, salinity stress, abiotic stress, defense, seedlings, leaf, resistance, panicle, blast, lesion, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: JAmyb,OsJAmyb  

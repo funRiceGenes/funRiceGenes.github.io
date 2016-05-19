@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root hair, nitrate, transporter, root, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: NRT1,OsNRT1,OsNRT1.1  

@@ -3,7 +3,6 @@ layout: page
 title: Publications
 group: navigation
 ---
-{% include JB/setup %}
 
 1. [Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves%5BTitle%5D)), 1998, Gene.
 2. [Molecular cloning of a novel importin alpha homologue from rice, by which constitutive photomorphogenic 1 (COP1) nuclear localization signal (NLS)-protein is preferentially nuclear imported](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular cloning of a novel importin alpha homologue from rice, by which constitutive photomorphogenic 1 (COP1) nuclear localization signal (NLS)-protein is preferentially nuclear imported%5BTitle%5D)), 2001, J Biol Chem.

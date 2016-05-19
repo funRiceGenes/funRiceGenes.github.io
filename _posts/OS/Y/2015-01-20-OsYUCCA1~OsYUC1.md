@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [iaa, auxin, root, height, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsYUCCA1,OsYUC1  

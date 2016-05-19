@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [oxidative, photosynthesis,  ABA , ethylene, ABA, ethylene response, seedlings, ethylene production, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCRTISO,ZEBRA2,MHZ5  

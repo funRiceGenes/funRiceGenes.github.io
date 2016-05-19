@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root, salicylic acid, jasmonic, jasmonic acid, transcription factor, defense, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsbZIP28,OsbZIP1  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [leaf, sheath, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsRopGEF10,BGL  

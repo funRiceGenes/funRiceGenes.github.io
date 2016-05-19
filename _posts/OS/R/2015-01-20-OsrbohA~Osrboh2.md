@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [growth, pollen, seed, development, tolerance, fertility, stress, plasma membrane, stress response, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsrbohA,Osrboh2  

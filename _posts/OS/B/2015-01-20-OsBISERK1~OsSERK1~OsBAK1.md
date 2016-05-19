@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, defense, blast, seed, grain, yield, height, seedling, breeding, grain yield, disease, growth, dwarf, erect, root, leaf development, development, angle of the lamina joint, lamina joint, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsBISERK1,OsSERK1,OsBAK1  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [leaf, seed, starch, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsAPL4,OsAGPL4  

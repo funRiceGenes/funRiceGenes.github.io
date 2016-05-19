@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [endosperm, starch, seed, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsSSIIIa,Flo5  

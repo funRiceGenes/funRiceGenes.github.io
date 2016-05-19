@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsJAZ8,OsTIFY10c  

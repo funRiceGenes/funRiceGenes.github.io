@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsRpt1a, [LOC_Os06g09290](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g09290), [Os06g0192600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0192600).

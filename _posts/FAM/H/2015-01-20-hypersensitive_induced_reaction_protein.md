@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsHIR1, [LOC_Os08g30790](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g30790), [Os08g0398400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0398400).

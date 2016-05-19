@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endosperm, pollen, flower, shoot, vegetative, stamen, floral, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsMYBGA,OsGAMYB  

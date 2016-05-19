@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsMED4, [LOC_Os09g36890](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g36890), [Os09g0540500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0540500).

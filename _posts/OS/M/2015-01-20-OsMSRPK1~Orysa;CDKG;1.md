@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: 
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsMSRPK1,Orysa;CDKG;1  

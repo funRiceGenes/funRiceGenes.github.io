@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endosperm, cell division, seed, seed size, panicle,  ABA , ABA, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCCS52A,TAD,TE  

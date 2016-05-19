@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc, vascular bundle, grain, shoot, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsHMA2,OsHMA2v  

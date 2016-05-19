@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [transcription factor, temperature, stress, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsHSFA2d,OsHSF7  

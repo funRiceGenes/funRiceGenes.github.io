@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor, root, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsARD,OsARD2  

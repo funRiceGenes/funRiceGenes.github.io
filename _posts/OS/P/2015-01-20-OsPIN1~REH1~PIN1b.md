@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root, tiller, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsPIN1,REH1,PIN1b  

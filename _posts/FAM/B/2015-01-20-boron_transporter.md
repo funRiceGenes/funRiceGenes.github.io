@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsBOR1, [LOC_Os12g37840](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g37840), [Os12g0566000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0566000).

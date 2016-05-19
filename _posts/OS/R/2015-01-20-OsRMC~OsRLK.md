@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root development, salinity, seed,  ja , transcription factor, root, growth, biomass, salt stress, shoot, seedling, seed germination, salt, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsRMC,OsRLK  

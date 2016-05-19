@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsGTgamma-1, [LOC_Os02g33770](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g33770), [Os02g0542400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0542400).

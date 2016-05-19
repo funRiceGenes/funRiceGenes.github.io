@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: 
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: Orysa;NAP1;2,OsNAP1_L2  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, root development, tiller, growth, lemma, leaf development, leaf, yield, auxin, development, homeostasis,  ga , height, plant height, GA, GA biosynthetic, GA biosynthesis, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: NAL2,OsWOX3A,WOX3  

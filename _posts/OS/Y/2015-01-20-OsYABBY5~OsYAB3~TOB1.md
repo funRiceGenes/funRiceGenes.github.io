@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [lemma, spikelet, growth, meristem, flower, palea, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsYABBY5,OsYAB3,TOB1  

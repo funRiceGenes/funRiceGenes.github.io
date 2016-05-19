@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. OsWNK1, [LOC_Os07g38530](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g38530), [Os07g0572800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0572800).

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seedling, leaf, chloroplast, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCPn60alpha1,OsCPn60a1  

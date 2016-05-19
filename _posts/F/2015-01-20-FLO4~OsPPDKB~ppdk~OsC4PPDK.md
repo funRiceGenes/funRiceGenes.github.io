@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [pericarp, grain, endosperm, reproductive, seed, seed development, grain filling, seed germination, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: FLO4,OsPPDKB,ppdk,OsC4PPDK  

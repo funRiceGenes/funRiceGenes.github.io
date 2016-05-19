@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [growth, root, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsDTS2,OsKSL4,OsKS4  

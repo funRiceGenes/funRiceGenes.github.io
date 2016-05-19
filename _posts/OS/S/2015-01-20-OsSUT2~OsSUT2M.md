@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, vegetative, flower, tiller number, lateral root, grain weight, seed development, height, pollen, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsSUT2,OsSUT2M  

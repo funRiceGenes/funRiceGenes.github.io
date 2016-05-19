@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, defense,  ja , drought tolerance, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCOI1,OsCOI1a  

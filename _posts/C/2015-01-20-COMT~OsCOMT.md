@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis, methyltransferase, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: COMT,OsCOMT  

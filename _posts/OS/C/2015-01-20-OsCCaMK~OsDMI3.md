@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCCaMK,OsDMI3  

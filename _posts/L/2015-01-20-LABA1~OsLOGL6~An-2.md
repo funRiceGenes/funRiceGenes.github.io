@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, grains per panicle, grain yield, grain number, yield, cell division, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: LABA1,OsLOGL6,An-2  

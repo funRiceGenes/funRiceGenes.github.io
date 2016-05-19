@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [panicle, seedling, mitochondria, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsALDH2B1,ALDH2b  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [phosphate, shoot, homeostasis, transporter,  pi , Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsSPX-MFS1,OsPSS1  

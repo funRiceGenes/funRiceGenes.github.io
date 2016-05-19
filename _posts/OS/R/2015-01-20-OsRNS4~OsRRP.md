@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [dwarf, tillering, seedling, tiller, salinity, growth,  ABA , salt, stem, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsRNS4,OsRRP  

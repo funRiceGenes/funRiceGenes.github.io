@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsFMO,OsCOW1  

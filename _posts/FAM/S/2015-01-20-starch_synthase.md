@@ -5,7 +5,6 @@ description: ""
 category: gene family
 tags: GeneFamily
 ---
-{% include JB/setup %}
 
 ## Information
 1. SSIII-1, [LOC_Os04g53310](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g53310), [Os04g0624600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0624600).

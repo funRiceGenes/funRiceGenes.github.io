@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [flower, photosynthesis, yield, salt tolerance, salt, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsARP,OsCTP  

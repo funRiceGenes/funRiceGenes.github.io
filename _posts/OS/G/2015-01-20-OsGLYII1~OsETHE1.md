@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [root, calcium, stress, stress response, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsGLYII1,OsETHE1  

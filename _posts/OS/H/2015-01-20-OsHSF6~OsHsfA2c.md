@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seed, transcription factor, root, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsHSF6,OsHsfA2c  

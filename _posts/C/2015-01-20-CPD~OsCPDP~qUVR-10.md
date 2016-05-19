@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [growth, resistant, breeding, mitochondria, chloroplast, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: CPD,OsCPDP,qUVR-10  

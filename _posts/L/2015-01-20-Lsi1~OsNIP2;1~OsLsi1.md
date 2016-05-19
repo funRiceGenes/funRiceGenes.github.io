@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: Lsi1,OsNIP2;1,OsLsi1  

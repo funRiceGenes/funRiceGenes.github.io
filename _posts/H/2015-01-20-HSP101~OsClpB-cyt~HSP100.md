@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seedling, arsenite, seed, flower, vegetative, chloroplast, seed development, temperature, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: HSP101,OsClpB-cyt,HSP100  

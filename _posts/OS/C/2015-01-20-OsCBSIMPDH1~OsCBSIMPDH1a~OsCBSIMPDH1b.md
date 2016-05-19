@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: 
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCBSIMPDH1,OsCBSIMPDH1a,OsCBSIMPDH1b  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [phosphate, transcription factor, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsTGAP1,OsbZIP37  

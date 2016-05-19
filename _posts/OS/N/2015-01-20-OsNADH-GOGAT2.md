@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [spikelet number, yield, spikelet, panicle, sheath, biomass, leaf, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsNADH-GOGAT2  

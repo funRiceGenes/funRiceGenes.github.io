@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, height, spikelet meristem, stem, meiosis, cell wall, growth, fertility, inflorescence, spikelet, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsTPL,ASP1,OsLIS-L1  

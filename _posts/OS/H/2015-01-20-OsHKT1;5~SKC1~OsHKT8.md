@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoot, transporter, salt stress, salt, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsHKT1;5,SKC1,OsHKT8  

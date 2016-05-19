@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic stress, growth, root, shoot, homeostasis, tolerance, stress, development, root development, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCYP2,OsCyp2-P,LRT2  

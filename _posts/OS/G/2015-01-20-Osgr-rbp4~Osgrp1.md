@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [temperature, cell elongation, root, leaf, cell wall, seedling, abiotic stress, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: Osgr-rbp4,Osgrp1  

@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsLPT1,OsPht1;6,OsPT6  

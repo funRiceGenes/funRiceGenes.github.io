@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [panicle, salinity, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsMAPK4,OsMSRMK3  

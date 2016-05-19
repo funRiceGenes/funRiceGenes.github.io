@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, seed germination,  ABA , abiotic stress, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsCK1,OsCIPK31,CIPK03  

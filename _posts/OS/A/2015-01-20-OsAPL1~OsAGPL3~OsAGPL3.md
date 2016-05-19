@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [leaf, seed, seed development, Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsAPL1,OsAGPL3,OsAGPL3  

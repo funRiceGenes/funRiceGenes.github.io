@@ -5,7 +5,6 @@ description: ""
 category: genes
 tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, temperature, stomatal, photosynthesis, stomata,  sa , Gene]
 ---
-{% include JB/setup %}
 
 ## Information
 __Symbol__: OsBIABP1,SLAC1,OsSLAC1  
