@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Publications
+title: Literatrues
 group: navigation
 ---
 
-1. [Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves%5BTitle%5D)), 1998, Gene.
-2. [Molecular cloning of a novel importin alpha homologue from rice, by which constitutive photomorphogenic 1 (COP1) nuclear localization signal (NLS)-protein is preferentially nuclear imported](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular cloning of a novel importin alpha homologue from rice, by which constitutive photomorphogenic 1 (COP1) nuclear localization signal (NLS)-protein is preferentially nuclear imported%5BTitle%5D)), 2001, J Biol Chem.
+1. [Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves%5BTitle%5D), 1998, Gene.
+2. [Molecular cloning of a novel importin alpha homologue from rice, by which constitutive photomorphogenic 1 (COP1) nuclear localization signal (NLS)-protein is preferentially nuclear imported](http://www.ncbi.nlm.nih.gov/pubmed?term=(Molecular cloning of a novel importin alpha homologue from rice, by which constitutive photomorphogenic 1 (COP1) nuclear localization signal (NLS)-protein is preferentially nuclear imported%5BTitle%5D), 2001, J Biol Chem.
 3. [Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(Mutations of genes in synthesis of the carotenoid precursors of ABA lead to pre-harvest sprouting and photo-oxidation in rice%5BTitle%5D)), 2008, Plant J.
 4. [A pair of orthologs of a leucine-rich repeat receptor kinase-like disease resistance gene family regulates rice response to raised temperature](http://www.ncbi.nlm.nih.gov/pubmed?term=(A pair of orthologs of a leucine-rich repeat receptor kinase-like disease resistance gene family regulates rice response to raised temperature%5BTitle%5D)), 2011, BMC Plant Biol.
 5. [The ATP-binding cassette transporter OsABCG15 is required for anther development and pollen fertility in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=(The ATP-binding cassette transporter OsABCG15 is required for anther development and pollen fertility in rice%5BTitle%5D)), 2013, J Integr Plant Biol.
