@@ -1,12 +1,12 @@
 ---
-title: Gene
+title: Gene Family
 layout: page
 ---
 
 <ul class="listing">
-{% for post in site.categories.['genes'] %}
+{% for post in site.categories.['gene family'] %}
   <li class="listing-item">
- * <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+  * <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
 </ul>
