@@ -3,7 +3,7 @@ layout: post
 title: "LABA1,OsLOGL6,An-2"
 description: ""
 category: genes
-tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, grains per panicle, grain yield, grain number, yield, cell division, Gene]
+tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, grains per panicle, grain yield, grain number, yield, cell division]
 ---
 
 ## Information

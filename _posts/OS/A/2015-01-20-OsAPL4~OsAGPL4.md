@@ -3,7 +3,7 @@ layout: post
 title: "OsAPL4,OsAGPL4"
 description: ""
 category: genes
-tags: [leaf, seed, starch, Gene]
+tags: [leaf, seed, starch]
 ---
 
 ## Information

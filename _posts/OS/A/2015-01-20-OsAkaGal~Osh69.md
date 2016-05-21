@@ -3,7 +3,7 @@ layout: post
 title: "OsAkaGal,Osh69"
 description: ""
 category: genes
-tags: [leaf, chloroplast, salicylic acid, jasmonic, jasmonic acid, senescence, leaf senescence, Gene]
+tags: [leaf, chloroplast, salicylic acid, jasmonic, jasmonic acid, senescence, leaf senescence]
 ---
 
 ## Information

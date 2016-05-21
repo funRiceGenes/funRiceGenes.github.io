@@ -3,7 +3,7 @@ layout: post
 title: "OsAPS2,OsAGPS2b"
 description: ""
 category: genes
-tags: [starch, seed, endosperm, Gene]
+tags: [starch, seed, endosperm]
 ---
 
 ## Information

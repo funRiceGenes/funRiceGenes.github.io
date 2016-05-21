@@ -3,7 +3,7 @@ layout: post
 title: "OsSSIIIa,Flo5"
 description: ""
 category: genes
-tags: [endosperm, starch, seed, Gene]
+tags: [endosperm, starch, seed]
 ---
 
 ## Information

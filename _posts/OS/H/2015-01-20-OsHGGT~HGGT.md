@@ -3,7 +3,7 @@ layout: post
 title: "OsHGGT,HGGT"
 description: ""
 category: genes
-tags: [seed, Gene]
+tags: [seed]
 ---
 
 ## Information

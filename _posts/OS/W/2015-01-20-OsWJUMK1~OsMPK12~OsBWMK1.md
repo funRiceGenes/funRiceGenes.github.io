@@ -3,7 +3,7 @@ layout: post
 title: "OsWJUMK1,OsMPK12,OsBWMK1"
 description: ""
 category: genes
-tags: [defense response,  sa , defense, transcription factor, cell death, Gene]
+tags: [defense response,  sa , defense, transcription factor, cell death]
 ---
 
 ## Information

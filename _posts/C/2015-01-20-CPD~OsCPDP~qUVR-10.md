@@ -3,7 +3,7 @@ layout: post
 title: "CPD,OsCPDP,qUVR-10"
 description: ""
 category: genes
-tags: [growth, resistant, breeding, mitochondria, chloroplast, Gene]
+tags: [growth, resistant, breeding, mitochondria, chloroplast]
 ---
 
 ## Information

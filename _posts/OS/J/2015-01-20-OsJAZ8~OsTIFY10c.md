@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ8,OsTIFY10c"
 description: ""
 category: genes
-tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, Gene]
+tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
 ---
 
 ## Information

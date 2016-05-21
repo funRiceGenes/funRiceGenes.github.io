@@ -3,7 +3,7 @@ layout: post
 title: "OsTPL,ASP1,OsLIS-L1"
 description: ""
 category: genes
-tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, height, spikelet meristem, stem, meiosis, cell wall, growth, fertility, inflorescence, spikelet, Gene]
+tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, height, spikelet meristem, stem, meiosis, cell wall, growth, fertility, inflorescence, spikelet]
 ---
 
 ## Information

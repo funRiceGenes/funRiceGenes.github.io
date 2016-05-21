@@ -3,7 +3,7 @@ layout: post
 title: "OsCYT-INV1,SRT5"
 description: ""
 category: genes
-tags: [growth, root development, root, Gene]
+tags: [growth, root development, root]
 ---
 
 ## Information

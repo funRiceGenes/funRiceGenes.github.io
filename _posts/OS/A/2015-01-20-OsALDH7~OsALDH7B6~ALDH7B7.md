@@ -3,7 +3,7 @@ layout: post
 title: "OsALDH7,OsALDH7B6,ALDH7B7"
 description: ""
 category: genes
-tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative, Gene]
+tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsFIE1,Epi-df"
 description: ""
 category: genes
-tags: [floral, dwarf, endosperm, Gene]
+tags: [floral, dwarf, endosperm]
 ---
 
 ## Information

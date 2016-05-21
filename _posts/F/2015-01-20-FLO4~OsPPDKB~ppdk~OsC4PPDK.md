@@ -3,7 +3,7 @@ layout: post
 title: "FLO4,OsPPDKB,ppdk,OsC4PPDK"
 description: ""
 category: genes
-tags: [pericarp, grain, endosperm, reproductive, seed, seed development, grain filling, seed germination, Gene]
+tags: [pericarp, grain, endosperm, reproductive, seed, seed development, grain filling, seed germination]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "ICS1,OsVDAC1,OsICS1"
 description: ""
 category: genes
-tags: [defense, defense response,  sa , SA, Gene]
+tags: [defense, defense response,  sa , SA]
 ---
 
 ## Information

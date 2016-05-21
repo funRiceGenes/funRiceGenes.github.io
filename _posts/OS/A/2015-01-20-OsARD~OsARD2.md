@@ -3,7 +3,7 @@ layout: post
 title: "OsARD,OsARD2"
 description: ""
 category: genes
-tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor, root, Gene]
+tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor, root]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsHSF6,OsHsfA2c"
 description: ""
 category: genes
-tags: [seed, transcription factor, root, Gene]
+tags: [seed, transcription factor, root]
 ---
 
 ## Information

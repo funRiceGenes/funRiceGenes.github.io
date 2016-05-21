@@ -3,7 +3,7 @@ layout: post
 title: "OsRab5a,gpa1,glup4"
 description: ""
 category: genes
-tags: [endosperm, seed, Gene]
+tags: [endosperm, seed]
 ---
 
 ## Information

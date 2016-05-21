@@ -3,7 +3,7 @@ layout: post
 title: "Osgr-rbp4,Osgrp1"
 description: ""
 category: genes
-tags: [temperature, cell elongation, root, leaf, cell wall, seedling, abiotic stress, Gene]
+tags: [temperature, cell elongation, root, leaf, cell wall, seedling, abiotic stress]
 ---
 
 ## Information

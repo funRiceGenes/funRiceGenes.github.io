@@ -3,7 +3,7 @@ layout: post
 title: "DWF1,DIM;DWF1,DIM"
 description: ""
 category: genes
-tags: [ BR , ethylene, Gene]
+tags: [ BR , ethylene]
 ---
 
 ## Information

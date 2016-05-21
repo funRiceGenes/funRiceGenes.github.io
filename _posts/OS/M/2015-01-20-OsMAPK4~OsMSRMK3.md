@@ -3,7 +3,7 @@ layout: post
 title: "OsMAPK4,OsMSRMK3"
 description: ""
 category: genes
-tags: [panicle, salinity, Gene]
+tags: [panicle, salinity]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "DHAR1,OsDHAR1,OsDHAR"
 description: ""
 category: genes
-tags: [seedling, temperature, Gene]
+tags: [seedling, temperature]
 ---
 
 ## Information

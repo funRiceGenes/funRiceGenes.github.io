@@ -3,7 +3,7 @@ layout: post
 title: "SRS3,OsKINESIN-13A"
 description: ""
 category: genes
-tags: [grain, seed, cellulose, cell elongation, Gene]
+tags: [grain, seed, cellulose, cell elongation]
 ---
 
 ## Information

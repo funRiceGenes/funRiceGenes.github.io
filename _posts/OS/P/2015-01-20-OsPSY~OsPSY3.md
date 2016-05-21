@@ -3,7 +3,7 @@ layout: post
 title: "OsPSY,OsPSY3"
 description: ""
 category: genes
-tags: [root, drought, salt, Gene]
+tags: [root, drought, salt]
 ---
 
 ## Information

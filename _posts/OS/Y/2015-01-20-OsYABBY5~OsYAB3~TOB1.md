@@ -3,7 +3,7 @@ layout: post
 title: "OsYABBY5,OsYAB3,TOB1"
 description: ""
 category: genes
-tags: [lemma, spikelet, growth, meristem, flower, palea, Gene]
+tags: [lemma, spikelet, growth, meristem, flower, palea]
 ---
 
 ## Information

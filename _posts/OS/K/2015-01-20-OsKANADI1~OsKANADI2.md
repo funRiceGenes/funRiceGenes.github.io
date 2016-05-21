@@ -3,7 +3,7 @@ layout: post
 title: "OsKANADI1,OsKANADI2"
 description: ""
 category: genes
-tags: [meristem, transcription factor, Gene]
+tags: [meristem, transcription factor]
 ---
 
 ## Information

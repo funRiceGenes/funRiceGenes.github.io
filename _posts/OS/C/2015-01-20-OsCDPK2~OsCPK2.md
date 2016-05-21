@@ -3,7 +3,7 @@ layout: post
 title: "OsCDPK2,OsCPK2"
 description: ""
 category: genes
-tags: [stem, seed, flower, root, seed development, Gene]
+tags: [stem, seed, flower, root, seed development]
 ---
 
 ## Information

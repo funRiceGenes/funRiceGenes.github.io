@@ -3,7 +3,7 @@ layout: post
 title: "OsGS2,lambdaGS31"
 description: ""
 category: genes
-tags: [drought tolerance, salt stress, drought, chloroplast, salt, Gene]
+tags: [drought tolerance, salt stress, drought, chloroplast, salt]
 ---
 
 ## Information

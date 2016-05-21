@@ -3,7 +3,7 @@ layout: post
 title: "OsDREB1A,OsDREBL,OsCBF3"
 description: ""
 category: genes
-tags: [salt, temperature, drought, transcription factor, abiotic stress, cold stress, salt stress, tolerance, cold tolerance, Gene]
+tags: [salt, temperature, drought, transcription factor, abiotic stress, cold stress, salt stress, tolerance, cold tolerance]
 ---
 
 ## Information

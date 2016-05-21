@@ -3,7 +3,7 @@ layout: post
 title: "NRT1,OsNRT1,OsNRT1.1"
 description: ""
 category: genes
-tags: [root hair, nitrate, transporter, root, Gene]
+tags: [root hair, nitrate, transporter, root]
 ---
 
 ## Information

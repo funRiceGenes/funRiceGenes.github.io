@@ -3,7 +3,7 @@ layout: post
 title: "OsCPn60alpha1,OsCPn60a1"
 description: ""
 category: genes
-tags: [seedling, leaf, chloroplast, Gene]
+tags: [seedling, leaf, chloroplast]
 ---
 
 ## Information

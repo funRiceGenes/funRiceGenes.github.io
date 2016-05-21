@@ -3,7 +3,7 @@ layout: post
 title: "HSP101,OsClpB-cyt,HSP100"
 description: ""
 category: genes
-tags: [seedling, arsenite, seed, flower, vegetative, chloroplast, seed development, temperature, Gene]
+tags: [seedling, arsenite, seed, flower, vegetative, chloroplast, seed development, temperature]
 ---
 
 ## Information

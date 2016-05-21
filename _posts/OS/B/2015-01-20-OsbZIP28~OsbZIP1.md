@@ -3,7 +3,7 @@ layout: post
 title: "OsbZIP28,OsbZIP1"
 description: ""
 category: genes
-tags: [root, salicylic acid, jasmonic, jasmonic acid, transcription factor, defense, Gene]
+tags: [root, salicylic acid, jasmonic, jasmonic acid, transcription factor, defense]
 ---
 
 ## Information

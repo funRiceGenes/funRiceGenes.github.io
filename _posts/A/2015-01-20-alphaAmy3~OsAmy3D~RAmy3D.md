@@ -3,7 +3,7 @@ layout: post
 title: "alphaAmy3,OsAmy3D,RAmy3D"
 description: ""
 category: genes
-tags: [seed, Gene]
+tags: [seed]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsCPS,OsCPS1"
 description: ""
 category: genes
-tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA deficiency, GA biosynthesis, Gene]
+tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA deficiency, GA biosynthesis]
 ---
 
 ## Information

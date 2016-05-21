@@ -3,7 +3,7 @@ layout: post
 title: "BLS1,BSG1,OsG1L6,TH1,AFD1"
 description: ""
 category: genes
-tags: [inflorescence, architecture, lemma, cell division, grain size, palea, grain, spikelet, cell cycle, stem, starch, floral, panicle, sterile, seed, grain yield, yield, floral organ, Gene]
+tags: [inflorescence, architecture, lemma, cell division, grain size, palea, grain, spikelet, cell cycle, stem, starch, floral, panicle, sterile, seed, grain yield, yield, floral organ]
 ---
 
 ## Information

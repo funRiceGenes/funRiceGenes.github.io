@@ -3,7 +3,7 @@ layout: post
 title: "OsTudor-SN"
 description: ""
 category: genes
-tags: [endosperm, Gene]
+tags: [endosperm]
 ---
 
 ## Information

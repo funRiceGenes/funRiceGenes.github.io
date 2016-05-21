@@ -3,7 +3,7 @@ layout: post
 title: "OsHMA2,OsHMA2v"
 description: ""
 category: genes
-tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc, vascular bundle, grain, shoot, Gene]
+tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc, vascular bundle, grain, shoot]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsARP,OsCTP"
 description: ""
 category: genes
-tags: [flower, photosynthesis, yield, salt tolerance, salt, Gene]
+tags: [flower, photosynthesis, yield, salt tolerance, salt]
 ---
 
 ## Information

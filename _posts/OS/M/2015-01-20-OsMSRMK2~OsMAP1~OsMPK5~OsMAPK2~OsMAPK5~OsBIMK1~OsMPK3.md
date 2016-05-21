@@ -3,7 +3,7 @@ layout: post
 title: "OsMSRMK2,OsMAP1,OsMPK5,OsMAPK2,OsMAPK5,OsBIMK1,OsMPK3"
 description: ""
 category: genes
-tags: [homeostasis, temperature, disease resistance, abiotic stress, salt, phosphate, cold stress, jasmonic acid, root development, root, salicylic acid, defense, ethylene, seedling,  pi , panicle, drought, biotic stress, jasmonic, leaf, disease,  ABA , cold tolerance, Gene]
+tags: [homeostasis, temperature, disease resistance, abiotic stress, salt, phosphate, cold stress, jasmonic acid, root development, root, salicylic acid, defense, ethylene, seedling,  pi , panicle, drought, biotic stress, jasmonic, leaf, disease,  ABA , cold tolerance]
 ---
 
 ## Information

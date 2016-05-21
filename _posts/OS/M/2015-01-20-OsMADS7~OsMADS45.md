@@ -3,7 +3,7 @@ layout: post
 title: "OsMADS7,OsMADS45"
 description: ""
 category: genes
-tags: [stamen, flower, palea, floral, leaf, lemma, Gene]
+tags: [stamen, flower, palea, floral, leaf, lemma]
 ---
 
 ## Information

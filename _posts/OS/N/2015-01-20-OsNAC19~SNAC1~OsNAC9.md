@@ -3,7 +3,7 @@ layout: post
 title: "OsNAC19,SNAC1,OsNAC9"
 description: ""
 category: genes
-tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, ethylene, root, yield, salinity, grain, architecture, drought resistance, jasmonate, blast, seed, culm, seedling, transcription factor, reproductive, grain yield, stomata, Gene]
+tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, ethylene, root, yield, salinity, grain, architecture, drought resistance, jasmonate, blast, seed, culm, seedling, transcription factor, reproductive, grain yield, stomata]
 ---
 
 ## Information

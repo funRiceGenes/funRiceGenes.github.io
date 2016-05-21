@@ -3,7 +3,7 @@ layout: post
 title: "OsCOI1,OsCOI1a"
 description: ""
 category: genes
-tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, defense,  ja , drought tolerance, Gene]
+tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, defense,  ja , drought tolerance]
 ---
 
 ## Information

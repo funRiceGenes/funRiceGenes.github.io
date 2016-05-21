@@ -3,7 +3,7 @@ layout: post
 title: "OsYUCCA1,OsYUC1"
 description: ""
 category: genes
-tags: [iaa, auxin, root, height, Gene]
+tags: [iaa, auxin, root, height]
 ---
 
 ## Information

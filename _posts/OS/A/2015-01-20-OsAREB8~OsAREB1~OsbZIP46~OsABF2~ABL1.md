@@ -3,7 +3,7 @@ layout: post
 title: "OsAREB8,OsAREB1,OsbZIP46,OsABF2,ABL1"
 description: ""
 category: genes
-tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drought, panicle, flowering time, salt, transcription factor, oxidative, drought resistance, cold stress, Gene]
+tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drought, panicle, flowering time, salt, transcription factor, oxidative, drought resistance, cold stress]
 ---
 
 ## Information

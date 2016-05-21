@@ -3,7 +3,7 @@ layout: post
 title: "OsNADH-GOGAT2"
 description: ""
 category: genes
-tags: [spikelet number, yield, spikelet, panicle, sheath, biomass, leaf, Gene]
+tags: [spikelet number, yield, spikelet, panicle, sheath, biomass, leaf]
 ---
 
 ## Information

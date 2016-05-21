@@ -3,7 +3,7 @@ layout: post
 title: "OsRacD,OsRac5"
 description: ""
 category: genes
-tags: [sterility, fertility, growth, panicle, sterile, Gene]
+tags: [sterility, fertility, growth, panicle, sterile]
 ---
 
 ## Information

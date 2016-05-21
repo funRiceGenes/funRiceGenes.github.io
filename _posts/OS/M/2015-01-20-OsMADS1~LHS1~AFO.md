@@ -3,7 +3,7 @@ layout: post
 title: "OsMADS1,LHS1,AFO"
 description: ""
 category: genes
-tags: [meristem, palea, fertility, leaf, spikelet, branching, heading date, transcription factor, sterile, inflorescence, floral, flower, cytokinin, spikelet meristem, stamen, lemma, panicle, architecture, auxin, reproductive, floral meristem, growth, vegetative, seed, spikelet development, development, floral organ, flower development, organ identity, R protein, floral meristem determinacy, Gene]
+tags: [meristem, palea, fertility, leaf, spikelet, branching, heading date, transcription factor, sterile, inflorescence, floral, flower, cytokinin, spikelet meristem, stamen, lemma, panicle, architecture, auxin, reproductive, floral meristem, growth, vegetative, seed, spikelet development, development, floral organ, flower development, organ identity, R protein, floral meristem determinacy]
 ---
 
 ## Information

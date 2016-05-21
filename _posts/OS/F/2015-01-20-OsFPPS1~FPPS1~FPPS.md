@@ -3,7 +3,7 @@ layout: post
 title: "OsFPPS1,FPPS1,FPPS"
 description: ""
 category: genes
-tags: [chloroplast, Gene]
+tags: [chloroplast]
 ---
 
 ## Information

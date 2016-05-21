@@ -3,7 +3,7 @@ layout: post
 title: "brd2,DIM,DWF1,LHDD10"
 description: ""
 category: genes
-tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, height, heading date, Brassinosteroid, plant height, nucleus, Gene]
+tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, height, heading date, Brassinosteroid, plant height, nucleus]
 ---
 
 ## Information

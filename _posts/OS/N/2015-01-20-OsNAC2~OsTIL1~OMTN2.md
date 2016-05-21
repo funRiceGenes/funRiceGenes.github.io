@@ -3,7 +3,7 @@ layout: post
 title: "OsNAC2,OsTIL1,OMTN2"
 description: ""
 category: genes
-tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, Gene]
+tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA]
 ---
 
 ## Information

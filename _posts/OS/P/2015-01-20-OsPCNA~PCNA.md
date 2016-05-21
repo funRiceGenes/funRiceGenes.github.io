@@ -3,7 +3,7 @@ layout: post
 title: "OsPCNA,PCNA"
 description: ""
 category: genes
-tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot apical meristem, Gene]
+tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot apical meristem]
 ---
 
 ## Information

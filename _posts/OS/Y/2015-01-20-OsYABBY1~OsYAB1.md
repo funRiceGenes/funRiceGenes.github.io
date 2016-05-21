@@ -3,7 +3,7 @@ layout: post
 title: "OsYABBY1,OsYAB1"
 description: ""
 category: genes
-tags: [floral, flower, vascular bundle, lemma, sheath, growth, meristem, vegetative, palea, stamen, Gene]
+tags: [floral, flower, vascular bundle, lemma, sheath, growth, meristem, vegetative, palea, stamen]
 ---
 
 ## Information

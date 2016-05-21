@@ -3,7 +3,7 @@ layout: post
 title: "OsDREB1F,RCBF2"
 description: ""
 category: genes
-tags: [temperature, transcription factor, salinity, drought, cold stress, shoot, ethylene,  ABA , seed, salt, drought tolerance, tolerance, Gene]
+tags: [temperature, transcription factor, salinity, drought, cold stress, shoot, ethylene,  ABA , seed, salt, drought tolerance, tolerance]
 ---
 
 ## Information

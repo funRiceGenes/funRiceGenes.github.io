@@ -3,7 +3,7 @@ layout: post
 title: "OsCCaMK,OsDMI3"
 description: ""
 category: genes
-tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, Gene]
+tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
 ---
 
 ## Information

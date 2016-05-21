@@ -3,7 +3,7 @@ layout: post
 title: "OsProT,ProT"
 description: ""
 category: genes
-tags: [salt stress, drought, oxidative, salt tolerance, salt, seedling, Gene]
+tags: [salt stress, drought, oxidative, salt tolerance, salt, seedling]
 ---
 
 ## Information

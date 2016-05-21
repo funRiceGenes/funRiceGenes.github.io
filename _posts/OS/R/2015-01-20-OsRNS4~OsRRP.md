@@ -3,7 +3,7 @@ layout: post
 title: "OsRNS4,OsRRP"
 description: ""
 category: genes
-tags: [dwarf, tillering, seedling, tiller, salinity, growth,  ABA , salt, stem, Gene]
+tags: [dwarf, tillering, seedling, tiller, salinity, growth,  ABA , salt, stem]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsGS,OsGS1,GS1,OsGS1;1,OsGLN1;1"
 description: ""
 category: genes
-tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheath, chloroplast, grain filling, drought tolerance, cadmium, oxidative, Gene]
+tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheath, chloroplast, grain filling, drought tolerance, cadmium, oxidative]
 ---
 
 ## Information

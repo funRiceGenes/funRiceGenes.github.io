@@ -3,7 +3,7 @@ layout: post
 title: "OsPIN1,REH1,PIN1b"
 description: ""
 category: genes
-tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root, tiller, Gene]
+tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root, tiller]
 ---
 
 ## Information

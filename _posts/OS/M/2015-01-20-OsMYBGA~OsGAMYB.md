@@ -3,7 +3,7 @@ layout: post
 title: "OsMYBGA,OsGAMYB"
 description: ""
 category: genes
-tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endosperm, pollen, flower, shoot, vegetative, stamen, floral, Gene]
+tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endosperm, pollen, flower, shoot, vegetative, stamen, floral]
 ---
 
 ## Information

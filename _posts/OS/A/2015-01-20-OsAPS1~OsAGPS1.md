@@ -3,7 +3,7 @@ layout: post
 title: "OsAPS1,OsAGPS1"
 description: ""
 category: genes
-tags: [seed development, leaf, seed, Gene]
+tags: [seed development, leaf, seed]
 ---
 
 ## Information

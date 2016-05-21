@@ -3,7 +3,7 @@ layout: post
 title: "OsMPK1,OsMAPK6,OsSIPK"
 description: ""
 category: genes
-tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, temperature, drought, seedling,  ja , wounding response, abiotic stress, biotic stress, grain size, protein kinase, biomass production, biomass, cell proliferation, BR signaling, BR homeostasis, Gene]
+tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, temperature, drought, seedling,  ja , wounding response, abiotic stress, biotic stress, grain size, protein kinase, biomass production, biomass, cell proliferation, BR signaling, BR homeostasis]
 ---
 
 ## Information

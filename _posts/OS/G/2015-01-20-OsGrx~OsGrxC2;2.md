@@ -3,7 +3,7 @@ layout: post
 title: "OsGrx,OsGrxC2;2"
 description: ""
 category: genes
-tags: [oxidative, Gene]
+tags: [oxidative]
 ---
 
 ## Information

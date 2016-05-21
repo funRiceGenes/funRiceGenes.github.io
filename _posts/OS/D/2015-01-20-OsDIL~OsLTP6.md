@@ -3,7 +3,7 @@ layout: post
 title: "OsDIL,OsLTP6"
 description: ""
 category: genes
-tags: [drought, pollen,  ABA , anther, drought tolerance, fertility, anther development, tapetal, vegetative, yield, tapetum, abiotic stress, reproductive, drought resistance, Gene]
+tags: [drought, pollen,  ABA , anther, drought tolerance, fertility, anther development, tapetal, vegetative, yield, tapetum, abiotic stress, reproductive, drought resistance]
 ---
 
 ## Information

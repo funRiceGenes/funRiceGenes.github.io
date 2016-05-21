@@ -3,7 +3,7 @@ layout: post
 title: "OsCCS52A,TAD,TE"
 description: ""
 category: genes
-tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endosperm, cell division, seed, seed size, panicle,  ABA , ABA, Gene]
+tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endosperm, cell division, seed, seed size, panicle,  ABA , ABA]
 ---
 
 ## Information

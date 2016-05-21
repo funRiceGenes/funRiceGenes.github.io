@@ -3,7 +3,7 @@ layout: post
 title: "OslecRK,OsLecRK1"
 description: ""
 category: genes
-tags: [seed germination, seed, Gene]
+tags: [seed germination, seed]
 ---
 
 ## Information

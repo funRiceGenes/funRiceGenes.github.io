@@ -3,7 +3,7 @@ layout: post
 title: "OsSPX-MFS1,OsPSS1"
 description: ""
 category: genes
-tags: [phosphate, shoot, homeostasis, transporter,  pi , Gene]
+tags: [phosphate, shoot, homeostasis, transporter,  pi ]
 ---
 
 ## Information

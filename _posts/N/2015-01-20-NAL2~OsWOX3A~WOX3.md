@@ -3,7 +3,7 @@ layout: post
 title: "NAL2,OsWOX3A,WOX3"
 description: ""
 category: genes
-tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, root development, tiller, growth, lemma, leaf development, leaf, yield, auxin, development, homeostasis,  ga , height, plant height, GA, GA biosynthetic, GA biosynthesis, Gene]
+tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, root development, tiller, growth, lemma, leaf development, leaf, yield, auxin, development, homeostasis,  ga , height, plant height, GA, GA biosynthetic, GA biosynthesis]
 ---
 
 ## Information

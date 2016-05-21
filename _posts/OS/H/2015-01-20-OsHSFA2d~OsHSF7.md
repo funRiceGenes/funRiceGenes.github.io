@@ -3,7 +3,7 @@ layout: post
 title: "OsHSFA2d,OsHSF7"
 description: ""
 category: genes
-tags: [transcription factor, temperature, stress, Gene]
+tags: [transcription factor, temperature, stress]
 ---
 
 ## Information

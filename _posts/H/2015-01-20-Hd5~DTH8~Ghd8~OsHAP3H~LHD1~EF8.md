@@ -3,7 +3,7 @@ layout: post
 title: "Hd5,DTH8,Ghd8,OsHAP3H,LHD1,EF8"
 description: ""
 category: genes
-tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flower, grain, tillering, floral, transcription factor, panicle, branching, breeding, flowering time, nucleus, chlorophyll biogenesis, Gene]
+tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flower, grain, tillering, floral, transcription factor, panicle, branching, breeding, flowering time, nucleus, chlorophyll biogenesis]
 ---
 
 ## Information

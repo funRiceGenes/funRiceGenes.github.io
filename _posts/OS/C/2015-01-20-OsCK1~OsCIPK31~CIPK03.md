@@ -3,7 +3,7 @@ layout: post
 title: "OsCK1,OsCIPK31,CIPK03"
 description: ""
 category: genes
-tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, seed germination,  ABA , abiotic stress, Gene]
+tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, seed germination,  ABA , abiotic stress]
 ---
 
 ## Information

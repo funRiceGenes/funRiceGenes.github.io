@@ -3,7 +3,7 @@ layout: post
 title: "OsEDR1,OsACDR1,OsMAPKKK1,SPL3"
 description: ""
 category: genes
-tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, reproductive, ethylene, disease resistance, temperature, seedling, jasmonic, vegetative, leaf, root, growth, map-based cloning, senescence, abscisic acid, Kinase, leaf senescence, ABA, lesion, Gene]
+tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, reproductive, ethylene, disease resistance, temperature, seedling, jasmonic, vegetative, leaf, root, growth, map-based cloning, senescence, abscisic acid, Kinase, leaf senescence, ABA, lesion]
 ---
 
 ## Information

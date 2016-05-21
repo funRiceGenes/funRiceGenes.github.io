@@ -3,7 +3,7 @@ layout: post
 title: "OsrbohA,Osrboh2"
 description: ""
 category: genes
-tags: [growth, pollen, seed, development, tolerance, fertility, stress, plasma membrane, stress response, Gene]
+tags: [growth, pollen, seed, development, tolerance, fertility, stress, plasma membrane, stress response]
 ---
 
 ## Information

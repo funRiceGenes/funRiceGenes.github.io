@@ -3,7 +3,7 @@ layout: post
 title: "OsGLYII1,OsETHE1"
 description: ""
 category: genes
-tags: [root, calcium, stress, stress response, Gene]
+tags: [root, calcium, stress, stress response]
 ---
 
 ## Information

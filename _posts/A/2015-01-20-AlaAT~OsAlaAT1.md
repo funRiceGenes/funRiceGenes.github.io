@@ -3,7 +3,7 @@ layout: post
 title: "AlaAT,OsAlaAT1"
 description: ""
 category: genes
-tags: [nitrogen, seed, starch, Gene]
+tags: [nitrogen, seed, starch]
 ---
 
 ## Information

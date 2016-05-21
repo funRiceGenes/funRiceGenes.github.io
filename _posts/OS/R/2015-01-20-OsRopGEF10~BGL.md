@@ -3,7 +3,7 @@ layout: post
 title: "OsRopGEF10,BGL"
 description: ""
 category: genes
-tags: [leaf, sheath, Gene]
+tags: [leaf, sheath]
 ---
 
 ## Information

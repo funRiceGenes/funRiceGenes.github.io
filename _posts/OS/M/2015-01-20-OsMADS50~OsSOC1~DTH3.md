@@ -3,7 +3,7 @@ layout: post
 title: "OsMADS50,OsSOC1,DTH3"
 description: ""
 category: genes
-tags: [heading date, floral, flower, flowering time, vegetative, Gene]
+tags: [heading date, floral, flower, flowering time, vegetative]
 ---
 
 ## Information

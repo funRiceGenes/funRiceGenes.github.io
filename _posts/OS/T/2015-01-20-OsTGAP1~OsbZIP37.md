@@ -3,7 +3,7 @@ layout: post
 title: "OsTGAP1,OsbZIP37"
 description: ""
 category: genes
-tags: [phosphate, transcription factor, Gene]
+tags: [phosphate, transcription factor]
 ---
 
 ## Information

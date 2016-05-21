@@ -3,7 +3,7 @@ layout: post
 title: "OsPORB,FGL"
 description: ""
 category: genes
-tags: [leaf, seedling, leaf development, Gene]
+tags: [leaf, seedling, leaf development]
 ---
 
 ## Information

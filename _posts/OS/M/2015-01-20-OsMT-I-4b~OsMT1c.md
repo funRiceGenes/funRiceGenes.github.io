@@ -3,7 +3,7 @@ layout: post
 title: "OsMT-I-4b,OsMT1c"
 description: ""
 category: genes
-tags: [seedling, shoot, Gene]
+tags: [seedling, shoot]
 ---
 
 ## Information

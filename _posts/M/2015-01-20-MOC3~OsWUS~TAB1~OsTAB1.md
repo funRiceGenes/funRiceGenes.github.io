@@ -3,7 +3,7 @@ layout: post
 title: "MOC3,OsWUS,TAB1,OsTAB1"
 description: ""
 category: genes
-tags: [tiller, cytokinin, cytokinin response, Gene]
+tags: [tiller, cytokinin, cytokinin response]
 ---
 
 ## Information

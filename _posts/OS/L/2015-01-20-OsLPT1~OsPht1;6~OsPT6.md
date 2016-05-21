@@ -3,7 +3,7 @@ layout: post
 title: "OsLPT1,OsPht1;6,OsPT6"
 description: ""
 category: genes
-tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root, Gene]
+tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root]
 ---
 
 ## Information

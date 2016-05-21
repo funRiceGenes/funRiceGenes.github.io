@@ -3,7 +3,7 @@ layout: post
 title: "OsETT2,OsETTIN2"
 description: ""
 category: genes
-tags: [ awn , leaf, vascular bundle, meristem, transcription factor, Gene]
+tags: [ awn , leaf, vascular bundle, meristem, transcription factor]
 ---
 
 ## Information

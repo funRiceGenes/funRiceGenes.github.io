@@ -3,7 +3,7 @@ layout: post
 title: "ALDH2a,OsALDH2B5"
 description: ""
 category: genes
-tags: [mitochondria, seedling, sheath, submergence, panicle, leaf, Gene]
+tags: [mitochondria, seedling, sheath, submergence, panicle, leaf]
 ---
 
 ## Information

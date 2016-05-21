@@ -3,7 +3,7 @@ layout: post
 title: "OsHKT1;5,SKC1,OsHKT8"
 description: ""
 category: genes
-tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoot, transporter, salt stress, salt, Gene]
+tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoot, transporter, salt stress, salt]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ1,OsTIFY3,EG2"
 description: ""
 category: genes
-tags: [drought, jasmonate, drought tolerance, JA signalling repressor , Gene]
+tags: [drought, jasmonate, drought tolerance, JA signalling repressor ]
 ---
 
 ## Information

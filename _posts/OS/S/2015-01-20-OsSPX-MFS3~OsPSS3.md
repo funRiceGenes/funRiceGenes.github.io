@@ -3,7 +3,7 @@ layout: post
 title: "OsSPX-MFS3,OsPSS3"
 description: ""
 category: genes
-tags: [shoot,  pi , transporter, plasma membrane, Pi, Gene]
+tags: [shoot,  pi , transporter, plasma membrane, Pi]
 ---
 
 ## Information

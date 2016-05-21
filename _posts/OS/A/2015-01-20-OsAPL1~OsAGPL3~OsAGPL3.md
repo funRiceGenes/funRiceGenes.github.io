@@ -3,7 +3,7 @@ layout: post
 title: "OsAPL1,OsAGPL3,OsAGPL3"
 description: ""
 category: genes
-tags: [leaf, seed, seed development, Gene]
+tags: [leaf, seed, seed development]
 ---
 
 ## Information

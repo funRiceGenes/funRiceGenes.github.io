@@ -3,7 +3,7 @@ layout: post
 title: "OsDTS2,OsKSL4,OsKS4"
 description: ""
 category: genes
-tags: [growth, root, Gene]
+tags: [growth, root]
 ---
 
 ## Information

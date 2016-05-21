@@ -3,7 +3,7 @@ layout: post
 title: "OsALDH2B1,ALDH2b"
 description: ""
 category: genes
-tags: [panicle, seedling, mitochondria, Gene]
+tags: [panicle, seedling, mitochondria]
 ---
 
 ## Information

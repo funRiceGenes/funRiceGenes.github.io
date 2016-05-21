@@ -3,7 +3,7 @@ layout: post
 title: "Lsi1,OsNIP2;1,OsLsi1"
 description: ""
 category: genes
-tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, Gene]
+tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem]
 ---
 
 ## Information

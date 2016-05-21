@@ -3,7 +3,7 @@ layout: post
 title: "OsCel9A,OsGLU5"
 description: ""
 category: genes
-tags: [root development, auxin, seed, lateral root, root, Gene]
+tags: [root development, auxin, seed, lateral root, root]
 ---
 
 ## Information

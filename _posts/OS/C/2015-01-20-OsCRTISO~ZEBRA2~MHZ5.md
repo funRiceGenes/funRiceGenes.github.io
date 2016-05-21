@@ -3,7 +3,7 @@ layout: post
 title: "OsCRTISO,ZEBRA2,MHZ5"
 description: ""
 category: genes
-tags: [oxidative, photosynthesis,  ABA , ethylene, ABA, ethylene response, seedlings, ethylene production, Gene]
+tags: [oxidative, photosynthesis,  ABA , ethylene, ABA, ethylene response, seedlings, ethylene production]
 ---
 
 ## Information

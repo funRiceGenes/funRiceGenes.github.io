@@ -3,7 +3,7 @@ layout: post
 title: "OsACT1,OsActin-1"
 description: ""
 category: genes
-tags: [actin protein, Gene]
+tags: [actin protein]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "CEBiP,OsCEBiP"
 description: ""
 category: genes
-tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, disease resistance, leaf, disease, blast, defense, cell wall, cell death, Gene]
+tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, disease resistance, leaf, disease, blast, defense, cell wall, cell death]
 ---
 
 ## Information

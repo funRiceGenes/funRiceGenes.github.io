@@ -3,7 +3,7 @@ layout: post
 title: "OsFMO,OsCOW1"
 description: ""
 category: genes
-tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis, Gene]
+tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis]
 ---
 
 ## Information

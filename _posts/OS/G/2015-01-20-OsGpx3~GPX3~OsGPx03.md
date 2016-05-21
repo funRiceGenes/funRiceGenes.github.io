@@ -3,7 +3,7 @@ layout: post
 title: "OsGpx3,GPX3,OsGPx03"
 description: ""
 category: genes
-tags: [homeostasis, mitochondria, root, shoot, Gene]
+tags: [homeostasis, mitochondria, root, shoot]
 ---
 
 ## Information

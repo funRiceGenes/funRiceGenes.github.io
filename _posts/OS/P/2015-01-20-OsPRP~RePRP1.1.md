@@ -3,7 +3,7 @@ layout: post
 title: "OsPRP,RePRP1.1"
 description: ""
 category: genes
-tags: [seedling, shoot, root, jasmonate, submergence, growth, Gene]
+tags: [seedling, shoot, root, jasmonate, submergence, growth]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ9,OsTIFY11a"
 description: ""
 category: genes
-tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin, Gene]
+tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin]
 ---
 
 ## Information

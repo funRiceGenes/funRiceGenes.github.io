@@ -3,7 +3,7 @@ layout: post
 title: "COMT,OsCOMT"
 description: ""
 category: genes
-tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis, methyltransferase, Gene]
+tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis, methyltransferase]
 ---
 
 ## Information

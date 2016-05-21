@@ -3,7 +3,7 @@ layout: post
 title: "OsrcaA1,OsrcaA2"
 description: ""
 category: genes
-tags: [ ga , Gene]
+tags: [ ga ]
 ---
 
 ## Information

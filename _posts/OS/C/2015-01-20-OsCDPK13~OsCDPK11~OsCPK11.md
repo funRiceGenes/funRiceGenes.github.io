@@ -3,7 +3,7 @@ layout: post
 title: "OsCDPK13,OsCDPK11,OsCPK11"
 description: ""
 category: genes
-tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, drought, flower, cold stress, seed development, Gene]
+tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, drought, flower, cold stress, seed development]
 ---
 
 ## Information

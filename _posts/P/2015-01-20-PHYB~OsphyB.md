@@ -3,7 +3,7 @@ layout: post
 title: "PHYB,OsphyB"
 description: ""
 category: genes
-tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flowering time, floral, drought, sheath, drought tolerance, gibberellin, root, leaf, erect, stomata, stomatal, branching, Gene]
+tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flowering time, floral, drought, sheath, drought tolerance, gibberellin, root, leaf, erect, stomata, stomatal, branching]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsSUT5,OsSUT5Z"
 description: ""
 category: genes
-tags: [leaf, transporter, vegetative, Gene]
+tags: [leaf, transporter, vegetative]
 ---
 
 ## Information

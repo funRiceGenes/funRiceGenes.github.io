@@ -3,7 +3,7 @@ layout: post
 title: "OsBIABP1,SLAC1,OsSLAC1"
 description: ""
 category: genes
-tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, temperature, stomatal, photosynthesis, stomata,  sa , Gene]
+tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, temperature, stomatal, photosynthesis, stomata,  sa ]
 ---
 
 ## Information

@@ -3,7 +3,7 @@ layout: post
 title: "OsUgp1,Ugp1,UGPase1"
 description: ""
 category: genes
-tags: [seed, pollen, meiosis, anther development, growth, anther, sterility, endosperm, fertility, Gene]
+tags: [seed, pollen, meiosis, anther development, growth, anther, sterility, endosperm, fertility]
 ---
 
 ## Information
