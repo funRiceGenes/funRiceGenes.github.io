@@ -90,6 +90,6 @@ tags: GeneFamily
 81. Orysa;Wee1, None, None.
 
 ## Publication
-1. [Genome-wide identification and expression analysis of rice cell cycle genes.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide identification and expression analysis of rice cell cycle genes.%5BTitle%5D)), 2007, Plant Mol Biol.
+1. [Genome-wide identification and expression analysis of rice cell cycle genes.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide identification and expression analysis of rice cell cycle genes.%5BTitle%5D), 2007, Plant Mol Biol.
 
 

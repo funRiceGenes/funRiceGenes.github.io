@@ -19,6 +19,6 @@ tags: GeneFamily
 10. OsMed19b, [LOC_Os03g44010](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g44010), [Os03g0641700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0641700).
 
 ## Publication
-1. [SAD1, an RNA polymerase I subunit A34.5 of rice, interacts with Mediator and controls various aspects of plant development.](http://www.ncbi.nlm.nih.gov/pubmed?term=(SAD1, an RNA polymerase I subunit A34.5 of rice, interacts with Mediator and controls various aspects of plant development.%5BTitle%5D)), 2014, Plant J.
+1. [SAD1, an RNA polymerase I subunit A34.5 of rice, interacts with Mediator and controls various aspects of plant development.](http://www.ncbi.nlm.nih.gov/pubmed?term=(SAD1, an RNA polymerase I subunit A34.5 of rice, interacts with Mediator and controls various aspects of plant development.%5BTitle%5D), 2014, Plant J.
 
 

@@ -40,6 +40,6 @@ tags: GeneFamily
 31. OsOFP31, [LOC_Os12g06160](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g06160), [Os12g0158400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0158400).
 
 ## Publication
-1. [Expression pattern and subcellular localization of the ovate protein family in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression pattern and subcellular localization of the ovate protein family in rice.%5BTitle%5D)), 2015, PLoS One.
+1. [Expression pattern and subcellular localization of the ovate protein family in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Expression pattern and subcellular localization of the ovate protein family in rice.%5BTitle%5D), 2015, PLoS One.
 
 

@@ -21,6 +21,6 @@ tags: GeneFamily
 12. OsRBGD4, [LOC_Os10g33230](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g33230), [Os10g0470900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0470900).
 
 ## Publication
-1. [Defining the RNA-binding glycine-rich (RBG) gene superfamily: new insights into nomenclature, phylogeny, and evolutionary trends obtained by genome-wide comparative analysis of Arabidopsis, Chinese cabbage, rice and maize genomes.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Defining the RNA-binding glycine-rich (RBG) gene superfamily: new insights into nomenclature, phylogeny, and evolutionary trends obtained by genome-wide comparative analysis of Arabidopsis, Chinese cabbage, rice and maize genomes.%5BTitle%5D)), 2015, Mol Genet Genomics.
+1. [Defining the RNA-binding glycine-rich (RBG) gene superfamily: new insights into nomenclature, phylogeny, and evolutionary trends obtained by genome-wide comparative analysis of Arabidopsis, Chinese cabbage, rice and maize genomes.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Defining the RNA-binding glycine-rich (RBG) gene superfamily: new insights into nomenclature, phylogeny, and evolutionary trends obtained by genome-wide comparative analysis of Arabidopsis, Chinese cabbage, rice and maize genomes.%5BTitle%5D), 2015, Mol Genet Genomics.
 
 

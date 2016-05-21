@@ -17,6 +17,6 @@ tags: GeneFamily
 8. OsMC8, [LOC_Os03g27190](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g27190), [Os03g0389100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0389100).
 
 ## Publication
-1. [Stress-Responsive Expression, Subcellular Localization and Protein-Protein Interactions of the Rice Metacaspase Family.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Stress-Responsive Expression, Subcellular Localization and Protein-Protein Interactions of the Rice Metacaspase Family.%5BTitle%5D)), 2015, Int J Mol Sci.
+1. [Stress-Responsive Expression, Subcellular Localization and Protein-Protein Interactions of the Rice Metacaspase Family.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Stress-Responsive Expression, Subcellular Localization and Protein-Protein Interactions of the Rice Metacaspase Family.%5BTitle%5D), 2015, Int J Mol Sci.
 
 

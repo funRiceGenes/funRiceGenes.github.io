@@ -12,6 +12,6 @@ tags: GeneFamily
 3. SSIV-2, [LOC_Os05g45720](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g45720), [Os05g0533600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0533600).
 
 ## Publication
-1. [A comprehensive expression analysis of the starch synthase gene family in rice (Oryza sativa L.).](http://www.ncbi.nlm.nih.gov/pubmed?term=(A comprehensive expression analysis of the starch synthase gene family in rice (Oryza sativa L.).%5BTitle%5D)), 2004, Planta.
+1. [A comprehensive expression analysis of the starch synthase gene family in rice (Oryza sativa L.).](http://www.ncbi.nlm.nih.gov/pubmed?term=(A comprehensive expression analysis of the starch synthase gene family in rice (Oryza sativa L.).%5BTitle%5D), 2004, Planta.
 
 

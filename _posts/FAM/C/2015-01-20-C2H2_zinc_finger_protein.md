@@ -164,6 +164,6 @@ tags: GeneFamily
 155. ZOS12-08, [LOC_Os12g39220](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g39220), [Os12g0581900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0581900).
 
 ## Publication
-1. [Genome-wide identification of C2H2 zinc-finger gene family in rice and their phylogeny and expression analysis.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide identification of C2H2 zinc-finger gene family in rice and their phylogeny and expression analysis.%5BTitle%5D)), 2007, Plant Mol Biol.
+1. [Genome-wide identification of C2H2 zinc-finger gene family in rice and their phylogeny and expression analysis.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide identification of C2H2 zinc-finger gene family in rice and their phylogeny and expression analysis.%5BTitle%5D), 2007, Plant Mol Biol.
 
 

@@ -18,6 +18,6 @@ tags: GeneFamily
 9. OsPAL9, [LOC_Os12g33610](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g33610), [Os12g0520200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0520200).
 
 ## Publication
-1. [Rice phenylalanine ammonia-lyase gene OsPAL4 is associated with broad spectrum disease resistance.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice phenylalanine ammonia-lyase gene OsPAL4 is associated with broad spectrum disease resistance.%5BTitle%5D)), 2014, Plant Mol Biol.
+1. [Rice phenylalanine ammonia-lyase gene OsPAL4 is associated with broad spectrum disease resistance.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Rice phenylalanine ammonia-lyase gene OsPAL4 is associated with broad spectrum disease resistance.%5BTitle%5D), 2014, Plant Mol Biol.
 
 

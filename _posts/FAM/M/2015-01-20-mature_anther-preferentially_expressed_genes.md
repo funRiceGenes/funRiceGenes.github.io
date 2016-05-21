@@ -300,6 +300,6 @@ tags: GeneFamily
 291. OsSTA291, [LOC_Os12g44300](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g44300), [ Os12g0640500  ](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name= Os12g0640500  ).
 
 ## Publication
-1. [The mature anther-preferentially expressed genes are associated with pollen fertility, pollen germination and anther dehiscence in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The mature anther-preferentially expressed genes are associated with pollen fertility, pollen germination and anther dehiscence in rice.%5BTitle%5D)), 2015, BMC Genomics.
+1. [The mature anther-preferentially expressed genes are associated with pollen fertility, pollen germination and anther dehiscence in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=(The mature anther-preferentially expressed genes are associated with pollen fertility, pollen germination and anther dehiscence in rice.%5BTitle%5D), 2015, BMC Genomics.
 
 

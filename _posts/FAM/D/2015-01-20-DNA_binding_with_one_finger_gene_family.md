@@ -39,6 +39,6 @@ tags: GeneFamily
 30. OsDof30, [LOC_Os12g39990](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g39990), [Os12g0590700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0590700).
 
 ## Publication
-1. [Divergence of the Dof gene families in poplar, Arabidopsis, and rice suggests multiple modes of gene evolution after duplication.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Divergence of the Dof gene families in poplar, Arabidopsis, and rice suggests multiple modes of gene evolution after duplication.%5BTitle%5D)), 2006, Plant Physiol.
+1. [Divergence of the Dof gene families in poplar, Arabidopsis, and rice suggests multiple modes of gene evolution after duplication.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Divergence of the Dof gene families in poplar, Arabidopsis, and rice suggests multiple modes of gene evolution after duplication.%5BTitle%5D), 2006, Plant Physiol.
 
 

@@ -20,6 +20,6 @@ tags: GeneFamily
 11. OsCYS11, [LOC_Os01g16430](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g16430), [Os01g0270100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0270100).
 
 ## Publication
-1. [Genome-wide identification and characterization of cystatin family genes in rice (Oryza sativa L.).](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide identification and characterization of cystatin family genes in rice (Oryza sativa L.).%5BTitle%5D)), 2015, Plant Cell Rep.
+1. [Genome-wide identification and characterization of cystatin family genes in rice (Oryza sativa L.).](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide identification and characterization of cystatin family genes in rice (Oryza sativa L.).%5BTitle%5D), 2015, Plant Cell Rep.
 
 

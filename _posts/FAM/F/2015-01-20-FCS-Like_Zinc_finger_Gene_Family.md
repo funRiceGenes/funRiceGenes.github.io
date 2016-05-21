@@ -38,6 +38,6 @@ tags: GeneFamily
 29. OsaFLZ29, [LOC_Os02g51550](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g51550), [Os02g0751300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0751300).
 
 ## Publication
-1. [Comprehensive Evolutionary and Expression Analysis of FCS-Like Zinc finger Gene Family Yields Insights into Their Origin, Expansion and Divergence.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Comprehensive Evolutionary and Expression Analysis of FCS-Like Zinc finger Gene Family Yields Insights into Their Origin, Expansion and Divergence.%5BTitle%5D)), 2015, PLoS One.
+1. [Comprehensive Evolutionary and Expression Analysis of FCS-Like Zinc finger Gene Family Yields Insights into Their Origin, Expansion and Divergence.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Comprehensive Evolutionary and Expression Analysis of FCS-Like Zinc finger Gene Family Yields Insights into Their Origin, Expansion and Divergence.%5BTitle%5D), 2015, PLoS One.
 
 

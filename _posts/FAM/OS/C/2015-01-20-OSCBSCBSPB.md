@@ -13,6 +13,6 @@ tags: GeneFamily
 4. OsCBSCBSPB4, [LOC_Os12g07190](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g07190), [Os12g0169400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0169400).
 
 ## Publication
-1. [Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana (L.) Heynh and Oryza sativa L. reveals their developmental and stress regulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana (L.) Heynh and Oryza sativa L. reveals their developmental and stress regulation.%5BTitle%5D)), 2009, BMC Genomics.
+1. [Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana (L.) Heynh and Oryza sativa L. reveals their developmental and stress regulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome wide expression analysis of CBS domain containing proteins in Arabidopsis thaliana (L.) Heynh and Oryza sativa L. reveals their developmental and stress regulation.%5BTitle%5D), 2009, BMC Genomics.
 
 

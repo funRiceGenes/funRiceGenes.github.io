@@ -18,6 +18,6 @@ tags: GeneFamily
 9. OsRab11, [LOC_Os06g35814](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g35814), [Os06g0551400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0551400).
 
 ## Publication
-1. [OsGAP1 functions as a positive regulator of OsRab11-mediated TGN to PM or vacuole trafficking.](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsGAP1 functions as a positive regulator of OsRab11-mediated TGN to PM or vacuole trafficking.%5BTitle%5D)), 2005, Plant Cell Physiol.
+1. [OsGAP1 functions as a positive regulator of OsRab11-mediated TGN to PM or vacuole trafficking.](http://www.ncbi.nlm.nih.gov/pubmed?term=(OsGAP1 functions as a positive regulator of OsRab11-mediated TGN to PM or vacuole trafficking.%5BTitle%5D), 2005, Plant Cell Physiol.
 
 

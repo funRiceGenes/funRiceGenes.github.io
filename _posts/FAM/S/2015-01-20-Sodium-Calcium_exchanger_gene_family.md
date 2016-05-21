@@ -24,6 +24,6 @@ tags: GeneFamily
 15. OsNCX15, [LOC_Os12g42910](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g42910), [Os12g0624200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0624200).
 
 ## Publication
-1. [Genome-wide investigation and expression analysis of Sodium/Calcium exchanger gene family in rice and Arabidopsis.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide investigation and expression analysis of Sodium/Calcium exchanger gene family in rice and Arabidopsis.%5BTitle%5D)), 2015, Rice (N Y).
+1. [Genome-wide investigation and expression analysis of Sodium/Calcium exchanger gene family in rice and Arabidopsis.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Genome-wide investigation and expression analysis of Sodium/Calcium exchanger gene family in rice and Arabidopsis.%5BTitle%5D), 2015, Rice (N Y).
 
 

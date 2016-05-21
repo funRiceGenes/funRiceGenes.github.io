@@ -16,6 +16,6 @@ tags: GeneFamily
 7. OsPILS7b, [LOC_Os09g38210](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g38210), [Os09g0555100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0555100).
 
 ## Publication
-1. [Identification and Expression Analysis of PIN-Like (PILS) Gene Family of Rice Treated with Auxin and Cytokinin.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification and Expression Analysis of PIN-Like (PILS) Gene Family of Rice Treated with Auxin and Cytokinin.%5BTitle%5D)), 2015, Genes (Basel).
+1. [Identification and Expression Analysis of PIN-Like (PILS) Gene Family of Rice Treated with Auxin and Cytokinin.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification and Expression Analysis of PIN-Like (PILS) Gene Family of Rice Treated with Auxin and Cytokinin.%5BTitle%5D), 2015, Genes (Basel).
 
 

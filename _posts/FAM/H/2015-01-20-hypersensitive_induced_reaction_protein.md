@@ -15,6 +15,6 @@ tags: GeneFamily
 6. OsHIR6, [LOC_Os01g40580](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g40580), [Os01g0588400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0588400).
 
 ## Publication
-1. [Overexpression of Bax inhibitor-1 links plasma membrane microdomain proteins to stress.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of Bax inhibitor-1 links plasma membrane microdomain proteins to stress.%5BTitle%5D)), 2015, Plant Physiol.
+1. [Overexpression of Bax inhibitor-1 links plasma membrane microdomain proteins to stress.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Overexpression of Bax inhibitor-1 links plasma membrane microdomain proteins to stress.%5BTitle%5D), 2015, Plant Physiol.
 
 

@@ -32,6 +32,6 @@ tags: GeneFamily
 23. OsRpn2b, [LOC_Os04g51910](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g51910), [Os04g0608500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0608500).
 
 ## Publication
-1. [Identification of the 19S regulatory particle subunits from the rice 26S proteasome.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification of the 19S regulatory particle subunits from the rice 26S proteasome.%5BTitle%5D)), 2002, Eur J Biochem.
+1. [Identification of the 19S regulatory particle subunits from the rice 26S proteasome.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Identification of the 19S regulatory particle subunits from the rice 26S proteasome.%5BTitle%5D), 2002, Eur J Biochem.
 
 

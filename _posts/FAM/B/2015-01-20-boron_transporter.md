@@ -13,6 +13,6 @@ tags: GeneFamily
 4. OsBOR4, [LOC_Os05g08430](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g08430), [Os05g0176800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0176800).
 
 ## Publication
-1. [Cell-type specificity of the expression of Os BOR1, a rice efflux boron transporter gene, is regulated in response to boron availability for efficient boron uptake and xylem loading.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cell-type specificity of the expression of Os BOR1, a rice efflux boron transporter gene, is regulated in response to boron availability for efficient boron uptake and xylem loading.%5BTitle%5D)), 2007, Plant Cell.
+1. [Cell-type specificity of the expression of Os BOR1, a rice efflux boron transporter gene, is regulated in response to boron availability for efficient boron uptake and xylem loading.](http://www.ncbi.nlm.nih.gov/pubmed?term=(Cell-type specificity of the expression of Os BOR1, a rice efflux boron transporter gene, is regulated in response to boron availability for efficient boron uptake and xylem loading.%5BTitle%5D), 2007, Plant Cell.
 
 
