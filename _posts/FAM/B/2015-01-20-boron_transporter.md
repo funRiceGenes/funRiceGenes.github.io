@@ -3,7 +3,6 @@ layout: post
 title: "boron_transporter"
 description: ""
 category: gene family
-tags: GeneFamily
 ---
 
 ## Information

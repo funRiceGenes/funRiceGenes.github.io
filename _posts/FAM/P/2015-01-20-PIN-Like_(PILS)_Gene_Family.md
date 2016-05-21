@@ -3,7 +3,6 @@ layout: post
 title: "PIN-Like_PILS_Gene_Family"
 description: ""
 category: gene family
-tags: GeneFamily
 ---
 
 ## Information
