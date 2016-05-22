@@ -5,6 +5,379 @@ comments: no
 thread: 616
 ---
 
+* 2016/May/21 add new pub
+* 2016/May/21 add new pub.
+* 2016/May/21 add new pub for OseIF3f
+* 2016/May/21 add new gene: OseIF3f
+* 2016/May/21 add new pub.
+* 2016/May/21 add new pub.
+* 2016/May/21 add new pub.
+* 2016/May/21 add new gene: OsGatB
+* 2016/May/21 add new gene: OsGatB
+* 2016/May/20 add new pub.
+* 2016/May/20 add new pub.
+* 2016/May/20 add new info for gene: RGA1
+* 2016/May/20 add new pub for OsWUS
+* 2016/May/20 add new pub.
+* 2016/May/19 add new gene: S7
+* 2016/May/19 add new gene: S7
+* 2016/May/19 add new pub.
+* 2016/May/19 add new pub.
+* 2016/May/19 add new pub for OsAPx8
+* 2016/May/19 add new pub.
+* 2016/May/19 add new pub.
+* 2016/May/19 add new pub.
+* 2016/May/19 add new pub.
+* 2016/May/19 add new pub.
+* 2016/May/19 add new pub.
+* 2016/May/19 add new fam: Exo70 protein
+* 2016/May/19 add new info for gene: OsExo70-F2
+* 2016/May/19 add new gene: OsExo70-F2
+* 2016/May/19 fix info
+* 2016/May/19 add new pub for SDT
+* 2016/May/19 add new gene: SDT
+* 2016/May/19 add new pub for OsPP108
+* 2016/May/19 OsSIPP2C1 == OsPP2C68 == OsPP108
+* 2016/May/19 add new pub for OsNAP6
+* 2016/May/19 add new gene: OsNAP6
+* 2016/May/19 add new gene: OsSCAR2
+* 2016/May/19 add new gene: OsWAK90
+* 2016/May/19 add new gene: ORMDL
+* 2016/May/19 add new pub.
+* 2016/May/19 OsEIL1 == MHZ6
+* 2016/May/19 add new pub for OsROC1
+* 2016/May/17 add new reference for OsAGPL2
+* 2016/May/17 OsAPL1 == OsAGPL3 == OsAGPL1
+* 2016/May/17 OsAPL2 == osagpl2-3 == OsAGPL2
+* 2016/May/17 add new reference for OsHSD1
+* 2016/May/17 add new pub for OsMTP1
+* 2016/May/17 add new pub for OsDET1
+* 2016/May/17 OsABF1 == OsABI5 == OREB1 == OsbZIP10
+* 2016/May/16 add new gene: OsCHX14
+* 2016/May/16 add new gene: OsCHX14
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new gene: OsGrx_C2.1
+* 2016/May/16 add new gene: OsGrx_C2.1
+* 2016/May/16 add new pub.
+* 2016/May/16 add new gene: Sdt97
+* 2016/May/16 add new pub for OsWOX3A
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new gene: CRK10
+* 2016/May/16 add new gene: CRK6
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/16 add new pub.
+* 2016/May/9 add new pub.
+* 2016/May/7 add new gene: OsPBL1
+* 2016/May/7 add new gene: OsSWEET5
+* 2016/May/7 add new pub.
+* 2016/May/7 OsRZFP34
+* 2016/May/7 add new gene: OsRZFP34
+* 2016/May/7 ES1 == TUT1 == OsSCAR1
+* 2016/May/7 add new info for gene: OsCNIH1
+* 2016/May/7 add new pub.
+* 2016/May/7 add new gene: OsCNIH1
+* 2016/May/7 OsROC1 == OsMYBc
+* 2016/May/7 add new gene: OsSRK
+* 2016/May/7 add new gene: MYB61
+* 2016/May/7 add new gene: OsWAK25
+* 2016/May/7 OsXylT == RCN11
+* 2016/May/7 add new pub.
+* 2016/May/7 add new info for gene: RCN11
+* 2016/May/7 add new pub.
+* 2016/May/7 add new gene: RCN11
+* 2016/May/7 add new gene: OsOS9
+* 2016/May/7 add new gene: OsHrd1
+* 2016/May/7 add new pub.
+* 2016/May/7 add new gene: Se14
+* 2016/May/7 add new pub.
+* 2016/May/7 add new gene: Se14
+* 2016/May/6 add new pub for OsDREB1E, OsAP37, OsAP59, OsLIP9, OsLEA3, OsRAB16A, and OsSalT
+* 2016/May/6 add new pub.
+* 2016/May/6 add new pub.
+* 2016/May/6 add new gene: OsYUC12
+* 2016/May/6 add new info for gene: OsYUC12
+* 2016/May/6 add new gene: OsLhcb4
+* 2016/May/6 add new gene: OsLhcb1
+* 2016/May/6 add new info for OsSAG12
+* 2016/May/6 add new gene: OsSAG12
+* 2016/May/6 OsNAC2 == OsTIL1 == OMTN2 == OsORE1
+* 2016/May/6 add new pub.
+* 2016/May/6 add new pub for OsPhyb
+* 2016/May/6 add new pub.
+* 2016/May/6 add new pub.
+* 2016/May/6 add new pub.
+* 2016/May/6 add new pubs for IDEF1, OsHRZ1, OsHRZ2, Pi2 and Pi9
+* 2016/May/5 add new gene: OsMYB91
+* 2016/May/5 add new gene: OsMYB91
+* 2016/May/5 BPH26
+* 2016/May/5 add new gene: BPH26
+* 2016/May/5 add new gene: BPH26
+* 2016/May/5 add new family: snf2 family
+* 2016/May/5 fix OsAUX1
+* 2016/May/5 add new pub for OsFIE1
+* 2016/May/5 add new pub.
+* 2016/May/4 add new fam: Ubiquitin-Conjugating_Enzyme_Gene_Family
+* 2016/May/4 add new gene: OsVTC1-8
+* 2016/May/4 add new pub.
+* 2016/May/4 add new family: aba receptors
+* 2016/May/4 TOP6A2 == OsTOP6A2
+* 2016/May/4 add new family: ethylene?signaling genes
+* 2016/May/4 add new family: snf2 family
+* 2016/May/4 add new fam: patatin-related_phospholipase
+* 2016/May/4 update gitignore
+* 2016/May/4 add new pub for OsNTL2
+* 2016/May/4 add new accessions for OsMYBS3
+* 2016/May/4 Osmyb4 accession
+* 2016/May/4 Osmyb4
+* 2016/May/4 Osmyb2
+* 2016/May/4 add new pub.
+* 2016/May/4 OsPP2C09 == OsPP15 == OsPYL2
+* 2016/May/4 add new pub.
+* 2016/May/4 add new pub.
+* 2016/May/4 OsABI2 == OsPP2C06 == OsABIL1
+* 2016/May/4 OsSalT
+* 2016/May/2 add new family: dj-1 domain containing proteins
+* 2016/May/2 add new family: nuclear factor y transcription factors
+* 2016/May/2 add new pub.
+* 2016/May/2 add new pub.
+* 2016/May/1 add new info for OsRacGEF2
+* 2016/May/1 add new pub.
+* 2016/May/1 add new gene: OsRacGEF2
+* 2016/May/1 OsRacGEF1
+* 2016/May/1 add new pub.
+* 2016/May/1 add new family: cation antiporters
+* 2016/May/1 add new family: pyrabactin resistance-like abscisic acid receptor family
+* 2016/May/1 add new family: a20-an1-type zinc finger proteins
+* 2016/Apr/30 add new family: pectin methylesterase inhibitors
+* 2016/Apr/30 add new family: voltage dependent anion channel
+* 2016/Apr/30 remove incomplete info
+* 2016/Apr/30 add new family: tetraspanin family
+* 2016/Apr/30 add new reference for OsRad52
+* 2016/Apr/30 add new accessions for OsRad52
+* 2016/Apr/30 add new gene: OsRad52
+* 2016/Apr/30 add new pub.
+* 2016/Apr/30 NADP-ME2 == OsNADP-ME2
+* 2016/Apr/30 add new pub.
+* 2016/Apr/30 add new accessions for OsSNAT1
+* 2016/Apr/30 add new accessions for OsSNAT2
+* 2016/Apr/30 add new info for gene: OsSNAT2
+* 2016/Apr/30 add new pub.
+* 2016/Apr/30 add new gene: OsSNAT2
+* 2016/Apr/30 add new info for gene: OsSNAT1
+* 2016/Apr/30 add new pub.
+* 2016/Apr/30 add new gene: OsSNAT1
+* 2016/Apr/30 add new info for gene: OsABCG31
+* 2016/Apr/30 add new pub.
+* 2016/Apr/30 add new pub.
+* 2016/Apr/30 add new pub.
+* 2016/Apr/30 add new pub.
+* 2016/Apr/29 add new family: hyperosmolality-gated calcium-permeable channels
+* 2016/Apr/29 add new accessions for OsLOL5
+* 2016/Apr/29 add new info for gene: OsLOL5
+* 2016/Apr/29 add new pub.
+* 2016/Apr/29 add new gene: OsLOL5
+* 2016/Apr/29 add new pub.
+* 2016/Apr/29 add new info for gene: OsGF14e
+* 2016/Apr/29 add new pub.
+* 2016/Apr/29 OsGF14e == GF14e == GID2
+* 2016/Apr/28 add new info for gene: OsSIRP1
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new gene: OsSIRP1
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new info for gene: OsOTS1
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new gene: OsROC1
+* 2016/Apr/28 add new family: phosphoglycerate kinase family
+* 2016/Apr/28 add new info for gene: OsPgk2
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new gene: OsPgk2
+* 2016/Apr/28 add new family: alanine aminotransferase genes
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new gene: OsAlaAT2
+* 2016/Apr/28 add new info for gene: OsiSAP7
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new gene: OsiSAP7
+* 2016/Apr/28 add new accessions for YGL1
+* 2016/Apr/28 add new reference for OsAL1
+* 2016/Apr/28 add new gene: OsAL1
+* 2016/Apr/28 add new pub.
+* 2016/Apr/28 add new info for gene: OsERF922
+* 2016/Apr/28 add new pub.
+* 2016/Apr/27 IPK1 == OsIPK1
+* 2016/Apr/27 add new gene: OsSULTR3;3
+* 2016/Apr/27 add new pub
+* 2016/Apr/27 add new pub
+* 2016/Apr/27 add new pub for Hd3a
+* 2016/Apr/26 add new fam: Glycerophosphodiester phosphodiesterases
+* 2016/Apr/26 add new pub
+* 2016/Apr/26 add new pub for CRL6
+* 2016/Apr/25 add new gene: WSL3
+* 2016/Apr/25 add new pub
+* 2016/Apr/25 add new pub for OsGRF4
+* 2016/Apr/23 add new pub
+* 2016/Apr/23 add new fam: ADP-ribosylation factors
+* 2016/Apr/23 add new pub
+* 2016/Apr/22 ignore pdfs
+* 2016/Apr/22 add new reference for OsWRKY76
+* 2016/Apr/22 add new reference for OsWRKY62
+* 2016/Apr/22 add new info for gene: CCD1
+* 2016/Apr/22 add new pub.
+* 2016/Apr/22 add new gene: CCD1
+* 2016/Apr/22 add new pub.
+* 2016/Apr/22 add new pub.
+* 2016/Apr/22 add new accessions for OsCCD1
+* 2016/Apr/21 add new accessions for OsPHO1;2
+* 2016/Apr/21 add new accessions for OsPHO1;2
+* 2016/Apr/21 add new accessions for OsPHO1;1
+* 2016/Apr/21 add new accessions for OsPHO1;1
+* 2016/Apr/21 add new info for gene: OsPHO1;1
+* 2016/Apr/21 add new pub.
+* 2016/Apr/21 add new gene: OsPHO1;1
+* 2016/Apr/21 add new pub.
+* 2016/Apr/21 add new info for gene: OsCesA7
+* 2016/Apr/21 add new pub.
+* 2016/Apr/21 add new pub.
+* 2016/Apr/19 add new reference for OsPT2
+* 2016/Apr/19 add new reference for Osh69
+* 2016/Apr/19 add new reference for Osl57
+* 2016/Apr/19 add new gene: Osl57
+* 2016/Apr/19 add new reference for Osh36
+* 2016/Apr/19 add new gene: Osh36
+* 2016/Apr/19 add new reference for OsNIC
+* 2016/Apr/19 add new gene: OsNIC
+* 2016/Apr/19 add new gene: OsNaPRT2
+* 2016/Apr/19 add new reference for OsNaPRT1
+* 2016/Apr/19 add new gene: OsNaPRT1
+* 2016/Apr/19 add new reference for OsRab6a
+* 2016/Apr/19 add new gene: OsRab6a
+* 2016/Apr/19 add new pub
+* 2016/Apr/19 add new reference for OsSRT1
+* 2016/Apr/19 add new reference for CRL6
+* 2016/Apr/19 CHR729 == OsCHD3 == CRL6
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 OsGRAS19 == OsSCL7
+* 2016/Apr/18 add new info for gene: Sub1A
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new accessions for OsMTI2B
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new gene: OsMTI2B
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new info for gene: OsRH34
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new gene: OsRH34
+* 2016/Apr/18 add new info for gene: OsRH2
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new gene: OsRH2
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new pub.
+* 2016/Apr/18 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new info for gene: OsERF109
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new gene: OsERF109
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 CLA1 == OsDXS1 == OsDXS2 == OsDXS
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new gene: OsTK
+* 2016/Apr/13 add new info for gene: OsLSR
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new gene: OsLSR
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 OsSUI1 == OsPSS
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 add new pub.
+* 2016/Apr/13 update info
+* 2016/Apr/7 add new gene: OsGPX1
+* 2016/Apr/7 add new gene: OsBBX14
+* 2016/Apr/7 add new pub
+* 2016/Apr/7 add new pub for OsphyA
+* 2016/Apr/7 PHYA == OsPhyA
+* 2016/Apr/7 add new gene: APIP10
+* 2016/Apr/7 add new pub for OsHMA3
+* 2016/Apr/7 add new pubs
+* 2016/Apr/7 add new pub for OsSPX-MFS1
+* 2016/Apr/7 add new pub for OsWRKY53
+* 2016/Apr/7 add new pubs
+* 2016/Apr/7 add new gene: TCM5
+* 2016/Apr/7 add new pub.
+* 2016/Apr/7 add new pubs
+* 2016/Apr/7 add new pub.
+* 2016/Apr/7 add new pub
+* 2016/Apr/7 add new gene: OsPLS1
+* 2016/Apr/7 add new pub for OsPIMT1 and OsPIMT2
+* 2016/Apr/7 add new pub
+* 2016/Apr/7 add new pub
+* 2016/Apr/7 add new pub for Ghd7
+* 2016/Apr/7 add new gene: HOX12
+* 2016/Apr/7 add new pub for OsCCC1
+* 2016/Apr/7 add new pub.
+* 2016/Apr/7 add new pub.
+* 2016/Apr/7 add new pubs
+* 2016/Apr/7 add new pub
+* 2016/Apr/7 add new pub
+* 2016/Apr/7 add new fam
+* 2016/Apr/7 add new gene: OsCEP6.1
+* 2016/Apr/7 add new pubs
+* 2016/Apr/7 add new pub.
+* 2016/Apr/7 add new pub for OsK4
+* 2016/Apr/7 SnRK1B == OsK4
+* 2016/Apr/7 add new gene: HDR1
+* 2016/Apr/7 add new gene fam: Glutamate receptor like family
+* 2016/Apr/7 add new gene: OsGLR3.2
+* 2016/Apr/7 add new gene: OsGLR2.1
+* 2016/Apr/7 add new pub.
+* 2016/Apr/7 add new pub.
+* 2016/Apr/7 add new pub for OsbZIP23
+* 2016/Apr/6 add new pub for OsAKT1
+* 2016/Apr/6 add new pub for OsDMC1
+* 2016/Apr/6 add new gene: OsPGIP4
+* 2016/Apr/6 add new gene: OsSPL13
+* 2016/Apr/6 add new pub for D27
+* 2016/Apr/6 add new pub for OsHUB2
+* 2016/Apr/6 OsHUB2 == FRRP1
+* 2016/Apr/6 add new gene: OsMADS87
+* 2016/Apr/6 add new pub for GS2
+* 2016/Apr/6 add new pubs
+* 2016/Apr/6 add new pub for Lir1
+* 2016/Apr/6 Lir1 == OsLIR1
+* 2016/Apr/6 add new pubs
+* 2016/Apr/6 add new pub for OsYchF1
+* 2016/Apr/6 add new pub for OsMPK6
+* 2016/Apr/1 add new pub for OsABF1
+* 2016/Apr/1 add new pub
+* 2016/Apr/1 add new pub
+* 2016/Apr/1 add new pub.
+* 2016/Apr/1 add new pub
+* 2016/Apr/1 add new pub
+* 2016/Apr/1 add new gene: OsCLT1
+* 2016/Apr/1 add new pubs
+* 2016/Apr/1 add new pub for OsGDCH
+* 2016/Apr/1 add new pub on Chilling Tolerance
 * 2016/Feb/21 add new info for gene: OsRDR1
 * 2016/Feb/21 add new gene: OsVAMP714
 * 2016/Feb/21 add new pub.
