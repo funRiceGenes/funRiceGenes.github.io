@@ -33,6 +33,7 @@ tags: [homeostasis, temperature, disease resistance, abiotic stress, salt, phosp
     + [A cold-induced thioredoxin h of rice, OsTrx23, negatively regulates kinase activities of OsMPK3 and OsMPK6 in vitro](http://www.ncbi.nlm.nih.gov/pubmed?term=A cold-induced thioredoxin h of rice, OsTrx23, negatively regulates kinase activities of OsMPK3 and OsMPK6 in vitro%5BTitle%5D), 2009, FEBS Lett.
     + [OsMPK3 positively regulates the JA signaling pathway and plant resistance to a chewing herbivore in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMPK3 positively regulates the JA signaling pathway and plant resistance to a chewing herbivore in rice%5BTitle%5D), 2013, Plant Cell Rep.
     + [OsBIMK1, a rice MAP kinase gene involved in disease resistance responses](http://www.ncbi.nlm.nih.gov/pubmed?term=OsBIMK1, a rice MAP kinase gene involved in disease resistance responses%5BTitle%5D), 2002, Planta.
+    + [A Positive Feedback Loop Governed by SUB1A1 Interaction with MITOGEN ACTIVATED PROTEIN KINASE 3 Imparts Submergence Tolerance in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Positive Feedback Loop Governed by SUB1A1 Interaction with MITOGEN ACTIVATED PROTEIN KINASE 3 Imparts Submergence Tolerance in Rice.%5BTitle%5D), 2016, Plant Cell.
 
 * **Genbank accession number**  
     + [AF332873](http://www.ncbi.nlm.nih.gov/nuccore/AF332873)

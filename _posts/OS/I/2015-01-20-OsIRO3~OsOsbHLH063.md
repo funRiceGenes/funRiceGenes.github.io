@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "OsIRO3"
+title: "OsIRO3,OsOsbHLH063"
 description: ""
 category: genes
 tags: [root, transcription factor, homeostasis, shoot]
 ---
 
 * **Information**  
-    + Symbol: OsIRO3  
+    + Symbol: OsIRO3,OsOsbHLH063  
     + MSU: [LOC_Os03g26210](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g26210)  
     + RAPdb: [Os03g0379300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0379300)  
 

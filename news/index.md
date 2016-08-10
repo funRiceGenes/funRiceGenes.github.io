@@ -5,6 +5,279 @@ comments: no
 thread: 616
 ---
 
+* 2016/Aug/9 add new info for gene: PPR762
+* 2016/Aug/9 add new pub.
+* 2016/Aug/9 Rf4 == PPR762
+* 2016/Aug/9 add new pub.
+* 2016/Aug/9 add new pub.
+* 2016/Aug/9 add new info for gene: OsTSD2
+* 2016/Aug/9 add new pub.
+* 2016/Aug/9 add new pub.
+* 2016/Aug/9 add new info for gene: OsRacGEF1
+* 2016/Aug/9 add new pub.
+* 2016/Aug/9 add new pub.
+* 2016/Aug/8 add new info for gene: OsALD1
+* 2016/Aug/8 add new pub.
+* 2016/Aug/8 add new pub.
+* 2016/Aug/8 add new pub.
+* 2016/Aug/8 add new pub.
+* 2016/Aug/6 add new info for gene: OsAMTR1
+* 2016/Aug/6 add new pub.
+* 2016/Aug/6 Osh36 == OsAMTR1
+* 2016/Aug/6 OsPR1a == OsSCP
+* 2016/Aug/6 add new pub.
+* 2016/Aug/3 add new info for gene: OsTSD2
+* 2016/Aug/3 add new pub.
+* 2016/Aug/3 add new gene: OsTSD2
+* 2016/Aug/3 add new pub.
+* 2016/Aug/2 add new info for gene: MOF
+* 2016/Aug/2 add new pub.
+* 2016/Aug/2 add new gene: MOF
+* 2016/Aug/2 add new info for gene: REL2
+* 2016/Aug/2 add new pub.
+* 2016/Aug/2 add new gene: REL2
+* 2016/Aug/2 add new info for gene: MODD
+* 2016/Aug/2 add new pub.
+* 2016/Aug/2 add new gene: MODD
+* 2016/Aug/2 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new gene: OsFAH2
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new gene: OsFAH1
+* 2016/Aug/1 add new info for gene: CRR1
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new gene: CRR1
+* 2016/Aug/1 add new info for gene: SLP1
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new gene: SLP1
+* 2016/Aug/1 add new info for gene: RAE2
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 AL8 == RAE2
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new info for gene: OsHOS1
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new gene: OsClpD1
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new info for gene: OsAHL1
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new reference for OsMTOPVIB
+* 2016/Aug/1 add new gene: OsMTOPVIB
+* 2016/Aug/1 add new info for gene: OsMADS1
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new info for gene: OsAld-Y
+* 2016/Aug/1 add new pub.
+* 2016/Aug/1 add new gene: OsAld-Y
+* 2016/Aug/1 add new info for gene: G1
+* 2016/Aug/1 add new pub.
+* 2016/Jul/27 add new family: meprin and traf homology domain containing protein
+* 2016/Jul/25 add new pub.
+* 2016/Jul/25 add new info for gene: RUPO
+* 2016/Jul/25 add new pub.
+* 2016/Jul/25 add new gene: RUPO
+* 2016/Jul/25 add new pub.
+* 2016/Jul/25 add new gene: OsSCP46
+* 2016/Jul/25 add new info for gene: Pib
+* 2016/Jul/25 add new pub.
+* 2016/Jul/22 add new pub.
+* 2016/Jul/22 add new pub.
+* 2016/Jul/19 add new info for gene: OsAMT1;3
+* 2016/Jul/19 add new pub.
+* 2016/Jul/17 add new pub.
+* 2016/Jul/17 add new pub.
+* 2016/Jul/15 add new info for gene: OsCOL13
+* 2016/Jul/15 add new pub.
+* 2016/Jul/15 add new gene: OsCOL13
+* 2016/Jul/15 add new pub.
+* 2016/Jul/13 add new pub.
+* 2016/Jul/9 add new info for gene: OsHMA4
+* 2016/Jul/9 add new pub.
+* 2016/Jul/9 add new gene: OsHMA4
+* 2016/Jul/9 add new info for gene: OsMDHAR
+* 2016/Jul/9 add new pub.
+* 2016/Jul/9 add new gene: OsMDHAR
+* 2016/Jul/9 fix error info
+* 2016/Jul/7 add new info for gene: OsPRA2
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new gene: OsPRA2
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new info for gene: OsNPR1
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new gene: OsNPR1
+* 2016/Jul/7 add new info for gene: pikh
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new gene: OsTCP21
+* 2016/Jul/7 add new info for gene: OsERF71
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new gene: OsERF71
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new info for gene: EG1
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new gene: RSL3
+* 2016/Jul/7 add new pub.
+* 2016/Jul/7 add new pub.
+* 2016/Jun/29 add new pub.
+* 2016/Jun/29 add new info for gene: OsNAPL6
+* 2016/Jun/29 add new pub.
+* 2016/Jun/29 add new gene: OsNAPL6
+* 2016/Jun/29 add new pub.
+* 2016/Jun/29 add new pub.
+* 2016/Jun/28 add new info for gene: OsJAZ10
+* 2016/Jun/28 add new pub.
+* 2016/Jun/28 add new gene: OsJAZ10
+* 2016/Jun/28 add new info for gene: OsMYC2
+* 2016/Jun/28 add new pub.
+* 2016/Jun/28 add new info for gene: OsMADS2
+* 2016/Jun/28 add new pub.
+* 2016/Jun/28 add new pub.
+* 2016/Jun/28 add new info for gene: MID1
+* 2016/Jun/28 add new pub.
+* 2016/Jun/28 add new gene: MID1
+* 2016/Jun/27 add new info for gene: OsLEA1a
+* 2016/Jun/27 add new pub.
+* 2016/Jun/27 add new pub.
+* 2016/Jun/24 add new info for gene: OsOFP8
+* 2016/Jun/24 add new pub.
+* 2016/Jun/24 add new gene: OsOFP8
+* 2016/Jun/24 add new pub.
+* 2016/Jun/24 add new pub.
+* 2016/Jun/24 add new info for gene: OsPP2C49
+* 2016/Jun/24 add new pub.
+* 2016/Jun/24 add new gene: OsPP2C49
+* 2016/Jun/24 add new pub for OsbZIP23
+* 2016/Jun/24 add new pub.
+* 2016/Jun/23 add new pub.
+* 2016/Jun/23 add new gene: AL8
+* 2016/Jun/23 add new pub.
+* 2016/Jun/23 add new gene: OsGATA28
+* 2016/Jun/23 add new pub.
+* 2016/Jun/23 add new gene: OsHESO1
+* 2016/Jun/23 add new pub.
+* 2016/Jun/23 add new pub.
+* 2016/Jun/23 add new pub.
+* 2016/Jun/20 add new info for gene: Hd18
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new gene: Hd18
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new info for gene: OsGrx_C7
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new info for gene: OsGrx_C2.1
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new family: hypoxia-responsive protein family
+* 2016/Jun/20 add new info for gene: OsHIGD2
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new gene: OsHIGD2
+* 2016/Jun/20 add new member of gene fam EXPA
+* 2016/Jun/20 add new info for gene: OsEXPA10
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new gene: OsEXPA10
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new info for gene: OsSAP16
+* 2016/Jun/20 add new pub.
+* 2016/Jun/20 add new gene: OsSAP16
+* 2016/Jun/20 add new pub.
+* 2016/Jun/16 add new pub.
+* 2016/Jun/16 add new pub.
+* 2016/Jun/16 add new pub.
+* 2016/Jun/16 add new info for gene: YGL8
+* 2016/Jun/16 add new pub.
+* 2016/Jun/16 add new gene: YGL8
+* 2016/Jun/16 add new info for gene: OsAGPL2
+* 2016/Jun/16 add new pub.
+* 2016/Jun/16 add new pub.
+* 2016/Jun/16 add new info for gene: OsWRKY51
+* 2016/Jun/16 add new pub.
+* 2016/Jun/16 add new pub.
+* 2016/Jun/14 add new pub.
+* 2016/Jun/13 add new pub.
+* 2016/Jun/13 add new pub.
+* 2016/Jun/13 add new pub.
+* 2016/Jun/13 add new pub.
+* 2016/Jun/13 add new pub.
+* 2016/Jun/13 add new pub for OsNRT2.3
+* 2016/Jun/13 OsNRT2.3
+* 2016/Jun/13 add new pub.
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new info for gene: OsLBD3-7
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new gene: OsLBD3-7
+* 2016/Jun/7 add new info for gene: OsPR10a
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new info for gene: OsWRKY45
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new info for gene: SLG
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new gene: SLG
+* 2016/Jun/7 add new info for gene: DST
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new info for gene: LPL3
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new gene: LPL3
+* 2016/Jun/7 add new info for gene: LPL2
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new gene: LPL2
+* 2016/Jun/7 add new pub.
+* 2016/Jun/7 add new pub.
+* 2016/Jun/4 add new pub.
+* 2016/Jun/4 add new pub.
+* 2016/Jun/2 add new info for gene: WRKY45
+* 2016/Jun/2 add new pub.
+* 2016/Jun/2 add new info for gene: DPW2
+* 2016/Jun/2 add new pub.
+* 2016/Jun/2 add new pub.
+* 2016/Jun/2 add new pub.
+* 2016/Jun/2 add new pub.
+* 2016/Jun/2 add new gene: OsRML1
+* 2016/Jun/2 add new gene: OsRML1
+* 2016/Jun/2 add new pub
+* 2016/Jun/2 add new pub
+* 2016/Jun/2 add new gene: OsHOX24
+* 2016/Jun/2 add new pub
+* 2016/May/31 add new pub for CEBiP
+* 2016/May/28 add new fam: CCR4 associated factor 1 deadenylase protein
+* 2016/May/28 add new pub
+* 2016/May/28 add new pub
+* 2016/May/28 add new pub
+* 2016/May/28 add new pub
+* 2016/May/26 add new pub
+* 2016/May/25 add new pub
+* 2016/May/24 add new pub for WSL12
+* 2016/May/23 update write_md.R
+* 2016/May/23 OsNPK1-PK == OsMAPKKK62
+* 2016/May/23 add new gene: OsMAPKKK63
+* 2016/May/23 add new gene: OsMAPKKK55
+* 2016/May/23 OsIRO3 == OsOsbHLH063
+* 2016/May/23 add new gene: OsOsbHLH010
+* 2016/May/23 RERJ1 == OsOsbHLH006
+* 2016/May/23 add new gene: OsTGA912
+* 2016/May/23 OsbZIP79 == OsTGA911
+* 2016/May/23 add new gene: OsTGA10
+* 2016/May/23 add new gene: OsBT
+* 2016/May/23 add new pub for OsDRM2, OsDDM1a and OsDDM1b
 * 2016/May/21 add new pub
 * 2016/May/21 add new pub.
 * 2016/May/21 add new pub for OseIF3f

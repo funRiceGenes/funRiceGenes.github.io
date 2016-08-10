@@ -3,7 +3,7 @@ layout: post
 title: "CEBiP,OsCEBiP"
 description: ""
 category: genes
-tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, disease resistance, leaf, disease, blast, defense, cell wall, cell death]
+tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, disease resistance, leaf, disease, blast, defense, cell wall, cell death, immune response]
 ---
 
 * **Information**  
@@ -21,6 +21,7 @@ tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, diseas
     + [Two LysM receptor molecules, CEBiP and OsCERK1, cooperatively regulate chitin elicitor signaling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Two LysM receptor molecules, CEBiP and OsCERK1, cooperatively regulate chitin elicitor signaling in rice%5BTitle%5D), 2010, Plant J.
     + [Functional characterization of CEBiP and CERK1 homologs in arabidopsis and rice reveals the presence of different chitin receptor systems in plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional characterization of CEBiP and CERK1 homologs in arabidopsis and rice reveals the presence of different chitin receptor systems in plants%5BTitle%5D), 2012, Plant Cell Physiol.
     + [The bifunctional plant receptor, OsCERK1, regulates both chitin-triggered immunity and arbuscular mycorrhizal symbiosis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The bifunctional plant receptor, OsCERK1, regulates both chitin-triggered immunity and arbuscular mycorrhizal symbiosis in rice.%5BTitle%5D), 2014, Plant Cell Physiol.
+    + [Molecular Mechanism for Fungal Cell Wall Recognition by Rice Chitin Receptor OsCEBiP.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular Mechanism for Fungal Cell Wall Recognition by Rice Chitin Receptor OsCEBiP.%5BTitle%5D), 2016, Structure.
 
 * **Genbank accession number**  
     + [AB206975](http://www.ncbi.nlm.nih.gov/nuccore/AB206975)
@@ -33,6 +34,7 @@ tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, diseas
     + " Knockdown of CEBiP gene by RNA interference resulted in the suppression of the elicitor-induced oxidative burst as well as the gene responses, showing that CEBiP plays a key role in the perception and transduction of chitin oligosaccharide elicitor in the rice cells"
     + In rice (Oryza sativa), the chitin elicitor binding protein (CEBiP) recognizes chitin oligosaccharides released from the cell walls of fungal pathogens
     + " To enhance defense responses to CE, we constructed chimeric genes composed of CEBiP and Xa21, which mediate resistance to rice bacterial leaf blight"
+    + Chitin is the major component of fungal cell wall and serves as a molecular pattern that can be recognized by the receptor OsCEBiP in rice, a lysine motif (LysM) receptor-like protein (RLP), to trigger immune responses
 
 * **Connection**  
     + __CEBiP~OsCEBiP__, __LYP4~OsLYP4__, [OsLYP4 and OsLYP6 play critical roles in rice defense signal transduction](http://www.ncbi.nlm.nih.gov/pubmed?term=OsLYP4 and OsLYP6 play critical roles in rice defense signal transduction%5BTitle%5D),  Moreover, we found that OsLYP4 and OsLYP6 could form homo- and hetero-dimers, and could interact with CEBiP, suggesting an unexpected complexity of chitin perception in rice
