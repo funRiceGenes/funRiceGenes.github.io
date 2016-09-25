@@ -5,6 +5,246 @@ comments: no
 thread: 616
 ---
 
+* 2016/Sep/25 add new reference for ABC1
+* 2016/Sep/25 add new reference for OsNADH-GOGAT1
+* 2016/Sep/25 add new gene: OsNADH-GOGAT1
+* 2016/Sep/25 ABC1 == OsFd-GOGAT
+* 2016/Sep/25 add new gene: ABC1
+* 2016/Sep/25 add new reference for OsRBCS1
+* 2016/Sep/25 add new info for gene: OsDEX1
+* 2016/Sep/25 add new pub.
+* 2016/Sep/25 add new gene: OsDEX1
+* 2016/Sep/25 add new reference for OsABCG26
+* 2016/Sep/25 add new info for gene: qSH1
+* 2016/Sep/25 add new pub.
+* 2016/Sep/25 add new pub.
+* 2016/Sep/24 add new reference for OsDHHC1
+* 2016/Sep/24 add new gene: OsDHHC1
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new info for gene: ONAC095
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new gene: ONAC095
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 APIP5 == OsbZIP53
+* 2016/Sep/24 add new info for gene: APIP5
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new gene: APIP5
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new accessions for OsGlyI
+* 2016/Sep/24 add new info for gene: OsGlyI
+* 2016/Sep/24 add new gene: OsGlyI
+* 2016/Sep/24 add new info for gene: OsHSP16.9C
+* 2016/Sep/24 add new pub.
+* 2016/Sep/24 add new gene: OsHSP16.9C
+* 2016/Sep/19 Ghd2 == OsK
+* 2016/Sep/19 add new pub.
+* 2016/Sep/19 add new info for gene: Ghd2
+* 2016/Sep/19 add new pub.
+* 2016/Sep/19 add new gene: Ghd2
+* 2016/Sep/19 add new info for gene: GAD1
+* 2016/Sep/19 add new pub.
+* 2016/Sep/19 AL8 == RAE2 == GAD1
+* 2016/Sep/19 add new info for gene: OsGLP2-1
+* 2016/Sep/19 add new pub.
+* 2016/Sep/19 add new gene: OsGLP2-1
+* 2016/Sep/19 add new pub.
+* 2016/Sep/19 add new pub.
+* 2016/Sep/19 add new pub.
+* 2016/Sep/18 add new info for gene: OsHox32
+* 2016/Sep/18 add new pub.
+* 2016/Sep/18 OSHB4 == OsHox32
+* 2016/Sep/18 add new pub.
+* 2016/Sep/18 add new pub.
+* 2016/Sep/18 add new pub.
+* 2016/Sep/18 add new pub.
+* 2016/Sep/18 add new pub.
+* 2016/Sep/18 add new info for OsDi19-4
+* 2016/Sep/18 add new pub.
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new info for gene: OsDR11
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new gene: OsDR11
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new info for gene: WSP1
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new gene: WSP1
+* 2016/Sep/14 add new info for gene: LRD6-6
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 LRD6-6 == LMR
+* 2016/Sep/14 add new info for gene: OsVPS2
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new gene: OsVPS2
+* 2016/Sep/14 add new info for gene: OsSNF7
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new gene: OsSNF7
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new gene: OsSKD1
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new pub.
+* 2016/Sep/14 add new pub.
+* 2016/Sep/12 add new pub for ER-ANT1
+* 2016/Sep/12 add new gene: ER-ANT1
+* 2016/Sep/10 add new pub.
+* 2016/Sep/10 add new pub.
+* 2016/Sep/10 add new info for gene: OsIAA10
+* 2016/Sep/10 add new pub.
+* 2016/Sep/10 add new gene: OsIAA10
+* 2016/Sep/10 add new pub.
+* 2016/Sep/9 add new pub.
+* 2016/Sep/9 add new gene: P31comet
+* 2016/Sep/9 add new pub.
+* 2016/Sep/9 add new pub.
+* 2016/Sep/9 add new pub.
+* 2016/Sep/7 add new pub.
+* 2016/Sep/7 add new pub.
+* 2016/Sep/7 add new pub.
+* 2016/Sep/4 add new info for gene: YL1
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 add new gene: YL1
+* 2016/Sep/4 add new info for gene: OspPGM
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 add new gene: OspPGM
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 add new info for gene: OsSAG12-2
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 add new gene: OsSAG12-2
+* 2016/Sep/4 add new info for gene: OsFAD2-1
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 OsFAD2 == OsFAD2-1
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 add new pub.
+* 2016/Sep/4 add new pub.
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 add new info for gene: OsYABBY4
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 add new info for gene: OsAOS1
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 add new info for gene: YSS1
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 add new gene: YSS1
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 add new gene: OsWSL3
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 add new pub.
+* 2016/Sep/1 fix bug
+* 2016/Aug/30 update the interface
+* 2016/Aug/29 add new pub.
+* 2016/Aug/29 add new pub.
+* 2016/Aug/29 add new info for gene: OsV5B
+* 2016/Aug/29 add new pub.
+* 2016/Aug/29 add new gene: OsV5B
+* 2016/Aug/29 add new info for gene: OsV5A
+* 2016/Aug/29 add new pub.
+* 2016/Aug/29 YLC1 == OsV5A
+* 2016/Aug/29 GOT1B == GLUP2
+* 2016/Aug/29 add new pub.
+* 2016/Aug/29 add new gene: GOT1B
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new info for gene: OsFRDL1
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/26 add new pub.
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new info for gene: AVB
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 SRL2 == AVB
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new info for gene: AL2
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new gene: AL2
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new gene: OsGAS2
+* 2016/Aug/25 add new info for gene: HSP40
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new gene: HSP40
+* 2016/Aug/25 Hsp90 == rHsp90 == OSGrp94
+* 2016/Aug/25 add new info for gene: OsSWEET14
+* 2016/Aug/25 add new pub.
+* 2016/Aug/25 add new pub.
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new info for gene: OsFtsH2
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new gene: OsFtsH2
+* 2016/Aug/19 add new info for gene: TCD5
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new gene: TCD5
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new info for gene: MEL1
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new info for gene: NAL7
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 OsFMO == OsCOW1 == NAL7
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new info for gene: OsEm1
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 OsEm == EMP1 == OsEm1
+* 2016/Aug/19 add new pub.
+* 2016/Aug/19 add new pub.
+* 2016/Aug/17 add new info for gene: OsKCH1
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new info for gene: OsTPP7
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new gene: OsTPP7
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new gene: OsMTP9
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 OsEF3 == OsELF3-2 == OsELF3.2
+* 2016/Aug/17 Hd17 == Ef7 == OsELF3-1 == OsELF3.1
+* 2016/Aug/17 add new reference for ROC4
+* 2016/Aug/17 add new gene: ROC4
+* 2016/Aug/17 add new family: nucleotide pyrophosphatase
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 OsRLK2 == OsNFR5
+* 2016/Aug/17 add new info for gene: OsRLK2
+* 2016/Aug/17 add new gene: OsRLK2
+* 2016/Aug/17 add new info for gene: CRCT
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new gene: OsPHT2
+* 2016/Aug/17 add new pub.
+* 2016/Aug/17 add new gene: OsPHT1
+* 2016/Aug/13 fix encoding
+* 2016/Aug/13 add new info for gene: OsRAD1
+* 2016/Aug/13 add new pub.
+* 2016/Aug/13 add new gene: OsRAD1
+* 2016/Aug/11 add new pub.
+* 2016/Aug/11 add new pub.
+* 2016/Aug/11 add new pub.
+* 2016/Aug/11 add new pub.
+* 2016/Aug/10 add new pub.
+* 2016/Aug/10 add new info for gene: Pho1
+* 2016/Aug/10 add new pub.
+* 2016/Aug/10 add new pub.
+* 2016/Aug/10 add new pub.
 * 2016/Aug/9 add new info for gene: PPR762
 * 2016/Aug/9 add new pub.
 * 2016/Aug/9 Rf4 == PPR762
