@@ -46,6 +46,7 @@ tags: [growth, resistant, breeding, mitochondria, chloroplast]
     + Notably, the S-C plant was not more resistant to UVB-induced growth inhibition than the S-B plant, even though it had much higher CPD photolyase activity"
 
 * **Connection**  
+    + __CPD~OsCPDP~qUVR-10__, __OsMeCP__, [Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.](http://www.ncbi.nlm.nih.gov/pubmed?term=Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.%5BTitle%5D),  Overexpression of OsMeCP led to lower Os10g0167600 transcript levels and a higher CPD content than in the WT, but the reverse was true in the OsMeCP-RNAi line
 
 * **Key figures**  
 

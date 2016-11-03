@@ -5,6 +5,188 @@ comments: no
 thread: 616
 ---
 
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new info for gene: DEP1
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new info for gene: OsGLYI-8
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new gene: OsGLYI-8
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Nov/1 add new pub.
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new info for gene: OsLsi2
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new info for gene: OsLsi1
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new accessions for BPH9
+* 2016/Oct/31 add new accessions for BPH9
+* 2016/Oct/31 add new info for gene: BPH9
+* 2016/Oct/31 add new pub.
+* 2016/Oct/31 add new gene: BPH9
+* 2016/Oct/31 add new pub.
+* 2016/Oct/28 add new accessions for RGG1
+* 2016/Oct/28 add new info for gene: RGG1
+* 2016/Oct/28 add new pub.
+* 2016/Oct/28 add new gene: RGG1
+* 2016/Oct/27 fix info
+* 2016/Oct/27 add new pub.
+* 2016/Oct/26 add new pub.
+* 2016/Oct/26 add new pub.
+* 2016/Oct/26 add new pub.
+* 2016/Oct/26 add new pub.
+* 2016/Oct/26 add new pub.
+* 2016/Oct/26 add new pub.
+* 2016/Oct/26 add new info for gene: RAG2
+* 2016/Oct/26 add new pub.
+* 2016/Oct/26 add new gene: RAG2
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new info for gene: OspTAC2
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new gene: OspTAC2
+* 2016/Oct/23 add new info for gene: xa21
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new info for gene: NRL2
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 SRL2 == AVB == NRL2
+* 2016/Oct/23 add new info for gene: GNP1
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 OsGA20ox1 == GNP1
+* 2016/Oct/23 add new info for gene: OsFIE2
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new info for gene: OsNIN-like4
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new gene: OsNIN-like4
+* 2016/Oct/23 add new info for gene: OsNIN-like3
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new gene: OsNIN-like3
+* 2016/Oct/23 add new info for gene: OsNIN-like2
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new gene: OsNIN-like2
+* 2016/Oct/23 PCF2 == OsPCF2
+* 2016/Oct/23 add new info for gene: OsCPP5
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new gene: OsCPP5
+* 2016/Oct/23 add new pub.
+* 2016/Oct/23 add new pub.
+* 2016/Oct/18 add new pub.
+* 2016/Oct/18 add new pub.
+* 2016/Oct/18 add new pub.
+* 2016/Oct/17 add new pub.
+* 2016/Oct/17 add new info for gene: OsFRDL4
+* 2016/Oct/17 add new pub.
+* 2016/Oct/17 add new pub.
+* 2016/Oct/17 add new pub.
+* 2016/Oct/17 add new info for gene: OsLsi1
+* 2016/Oct/17 add new pub.
+* 2016/Oct/15 add new pub.
+* 2016/Oct/15 add new pub.
+* 2016/Oct/13 add new family: root uv-b sensitive genes
+* 2016/Oct/13 add new pub.
+* 2016/Oct/13 add new pub.
+* 2016/Oct/13 add new pub.
+* 2016/Oct/13 add new pub.
+* 2016/Oct/13 add new pub.
+* 2016/Oct/13 add new pub.
+* 2016/Oct/12 add new family: rsl class i gene
+* 2016/Oct/12 add new family: lpr family
+* 2016/Oct/12 add new pub.
+* 2016/Oct/12 add new gene: OsLPR5
+* 2016/Oct/12 add new info for gene: OsLPR3
+* 2016/Oct/12 add new pub.
+* 2016/Oct/12 add new gene: OsLPR3
+* 2016/Oct/12 add new info for gene: OsNAS2
+* 2016/Oct/12 add new pub.
+* 2016/Oct/12 add new pub.
+* 2016/Oct/10 add new pub.
+* 2016/Oct/10 add new pub.
+* 2016/Oct/10 add new pub.
+* 2016/Oct/10 add new pub.
+* 2016/Oct/10 add new info for gene: OsDT11
+* 2016/Oct/10 add new pub.
+* 2016/Oct/10 add new gene: OsDT11
+* 2016/Oct/10 add new accessions for OsJRL
+* 2016/Oct/10 add new info for gene: OsJRL
+* 2016/Oct/10 add new pub.
+* 2016/Oct/10 add new gene: OsJRL
+* 2016/Oct/8 PSTOL1
+* 2016/Oct/7 add new info for gene: OsIFL
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new gene: OsIFL
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 BC10 == FC116
+* 2016/Oct/7 add new info for gene: BC10
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new info for gene: OsHAC1;2
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new gene: OsHAC1;2
+* 2016/Oct/7 add new info for gene: OsHAC1;1
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new gene: OsHAC1;1
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new info for gene: OseIF3e
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 OseIF3e == EIF3E
+* 2016/Oct/7 add new info for gene: XA21
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/7 add new pub.
+* 2016/Oct/6 add new pub.
+* 2016/Oct/6 add new pub for OsEIL1
+* 2016/Oct/6 add new pub.
+* 2016/Oct/4 add new pub.
+* 2016/Oct/4 add new info for gene: OsMeCP
+* 2016/Oct/4 add new pub.
+* 2016/Oct/4 add new gene: OsMeCP
+* 2016/Oct/4 add new info for gene: OsPEX11
+* 2016/Oct/4 add new pub.
+* 2016/Oct/4 add new gene: OsPEX11
+* 2016/Oct/4 add new pub.
+* 2016/Oct/4 add new pub.
+* 2016/Oct/2 add new pub.
+* 2016/Oct/2 add new pub.
+* 2016/Oct/2 add new pub.
+* 2016/Oct/2 add new pub.
+* 2016/Oct/2 add new info for gene: OsPIL1
+* 2016/Oct/2 add new pub.
+* 2016/Oct/2 add new info for gene: OsPT8
+* 2016/Oct/2 add new pub.
+* 2016/Oct/2 add new pub.
+* 2016/Oct/2 add new info for gene: OsMADS14
+* 2016/Oct/2 add new pub.
+* 2016/Sep/28 add new info for gene: D14
+* 2016/Sep/28 add new pub.
+* 2016/Sep/28 add new pub.
+* 2016/Sep/28 add new pub.
+* 2016/Sep/28 add new pub.
+* 2016/Sep/28 add new pub.
+* 2016/Sep/28 add new pub.
+* 2016/Sep/28 add new family: germin-like protein
+* 2016/Sep/26 add new pub.
 * 2016/Sep/25 add new reference for ABC1
 * 2016/Sep/25 add new reference for OsNADH-GOGAT1
 * 2016/Sep/25 add new gene: OsNADH-GOGAT1
