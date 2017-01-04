@@ -3,7 +3,7 @@ layout: post
 title: "OsCOI1,OsCOI1a"
 description: ""
 category: genes
-tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, defense,  ja , drought tolerance]
+tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, defense,  ja , drought tolerance,  BR , JA]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, de
     + [silencing COI1 in rice increases susceptibility to chewing insects and impairs inducible defense](http://www.ncbi.nlm.nih.gov/pubmed?term=silencing COI1 in rice increases susceptibility to chewing insects and impairs inducible defense%5BTitle%5D), 2012, PLoS One.
     + [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), 2012, Plant Cell Physiol.
     + [Plant hormone jasmonate prioritizes defense over growth by interfering with gibberellin signaling cascade](http://www.ncbi.nlm.nih.gov/pubmed?term=Plant hormone jasmonate prioritizes defense over growth by interfering with gibberellin signaling cascade%5BTitle%5D), 2012, Proc Natl Acad Sci U S A.
+    + [Jasmonic acid-mediated defense suppresses brassinosteroid-mediated susceptibility to Rice black streaked dwarf virus infection in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonic acid-mediated defense suppresses brassinosteroid-mediated susceptibility to Rice black streaked dwarf virus infection in rice%5BTitle%5D), 2016, New Phytol.
 
 * **Genbank accession number**  
 
@@ -29,6 +30,7 @@ tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, de
     + These results suggest that OsCOI1 is an indispensable signaling component, controlling JA-regulated defense against chewing insect (LF) in rice plants, and COI1 is also required for induction of TrypPI, POD and PPO in rice defense response to LF infestation"
     + Silencing OsCOI1 did not alter LF-induced LOX activity and JA content, but it led to a reduction in the TrypPI content, POD and PPO activity by 62
     + Thus, our study suggests that OsbHLH148 acts on an initial response of jasmonate-regulated gene expression toward drought tolerance, constituting the OsbHLH148-OsJAZ-OsCOI1 signaling module in rice
+    + MeJA application efficiently suppressed the expression of BR pathway genes, and this inhibition depended on the JA coreceptor OsCOI1
 
 * **Connection**  
     + __OsCOI1~OsCOI1a__, __OsJAZ1~OsTIFY3~EG2__, [OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice%5BTitle%5D),  OsJAZ1, a rice ZIM domain protein, interacted with OsbHLH148 in yeast two-hybrid and pull-down assays, but it interacted with the putative OsCOI1 only in the presence of coronatine

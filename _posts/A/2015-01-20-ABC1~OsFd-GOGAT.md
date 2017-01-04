@@ -3,7 +3,7 @@ layout: post
 title: "ABC1,OsFd-GOGAT"
 description: ""
 category: genes
-tags: [nitrogen]
+tags: [nitrogen, leaf, leaf senescence]
 ---
 
 * **Information**  
@@ -13,11 +13,14 @@ tags: [nitrogen]
 
 * **Publication**  
     + [Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies%5BTitle%5D), 2016, Molecular plant.
+    + [The ferredoxin-dependent glutamate synthase OsFd-GOGAT participates in leaf senescence and the nitrogen remobilization in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The ferredoxin-dependent glutamate synthase OsFd-GOGAT participates in leaf senescence and the nitrogen remobilization in rice.%5BTitle%5D), 2016, Mol Genet Genomics.
 
 * **Genbank accession number**  
 
 * **Key message**  
     + Metabolomics analysis revealed the accumulation of excessive amount of amino acids with high N/C ratio (Gln and Asn) and several intermediates in the tricarboxylic acid cycle in abc1-1, suggesting that ABC1 plays a critical role in regulating nitrogen assimilation and carbon-nitrogen balance
+    + ), the contribution of OsFd-GOGAT to rice foliar nitrogen metabolism remains little up-to-date
+    + The results in this study suggested that OsFd-GOGAT might participate in nitrogen remobilization during leaf senescence, which provides a potential way to improve nitrogen use efficiency in rice
 
 * **Connection**  
 

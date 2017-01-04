@@ -7,10 +7,10 @@ tagline:
 __The knowledge of cloned rice genes lost in the information of rice functional genomics studies__
 
 
-* [2600+ cloned rice genes](http://ricencode.github.io/geneInfo.table.txt)  
+* [2700+ cloned rice genes](http://ricencode.github.io/geneInfo.table.txt)  
 * [300+ gene families](http://ricencode.github.io/famInfo.table.txt)  
 * [900+ keywords](http://ricencode.github.io/geneKeyword.table.txt)  
-* [4200+ literatrues](http://ricencode.github.io/reference.table.txt)  
+* [4600+ literatrues](http://ricencode.github.io/reference.table.txt)  
 * [Query the Database](http://ricencode.ncpgr.cn)  
 * ywhzau at gmail.com  
 

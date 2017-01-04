@@ -5,6 +5,296 @@ comments: no
 thread: 616
 ---
 
+* 2017/Jan/2 add new pub.
+* 2017/Jan/2 add new pub.
+* 2017/Jan/2 add new pub.
+* 2017/Jan/2 add new info for gene: Pi9
+* 2017/Jan/2 add new pub.
+* 2017/Jan/2 add new info for gene: OsMADS34
+* 2017/Jan/2 add new pub.
+* 2017/Jan/2 add new pub.
+* 2017/Jan/2 add new pub.
+* 2016/Dec/27 add new info for gene: DSG1
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 TUD1 == DSG1
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new info for gene: OsFd-GOGAT
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new info for gene: pi21
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 add new info for gene: TG1
+* 2016/Dec/27 add new pub.
+* 2016/Dec/27 FON2 == FON4 == TG1
+* 2016/Dec/27 add new info for gene: OsPP2C51
+* 2016/Dec/27 add new pub.
+* 2016/Dec/24 add new gene: OsPP2C51
+* 2016/Dec/24 add new pub.
+* 2016/Dec/23 add new info for gene: SPDT
+* 2016/Dec/23 add new pub.
+* 2016/Dec/23 add new gene: SPDT
+* 2016/Dec/23 add new info for gene: OsLCB2a1
+* 2016/Dec/23 add new pub.
+* 2016/Dec/23 add new gene: OsLCB2a1
+* 2016/Dec/23 add new pub
+* 2016/Dec/23 add new pub.
+* 2016/Dec/23 add new info for gene: GN2
+* 2016/Dec/23 add new pub.
+* 2016/Dec/23 add new gene: GN2
+* 2016/Dec/17 add new reference for OsCOI1
+* 2016/Dec/16 add new info for gene: PMS1T
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 add new gene: PMS1T
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 add new info for gene: OsSPS1
+* 2016/Dec/16 add new pub.
+* 2016/Dec/16 sps1 == SPS == OsSPS1
+* 2016/Dec/14 add new pub.
+* 2016/Dec/14 add new pub.
+* 2016/Dec/14 add new pub.
+* 2016/Dec/14 add new pub.
+* 2016/Dec/14 add new info for gene: GIF2
+* 2016/Dec/14 add new pub.
+* 2016/Dec/14 OsAPL2 == osagpl2-3 == OsAGPL2 == GIF2
+* 2016/Dec/13 add new pub.
+* 2016/Dec/13 add new pub.
+* 2016/Dec/13 add new info for gene: OsERF71
+* 2016/Dec/13 add new pub.
+* 2016/Dec/10 add new pub.
+* 2016/Dec/10 add new pub.
+* 2016/Dec/10 add new pub.
+* 2016/Dec/10 add new pub.
+* 2016/Dec/10 add new accessions for OsSGL
+* 2016/Dec/10 add new info for gene: OsSGL
+* 2016/Dec/10 add new pub.
+* 2016/Dec/10 add new gene: OsSGL
+* 2016/Dec/10 add new pub.
+* 2016/Dec/6 add new info for RLS3
+* 2016/Dec/6 RLS3
+* 2016/Dec/6 add new pub.
+* 2016/Dec/6 add new pub.
+* 2016/Dec/6 add new connections between WSL4 and OsCER2
+* 2016/Dec/6 add new connections between WSL4 and OsCER2
+* 2016/Dec/6 add new connections between WSL4 and OsCER2
+* 2016/Dec/6 add new info for gene: OsCER2
+* 2016/Dec/6 add new pub.
+* 2016/Dec/6 add new gene: OsCER2
+* 2016/Dec/6 add new info for gene: WSL4
+* 2016/Dec/6 add new pub.
+* 2016/Dec/6 add new gene: WSL4
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new info for gene: SMG11
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 D2 == CYP90D2 == SMG11
+* 2016/Dec/4 add new info for gene: OsVPE3
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new info for gene: JIOsPR10
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new info for gene: TCD10
+* 2016/Dec/4 add new pub.
+* 2016/Dec/4 add new gene: TCD10
+* 2016/Nov/30 add new info for gene: OsTrxh4
+* 2016/Nov/30 add new pub.
+* 2016/Nov/30 add new gene: OsTrxh4
+* 2016/Nov/30 add new accessions for LBD12-1
+* 2016/Nov/30 add new info for gene: LBD12-1
+* 2016/Nov/30 add new pub.
+* 2016/Nov/30 add new gene: LBD12-1
+* 2016/Nov/30 add new pub.
+* 2016/Nov/30 add new pub.
+* 2016/Nov/30 add new pub.
+* 2016/Nov/30 add new info for gene: OsNAC6
+* 2016/Nov/30 add new pub.
+* 2016/Nov/29 add new info for gene: OsAMT1.1
+* 2016/Nov/29 add new pub.
+* 2016/Nov/29 add new info for gene: OsPMEI28
+* 2016/Nov/29 add new pub.
+* 2016/Nov/29 add new gene: OsPMEI28
+* 2016/Nov/29 add new pub.
+* 2016/Nov/29 add new pub.
+* 2016/Nov/28 add new pub
+* 2016/Nov/28 add new info for OsWRKY4
+* 2016/Nov/28 add new reference for OsWRKY80
+* 2016/Nov/28 add new pub.
+* 2016/Nov/28 add new pub.
+* 2016/Nov/28 add new pub.
+* 2016/Nov/25 add new pub.
+* 2016/Nov/25 add new pub.
+* 2016/Nov/25 add new family: chalcone synthase family
+* 2016/Nov/24 add new info for gene: Bph32
+* 2016/Nov/24 add new pub.
+* 2016/Nov/24 add new gene: Bph32
+* 2016/Nov/24 add new reference for OsSPL9
+* 2016/Nov/24 add new gene: OsSPL9
+* 2016/Nov/24 add new pub.
+* 2016/Nov/24 add new pub.
+* 2016/Nov/24 add new pub.
+* 2016/Nov/24 add new info for gene: OsPHR4
+* 2016/Nov/24 add new pub.
+* 2016/Nov/24 add new gene: OsPHR4
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: ONAC129
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: ONAC128
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: ONAC127
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: ONAC096
+* 2016/Nov/23 add new info for gene: ONAC023
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: ONAC023
+* 2016/Nov/23 add new info for gene: ONAC026
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: ONAC026
+* 2016/Nov/23 add new info for gene: ONAC020
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: ONAC020
+* 2016/Nov/23 add new info for gene: OsACOS12
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new gene: OsACOS12
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new info for gene: TMS5
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new pub.
+* 2016/Nov/23 add new reference for OsCesA8
+* 2016/Nov/23 add new gene: OsCesA8
+* 2016/Nov/23 add new reference for OsBUL1
+* 2016/Nov/23 add new reference for OsBC1
+* 2016/Nov/23 add new gene: OsBC1
+* 2016/Nov/23 PGL2 == OsBUL1
+* 2016/Nov/22 add google analytics
+* 2016/Nov/21 add new family: trichome birefringence like proteins
+* 2016/Nov/21 add new pub.
+* 2016/Nov/21 add new pub.
+* 2016/Nov/21 add new pub.
+* 2016/Nov/21 add new info for gene: OsTBL2
+* 2016/Nov/21 add new pub.
+* 2016/Nov/21 add new gene: OsTBL2
+* 2016/Nov/21 add new info for gene: OsTBL1
+* 2016/Nov/21 add new pub.
+* 2016/Nov/21 add new gene: OsTBL1
+* 2016/Nov/21 add new info for gene: OsNP1
+* 2016/Nov/21 add new pub.
+* 2016/Nov/21 add new gene: OsNP1
+* 2016/Nov/21 add new pub.
+* 2016/Nov/21 add new pub.
+* 2016/Nov/19 add new pub.
+* 2016/Nov/19 add new pub.
+* 2016/Nov/18 add new pub.
+* 2016/Nov/18 add new pub.
+* 2016/Nov/18 add new pub.
+* 2016/Nov/18 add new pub.
+* 2016/Nov/18 add new pub.
+* 2016/Nov/16 add new pub.
+* 2016/Nov/16 add new pub.
+* 2016/Nov/15 add new pub.
+* 2016/Nov/15 add new info for gene: RFL
+* 2016/Nov/15 add new pub.
+* 2016/Nov/15 add new pub.
+* 2016/Nov/14 add new pub.
+* 2016/Nov/14 add new pub.
+* 2016/Nov/14 add new pub.
+* 2016/Nov/14 add new pub.
+* 2016/Nov/14 add new pub.
+* 2016/Nov/14 add new gene: OsCYO1
+* 2016/Nov/14 add new pub.
+* 2016/Nov/13 add new family: respiratory burst oxidase homolog
+* 2016/Nov/13 add new accessions for BPH26
+* 2016/Nov/13 add new accessions for BPH26
+* 2016/Nov/13 add new accessions for BPH26
+* 2016/Nov/13 add new info for gene: BPH18
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 BPH26 == BPH18
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new info for gene: OsMYB1R1
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new gene: OsMYB1R1
+* 2016/Nov/13 add new family: skp1-like proteins
+* 2016/Nov/13 add new family: ribosomal protein large subunit genes
+* 2016/Nov/13 add new info for gene: OcXII
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new gene: OcXII
+* 2016/Nov/13 add new family: nucleotide pyrophosphatase/phosphodiesterases
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new info for gene: PRPL12
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new gene: PRPL12
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new pub.
+* 2016/Nov/13 add new reference for YS83
+* 2016/Nov/13 YL1 == YS83
+* 2016/Nov/12 add new info for gene: OsCOLE1
+* 2016/Nov/12 add new pub.
+* 2016/Nov/12 add new gene: OsCOLE1
+* 2016/Nov/12 add new info for gene: OsCLIP
+* 2016/Nov/12 add new pub.
+* 2016/Nov/12 add new gene: OsCLIP
+* 2016/Nov/12 add new info for gene: CSN6
+* 2016/Nov/12 add new pub.
+* 2016/Nov/12 add new gene: CSN6
+* 2016/Nov/11 add new pub.
+* 2016/Nov/11 add new family: psbr gene family
+* 2016/Nov/11 add new pub.
+* 2016/Nov/11 add new pub.
+* 2016/Nov/11 add new info for gene: OsNPF7.2
+* 2016/Nov/11 add new pub.
+* 2016/Nov/11 add new gene: OsNPF7.2
+* 2016/Nov/11 add new pub.
+* 2016/Nov/11 add new pub.
+* 2016/Nov/11 add new info for gene: OsCOL9
+* 2016/Nov/11 add new pub.
+* 2016/Nov/11 DTH2 == OsCOL9 == OsCCT08
+* 2016/Nov/9 add new pub.
+* 2016/Nov/9 add new pub.
+* 2016/Nov/9 add new pub.
+* 2016/Nov/9 add new pub.
+* 2016/Nov/6 add new pub.
+* 2016/Nov/6 add new info for gene: Xa1
+* 2016/Nov/6 add new pub.
+* 2016/Nov/6 add new pub.
+* 2016/Nov/6 add new gene: Pbcp
+* 2016/Nov/6 add new info for gene: Stn7
+* 2016/Nov/6 add new pub.
+* 2016/Nov/6 add new gene: Stn7
+* 2016/Nov/6 add new pub.
+* 2016/Nov/6 add new pub.
+* 2016/Nov/5 add new info for gene: TAC3
+* 2016/Nov/5 add new pub.
+* 2016/Nov/5 add new gene: TAC3
+* 2016/Nov/5 add new family: histone chaperones
+* 2016/Nov/5 add new pub.
+* 2016/Nov/5 fix info
+* 2016/Nov/5 Rf98 == PPR762
+* 2016/Nov/5 add new reference for Rf98
+* 2016/Nov/5 add new gene: Rf98
+* 2016/Nov/5 Rf4 == PPR782a
+* 2016/Nov/5 add new reference for OsFAD8
+* 2016/Nov/3 add new info for gene: OsNF-YB1
+* 2016/Nov/3 add new pub.
+* 2016/Nov/3 add new pub.
+* 2016/Nov/3 add new info for gene: CSV1
+* 2016/Nov/3 add new pub.
+* 2016/Nov/3 TCD5 == CSV1
 * 2016/Nov/1 add new pub.
 * 2016/Nov/1 add new pub.
 * 2016/Nov/1 add new pub.
