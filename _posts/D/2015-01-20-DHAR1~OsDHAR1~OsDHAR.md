@@ -19,7 +19,6 @@ tags: [seedling, temperature]
 
 * **Key message**  
     + The mRNA level of DHAR1, the protein level of Dhar1p and the DHAR activity in rice seedlings were elevated by high temperature, suggesting the protection role of DHAR at high temperature
-    + " The mRNA level of DHAR1, the protein level of Dhar1p and the DHAR activity in rice seedlings were elevated by high temperature, suggesting the protection role of DHAR at high temperature"
 
 * **Connection**  
 

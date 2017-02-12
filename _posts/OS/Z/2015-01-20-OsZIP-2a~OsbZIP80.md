@@ -22,7 +22,7 @@ tags:
 * **Key message**  
 
 * **Connection**  
-    + __OsZIP-2a~OsbZIP80__, __osZIP-2b__, [Characterization of three rice basic/leucine zipper factors, including two inhibitors of EmBP-1 DNA binding activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of three rice basic/leucine zipper factors, including two inhibitors of EmBP-1 DNA binding activity%5BTitle%5D),  Two other clones have been identified by screening with EmBP-1: osZIP-2a and osZIP-2b
+    + __OsZIP-2a~OsbZIP80__, __osZIP-2b__, [Characterization of three rice basic/leucine zipper factors, including two inhibitors of EmBP-1 DNA binding activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of three rice basic/leucine zipper factors, including two inhibitors of EmBP-1 DNA binding activity%5BTitle%5D), Two other clones have been identified by screening with EmBP-1: osZIP-2a and osZIP-2b
 
 * **Key figures**  
 

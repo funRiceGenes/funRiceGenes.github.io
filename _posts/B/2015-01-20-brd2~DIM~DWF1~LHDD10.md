@@ -29,7 +29,7 @@ tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, hei
     + Our data showed that lhdd10 influences heading date by controlling the expression of heading date regulators, such as OsMADS50 in both LD and SD conditions
 
 * **Connection**  
-    + __brd2~DIM~DWF1~LHDD10__, __OsMADS50~OsSOC1~DTH3__, [Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..%5BTitle%5D),  Our data showed that lhdd10 influences heading date by controlling the expression of heading date regulators, such as OsMADS50 in both LD and SD conditions
+    + __brd2~DIM~DWF1~LHDD10__, __OsMADS50~OsSOC1~DTH3__, [Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..%5BTitle%5D), Our data showed that lhdd10 influences heading date by controlling the expression of heading date regulators, such as OsMADS50 in both LD and SD conditions
 
 * **Key figures**  
 <img src="http://ricencode.github.io/images/brd2.pheno.png" alt="phenotype"  style="width: 600px;"/>

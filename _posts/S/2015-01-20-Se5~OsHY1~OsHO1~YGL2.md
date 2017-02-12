@@ -26,12 +26,10 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + Normal grown ygl2 seedlings showed yellow-green leaves with reduced contents of Chl and tetrapyrrole intermediates whereas an increase of Chl a/b ratio
     + Compared with wild-type, SE5 RNAi transgenic plants aggravated seedling growth inhibition, chlorophyll loss and ROS overproduction, and decreased the transcripts of some representative antioxidative genes
     + Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants
-    + " The herbicide methyl viologen (MV), which produces reactive oxygen species (ROS), was applied to determine whether SE5 regulates oxidative stress response
-    + Alleviation of seed germination inhibition, chlorophyll loss and ROS overproduction, as well as the induction of antioxidant defense were further observed when SE5 or HY1 was overexpressed in transgenic Arabidopsis plants, indicating that SE5 may be useful for molecular breeding designed to improve plant tolerance to oxidative stress"
+    + The herbicide methyl viologen (MV), which produces reactive oxygen species (ROS), was applied to determine whether SE5 regulates oxidative stress response
     + In addition, we found expression levels of some genes associated with Chl biosynthesis and photosynthesis were concurrently altered in ygl2 mutant
     + Rice RNAi mutants silenced for SE5 were generated and displayed early flowering under long-day conditions, consistent with phenotypes of the null mutation in SE5 gene reported previously (se5 and s73)
-    + " Alleviation of seed germination inhibition, chlorophyll loss and ROS overproduction, as well as the induction of antioxidant defense were further observed when SE5 or HY1 was overexpressed in transgenic Arabidopsis plants, indicating that SE5 may be useful for molecular breeding designed to improve plant tolerance to oxidative stress
-    + RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense"
+    + RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense
     + YGL2 was constitutively expressed in a variety of rice tissues with the highest levels in leaves and regulated by temperature
     + Here, we identified that the rice PHOTOPERIOD SENSITIVITY 5 (SE5) gene, which encoded a putative HO with high similarity to HO-1 from Arabidopsis (HY1), exhibited HO activity, and localized in the chloroplasts
     + In this study, we isolated a rice mutant named yellow-green leaf 2 (ygl2) from a (60)Co-irradiated population
@@ -40,8 +38,8 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + Comparison of se5 with hy1, a counterpart mutant of Arabidopsis, suggests distinct roles of phytochromes in the photoperiodic control of flowering in these two species
 
 * **Connection**  
-    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D),  Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants
-    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D),  Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
+    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants
+    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
 
 * **Key figures**  
 <img src="http://ricencode.github.io/images/YGL2.pheno.png" alt="phenotype"  style="width: 600px;"/>

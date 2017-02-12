@@ -25,8 +25,8 @@ tags: [seedling, shoot, root, jasmonate, submergence, growth]
     + The expression of OsPRP was relatively uniform in the young seedlings
     + However, tissue-specific expression of OsPRP indicated that shoot tissue accumulates more mRNA, and the root has relatively low expression
     + Exogenous application of growth hormones, namely abscisic acid (ABA), methyl jasmonate (MeJ) and ethephon caused significant repression of the OsPRP transcript
-    + " In addition, OsPRP expression is regulated by various environmental factors and is down-regulated under submergence stress
-    + Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)"
+    + In addition, OsPRP expression is regulated by various environmental factors and is down-regulated under submergence stress
+    + Isolation and characterization of a gene for a repetitive proline rich protein (OsPRP) down-regulated during submergence in rice (Oryza sativa)
 
 * **Connection**  
 

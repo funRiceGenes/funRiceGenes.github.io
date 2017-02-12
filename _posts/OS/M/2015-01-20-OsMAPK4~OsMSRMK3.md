@@ -23,7 +23,7 @@ tags: [panicle, salinity]
 
 * **Key message**  
     + OsMAPK4 transcripts were expressed strongly in mature leaves and weakly in young leaves and panicles
-    + " In addition, the mRNA level of OsMAPK4 was up-regulated under sugar starvation, high salinity and cold treatments"
+    + In addition, the mRNA level of OsMAPK4 was up-regulated under sugar starvation, high salinity and cold treatments
 
 * **Connection**  
 

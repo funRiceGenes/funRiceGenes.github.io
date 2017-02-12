@@ -19,9 +19,8 @@ tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor
     + [CN487723](http://www.ncbi.nlm.nih.gov/nuccore/CN487723)
 
 * **Key message**  
-    + " OsARD1 mRNA levels showed a rapid, early and transient increase upon submergence and after treatment with ethylene-releasing compounds"
-    + Northern blot and reverse transcriptase-polymerase chain reaction (RT-PCR) analysis revealed that the OsARD expression is regulated by abiotic stresses and phytohormones
     + OsARD1 mRNA levels showed a rapid, early and transient increase upon submergence and after treatment with ethylene-releasing compounds
+    + Northern blot and reverse transcriptase-polymerase chain reaction (RT-PCR) analysis revealed that the OsARD expression is regulated by abiotic stresses and phytohormones
     + OsARD1 transcripts accumulated in the presence of cycloheximide, an inhibitor of protein synthesis, indicating that OsARD1 is a primary ethylene response gene
     + Promoter analysis suggests that immediate-early regulation of OsARD1 by ethylene may involve an EIN3-like transcription factor
     + OsARD1 is induced by low levels of ethylene

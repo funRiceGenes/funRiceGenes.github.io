@@ -29,7 +29,7 @@ tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, gra
     + Here we report the cloning of An-2 gene, encoding a Lonely Guy Like protein 6 (OsLOGL6), which catalyzes the final step of cytokinin synthesis in O
 
 * **Connection**  
-    + __An-1__, __LABA1~OsLOGL6~An-2__, [An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.%5BTitle%5D),  Expressional analysis demonstrates that An-1 regulates the formation of awn primordial, and An-2 promotes awn elongation
+    + __An-1__, __LABA1~OsLOGL6~An-2__, [An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.%5BTitle%5D), Expressional analysis demonstrates that An-1 regulates the formation of awn primordial, and An-2 promotes awn elongation
 
 * **Key figures**  
 

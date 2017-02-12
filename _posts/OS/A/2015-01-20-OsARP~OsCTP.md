@@ -19,8 +19,7 @@ tags: [flower, photosynthesis, yield, salt tolerance, salt]
 * **Key message**  
     + The OsARP gene was introduced into tobacco under the control of the cauliflower mosaic virus 35S promoter
     + Overexpression of OsARP in transgenic tobacco plants resulted in salt tolerance, and the plants had a higher rate of photosynthesis and effective PSII photon yield when compared with the wild type
-    + " Overexpression of OsARP in transgenic tobacco plants resulted in salt tolerance, and the plants had a higher rate of photosynthesis and effective PSII photon yield when compared with the wild type
-    + Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco"
+    + Overexpression of a new rice vacuolar antiporter regulating protein OsARP improves salt tolerance in tobacco
 
 * **Connection**  
 

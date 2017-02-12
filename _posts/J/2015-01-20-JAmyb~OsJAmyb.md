@@ -25,14 +25,8 @@ tags: [root, transcription factor, growth, jasmonate, disease, seedling, salinit
     + Role of the rice transcription factor JAmyb in abiotic stress response
     + JAmyb has been reported to be associated with disease response
     + In rice seedlings, JAmyb expression was induced by high-salinity and high-osmotic stresses and reactive oxygen species (ROS), suggesting that JAmyb is responsible for abiotic stress response
-    + " In this study, we identified a rice R2R3-type MYB transcription factor gene, JAmyb, as a gene whose overexpression causes tolerance to high salinity
-    + In rice seedlings, JAmyb expression was induced by high-salinity and high-osmotic stresses and reactive oxygen species (ROS), suggesting that JAmyb is responsible for abiotic stress response"
     + Microarray analysis showed that the overexpression of JAmyb stimulates the expression of several defense-associated genes, some of which have been predicted to be involved in osmotic adjustment, ROS removal, and ion homeostasis
-    + " JAmyb overexpression in transgenic Arabidopsis improved tolerance to high-salinity stress during seed germination, seedling growth, and root elongation"
-    + " In rice seedlings, JAmyb expression was induced by high-salinity and high-osmotic stresses and reactive oxygen species (ROS), suggesting that JAmyb is responsible for abiotic stress response
     + Our observations suggest that JAmyb plays a role in JA-mediated abiotic stress response in addition to biotic stress response in rice
-    + Role of the rice transcription factor JAmyb in abiotic stress response"
-    + " Microarray analysis showed that the overexpression of JAmyb stimulates the expression of several defense-associated genes, some of which have been predicted to be involved in osmotic adjustment, ROS removal, and ion homeostasis"
     + After inoculation with the blast isolate Hoku1, the expression of OsJAMyb was more rapidly and strongly induced in the seedlings of blast-resistant Heikezijing compared with that in the blast-susceptible landrace Suyunuo
     + The expression of OsJAMyb gene was detected in the root, stem, leaf, sheath, immature panicle and flowering panicle of rice, with highest expression in the leaf
     + The OsJAMyb overexpressing transgenic lines (T3 generation) in Suyunuo showed increased resistance to blast infection with less lesion number in inoculated leaves compared with non-transgenic control plants

@@ -23,10 +23,9 @@ tags: [transcription factor, temperature, stress]
 
 * **Key message**  
     + OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor
-    + " The OsHSF7 gene was found to be rapidly expressed in high levels in response to temperature, which indicates that it may be involved in heat stress reception and response
+    + The OsHSF7 gene was found to be rapidly expressed in high levels in response to temperature, which indicates that it may be involved in heat stress reception and response
     + Collectively, the results of this study indicate that OsHSF7 might play an important role in the response to high temperature
     + Specifically, these findings indicate that OsHSF7 may be useful in the production of transgenic monocots that can over-express protective genes such as HSPs in response to heat stress, which will enable such plants to tolerate high temperatures
-    + OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor"
     + However, when the plant suffers heat stress, OsHSFA2d is alternatively spliced into a transcriptionally active form, OsHSFA2dI, which participates in the heat stress response (HSR)
 
 * **Connection**  

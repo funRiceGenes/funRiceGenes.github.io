@@ -21,18 +21,14 @@ tags: [temperature, transcription factor, salinity, drought, cold stress, shoot,
     + [AY345234](http://www.ncbi.nlm.nih.gov/nuccore/AY345234)
 
 * **Key message**  
-    + " Transgenic plants harbouring OsDREB1F gene led to enhanced tolerance to salt, drought, and low temperature in both rice and Arabidopsis
-    + Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice"
-    + Here, a novel rice DREB transcription factor, OsDREB1F, was cloned and characterised via subtractive suppression hybridisation (SSH) from upland rice
-    + " The semi-quantitative RT-PCR (s-Q RT-PCR) analysis indicated the expression of RCBF2 gene was induced by cold, dehydration and high-salinity, but not by abscisic acid, and the transcription of RCBF2 gene accumulated primarily in rice immature seeds, growing point and shoots"
-    + " Expression analysis revealed that OsDREB1F gene was induced by salt, drought, cold stresses, and also ABA application, but not by pathogen, wound, and H2O2
     + Transgenic plants harbouring OsDREB1F gene led to enhanced tolerance to salt, drought, and low temperature in both rice and Arabidopsis
-    + " Expression analysis revealed that OsDREB1F gene was induced by salt, drought, cold stresses, and also ABA application, but not by pathogen, wound, and H2O2"
+    + Overexpression of a rice OsDREB1F gene increases salt, drought, and low temperature tolerance in both Arabidopsis and rice
+    + Here, a novel rice DREB transcription factor, OsDREB1F, was cloned and characterised via subtractive suppression hybridisation (SSH) from upland rice
     + The semi-quantitative RT-PCR (s-Q RT-PCR) analysis indicated the expression of RCBF2 gene was induced by cold, dehydration and high-salinity, but not by abscisic acid, and the transcription of RCBF2 gene accumulated primarily in rice immature seeds, growing point and shoots
+    + Expression analysis revealed that OsDREB1F gene was induced by salt, drought, cold stresses, and also ABA application, but not by pathogen, wound, and H2O2
     + Analysis of the deduced RCBF2 amino acid sequence revealed that RCBF2 contained a conserved ethylene-responsive element binding protein (EREBP)/AP2 domain of 59 amino acids and a potential nuclear localization sequence
     + Isolated and characterization of a cDNA encoding ethylene-responsive element binding protein (EREBP)/AP2-type protein, RCBF2, in Oryza sativa L
     + A transcription factor RCBF2 which interacts with C-repeat/DRE was isolated from Oryza sativa L
-    + Expression analysis revealed that OsDREB1F gene was induced by salt, drought, cold stresses, and also ABA application, but not by pathogen, wound, and H2O2
     + Natural allelic diversity in OsDREB1F gene in the Indian wild rice germplasm led to ascertain its association with drought tolerance.
     + Three coding SNPs and one haplotype identified in the OsDREB1F gene have potential to be associated with drought tolerance in rice
     + One OsDREB1F variant in the activation domain of OsDREB1F gene which led to conversion of aspartate amino acid to glutamate was found to be associated with drought tolerance

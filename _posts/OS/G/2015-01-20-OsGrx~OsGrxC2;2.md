@@ -18,7 +18,7 @@ tags: [oxidative]
     + [D86744](http://www.ncbi.nlm.nih.gov/nuccore/D86744)
 
 * **Key message**  
-    + " Because of this antioxidant activity, OsGrx protects glutamine synthetase from oxidative damage"
+    + Because of this antioxidant activity, OsGrx protects glutamine synthetase from oxidative damage
 
 * **Connection**  
 

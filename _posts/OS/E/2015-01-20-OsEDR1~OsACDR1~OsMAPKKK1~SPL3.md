@@ -22,9 +22,9 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
     + [AY167575](http://www.ncbi.nlm.nih.gov/nuccore/AY167575)
 
 * **Key message**  
-    + " We had previously reported upregulation of the OsACDR1 transcript by a range of environmental stimuli involved in eliciting defense-related pathways
+    + We had previously reported upregulation of the OsACDR1 transcript by a range of environmental stimuli involved in eliciting defense-related pathways
     + Rice plants overexpressing OsACDR1 exhibited spontaneous hypersensitive response (HR)-like lesions on leaves, upregulation of defense-related marker genes and accumulation of phenolic compounds and secondary metabolites (phytoalexins)
-    + In contrast, loss-offunction and RNA silenced OsACDR1 rice mutant plants showed downregulation of defense-related marker genes expressions and susceptibility to M"
+    + In contrast, loss-offunction and RNA silenced OsACDR1 rice mutant plants showed downregulation of defense-related marker genes expressions and susceptibility to M
     + These results indicate that OsACDR1 plays an important role in the positive regulation of disease resistance in rice
     + Rice OsACDR1 (Oryza sativa accelerated cell death and resistance 1) is a potential positive regulator of fungal disease resistance
     + Using our established two-week-old rice seedling in vitro model system, we show that OsEDR1 has a constitutive expression in seedling leaves and is further up-regulated within 15 min upon wounding by cut, treatment with the global signals jasmonic acid (JA), salicylic acid (SA), ethylene (ethephon, ET), abscisic acid, and hydrogen peroxide
@@ -36,7 +36,7 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
     + Knockout of OsEDR1 suppressed the ACC synthase (ACS) gene family, which encodes the rate-limiting enzymes of ethylene biosynthesis by catalysing the formation of ACC
     + In the rice-Xoo interaction, OsEDR1 transcriptionally promotes the synthesis of ethylene that, in turn, suppresses SA- and JA-associated defence signalling
     + OsEDR1 negatively regulates rice bacterial resistance via activation of ethylene biosynthesis
-    + " Furthermore, using an in vivo system we also show that OsEDR1 responds to changes in temperature and environmental pollutants-ozone and sulfur dioxide"
+    + Furthermore, using an in vivo system we also show that OsEDR1 responds to changes in temperature and environmental pollutants-ozone and sulfur dioxide
     + These results suggest a role for OsEDR1 in defense/stress signalling pathways and development
     + The spl3 mutant was found to be insensitive to abscisic acid (ABA), showing normal root growth in ABA-containing media and delayed leaf yellowing during dark-induced and natural senescence
     + By contrast, in spl3 mutants grown under continuous light, severe cell death lesions formed in developing leaves, even at the seedling stage

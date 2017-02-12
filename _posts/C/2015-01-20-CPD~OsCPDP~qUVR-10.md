@@ -39,14 +39,12 @@ tags: [growth, resistant, breeding, mitochondria, chloroplast]
     + Notably, the S-C plant was not more resistant to UVB-induced growth inhibition than the S-B plant, even though it had much higher CPD photolyase activity
     + These results strongly indicate that UVB-induced CPDs are one of principal causes of UVB-induced growth inhibition in rice plants grown under supplementary UVB radiation, and that increasing CPD photolyase activity can significantly alleviate UVB-caused growth inhibition in rice
     + Increase in CPD photolyase activity functions effectively to prevent growth inhibition caused by UVB radiation
-    + " In order to verify that suggestion, we examined the correlation between UVB sensitivity and CPD photolyase activity in 17 rice cultivars of progenitors and relatives in breeding of UV-resistant Sasanishiki and UV-sensitive Norin 1"
     + These results suggest that spontaneously occurring mutations in the CPD photolyase gene cause different degrees of sensitivity to UVB in rice, and that the resistance of rice to UVB radiation could be increased by increasing the photolyase function through conventional breeding or bioengineering
     + Plants homozygous for the Nipponbare allele at the qUVR-10 locus were more resistant to UVB compared with the Kasalath allele
-    + " Here, we tested whether CPD photolyase function determines the UVB sensitivity of rice (Oryza sativa) by generating transgenic rice plants bearing the CPD photolyase gene of the UV-resistant rice cultivar Sasanishiki in the sense orientation (S-B and S-C lines) or the antisense orientation (AS-D line)
-    + Notably, the S-C plant was not more resistant to UVB-induced growth inhibition than the S-B plant, even though it had much higher CPD photolyase activity"
+    + Here, we tested whether CPD photolyase function determines the UVB sensitivity of rice (Oryza sativa) by generating transgenic rice plants bearing the CPD photolyase gene of the UV-resistant rice cultivar Sasanishiki in the sense orientation (S-B and S-C lines) or the antisense orientation (AS-D line)
 
 * **Connection**  
-    + __CPD~OsCPDP~qUVR-10__, __OsMeCP__, [Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.](http://www.ncbi.nlm.nih.gov/pubmed?term=Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.%5BTitle%5D),  Overexpression of OsMeCP led to lower Os10g0167600 transcript levels and a higher CPD content than in the WT, but the reverse was true in the OsMeCP-RNAi line
+    + __CPD~OsCPDP~qUVR-10__, __OsMeCP__, [Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.](http://www.ncbi.nlm.nih.gov/pubmed?term=Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.%5BTitle%5D), Overexpression of OsMeCP led to lower Os10g0167600 transcript levels and a higher CPD content than in the WT, but the reverse was true in the OsMeCP-RNAi line
 
 * **Key figures**  
 

@@ -5,6 +5,219 @@ comments: no
 thread: 616
 ---
 
+* 2017/Feb/11 add new pub.
+* 2017/Feb/11 add new info for gene: OsFBK1
+* 2017/Feb/11 add new pub.
+* 2017/Feb/11 add new gene: OsFBK1
+* 2017/Feb/11 add new info for gene: LRK2
+* 2017/Feb/11 add new pub.
+* 2017/Feb/11 add new gene: LRK2
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new gene: OsKSL5
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new info for gene: qCTS-9
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new gene: qCTS-9
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new pub.
+* 2017/Feb/10 add new pub.
+* 2017/Feb/9 add new family: u-box-containing proteins
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new gene: LMM5.4
+* 2017/Feb/9 add new info for gene: LMM5.1
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new gene: LMM5.1
+* 2017/Feb/9 add new info for gene: DEP1
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new info for gene: OsPUB3
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new gene: OsPUB3
+* 2017/Feb/9 add new info for gene: OsPUB2
+* 2017/Feb/9 add new pub.
+* 2017/Feb/9 add new gene: OsPUB2
+* 2017/Feb/9 add new pub.
+* 2017/Feb/7 add new info for gene: OsPLC1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new gene: OsPLC1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsLAC10
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new gene: OsLAC10
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 OsCA1 == OsbetaCA1
+* 2017/Feb/7 add new info for gene: SPL32
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 ABC1 == OsFd-GOGAT == SPL32
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsTAR1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsBT1-3
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 PNZIP == OsCRD1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsAAE3
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsPAP21b
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new gene: OsPAP21b
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsCESA9
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsSNAT1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new connections between OsRLCK185 and OsCERK1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsRLCK185
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsCERK1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: RLA1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 SMOS1 == SHB == RLA1
+* 2017/Feb/7 add new info for gene: OsCUL3a
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new gene: OsCUL3a
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsCPK17
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new gene: OsCPK17
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new gene: OsGAPDH1
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new info for gene: OsCOL10
+* 2017/Feb/7 add new pub.
+* 2017/Feb/7 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new info for gene: RGA5
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new info for gene: DRUS2
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new gene: DRUS2
+* 2017/Jan/16 add new info for gene: DRUS1
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new gene: DRUS1
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new info for gene: OsGPAT3
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new gene: OsGPAT3
+* 2017/Jan/16 add new info for gene: OsPIL16
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new info for gene: OsPORB
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new info for gene: OsPORA
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new info for gene: OsDRP1E
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new gene: OsDRP1E
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 add new info for gene: OsNAC2
+* 2017/Jan/16 add new pub.
+* 2017/Jan/16 SAPK1 == OsSAPK1
+* 2017/Jan/12 add new reference for CSP41b
+* 2017/Jan/12 CSP41b == LGL1
+* 2017/Jan/12 add new gene: CSP41b
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new info for gene: OsPHI-1
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new info for gene: OsMYC2
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new info for gene: OsMYL2
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new gene: OsMYL2
+* 2017/Jan/12 OsOsbHLH010 == OsMYL1
+* 2017/Jan/12 add new info for gene: Hd1
+* 2017/Jan/12 add new pub.
+* 2017/Jan/12 add new pub.
+* 2017/Jan/11 add new pub.
+* 2017/Jan/11 add new info for gene: OsMYB30
+* 2017/Jan/11 add new pub.
+* 2017/Jan/11 add new gene: OsMYB30
+* 2017/Jan/8 DLT == OsGRAS-32 == D62 == GS6 == SMOS2
+* 2017/Jan/8 add new info for gene: OsTrxh4
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new info for gene: OsTrxh1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new info for gene: OsAK1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new gene: OsAK1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new info for gene: OsBT1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new info for gene: OsGEN1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 OsGEN-L == OsGEN1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new info for gene: OsHAPL1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new gene: OsHAPL1
+* 2017/Jan/8 add new info for gene: RAVL1
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
+* 2017/Jan/8 add new pub.
 * 2017/Jan/2 add new pub.
 * 2017/Jan/2 add new pub.
 * 2017/Jan/2 add new pub.

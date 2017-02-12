@@ -20,7 +20,7 @@ tags: [ BR , ethylene]
     + The yeast two-hybrid assay revealed that OsGSR1 interacts with DIM/DWF1, an enzyme that catalyzes the conversion from 24-methylenecholesterol to campesterol in BR biosynthesis
 
 * **Connection**  
-    + __DWF1~DIM;DWF1~DIM__, __OsGSR1__, [OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice%5BTitle%5D),  The yeast two-hybrid assay revealed that OsGSR1 interacts with DIM/DWF1, an enzyme that catalyzes the conversion from 24-methylenecholesterol to campesterol in BR biosynthesis
+    + __DWF1~DIM;DWF1~DIM__, __OsGSR1__, [OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice%5BTitle%5D), The yeast two-hybrid assay revealed that OsGSR1 interacts with DIM/DWF1, an enzyme that catalyzes the conversion from 24-methylenecholesterol to campesterol in BR biosynthesis
 
 * **Key figures**  
 
