@@ -5,6 +5,199 @@ comments: no
 thread: 616
 ---
 
+* 2017/Mar/1 fix info
+* 2017/Mar/1 add new accessions for OsGPCR
+* 2017/Mar/1 add new pub.
+* 2017/Mar/1 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 fix info
+* 2017/Feb/27 add new info for gene: OsLBD3-7
+* 2017/Feb/27 add new pub.
+* 2017/Feb/27 PLA3 == OsLBD3-7
+* 2017/Feb/27 PLA3 == OsLBD3-7
+* 2017/Feb/27 CYP94C2a
+* 2017/Feb/27 add new info for gene: OsWAK91
+* 2017/Feb/27 add new pub.
+* 2017/Feb/27 OsDEES1 == OsWAK91
+* 2017/Feb/27 fix info
+* 2017/Feb/27 OsWAK1
+* 2017/Feb/27 add new accessions for OsWAK1
+* 2017/Feb/27 OsWAK1
+* 2017/Feb/27 add new info
+* 2017/Feb/27 add new pub.
+* 2017/Feb/27 add new info for gene: OsIDD1
+* 2017/Feb/27 add new pub.
+* 2017/Feb/27 add new gene: OsIDD1
+* 2017/Feb/27 add new info for gene: OsIDD6
+* 2017/Feb/27 add new pub.
+* 2017/Feb/27 add new gene: OsIDD6
+* 2017/Feb/27 SID1 == OsIDD4
+* 2017/Feb/27 add new info for gene: SID1
+* 2017/Feb/27 add new pub.
+* 2017/Feb/27 add new gene: SID1
+* 2017/Feb/24 add new pub.
+* 2017/Feb/24 add new pub.
+* 2017/Feb/24 add new gene: OsNLA2
+* 2017/Feb/24 add new info for gene: OsNLA1
+* 2017/Feb/24 add new pub.
+* 2017/Feb/24 add new gene: OsNLA1
+* 2017/Feb/24 add new pub.
+* 2017/Feb/24 add new info for gene: OsNAR2.1
+* 2017/Feb/24 add new pub.
+* 2017/Feb/23 add new info for gene: OsBIHD1
+* 2017/Feb/23 add new pub.
+* 2017/Feb/23 add new info for gene: TPS46
+* 2017/Feb/23 add new pub.
+* 2017/Feb/23 add new gene: TPS46
+* 2017/Feb/23 add new info for gene: OsRLCK57
+* 2017/Feb/23 add new pub.
+* 2017/Feb/23 add new info for gene: OsDjA6
+* 2017/Feb/23 add new pub.
+* 2017/Feb/23 add new gene: OsDjA6
+* 2017/Feb/22 delete files done
+* 2017/Feb/22 add new info for gene: OsDDB1
+* 2017/Feb/22 add new pub.
+* 2017/Feb/22 add new gene: OsDDB1
+* 2017/Feb/20 delete files done
+* 2017/Feb/20 add new pub.
+* 2017/Feb/20 add new gene: OsZHD8
+* 2017/Feb/20 OsBISAMT1
+* 2017/Feb/20 add new info for gene: DTE1
+* 2017/Feb/20 add new pub.
+* 2017/Feb/20 OsNIP3;1 == DTE1
+* 2017/Feb/20 add new info for gene: OsCPK9
+* 2017/Feb/20 add new pub.
+* 2017/Feb/20 add new gene: OsCPK9
+* 2017/Feb/19 fix info
+* 2017/Feb/19 D53
+* 2017/Feb/19 delete files done
+* 2017/Feb/19 add new accessions for OsBRL2
+* 2017/Feb/19 add new pub.
+* 2017/Feb/19 add new gene: OsBRL2
+* 2017/Feb/19 add new reference for OsGORK
+* 2017/Feb/19 add new reference for OsSKOR
+* 2017/Feb/19 add new gene: OsGORK
+* 2017/Feb/19 add new gene: OsSKOR
+* 2017/Feb/19 add new pub.
+* 2017/Feb/19 add new gene: TFIIE
+* 2017/Feb/19 add new pub.
+* 2017/Feb/19 WSL4 == CUT1L
+* 2017/Feb/18 add new info for gene: APIP12
+* 2017/Feb/18 add new pub.
+* 2017/Feb/18 add new gene: APIP12
+* 2017/Feb/18 add new pub.
+* 2017/Feb/17 update the interface
+* 2017/Feb/17 delete files done
+* 2017/Feb/17 add new family: fad2 genes
+* 2017/Feb/17 add new accessions for OsLOX10
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new gene: OsLOX10
+* 2017/Feb/17 add new family: at-rich interaction domain family
+* 2017/Feb/17 add new info for gene: OsARID3
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new family: drought-induced 19 gene family
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 AKR4C14 == OsI_04428 == OsAKR2
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 OsI_04429 == OsAKR3
+* 2017/Feb/17 add new reference for OsIPMDH
+* 2017/Feb/17 add new gene: OsIPMDH
+* 2017/Feb/17 add new reference for OsTDF1
+* 2017/Feb/17 add new gene: OsTDF1
+* 2017/Feb/17 add new reference for OsRHP1
+* 2017/Feb/17 add new gene: OsRHP1
+* 2017/Feb/17 add new info for gene: OsREM4.1
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new gene: OsREM4.1
+* 2017/Feb/17 add new info for gene: OsPAP10c
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new gene: OsPAP10c
+* 2017/Feb/17 add new reference for OsHI-XIP
+* 2017/Feb/17 add new gene: OsHI-XIP
+* 2017/Feb/17 add new info for gene: OsMRP5
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new info for gene: OsMRP5
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new gene: OsMRP5
+* 2017/Feb/17 add new info for gene: GRY79
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new gene: GRY79
+* 2017/Feb/17 add new reference for OsNAC52
+* 2017/Feb/17 add new gene: OsNAC52
+* 2017/Feb/17 add new info for gene: OsSHM1
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new reference for OsPLIM2a
+* 2017/Feb/17 add new gene: OsPLIM2a
+* 2017/Feb/17 add new accessions for OsMsr9
+* 2017/Feb/17 add new reference for OsMsr9
+* 2017/Feb/17 add new gene: OsMsr9
+* 2017/Feb/17 add new accessions for OsEXPB2
+* 2017/Feb/17 add new reference for OsEXPB2
+* 2017/Feb/17 add new gene: OsEXPB2
+* 2017/Feb/17 add new family: non-specific plc
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new gene: OsNPC1
+* 2017/Feb/17 add new infor
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 add new pub.
+* 2017/Feb/17 OsSPL1
+* 2017/Feb/17 add new reference for OsPEAMT1
+* 2017/Feb/17 add new reference for OsPEAMT2
+* 2017/Feb/17 add new gene: OsPEAMT2
+* 2017/Feb/17 add new gene: OsPEAMT1
+* 2017/Feb/17 add new reference for OsCMO
+* 2017/Feb/16 add new info for gene: CAR8
+* 2017/Feb/16 add new pub.
+* 2017/Feb/16 Hd5 == DTH8 == Ghd8 == OsHAP3H == LHD1 == EF8 == CAR8
+* 2017/Feb/16 add new info for gene: OsCKT1
+* 2017/Feb/16 add new pub.
+* 2017/Feb/16 OsCKT1 == OHK5 == OsHk6
+* 2017/Feb/16 add new reference for SPL33
+* 2017/Feb/16 LMM5.1 == SPL33
+* 2017/Feb/16 there are 26 rather than 24 letters
+* 2017/Feb/16 add new family: zrt and irt like proteins
+* 2017/Feb/15 uodateing
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: tmpp
+* 2017/Feb/15 add new family: mlo gene family
+* 2017/Feb/15 add new info for gene: OsCCR4b
+* 2017/Feb/15 add new pub.
+* 2017/Feb/15 add new gene: OsCCR4b
+* 2017/Feb/15 add new info for gene: OsCCR4a
+* 2017/Feb/15 add new pub.
+* 2017/Feb/15 add new gene: OsCCR4a
+* 2017/Feb/15 add new pub.
+* 2017/Feb/15 add new gene: OsNOT1
+* 2017/Feb/15 add new connections between OsBAG4 and EBR1
+* 2017/Feb/15 add new connections between OsBAG4 and EBR1
+* 2017/Feb/15 add new info for gene: OsBAG4
+* 2017/Feb/15 add new pub.
+* 2017/Feb/15 add new gene: OsBAG4
+* 2017/Feb/15 add new info for gene: EBR1
+* 2017/Feb/15 add new pub.
+* 2017/Feb/15 add new gene: EBR1
+* 2017/Feb/15 add new family: ja dependent myb transcription factor
+* 2017/Feb/14 OsPHR1 == PHR1
+* 2017/Feb/14 add new family: nox gene family
+* 2017/Feb/14 add new family: rice laccase gene family
+* 2017/Feb/14 add new pub.
+* 2017/Feb/14 add new pub.
+* 2017/Feb/14 add new pub.
+* 2017/Feb/12 fix encoding
 * 2017/Feb/11 add new pub.
 * 2017/Feb/11 add new info for gene: OsFBK1
 * 2017/Feb/11 add new pub.

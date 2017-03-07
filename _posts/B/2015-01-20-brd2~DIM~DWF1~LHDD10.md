@@ -14,6 +14,7 @@ tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, hei
 * **Publication**  
     + [The Rice brassinosteroid-deficient dwarf2 mutant, defective in the rice homolog of Arabidopsis DIMINUTO/DWARF1, is rescued by the endogenously accumulated alternative bioactive brassinosteroid, dolichosterone](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice brassinosteroid-deficient dwarf2 mutant, defective in the rice homolog of Arabidopsis DIMINUTO/DWARF1, is rescued by the endogenously accumulated alternative bioactive brassinosteroid, dolichosterone%5BTitle%5D), 2005, Plant Cell.
     + [Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..%5BTitle%5D), 2015, Plant Cell Rep.
+    + [OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice.%5BTitle%5D), 2009, Plant J.
 
 * **Genbank accession number**  
 
