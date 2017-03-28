@@ -1,7 +1,7 @@
 markdown: kramdown
 permalink: /:title/
-url: http://ricencode.github.io
-name: ricencode
+url: https://funricegenes.github.io/
+name: funRiceGenes
 author: venyao
 qq: 1481758069
 email: venyao@qq.com 
@@ -9,4 +9,4 @@ github: venyao
 highlighter: rouge
 safe: true
 paginate: 20
-about: "The knowledge of cloned rice genes lost in the information of rice functional genomics studies"
+about: "A comprehensive database of functionally characterized rice genes"
