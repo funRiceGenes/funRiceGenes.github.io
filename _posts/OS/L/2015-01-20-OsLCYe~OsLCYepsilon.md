@@ -22,7 +22,7 @@ tags:
 * **Connection**  
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsLCYe~OsLCYepsilon.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsLCYe~OsLCYepsilon.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
 
 

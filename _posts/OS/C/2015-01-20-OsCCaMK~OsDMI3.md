@@ -49,8 +49,8 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
     + __CYCLOPS~OsIPD3__, __OsCCaMK~OsDMI3__, [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), Our results suggest that CYCLOPS forms an ancient, preassembled signal transduction complex with CCaMK that is specifically required for infection, whereas organogenesis likely requires additional yet-to-be identified CCaMK interactors or substrates
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsDMI3.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsDMI3.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsDMI3.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsDMI3.exp.png" alt="expression"  style="width: 600px;"/>
 
 

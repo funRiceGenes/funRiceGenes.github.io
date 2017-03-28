@@ -31,8 +31,8 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
     + __OsJAZ8~OsTIFY10c__, __OsMYC2__, [Overexpression of OsMYC2 Results in the Up-Regulation of Early JA-Rresponsive Genes and Bacterial Blight Resistance in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsMYC2 Results in the Up-Regulation of Early JA-Rresponsive Genes and Bacterial Blight Resistance in Rice.%5BTitle%5D), The up-regulation of OsMYC2 in response to JA was regulated by OsJAZ8
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsJAZ8~OsTIFY10c.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsJAZ8~OsTIFY10c.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsJAZ8~OsTIFY10c.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsJAZ8~OsTIFY10c.exp.png" alt="expression"  style="width: 600px;"/>
 
 

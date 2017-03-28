@@ -92,8 +92,8 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
     + __Hd1__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8__, [Transcriptional and Post-transcriptional Mechanisms Limit Heading Date 1 Hd1 Function to Adapt Rice to High Latitudes.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional and Post-transcriptional Mechanisms Limit Heading Date 1 Hd1 Function to Adapt Rice to High Latitudes.%5BTitle%5D), We demonstrate that a histone fold domain scaffold formed by GRAIN YIELD, PLANT HEIGHT AND HEADING DATE 8 (Ghd8) and several NF-YC subunits can accommodate distinct proteins, including Hd1 and PSEUDO RESPONSE REGULATOR 37 (PRR37), and that the resulting OsNF-Y complex containing Hd1 can bind a specific sequence in the promoter of HEADING DATE 3A (Hd3a)
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/DTH8.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/DTH8.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/DTH8.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/DTH8.exp.png" alt="expression"  style="width: 600px;"/>
 
 

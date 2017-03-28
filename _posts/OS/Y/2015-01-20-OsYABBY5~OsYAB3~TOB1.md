@@ -36,8 +36,8 @@ tags: [lemma, spikelet, growth, meristem, flower, palea]
     + __OsMADS1~LHS1~AFO__, __OsYABBY5~OsYAB3~TOB1__, [Genome-wide targets regulated by the OsMADS1 transcription factor reveals its DNA recognition properties.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide targets regulated by the OsMADS1 transcription factor reveals its DNA recognition properties.%5BTitle%5D), We show that the expression status of these nodal factors can be altered by inducing the OsMADS1-GR fusion protein and present a model for a regulatory cascade where the direct targets of OsMADS1, OsbHLH108/SPT, OsERF034 and OsHSF24, in turn control genes such as OsMADS32 and OsYABBY5
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsYABBY5~OsYAB3~TOB1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsYABBY5~OsYAB3~TOB1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsYABBY5~OsYAB3~TOB1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsYABBY5~OsYAB3~TOB1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

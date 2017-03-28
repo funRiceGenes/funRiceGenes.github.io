@@ -40,8 +40,8 @@ tags: [seed, pollen, meiosis, anther development, growth, anther, sterility, end
     + __OsUgp1~Ugp1~UGPase1__, __OsUgp2~Ugp2__, [Rice UDP-Glucose Pyrophosphorylase1 Is Essential for Pollen Callose Deposition and Its Cosuppression Results in a New Type of Thermosensitive Genic Male Sterility](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice UDP-Glucose Pyrophosphorylase1 Is Essential for Pollen Callose Deposition and Its Cosuppression Results in a New Type of Thermosensitive Genic Male Sterility%5BTitle%5D), Expressing a double-stranded RNA interference construct in Ugp1-RI plants resulted in complete suppression of both Ugp1 and Ugp2, together with various pleiotropic developmental abnormalities, suggesting that UGPase plays critical roles in plant growth and development
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/UGPase1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/UGPase1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/UGPase1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/UGPase1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

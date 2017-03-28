@@ -1,1 +1,1 @@
-Sitemap: http://ricencode.github.io/sitemap.txt
+Sitemap: https://funricegenes.github.io/sitemap.txt

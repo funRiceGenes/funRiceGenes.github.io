@@ -24,8 +24,8 @@ tags: [spikelet number, yield, spikelet, panicle, sheath, biomass, leaf]
 * **Connection**  
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsNADH-GOGAT2.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsNADH-GOGAT2.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsNADH-GOGAT2.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsNADH-GOGAT2.exp.png" alt="expression"  style="width: 600px;"/>
 
 

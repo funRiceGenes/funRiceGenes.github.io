@@ -42,7 +42,7 @@ tags: [leaf, seed, seed development]
     + __OsAPL1~OsAGPL3~OsAGPL1__, __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, [ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.%5BTitle%5D), Yeast two-hybrid and BiFC assays verified direct interactions between OsAGPL2 and OsAGPS2b as well as OsAGPL1 and OsAGPS1, supporting the model for spatiotemporal complex formation of AGPase isoforms in rice endosperm
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsAPL1~OsAGPL1~OsAGPL3.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsAPL1~OsAGPL1~OsAGPL3.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
 
 

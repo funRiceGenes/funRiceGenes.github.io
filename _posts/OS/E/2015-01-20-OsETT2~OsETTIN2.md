@@ -37,8 +37,8 @@ tags: [ awn , leaf, vascular bundle, meristem, transcription factor]
     + __DL__, __OsETT2~OsETTIN2__, [The DROOPING LEAF and OsETTIN2 genes promote awn development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The DROOPING LEAF and OsETTIN2 genes promote awn development in rice%5BTitle%5D), OsETT2 is expressed in the awn primordium in the awned indica floret, but not in the awnless japonica floret except in the provascular bundle
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsETT2~OsETTIN2.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsETT2~OsETTIN2.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsETT2~OsETTIN2.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsETT2~OsETTIN2.exp.png" alt="expression"  style="width: 600px;"/>
 
 

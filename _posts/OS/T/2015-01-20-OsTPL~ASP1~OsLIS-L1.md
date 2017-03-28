@@ -35,8 +35,8 @@ tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, h
 * **Connection**  
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsLIS-L1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsLIS-L1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsLIS-L1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsLIS-L1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

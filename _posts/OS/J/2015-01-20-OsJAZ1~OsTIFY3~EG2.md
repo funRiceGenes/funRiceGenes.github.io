@@ -29,8 +29,8 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor ]
     + __OsMYC2__, __OsJAZ1~OsTIFY3~EG2__, [Jasmonic acid regulates spikelet development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonic acid regulates spikelet development in rice%5BTitle%5D), OsJAZ1 also interacts with OsMYC2, a transcription factor in the JA signalling pathway, and represses OsMYC2's role in activating OsMADS1, an E-class gene crucial to the spikelet development.
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsJAZ1~OsTIFY3.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsJAZ1~OsTIFY3.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsJAZ1~OsTIFY3.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsJAZ1~OsTIFY3.exp.png" alt="expression"  style="width: 600px;"/>
 
 

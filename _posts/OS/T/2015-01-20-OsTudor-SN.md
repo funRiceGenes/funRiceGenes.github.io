@@ -23,7 +23,7 @@ tags: [endosperm]
 * **Connection**  
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsTudor-SN.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsTudor-SN.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
 
 

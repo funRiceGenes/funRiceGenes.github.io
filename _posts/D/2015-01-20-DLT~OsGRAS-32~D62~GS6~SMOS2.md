@@ -54,8 +54,8 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
     + __DLT~OsGRAS-32~D62~GS6~SMOS2__, __OsBZR1__, [DWARF AND LOW-TILLERING, a new member of the GRAS family, plays positive roles in brassinosteroid signaling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=DWARF AND LOW-TILLERING, a new member of the GRAS family, plays positive roles in brassinosteroid signaling in rice%5BTitle%5D), Finally, consistent with the fact that DLT is also negatively feedback-regulated by BR treatment, a gel mobility shift assay showed that OsBZR1 can bind to the DLT promoter through the BR-response element
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/GS6.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/GS6.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/GS6.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/GS6.exp.png" alt="expression"  style="width: 600px;"/>
 
 

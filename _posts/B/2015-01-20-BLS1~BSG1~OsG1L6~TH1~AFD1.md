@@ -49,8 +49,8 @@ tags: [inflorescence, architecture, lemma, cell division, grain size, palea, gra
     + __BLS1~BSG1~OsG1L6~TH1~AFD1__, __G1__, [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D), The result showed that the th1 mutation strongly affected the morphology of the extra lemma of eg1, but had no significant effect on the transformed lemma of g1
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/BSG1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/BSG1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/BSG1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/BSG1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

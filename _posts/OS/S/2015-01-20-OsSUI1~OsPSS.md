@@ -26,8 +26,8 @@ tags:
     + __D6~OSH15~Oskn3__, __OsSUI1~OsPSS__, [SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice%5BTitle%5D), Overexpression of SUI1 and SUI2 caused outgrowths of internodes during vegetative development, and we showed that expression patterns of Oryza Sativa Homeobox 15 (OSH15) and Histone4 were impaired
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/SUI1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/SUI1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/SUI1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/SUI1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

@@ -36,8 +36,8 @@ tags: [iaa, auxin, root, height]
     + __OsARID3__, __OsYUCCA1~OsYUC1__, [OsARID3, an AT-rich Interaction Domain-containing protein, is required for shoot meristem development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsARID3, an AT-rich Interaction Domain-containing protein, is required for shoot meristem development in rice.%5BTitle%5D), Furthermore, chromatin immunoprecipitation results demonstrate that OsARID3 binds directly to the KNOXI gene OSH71, the auxin biosynthetic genes OsYUC1 and OsYUC6, and the cytokinin biosynthetic genes OsIPT2 and OsIPT7
 
 * **Key figures**  
-<img src="http://ricencode.github.io/images/OsYUCCA1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsYUCCA1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="http://ricencode.github.io/images/OsYUCCA1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="https://funricegenes.github.io/images/OsYUCCA1.exp.png" alt="expression"  style="width: 600px;"/>
 
 
