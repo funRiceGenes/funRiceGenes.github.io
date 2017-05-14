@@ -11,6 +11,7 @@ __A comprehensive database of functionally characterized rice genes__
 * 400+ gene families [[Download↓]](https://funricegenes.github.io/famInfo.table.txt)  
 * 400+ keywords [[Download↓]](https://funricegenes.github.io/geneKeyword.table.txt)  
 * 4800+ literatrues [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
+* 200+ interaction networks [[Download↓]](https://funricegenes.github.io/net.pdf)  
 * Contact: ywhzau at gmail.com   
 
   
