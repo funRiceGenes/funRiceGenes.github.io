@@ -13,8 +13,11 @@ __A comprehensive database of functionally characterized rice genes__
 * 4800+ literatrues [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
 * Contact: ywhzau at gmail.com   
 
-To interactively query this database, go to the following site!  
+  
+  
+__To interactively query this database, go to the following site!__  
 [<img src="https://funricegenes.github.io/images/shiny.png" alt="Dynamic query of this database"  style="width: 600px;"/>](http://funricegenes.ncpgr.cn)   
 
 
+  
 __If you used the data in this database, please cite [our website](https://funricegenes.github.io/) for now.__
