@@ -14,10 +14,10 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: ywhzau at gmail.com   
 
   
-<br><br>
+<br>
 __To interactively query this database, go to the following site!__  
 [<img src="https://funricegenes.github.io/images/shiny.png" alt="Dynamic query of this database"  style="width: 600px;"/>](http://funricegenes.ncpgr.cn)   
 
 
-<br><br>
+<br>
 __If you used the data in this database, please cite [our website](https://funricegenes.github.io/) for now.__
