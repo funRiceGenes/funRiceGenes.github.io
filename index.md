@@ -21,4 +21,4 @@ __To interactively query this database, go to the following site!__
 
 
 <br>
-__If you used the data in this database, please cite [our website](https://funricegenes.github.io/) for now.__
+__If you use the data in this database, please cite [our website](https://funricegenes.github.io/) for now.__
