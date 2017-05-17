@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Literatrues
+title: Literatures
 group: navigation
 ---
 
