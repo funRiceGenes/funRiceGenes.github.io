@@ -13,6 +13,7 @@ __A comprehensive database of functionally characterized rice genes__
 * 4800+ literatures [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
 * 200+ interaction networks [[Download↓]](https://funricegenes.github.io/net.pdf)  
 * Contact: ywhzau at gmail.com   
+* Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
   
 <br>
