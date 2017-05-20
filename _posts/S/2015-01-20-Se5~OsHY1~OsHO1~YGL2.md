@@ -17,6 +17,7 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), 2009, Plant Physiol.
     + [Heme oxygenase is involved in nitric oxide- and auxin-induced lateral root formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Heme oxygenase is involved in nitric oxide- and auxin-induced lateral root formation in rice%5BTitle%5D), 2012, Plant Cell Rep.
     + [RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense](http://www.ncbi.nlm.nih.gov/pubmed?term=RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense%5BTitle%5D), 2012, Plant Mol Biol.
+    + [L -cysteine desulfhydrase-related H2 S production is involved in OsSE5-promoted ammonium tolerance in roots of Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=L -cysteine desulfhydrase-related H2 S production is involved in OsSE5-promoted ammonium tolerance in roots of Oryza sativa.%5BTitle%5D), 2017, Plant Cell Environ.
 
 * **Genbank accession number**  
 
@@ -42,8 +43,8 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
 
 * **Key figures**  
-<img src="https://funricegenes.github.io/images/YGL2.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/YGL2.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="https://funricegenes.github.io/images/YGL2.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/YGL2.exp.png" alt="expression"  style="width: 600px;"/>
 
 

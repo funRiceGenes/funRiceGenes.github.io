@@ -40,8 +40,8 @@ tags: [floral, flower, vascular bundle, lemma, sheath, growth, meristem, vegetat
     + __OsYABBY1~OsYAB1__, __sd1~GA20ox2__, [The rice YABBY1 gene is involved in the feedback regulation of gibberellin metabolism](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice YABBY1 gene is involved in the feedback regulation of gibberellin metabolism%5BTitle%5D), In this report, we show that a rice (Oryza sativa) YABBY1 (YAB1) gene had a similar expression pattern as key rice GA biosynthetic genes GA3ox2 and GA20ox2
 
 * **Key figures**  
-<img src="https://funricegenes.github.io/images/OsYABBY1~OsYAB1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsYABBY1~OsYAB1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="https://funricegenes.github.io/images/OsYABBY1~OsYAB1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsYABBY1~OsYAB1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

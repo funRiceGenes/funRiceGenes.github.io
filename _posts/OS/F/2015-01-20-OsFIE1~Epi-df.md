@@ -37,8 +37,8 @@ tags: [floral, dwarf, endosperm, seed, development, transcription factor, seed d
     + __OsFIE1~Epi-df__, __OsiEZ1~OsSET1~SDG718__, [Imprinted Gene OsFIE1 Modulates Rice Seed Development by Influencing the Nutrient Metabolism and Modifying Genome H3K27me3.](http://www.ncbi.nlm.nih.gov/pubmed?term=Imprinted Gene OsFIE1 Modulates Rice Seed Development by Influencing the Nutrient Metabolism and Modifying Genome H3K27me3.%5BTitle%5D), OsFIE1 specifically expressed in endosperm, and mRNA of OsFIE1 also enriched in inner seed coat with the corresponding PcG members of OsiEZ1 and OsCLF
 
 * **Key figures**  
-<img src="https://funricegenes.github.io/images/OsFIE1~Epi-df.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsFIE1~Epi-df.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="https://funricegenes.github.io/images/OsFIE1~Epi-df.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsFIE1~Epi-df.exp.png" alt="expression"  style="width: 600px;"/>
 
 

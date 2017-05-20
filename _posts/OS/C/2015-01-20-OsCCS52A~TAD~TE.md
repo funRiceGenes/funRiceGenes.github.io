@@ -35,7 +35,6 @@ tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endospe
 * **Connection**  
     + __OsCCS52A~TAD~TE__, __OsCDC27__, [The SnRK2-APC/CTE regulatory module mediates the antagonistic action of gibberellic acid and abscisic acid pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK2-APC/CTE regulatory module mediates the antagonistic action of gibberellic acid and abscisic acid pathways%5BTitle%5D), Yeast two-hybrid assay showing that TE interacts with MOC1 and OsCDC27, but not with MOC1d and MOC1-m
     + __MOC1__, __OsCCS52A~TAD~TE__, [Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1%5BTitle%5D), TE physically interacts with MOC1 and OsCDC27
-    + __OsCCS52A~TAD~TE__, __OsDRM2__, [The ortholog of DDM1 is mainly required for CHG and CG methylation of heterochromatin and is involved in DRM2-mediated CHH methylation that targets mostly genic regions of the rice genome.](http://www.ncbi.nlm.nih.gov/pubmed?term=The ortholog of DDM1 is mainly required for CHG and CG methylation of heterochromatin and is involved in DRM2-mediated CHH methylation that targets mostly genic regions of the rice genome.%5BTitle%5D), Here, we analyzed the function of OsDDM1 and OsDRM2 in genome-wide DNA methylation, TE repression, small RNA accumulation, and gene expression
 
 * **Key figures**  
 

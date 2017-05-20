@@ -17,6 +17,7 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
     + [Negative regulation of defense responses in plants by a conserved MAPKK kinase](http://www.ncbi.nlm.nih.gov/pubmed?term=Negative regulation of defense responses in plants by a conserved MAPKK kinase%5BTitle%5D), 2001, Proc Natl Acad Sci U S A.
     + [Rice OsACDR1 Oryza sativa accelerated cell death and resistance 1 is a potential positive regulator of fungal disease resistance](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice OsACDR1 Oryza sativa accelerated cell death and resistance 1 is a potential positive regulator of fungal disease resistance%5BTitle%5D), 2009, Mol Cells.
     + [Mutation of SPOTTED LEAF3 SPL3 impairs abscisic acid-responsive signalling and delays leaf senescence in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of SPOTTED LEAF3 SPL3 impairs abscisic acid-responsive signalling and delays leaf senescence in rice.%5BTitle%5D), 2015, J Exp Bot.
+    + [Genetic analysis and identification of candidate genes for two spotted-leaf mutants spl101 and spl102 in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic analysis and identification of candidate genes for two spotted-leaf mutants spl101 and spl102 in rice.%5BTitle%5D), 2017, Yi Chuan.
 
 * **Genbank accession number**  
     + [AY167575](http://www.ncbi.nlm.nih.gov/nuccore/AY167575)
@@ -44,12 +45,13 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
     + Mutation of SPOTTED LEAF3 (SPL3) impairs abscisic acid-responsive signalling and  delays leaf senescence in rice
     + Furthermore, the spl3 mutant had lower transcript levels and activities of catalases, which scavenge hydrogen peroxide, probably due to impairment of ABA-responsive signalling
     + Finally, a possible molecular mechanism of lesion formation in the mature leaves of spl3 mutant is discussed
+    + Here, two newly identified alleles of OsEDR1 will be benefit for further understanding the molecular mechanisms of the OsEDR1 gene in disease resistance, and will be helpful for enriching the rice germplasm resources
 
 * **Connection**  
 
 * **Key figures**  
-<img src="https://funricegenes.github.io/images/OsEDR1~OsACDR1.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsEDR1~OsACDR1.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="https://funricegenes.github.io/images/OsEDR1~OsACDR1.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsEDR1~OsACDR1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

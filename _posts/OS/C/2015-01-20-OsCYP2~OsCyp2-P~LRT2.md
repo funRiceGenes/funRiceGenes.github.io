@@ -3,7 +3,7 @@ layout: post
 title: "OsCYP2,OsCyp2-P,LRT2"
 description: ""
 category: genes
-tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic stress, growth, root, shoot, homeostasis, tolerance, stress, development, root development]
+tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic stress, growth, root, shoot, homeostasis, tolerance, stress, development, root development, iaa, zinc, R protein, nucleus, IAA]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic st
     + [Proteomic identification of OsCYP2, a rice cyclophilin that confers salt tolerance in rice Oryza sativa L. seedlings when overexpressed](http://www.ncbi.nlm.nih.gov/pubmed?term=Proteomic identification of OsCYP2, a rice cyclophilin that confers salt tolerance in rice Oryza sativa L. seedlings when overexpressed%5BTitle%5D), 2011, BMC Plant Biol.
     + [Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of a cyclophilin OsCyp2-P isolated from a salt-tolerant landrace of rice in tobacco alleviates stress via ion homeostasis and limiting ROS accumulation.%5BTitle%5D), 2014, Funct Integr Genomics.
     + [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D), 2015, Nat Commun.
+    + [A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.%5BTitle%5D), 2017, J Integr Plant Biol.
 
 * **Genbank accession number**  
     + [AK061894](http://www.ncbi.nlm.nih.gov/nuccore/AK061894)
@@ -36,6 +37,10 @@ tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic st
     + The overall results suggest the explicit role of OsCyp2-P in bestowing multiple abiotic stress tolerance at the whole plant level
     + Publicly available massively parallel signature sequencing (MPSS) and microarray data, besides our quantitative real time PCR (qRT-PCR) data suggest that transcript abundance of OsCyp2-P is regulated under different stress conditions in a developmental and organ specific manner
     + Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development
+    + To better understand the molecular mechanisms underlying lateral root formation, an auxin-responsive gene OsCYP2 (Os02g0121300) was characterized from rice
+    + T2 OsZFP-RNAi lines had significantly fewer lateral roots than did wild-type plants, which suggests a role for OsCYP2 and OsZFP in regulating lateral root development
+    + These findings imply that OsCYP2 and OsZFP participate in IAA signal pathways controlling lateral root development
+    + Yeast two-hybrid and glutathione S-transferase pull-down results confirmed that OsCYP2 interacted with a C2HC-type zinc finger protein (OsZFP, Os01g0252900) which is located in the rice nucleus
 
 * **Connection**  
     + __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D), Here we show that peptidyl-prolyl isomerization of rice OsIAA11 catalysed by LATERAL ROOTLESS2 (LRT2), a cyclophilin-type peptidyl-prolyl cis/trans isomerase, directly regulates the stability of OsIAA11
@@ -43,6 +48,11 @@ tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic st
     + __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D), The lrt2 mutation reduces OsTIR1-OsIAA11 interaction and consequently causes the accumulation of a higher level of OsIAA11 protein
     + __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D), Moreover, knockdown of the OsIAA11 expression partially rescues the lrt2 mutant phenotype in lateral root development
     + __OsCYP2~OsCyp2-P~LRT2__, __OsTIR1__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling](http://www.ncbi.nlm.nih.gov/pubmed?term=Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling%5BTitle%5D), The lrt2 mutation reduces OsTIR1-OsIAA11 interaction and consequently causes the accumulation of a  higher level of OsIAA11 protein.
+    + __OsCYP2~OsCyp2-P~LRT2__, __OsZFP__, [A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.%5BTitle%5D),  Yeast two-hybrid and GST pull-down results confirmed that OsCYP2 interacted with a C2HC-type zinc finger protein (OsZFP, Os01g0252900) which is located in the rice nucleus
+    + __OsCYP2~OsCyp2-P~LRT2__, __OsZFP__, [A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.%5BTitle%5D),  T2 OsZFP-RNAi lines had significantly fewer lateral roots than did wild type plants, which suggests a role for OsCYP2 and OsZFP in regulating lateral root development
+    + __OsCYP2~OsCyp2-P~LRT2__, __OsZFP__, [A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.%5BTitle%5D),  These findings imply that OsCYP2 and OsZFP participate in IAA signal pathways controlling lateral root development
+    + __OsCYP2~OsCyp2-P~LRT2__, __OsZFP__, [A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.%5BTitle%5D),  Yeast two-hybrid and glutathione S-transferase pull-down results confirmed that OsCYP2 interacted with a C2HC-type zinc finger protein (OsZFP, Os01g0252900) which is located in the rice nucleus
+    + __OsCYP2~OsCyp2-P~LRT2__, __OsZFP__, [A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.%5BTitle%5D),  T2 OsZFP-RNAi lines had significantly fewer lateral roots than did wild-type plants, which suggests a role for OsCYP2 and OsZFP in regulating lateral root development
 
 * **Key figures**  
 

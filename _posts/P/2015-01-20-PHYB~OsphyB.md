@@ -3,7 +3,7 @@ layout: post
 title: "PHYB,OsphyB"
 description: ""
 category: genes
-tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flowering time, floral, drought, sheath, drought tolerance, gibberellin, root, leaf, erect, stomata, stomatal, branching, leaf senescence]
+tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flowering time, floral, drought, sheath, drought tolerance, gibberellin, root, leaf, erect, stomata, stomatal, branching, leaf senescence, tolerance, reactive oxygen species]
 ---
 
 * **Information**  
@@ -26,6 +26,7 @@ tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flower
     + [Comprehensive metabolite profiling of phyA phyB phyC triple mutants to reveal their associated metabolic phenotype in rice leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Comprehensive metabolite profiling of phyA phyB phyC triple mutants to reveal their associated metabolic phenotype in rice leaves%5BTitle%5D), 2009, J Biosci Bioeng.
     + [Phytochrome B Mediates the Regulation of Chlorophyll Biosynthesis through Transcriptional Regulation of ChlH and GUN4 in Rice Seedlings.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phytochrome B Mediates the Regulation of Chlorophyll Biosynthesis through Transcriptional Regulation of ChlH and GUN4 in Rice Seedlings.%5BTitle%5D), 2015, PLoS One.
     + [Rice Phytochrome B OsPhyB Negatively Regulates Dark- and Starvation-Induced Leaf Senescence.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Phytochrome B OsPhyB Negatively Regulates Dark- and Starvation-Induced Leaf Senescence.%5BTitle%5D), 2015, Plants (Basel).
+    + [OsPhyB-Mediating Novel Regulatory Pathway for Drought Tolerance in Rice Root Identified by a Global RNA-Seq Transcriptome Analysis of Rice Genes in Response to Water Deficiencies.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPhyB-Mediating Novel Regulatory Pathway for Drought Tolerance in Rice Root Identified by a Global RNA-Seq Transcriptome Analysis of Rice Genes in Response to Water Deficiencies.%5BTitle%5D), 2017, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AB109892](http://www.ncbi.nlm.nih.gov/nuccore/AB109892)
@@ -59,6 +60,7 @@ tags: [growth, flower, ethylene, heading date,  ga , seedling, phosphate, flower
     + Distinct metabolic profiles between phyA phyB phyC triple mutants and the wild type (WT), as well as those between young and mature leaf blades, could be clearly observed by principal component analysis (PCA)
     + These results suggest that phyB mediates the regulation of chlorophyll synthesis through transcriptional regulation of these two genes, whose products exert their action at the branching point of the chlorophyll biosynthesis pathway
     + The RT-qPCR analysis revealed that several senescence-associated genes, including OsORE1 and OsEIN3, were significantly up-regulated in osphyB-2 mutants, indicating that OsPhyB also inhibits leaf senescence, like Arabidopsis PhyB
+    + Unlike previous result, we found that OsPhyB represses the activity of ascorbate peroxidase and catalase mediating reactive oxygen species (ROS) processing machinery required for drought tolerance of roots in soil condition, suggesting the potential significance of remaining uncharacterized candidate genes for manipulating drought tolerance in rice
 
 * **Connection**  
     + __Hd3a__, __PHYB~OsphyB__, [Phytochrome B regulates Heading date 1 Hd1-mediated expression of rice florigen Hd3a and critical day length in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Phytochrome B regulates Heading date 1 Hd1-mediated expression of rice florigen Hd3a and critical day length in rice%5BTitle%5D), Here, we report that phytochrome B (phyB)-mediated suppression of Hd3a is a primary cause of long-day suppression of flowering in rice, based on the three complementary discoveries

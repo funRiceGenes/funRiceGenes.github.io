@@ -60,8 +60,8 @@ tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, r
     + __NAL2~OsWOX3A~WOX3__, __OsFMO~OsCOW1~NAL7__, [Genetic analysis of rice mutants responsible for narrow leaf phenotype and reduced vein number.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic analysis of rice mutants responsible for narrow leaf phenotype and reduced vein number.%5BTitle%5D), In addition, observations of inner tissues revealed that cell differentiation was partially compromised in the nal2 nal3 nal7 mutant, consistent with the severe reduction in leaf width in this triple mutant
 
 * **Key figures**  
-<img src="https://funricegenes.github.io/images/WOX3.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/WOX3.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="https://funricegenes.github.io/images/WOX3.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/WOX3.exp.png" alt="expression"  style="width: 600px;"/>
 
 

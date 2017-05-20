@@ -44,8 +44,8 @@ tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative]
 * **Connection**  
 
 * **Key figures**  
-<img src="https://funricegenes.github.io/images/OsALDH7~OsALDH7B6~ALDH7B7.pheno.png" alt="phenotype"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsALDH7~OsALDH7B6~ALDH7B7.pheno.png" alt="phenotype"  style="width: 600px;"/>
 
-<img src="https://funricegenes.github.io/images/OsALDH7~OsALDH7B6~ALDH7B7.exp.png" alt="expression"  style="width: 600px;"/>
+<img src="http://funRiceGenes.github.io/images/OsALDH7~OsALDH7B6~ALDH7B7.exp.png" alt="expression"  style="width: 600px;"/>
 
 
