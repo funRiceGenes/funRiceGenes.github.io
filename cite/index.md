@@ -4,7 +4,7 @@ title: Citations
 group: navigation
 ---
 
-**Publications that cite the RICENCODE database:**  
+**Publications that cite the funRiceGenes database:**  
 
 1. Zong, W., Tang, N., Yang, J., Peng, L., Ma, S., Xu, Y., Li, G. and Xiong, L. [Feedback Regulation of ABA Signaling and Biosynthesis by a bZIP Transcription Factor Targets Drought-Resistance-Related Genes](http://www.plantphysiol.org/content/early/2016/06/20/pp.16.00469.abstract), 2016, Plant physiology.
 2. Daware, A., Das, S., Srivastava, R., Badoni, S., Singh, A.K., Agarwal, P., Parida, S.K. and Tyagi, A.K. [An Efficient Strategy Combining SSR Markers- and Advanced QTL-seq-driven QTL Mapping Unravels Candidate Genes Regulating Grain Weight in Rice](http://journal.frontiersin.org/article/10.3389/fpls.2016.01535/full), 2016, Frontiers in plant science.
