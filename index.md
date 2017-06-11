@@ -40,7 +40,7 @@ __If you find any error information in our database or any functionally characte
 <br>
 <label>
 <span>&nbsp;</span>
-<input type="button" class="button" value="Send" />
+<button type="submit">Send</button>
 </label>
 </form>
 
