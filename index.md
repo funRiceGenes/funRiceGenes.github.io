@@ -27,7 +27,7 @@ __To interactively query this database, go to the following site!__
 
 <br>
 __If you find any error information in our database or any functionally characterized rice genes missing from our database, please leave us a message.__
-<form action="http://formspree.io/venyao@qq.com" method="POST" class="STYLE-NAME">
+<form action="http://formspree.io/venyao@qq.com" method="POST" class="dark-matter">
 <label>
 <span>Your Email :</span>
 <input id="email" type="email" name="email" placeholder="Valid Email Address" />
