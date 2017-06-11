@@ -22,4 +22,13 @@ __To interactively query this database, go to the following site!__
 
 
 <br>
+__If you find any error information in our database or any functionally characterized rice genes missing from our database, please leave us a message.__
+<form method="POST" action="http://formspree.io/venyao@qq.com">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Your message"></textarea>
+  <button type="submit">Send</button>
+</form>
+
+
+<br>
 __If you use the data in this database, please cite [our website](https://funricegenes.github.io/) for now.__
