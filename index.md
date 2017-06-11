@@ -4,6 +4,10 @@ title: Welcome to funRiceGenes!
 tagline: 
 ---
 
+<head>
+<meta name="referrer" content="origin">
+</head>
+
 __A comprehensive database of functionally characterized rice genes__
 
 
