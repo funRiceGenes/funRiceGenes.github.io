@@ -38,7 +38,7 @@ __If you find any error information in our database or any functionally characte
 </label>
 <label>
 <span>&nbsp;</span>
-<button type="submit">Send</button>
+<button type="submit" class="button">Send</button>
 </label>
 </form>
 
