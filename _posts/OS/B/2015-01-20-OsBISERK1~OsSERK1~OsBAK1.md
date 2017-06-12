@@ -3,7 +3,7 @@ layout: post
 title: "OsBISERK1,OsSERK1,OsBAK1"
 description: ""
 category: genes
-tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, defense, blast, seed, grain, yield, height, seedling, breeding, grain yield, disease, growth, dwarf, erect, root, leaf development, development, angle of the lamina joint, lamina joint]
+tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, defense, blast, seed, grain, yield, height, seedling, breeding, grain yield, disease, growth, dwarf, erect, root, leaf development, development, angle of the lamina joint, lamina joint, grain size]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, def
     + [A subset of OsSERK genes, including OsBAK1, affects normal growth and leaf development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A subset of OsSERK genes, including OsBAK1, affects normal growth and leaf development of rice%5BTitle%5D), 2011, Mol Cells.
     + [Molecular characterization and expression analysis of OsBISERK1, a gene encoding a leucine-rich repeat receptor-like kinase, during disease resistance responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization and expression analysis of OsBISERK1, a gene encoding a leucine-rich repeat receptor-like kinase, during disease resistance responses in rice%5BTitle%5D), 2008, Mol Biol Rep.
     + [OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae%5BTitle%5D), 2014, J Integr Plant Biol.
+    + [08SG2/OsBAK1 regulates grain size and number, and functions differently in Indica and Japonica backgrounds in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=08SG2/OsBAK1 regulates grain size and number, and functions differently in Indica and Japonica backgrounds in rice.%5BTitle%5D), 2017, Rice (N Y).
 
 * **Genbank accession number**  
     + [AY463361](http://www.ncbi.nlm.nih.gov/nuccore/AY463361)
@@ -48,6 +49,7 @@ tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, def
     + Overexpression of a truncated intracellular domain of OsBAK1, but not the extracellular domain of OsBAK1, resulted in a dwarfed phenotype, similar to the rice BR-insensitive mutant plants
     + OsSERK1 regulates rice development but not immunity to Xanthomonas oryzae pv. oryzae or Magnaporthe oryzae
     + Overexpression of OsSerk1 results in a semi-dwarf phenotype whereas silencing of OsSerk1 results in a reduced angle of the lamina joint.
+    + The grain size and number of knockout mutants of OsBAK1 in the japonica background were significantly decreased, but less so than in 08sg2, supporting the idea that the SNP in OsBAK1 was responsible for the 08sg2 phenotype, but that 08SG2/OsBAK1 function differently in indica and japonica backgrounds
 
 * **Connection**  
     + __OsBISERK1~OsSERK1~OsBAK1__, __OsSERK2__, [Expression of SERK family receptor-like protein kinase genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of SERK family receptor-like protein kinase genes in rice%5BTitle%5D), In this study, we isolated two novel rice genes, OsSERK1 and OsSERK2, belonging to the SERK-family
