@@ -32,12 +32,10 @@ __If you find any error information in our database or any functionally characte
 <span>Your Email :</span>
 <input id="email" type="email" name="email" placeholder="Valid Email Address" />
 </label>
-<br>
 <label>
 <span>Message :</span>
 <textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
 </label>
-<br>
 <label>
 <span>&nbsp;</span>
 <button type="submit">Send</button>
