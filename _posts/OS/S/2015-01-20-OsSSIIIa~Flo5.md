@@ -37,6 +37,6 @@ tags: [endosperm, starch, seed]
     + __ALK~SSIIa__, __OsSSIIIa~Flo5__, [Double repression of soluble starch synthase genes SSIIa and SSIIIa in rice Oryza sativa L. uncovers interactive effects on the physicochemical properties of starch](http://www.ncbi.nlm.nih.gov/pubmed?term=Double repression of soluble starch synthase genes SSIIa and SSIIIa in rice Oryza sativa L. uncovers interactive effects on the physicochemical properties of starch%5BTitle%5D), Collectively, the data showed that SSIIa and SSIIIa play distinctive, but partially overlapping, roles during rice grain starch synthesis
     + __ALK~SSIIa__, __OsSSIIIa~Flo5__, [Double repression of soluble starch synthase genes SSIIa and SSIIIa in rice Oryza sativa L. uncovers interactive effects on the physicochemical properties of starch](http://www.ncbi.nlm.nih.gov/pubmed?term=Double repression of soluble starch synthase genes SSIIa and SSIIIa in rice Oryza sativa L. uncovers interactive effects on the physicochemical properties of starch%5BTitle%5D), Double repression of soluble starch synthase genes SSIIa and SSIIIa in rice (Oryza sativa L.) uncovers interactive effects on the physicochemical properties of starch
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

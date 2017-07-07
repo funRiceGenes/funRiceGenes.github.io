@@ -22,6 +22,6 @@ tags: [seedling, shoot]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

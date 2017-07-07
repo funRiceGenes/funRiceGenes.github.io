@@ -23,6 +23,6 @@ tags:
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

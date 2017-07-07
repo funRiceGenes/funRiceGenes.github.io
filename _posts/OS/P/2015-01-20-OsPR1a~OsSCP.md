@@ -41,6 +41,6 @@ tags: [leaf,  sa , jasmonic acid, jasmonic, phytohormone,  pi , ethylene, salicy
     + __ONAC122~OsNAC10__, __OsPR1a~OsSCP__, [Functions of rice NAC transcriptional factors, ONAC122 and ONAC131, in defense responses against Magnaporthe grisea](http://www.ncbi.nlm.nih.gov/pubmed?term=Functions of rice NAC transcriptional factors, ONAC122 and ONAC131, in defense responses against Magnaporthe grisea%5BTitle%5D), OsLOX, OsPR1a, OsWRKY45 and OsNH1) were down-regulated in plants silenced for ONAC122 or ONAC131 expression via the BMV-based silencing system
     + __OsMPK6~OsMPK4__, __OsPR1a~OsSCP__, [Opposite functions of a rice mitogen-activated protein kinase during the process of resistance against Xanthomonas oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=Opposite functions of a rice mitogen-activated protein kinase during the process of resistance against Xanthomonas oryzae%5BTitle%5D), Xoo infection induced the expression of PR1a, the marker gene of systemic acquired resistance (SAR), in systemic health tissues of OsMPK6-knock-out plants
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

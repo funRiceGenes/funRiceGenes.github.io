@@ -38,6 +38,6 @@ tags: [seed]
     + __alphaAmy3~OsAmy3D~RAmy3D__, __Sub1A__, [Regulatory interplay of the Sub1A and CIPK15 pathways in the regulation of alpha-amylase production in flooded rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory interplay of the Sub1A and CIPK15 pathways in the regulation of alpha-amylase production in flooded rice plants%5BTitle%5D), CIPK15 is likely to play a role in the up-regulation of Ramy3D in flooding-intolerant rice varieties that display fast elongation under flooding and that do not possess Sub1A
     + __alphaAmy3~OsAmy3D~RAmy3D__, __OsHXK7__, [Role of rice cytosolic hexokinase OsHXK7 in sugar signaling and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Role of rice cytosolic hexokinase OsHXK7 in sugar signaling and metabolism.%5BTitle%5D), According to transient expression assays that used the promoter:luciferase fusion construct, OsHXK7 enhanced the glucose (Glc)-dependent repression of a rice α-amylase gene (RAmy3D) in the mesophyll protoplasts of maize, but its catalytically inactive mutant alleles did not
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

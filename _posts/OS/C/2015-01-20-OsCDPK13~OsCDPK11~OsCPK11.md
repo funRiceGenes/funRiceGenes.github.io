@@ -52,6 +52,6 @@ tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, droug
     + __OsCDPK13~OsCDPK11~OsCPK11__, __OsCDPK2~OsCPK2__, [Rice calcium-dependent protein kinase isoforms OsCDPK2 and OsCDPK11 show different responses to light and different expression patterns during seed development](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice calcium-dependent protein kinase isoforms OsCDPK2 and OsCDPK11 show different responses to light and different expression patterns during seed development%5BTitle%5D), OsCDPK2 and OsCDPK11 mRNA and protein levels increased in unison during flower development
     + __OsCDPK13~OsCDPK11~OsCPK11__, __OsCDPK2~OsCPK2__, [Rice calcium-dependent protein kinase isoforms OsCDPK2 and OsCDPK11 show different responses to light and different expression patterns during seed development](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice calcium-dependent protein kinase isoforms OsCDPK2 and OsCDPK11 show different responses to light and different expression patterns during seed development%5BTitle%5D), Rice calcium-dependent protein kinase isoforms OsCDPK2 and OsCDPK11 show different responses to light and different expression patterns during seed development
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

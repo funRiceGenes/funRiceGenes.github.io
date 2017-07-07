@@ -48,6 +48,6 @@ tags: [magnaporthe oryzae, defense response, blight, nitrogen, oxidative, diseas
     + __CEBiP~OsCEBiP__, __OsRacGEF1__, [An OsCEBiP/OsCERK1-OsRacGEF1-OsRac1 module is an essential early component of chitin-induced rice immunity.](http://www.ncbi.nlm.nih.gov/pubmed?term=An OsCEBiP/OsCERK1-OsRacGEF1-OsRac1 module is an essential early component of chitin-induced rice immunity.%5BTitle%5D), Collectively, our results suggest that OsCEBiP, OsCERK1, OsRacGEF1, and OsRac1 function as key components of a &quot;defensome&quot; critically engaged early during chitin-induced immunity
     + __CEBiP~OsCEBiP__, __OsCERK1__, [The rice LysM receptor-like kinase OsCERK1 is required for the perception of short-chain chitin oligomers in arbuscular mycorrhizal signaling.](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice LysM receptor-like kinase OsCERK1 is required for the perception of short-chain chitin oligomers in arbuscular mycorrhizal signaling.%5BTitle%5D),  By contrast, rice lines mutated in OsCEBiP, encoding the LysM receptor-like protein which associates with OsCERK1 to perceive chitin elicitors of the host immune defense pathway, responded positively to Myc-COs
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

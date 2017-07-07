@@ -44,6 +44,6 @@ tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

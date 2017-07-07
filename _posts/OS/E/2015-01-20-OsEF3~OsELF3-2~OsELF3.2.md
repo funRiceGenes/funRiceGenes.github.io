@@ -28,6 +28,6 @@ tags: [grain weight, root, heading date, grain, root development, cell division,
     + __Hd17~Ef7~OsELF3-1~OsELF3.1__, __OsEF3~OsELF3-2~OsELF3.2__, [OsELF3-1, an ortholog of Arabidopsis early flowering 3, regulates rice circadian rhythm and photoperiodic flowering](http://www.ncbi.nlm.nih.gov/pubmed?term=OsELF3-1, an ortholog of Arabidopsis early flowering 3, regulates rice circadian rhythm and photoperiodic flowering%5BTitle%5D), Here, we performed a functional characterization of OsELF3-1 and revealed it plays a more predominant role than OsELF3-2 in rice heading
     + __APIP6__, __OsEF3~OsELF3-2~OsELF3.2__, [OsELF3-2, an ortholog of Arabidopsis ELF3, interacts with the E3 ligase APIP6 and negatively regulates immunity against Magnaporthe oryzae in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsELF3-2, an ortholog of Arabidopsis ELF3, interacts with the E3 ligase APIP6 and negatively regulates immunity against Magnaporthe oryzae in rice%5BTitle%5D), OsELF3-2 interacts with APIP6 and negatively regulates basal resistance against Magnaporthe oryzae.
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

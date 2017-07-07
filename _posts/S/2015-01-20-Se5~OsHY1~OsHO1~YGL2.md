@@ -42,9 +42,9 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants
     + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/YGL2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/YGL2.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/YGL2.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/YGL2.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 

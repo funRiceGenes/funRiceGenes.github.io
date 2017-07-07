@@ -133,6 +133,6 @@ tags: [homeostasis, temperature, disease resistance, abiotic stress, salt, phosp
     + __OsMPK6~OsMPK4__, __OsMSRMK2~OsMAP1~OsMPK5~OsMAPK2~OsMAPK5~OsBIMK1~OsMPK3__, [A redox-sensitive cysteine residue regulates the kinase activities of OsMPK3 and OsMPK6 in vitro.](http://www.ncbi.nlm.nih.gov/pubmed?term=A redox-sensitive cysteine residue regulates the kinase activities of OsMPK3 and OsMPK6 in vitro.%5BTitle%5D), Two subgroup A rice mitogen-activated protein kinases (MAPKs), OsMPK3 and OsMPK6, have been implicated in multiple stress responses
     + __OsMPK6~OsMPK4__, __OsMSRMK2~OsMAP1~OsMPK5~OsMAPK2~OsMAPK5~OsBIMK1~OsMPK3__, [A redox-sensitive cysteine residue regulates the kinase activities of OsMPK3 and OsMPK6 in vitro.](http://www.ncbi.nlm.nih.gov/pubmed?term=A redox-sensitive cysteine residue regulates the kinase activities of OsMPK3 and OsMPK6 in vitro.%5BTitle%5D), Among the six conserved cysteine residues, only the fourth cysteine residues in the kinase domain VII, Cys(179) and Cys(210), were required for the in vitro kinase activities of OsMPK3 and OsMPK6, respectively
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

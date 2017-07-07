@@ -25,6 +25,6 @@ tags: [ ga ]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

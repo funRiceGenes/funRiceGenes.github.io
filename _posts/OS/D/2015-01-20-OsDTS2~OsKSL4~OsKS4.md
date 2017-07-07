@@ -31,6 +31,6 @@ tags: [growth, root]
     + __MAS__, __OsDTS2~OsKSL4~OsKS4__, [OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTGAP1, a bZIP transcription factor, coordinately regulates the inductive production of diterpenoid phytoalexins in rice%5BTitle%5D), The knock-out mutant for OsTGAP1 had almost no expression of the five clustered genes (OsCPS4, OsKSL4, CYP99A2, CYP99A3, and OsMAS) or production of momilactones upon elicitor treatment
     + __OsCPS4~OsCyc1__, __OsDTS2~OsKSL4~OsKS4__, [Genetic evidence for natural product-mediated plant-plant allelopathy in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic evidence for natural product-mediated plant-plant allelopathy in rice Oryza sativa%5BTitle%5D), Here, we apply reverse genetics, using knock-outs of the relevant diterpene synthases (copalyl diphosphate synthase 4 (OsCPS4) and kaurene synthase-like 4 (OsKSL4)), to demonstrate that rice momilactones are involved in allelopathy, including suppressing growth of the widespread rice paddy weed, barnyard grass (Echinochloa crus-galli)
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

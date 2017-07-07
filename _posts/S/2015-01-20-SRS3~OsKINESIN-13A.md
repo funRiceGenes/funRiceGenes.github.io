@@ -33,6 +33,6 @@ tags: [grain, seed, cellulose, cell elongation]
     + __APG~OsPIL16__, __SRS3~OsKINESIN-13A__, [Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice%5BTitle%5D), Transcription of two known grain-length-related genes, GS3 and SRS3, was largely unaffected in the PGL1-overexpressing and APG-silenced plants
     + __GS3__, __SRS3~OsKINESIN-13A__, [Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice%5BTitle%5D), Transcription of two known grain-length-related genes, GS3 and SRS3, was largely unaffected in the PGL1-overexpressing and APG-silenced plants
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

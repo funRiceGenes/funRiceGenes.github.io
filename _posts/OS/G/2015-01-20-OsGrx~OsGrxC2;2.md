@@ -22,6 +22,6 @@ tags: [oxidative]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

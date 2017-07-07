@@ -26,6 +26,6 @@ tags: [seed, development, map-based cloning, tolerance, cold tolerance, plant de
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

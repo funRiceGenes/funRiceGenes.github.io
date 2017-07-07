@@ -77,6 +77,6 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + __MODD__, __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, [MODD mediates deactivation and degradation of OsbZIP46 to negatively regulate ABA signaling and drought resistance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=MODD mediates deactivation and degradation of OsbZIP46 to negatively regulate ABA signaling and drought resistance in rice.%5BTitle%5D), MODD promotes OsbZIP46 degradation via interaction with the U-box type ubiquitin E3 ligase OsPUB70
     + __MODD__, __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, [MODD mediates deactivation and degradation of OsbZIP46 to negatively regulate ABA signaling and drought resistance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=MODD mediates deactivation and degradation of OsbZIP46 to negatively regulate ABA signaling and drought resistance in rice.%5BTitle%5D), Interestingly, the D domain is required for both deactivation and degradation of OsbZIP46 via its interaction with MODD
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

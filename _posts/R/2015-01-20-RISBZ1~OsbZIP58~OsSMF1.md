@@ -94,6 +94,6 @@ tags: [grain, transcription factor, seed, endosperm, seed development, starch, s
     + __OsPht1;8~OsPT8__, __RISBZ1~OsbZIP58~OsSMF1__, [Phosphate transporter OsPht1;8 in rice plays an important role in phosphorus redistribution from source to sink organs and allocation between embryo and endosperm of seeds.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate transporter OsPht1;8 in rice plays an important role in phosphorus redistribution from source to sink organs and allocation between embryo and endosperm of seeds.%5BTitle%5D), In this study, we knocked down expression of a phosphate transporter gene OsPht1;8 (OsPT8) selectively in shoot and/or in seed endosperm by RNA-interference using RISBZ1 and GluB-1 promoter (designate these transgenic lines as SSRi and EnSRi), respectively, to characterize the role of OsPT8 in P redistribution of rice
     + __RISBZ1~OsbZIP58~OsSMF1__, __RPBF~OsDof3__, [Genome-wide identification of grain filling genes regulated by the OsSMF1 transcription factor in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide identification of grain filling genes regulated by the OsSMF1 transcription factor in rice.%5BTitle%5D),  OsSMF1 was shown to bind directly to the promoters of Os03g0168500 (GCN4 motif), patatin-like gene (GCN4 motif), α-globulin (ACGT motif), rice prolamin box-binding factor (RPBF) (ATGA motif), and ONAC024 (GCN4 and ACGT motifs) and to regulate their expression
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

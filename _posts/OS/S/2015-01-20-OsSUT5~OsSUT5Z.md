@@ -36,6 +36,6 @@ tags: [leaf, transporter, vegetative]
     + __OsSUT1__, __OsSUT5~OsSUT5Z__, [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D), In conclusion, differences in transport activity between OsSUT1 and OsSUT5 indicate that type II SUTs have a range of transport activities that are tuned to their function in the plant
     + __OsSUT1__, __OsSUT5~OsSUT5Z__, [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D), Transport activity of rice sucrose transporters OsSUT1 and OsSUT5
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

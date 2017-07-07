@@ -31,6 +31,6 @@ tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root
     + __OsPIN1~REH1~PIN1b__, __RFL~APO2~SSC__, [Functions for rice RFL in vegetative axillary meristem specification and outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=Functions for rice RFL in vegetative axillary meristem specification and outgrowth.%5BTitle%5D), These modified forms of RFL had only indirect effects on OsPIN1
     + __IAA6~OsIAA6__, __OsPIN1~REH1~PIN1b__, [OsIAA6, a member of the rice Aux/IAA gene family, is involved in drought tolerance and tiller outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIAA6, a member of the rice Aux/IAA gene family, is involved in drought tolerance and tiller outgrowth.%5BTitle%5D), A knock-down mutant of OsIAA6 showed abnormal tiller outgrowth, apparently due to the regulation of the auxin transporter OsPIN1 and the rice tillering inhibitor OsTB1
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

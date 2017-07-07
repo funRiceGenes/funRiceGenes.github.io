@@ -37,9 +37,9 @@ tags: [drought, pollen,  ABA , anther, drought tolerance, fertility, anther deve
     + __OsCP1__, __OsDIL~OsLTP6__, [The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages%5BTitle%5D), Moreover, overexpression of OsDIL lessened the down-regulation by drought of anther developmental genes (OsC4, CYP704B2 and OsCP1), providing a mechanism supporting pollen fertility under drought
     + __OsDIL~OsLTP6__, __ZEP1__, [The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages%5BTitle%5D), The expression levels of the drought-responsive genes RD22, SODA1, bZIP46 and POD, as well as the ABA synthetic gene ZEP1 were up-regulated in the OsDIL-overexpression lines but the ABA degradation gene ABAOX3 was down-regulated
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/OsLTP6.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/OsLTP6.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/OsLTP6.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/OsLTP6.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 

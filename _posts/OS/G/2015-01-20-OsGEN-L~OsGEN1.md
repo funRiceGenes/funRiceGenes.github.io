@@ -32,6 +32,6 @@ tags: [microspore, sterile, fertility, anther, pollen, sterility, development, m
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

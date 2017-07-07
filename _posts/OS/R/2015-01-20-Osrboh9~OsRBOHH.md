@@ -22,6 +22,6 @@ tags:
 * **Connection**  
     + __Osrboh9~OsRBOHH__, __PI3K__, [Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity%5BTitle%5D), Pharmacological experiment and RT-PCR demonstrated that PI3K promoted the expression of Os rboh9
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

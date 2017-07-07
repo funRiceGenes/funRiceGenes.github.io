@@ -33,6 +33,6 @@ tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, 
     + __OsBIABP1~SLAC1~OsSLAC1__, __SLAC7__, [Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Loss-of-function mutation of rice SLAC7 decreases chloroplast stability and induces a photoprotection mechanism in rice.%5BTitle%5D), SLAC7 under the control of AtSLAC1 promoter could partially complement the phenotypes of Arabidopsis slac1 mutants, indicating a partial conservation of SLAC protein functions
     + __OsBIABP1~SLAC1~OsSLAC1__, __OsSAPK8~SAPK8__, [Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice%5BTitle%5D), Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

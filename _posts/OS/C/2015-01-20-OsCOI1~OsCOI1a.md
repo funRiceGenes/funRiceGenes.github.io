@@ -39,6 +39,6 @@ tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, de
     + __OsCOI1~OsCOI1a__, __OsJAZ9~OsTIFY11a__, [OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.%5BTitle%5D), OsJAZ9 interacts with OsCOI1a, a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner, suggesting that OsJAZ9 is involved in the regulation of JA signaling
     + __OsCHX14__, __OsCOI1~OsCOI1a__, [OsCHX14 is involved in the K+ homeostasis in rice Oryza sativa flowers](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCHX14 is involved in the K+ homeostasis in rice Oryza sativa flowers%5BTitle%5D), Expression profiling confirmed that among 17 CHX genes in rice, OsCHX14 was the only member that showed an expression polymorphism, not only in osjar1 mutants but also in RNAi lines of OsCOI1, another key member of the JA signaling pathway
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

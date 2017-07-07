@@ -22,6 +22,6 @@ tags: [seedling, temperature]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

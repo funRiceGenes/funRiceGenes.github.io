@@ -28,9 +28,9 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor ]
     + __OsbHLH148__, __OsJAZ1~OsTIFY3~EG2__, [OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice%5BTitle%5D), These results show that OsJAZ1 could act as a transcriptional regulator of the OsbHLH148-related jasmonate signaling pathway leading to drought tolerance
     + __OsMYC2__, __OsJAZ1~OsTIFY3~EG2__, [Jasmonic acid regulates spikelet development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonic acid regulates spikelet development in rice%5BTitle%5D), OsJAZ1 also interacts with OsMYC2, a transcription factor in the JA signalling pathway, and represses OsMYC2's role in activating OsMADS1, an E-class gene crucial to the spikelet development.
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/OsJAZ1~OsTIFY3.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/OsJAZ1~OsTIFY3.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ1~OsTIFY3.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ1~OsTIFY3.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 

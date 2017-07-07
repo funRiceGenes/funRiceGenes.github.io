@@ -37,6 +37,6 @@ tags: [drought tolerance, salt stress, drought, chloroplast, salt]
     + __OsGS~OsGS1~GS1~OsGS1;1~OsGLN1;1__, __OsGS2~lambdaGS31__, [Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions%5BTitle%5D), Results suggest that OsGS2 and OsGS1;1 expression may contribute to drought tolerance of Khitish cultivar under WD conditions
     + __OsGDH2__, __OsGS2~lambdaGS31__, [Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice Oryza sativa L.%5BTitle%5D), Salt stress clearly up-regulated the expression of OsGDH2 and OsGDH3 in old leaves, while strongly down-regulated expression of OsGS2 and OsFd-GOGAT in old leaves
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

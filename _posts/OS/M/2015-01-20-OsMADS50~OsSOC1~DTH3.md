@@ -93,6 +93,6 @@ tags: [heading date, floral, flower, flowering time, vegetative]
     + __Hd18__, __OsMADS50~OsSOC1~DTH3__, [Hd18, encoding histone acetylase related to Arabidopsis FLOWERING LOCUS D, is involved in the control of flowering time in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Hd18, encoding histone acetylase related to Arabidopsis FLOWERING LOCUS D, is involved in the control of flowering time in rice.%5BTitle%5D), We revealed that Hd18 acts as an accelerator in the rice-flowering pathway under both short- and long-day conditions by elevating transcription levels of Ehd1 Gene expression analysis also suggested the involvement of MADS-box genes such as OsMADS50, OsMADS51, and OsMADS56 in the Hd18-associated regulation of Ehd1 These results suggest that, like FLD, its rice homolog accelerates flowering time but is involved in rice flowering pathways that differ from the autonomous pathways in Arabidopsis
     + __OsMADS50~OsSOC1~DTH3__, __OsMADS7~OsMADS45__, [Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.%5BTitle%5D),  OsMADS45 overexpression did not influence other floral regulator genes upstream of Hd1 and Ehd1, such as OsGI (OsGIGANTEA), Ehd2/Osld1/RID1 and OsMADS50
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

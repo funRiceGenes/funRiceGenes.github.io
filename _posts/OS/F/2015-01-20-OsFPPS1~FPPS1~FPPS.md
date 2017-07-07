@@ -25,6 +25,6 @@ tags: [chloroplast]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

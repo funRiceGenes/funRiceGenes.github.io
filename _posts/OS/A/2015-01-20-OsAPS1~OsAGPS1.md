@@ -39,6 +39,6 @@ tags: [seed development, leaf, seed]
     + __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, __OsAPS1~OsAGPS1__, [ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.%5BTitle%5D), Yeast two-hybrid and BiFC assays verified direct interactions between OsAGPL2 and OsAGPS2b as well as OsAGPL1 and OsAGPS1, supporting the model for spatiotemporal complex formation of AGPase isoforms in rice endosperm
     + __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, __OsAPS1~OsAGPS1__, [GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.](http://www.ncbi.nlm.nih.gov/pubmed?term=GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.%5BTitle%5D), Yeast two hybrid assay showed that GIF2 interacted with AGP small subunits OsAGPS1, OsAGPS2a and OsAGPS2b
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

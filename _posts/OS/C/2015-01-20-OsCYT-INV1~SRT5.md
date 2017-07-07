@@ -28,6 +28,6 @@ tags: [growth, root development, root]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

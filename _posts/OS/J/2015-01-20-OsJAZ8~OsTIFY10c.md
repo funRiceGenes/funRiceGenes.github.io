@@ -30,9 +30,9 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
     + __OsCOI1~OsCOI1a__, __OsJAZ8~OsTIFY10c__, [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), OsJAZ8 interacted with a putative OsCOI1, which is a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner
     + __OsJAZ8~OsTIFY10c__, __OsMYC2__, [Overexpression of OsMYC2 Results in the Up-Regulation of Early JA-Rresponsive Genes and Bacterial Blight Resistance in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsMYC2 Results in the Up-Regulation of Early JA-Rresponsive Genes and Bacterial Blight Resistance in Rice.%5BTitle%5D), The up-regulation of OsMYC2 in response to JA was regulated by OsJAZ8
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/OsJAZ8~OsTIFY10c.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/OsJAZ8~OsTIFY10c.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ8~OsTIFY10c.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ8~OsTIFY10c.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 

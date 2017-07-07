@@ -25,9 +25,9 @@ tags: [leaf, chloroplast, salicylic acid, jasmonic, jasmonic acid, senescence, l
 
 * **Connection**  
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/OsAkaGal.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/OsAkaGal.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/OsAkaGal.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/OsAkaGal.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 

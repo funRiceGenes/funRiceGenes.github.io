@@ -36,6 +36,6 @@ tags: [ ABA , drought, tolerance, abiotic stress, vegetative, drought tolerance,
     + __OsEm~EMP1~OsEm1__, __OSVP1~VP1__, [Regulation of the Osem gene by abscisic acid and the transcriptional activator VP1: analysis of cis-acting promoter elements required for regulation by abscisic acid and VP1](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of the Osem gene by abscisic acid and the transcriptional activator VP1: analysis of cis-acting promoter elements required for regulation by abscisic acid and VP1%5BTitle%5D), Regulation of the Osem gene by abscisic acid and the transcriptional activator VP1: analysis of cis-acting promoter elements required for regulation by abscisic acid and VP1
     + __OsEm~EMP1~OsEm1__, __RAB21~Rab16A~OsRab16A__, [Overexpression of OsEm1 encoding a group I LEA protein confers enhanced drought tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsEm1 encoding a group I LEA protein confers enhanced drought tolerance in rice.%5BTitle%5D), Compared with wild type, the OsEm1-overexpressing rice plants showed enhanced plant survival ratio at the vegetative stage; moreover, over expression of OsEm1 in rice increased the expression of other LEA genes, including RAB16A, RAB16C, RAB21, and LEA3, likely protecting organ integrity against harsh environments
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

@@ -30,6 +30,6 @@ tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

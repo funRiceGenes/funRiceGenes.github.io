@@ -35,6 +35,6 @@ tags: [sterility, fertility, growth, panicle, sterile]
     + __OsMY1__, __OsRacD~OsRac5__, [Isolation and characterization of OsMY1, a putative partner of OsRac5 from Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of OsMY1, a putative partner of OsRac5 from Oryza sativa L%5BTitle%5D), Our results suggest that OsMY1 is an important target of OsRac5 and that these two genes are involved in the same biological processes in rice growth and development
     + __OsMY1__, __OsRacD~OsRac5__, [Isolation and characterization of OsMY1, a putative partner of OsRac5 from Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of OsMY1, a putative partner of OsRac5 from Oryza sativa L%5BTitle%5D), Isolation and characterization of OsMY1, a putative partner of OsRac5 from Oryza sativa L
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

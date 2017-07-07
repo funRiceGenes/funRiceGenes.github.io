@@ -54,9 +54,9 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
     + __DLT~OsGRAS-32~D62~GS6~SMOS2__, __OsBZR1__, [DWARF AND LOW-TILLERING, a new member of the GRAS family, plays positive roles in brassinosteroid signaling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=DWARF AND LOW-TILLERING, a new member of the GRAS family, plays positive roles in brassinosteroid signaling in rice%5BTitle%5D), Finally, consistent with the fact that DLT is also negatively feedback-regulated by BR treatment, a gel mobility shift assay showed that OsBZR1 can bind to the DLT promoter through the BR-response element
     + __DLT~OsGRAS-32~D62~GS6~SMOS2__, __GW5~qSW5__, [GW5 acts in the brassinosteroid signalling pathway to regulate grain width and weight in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=GW5 acts in the brassinosteroid signalling pathway to regulate grain width and weight in rice.%5BTitle%5D),  GW5 protein is localized to the plasma membrane and can physically interact with and repress the kinase activity of rice GSK2 (glycogen synthase kinase 2), a homologue of Arabidopsis BIN2 (BRASSINOSTEROID INSENSITIVE2) kinase, resulting in accumulation of unphosphorylated OsBZR1 (Oryza sativa BRASSINAZOLE RESISTANT1) and DLT (DWARF AND LOW-TILLERING) proteins in the nucleus to mediate brassinosteroid (BR)-responsive gene expression and growth responses (including grain width and weight)
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/GS6.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/GS6.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/GS6.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/GS6.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 

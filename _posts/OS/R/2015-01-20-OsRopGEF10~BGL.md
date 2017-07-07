@@ -27,6 +27,6 @@ tags: [leaf, sheath]
     + __OsRac1__, __OsRopGEF10~BGL__, [The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces%5BTitle%5D), In yeast two-hybrid assays, OsRopGEF10 interacts with OsRac1, one of seven OsRac proteins; consistent with this, both proteins are localized in the plasma membrane
     + __OsRac1__, __OsRopGEF10~BGL__, [The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces%5BTitle%5D), These results suggest that OsRopGEF10 activates OsRac1 to turn on the molecular signaling pathway for SP development
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

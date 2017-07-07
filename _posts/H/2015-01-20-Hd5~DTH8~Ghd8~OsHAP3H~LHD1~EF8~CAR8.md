@@ -102,9 +102,9 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
     + __Hd3a__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8__, [The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.](http://www.ncbi.nlm.nih.gov/pubmed?term=The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.%5BTitle%5D),  H3K27 trimethylation increases at Hd3a in the presence the DTH8-Hd1 complex, while Hd1 attenuates the H3K27me3 level in Hd3a when DTH8 function is lost
     + __Hd3a__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8__, [The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.](http://www.ncbi.nlm.nih.gov/pubmed?term=The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.%5BTitle%5D),  Therefore, our findings establish that, in response to day length, DTH8 plays a critical role in mediating Hd1 regulation of Hd3a transcription through the DTH8-Hd1 module to shape epigenetic marks in photoperiodic flowering
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/DTH8.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/DTH8.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/DTH8.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/DTH8.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 

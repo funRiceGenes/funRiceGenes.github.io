@@ -59,6 +59,6 @@ tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root]
     + __OsLPT1~OsPht1;6~OsPT6__, __OsSPX1__, [Involvement of OsSPX1 in phosphate homeostasis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsSPX1 in phosphate homeostasis in rice%5BTitle%5D), In contrast, overexpression of OsSPX1 suppressed the induction of expression by Pi starvation of all 10 phosphate starvation-induced genes tested: IPS1 (induced by phosphate starvation 1), IPS2, OsPAP10 (purple acid phosphatase 10), OsSQD2 (sulfoquinovosyldiacylglycerol 2), miR399d and miR399j (microRNA 399), OsPT2, OsPT3, OsPT6 and OsPT8
     + __OsLPT1~OsPht1;6~OsPT6__, __OsPht1;8~OsPT8__, [Involvement of OsSPX1 in phosphate homeostasis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsSPX1 in phosphate homeostasis in rice%5BTitle%5D), In contrast, overexpression of OsSPX1 suppressed the induction of expression by Pi starvation of all 10 phosphate starvation-induced genes tested: IPS1 (induced by phosphate starvation 1), IPS2, OsPAP10 (purple acid phosphatase 10), OsSQD2 (sulfoquinovosyldiacylglycerol 2), miR399d and miR399j (microRNA 399), OsPT2, OsPT3, OsPT6 and OsPT8
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

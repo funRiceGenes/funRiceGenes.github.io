@@ -23,6 +23,6 @@ tags: [seedling, leaf, chloroplast]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

@@ -58,6 +58,6 @@ tags: [stamen, flower, palea, floral, leaf, lemma, temperature, spikelet, stress
     + __OsMADS7~OsMADS45__, __RFT1__, [Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.%5BTitle%5D),  OsMADS45 overexpression did not alter the oscillating rhythm of the examined floral regulatory genes but advanced (by approximately 20<U+00A0>days) the up-regulate of two florigens, Hd3a (Heading Date 3a) and RFT1 (RICE FLOWERING LOCUS T1) and suppressed the expression of Hd1 at the juvenile stage
     + __OsMADS7~OsMADS45__, __RFT1__, [Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.%5BTitle%5D), These results indicate that in transgenic rice, OsMADS45 overexpressing ectopically activates the upstream genes Hd3a and RFT1 at early development stage and up-regulates the expression of OsMADS14 and OsMADS18, which induces early flowering
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

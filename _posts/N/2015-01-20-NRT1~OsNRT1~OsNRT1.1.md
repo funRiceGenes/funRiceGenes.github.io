@@ -33,6 +33,6 @@ tags: [root hair, nitrate, transporter, root]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

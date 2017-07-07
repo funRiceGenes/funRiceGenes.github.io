@@ -31,6 +31,6 @@ tags: [root development, auxin, seed, lateral root, root]
     + __OsCel9A~OsGLU5__, __OsEXPA8__, [MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways%5BTitle%5D), Moreover, we show that OsMPS is a direct upstream regulator of OsEXPA4, OsEXPA8, OsEXPB2, OsEXPB3, OsEXPB6 and the endoglucanase genes OsGLU5 and OsGLU14
     + __OsCel9A~OsGLU5__, __OsMPS__, [MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=MULTIPASS, a rice R2R3-type MYB transcription factor, regulates adaptive growth by integrating multiple hormonal pathways%5BTitle%5D), Moreover, we show that OsMPS is a direct upstream regulator of OsEXPA4, OsEXPA8, OsEXPB2, OsEXPB3, OsEXPB6 and the endoglucanase genes OsGLU5 and OsGLU14
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

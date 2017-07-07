@@ -37,6 +37,6 @@ tags: [phosphate, transcription factor]
     + __OsbZIP79~OsTGA911__, __OsTGAP1~OsbZIP37__, [Overexpression of the bZIP transcription factor OsbZIP79 suppresses the production of diterpenoid phytoalexin in rice cells.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of the bZIP transcription factor OsbZIP79 suppresses the production of diterpenoid phytoalexin in rice cells.%5BTitle%5D), These results suggest that OsbZIP79 functions as a negative regulator of phytoalexin production triggered by a chitin oligosaccharide elicitor in rice cells, although it remains open under which conditions OsbZIP79 can work with OsTGAP1
     + __OsDXS~OsDXS3__, __OsTGAP1~OsbZIP37__, [Identification of target genes of the bZIP transcription factor OsTGAP1, whose overexpression causes elicitor-induced hyperaccumulation of diterpenoid phytoalexins in rice cells.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of target genes of the bZIP transcription factor OsTGAP1, whose overexpression causes elicitor-induced hyperaccumulation of diterpenoid phytoalexins in rice cells.%5BTitle%5D), A subsequent transactivation assay further confirmed the direct regulation of OsDXS3 expression by OsTGAP1, but other MEP pathway genes were not included among the OsTGAP1 target genes
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

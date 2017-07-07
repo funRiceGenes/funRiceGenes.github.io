@@ -32,6 +32,6 @@ tags: [endosperm, seed]
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

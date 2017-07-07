@@ -26,6 +26,6 @@ tags: [root, salicylic acid, jasmonic, jasmonic acid, transcription factor, defe
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

@@ -29,6 +29,6 @@ tags: [temperature, cell elongation, root, leaf, cell wall, seedling, abiotic st
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

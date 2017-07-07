@@ -55,6 +55,6 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
     + __OsMYBGA~OsGAMYB__, __OsWRKY71__, [A rice WRKY gene encodes a transcriptional repressor of the gibberellin signaling pathway in aleurone cells](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice WRKY gene encodes a transcriptional repressor of the gibberellin signaling pathway in aleurone cells%5BTitle%5D), Mutation of the two W boxes prevents the binding of OsWRKY71 to the mutated promoter, and releases the suppression of the OsGAMYB-activated Amy32b expression by OsWRKY71, suggesting that OsWRKY71 blocks GA signaling by functionally interfering with OsGAMYB
     + __D1~RGA1__, __OsMYBGA~OsGAMYB__, [Rice dwarf mutantd1, which is defective in the a subunit of the heterotrimeric G protein, affects gibberellin signal transduction](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice dwarf mutantd1, which is defective in the a subunit of the heterotrimeric G protein, affects gibberellin signal transduction%5BTitle%5D), Relative to the wild type, the GA(3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes alpha-amylase, and OsGAMYB, which encodes a GA-inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

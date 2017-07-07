@@ -33,6 +33,6 @@ tags: [nitrogen, leaf, leaf senescence, transcription factor, early leaf senesce
 
 * **Connection**  
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

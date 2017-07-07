@@ -61,6 +61,6 @@ tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, def
     + __OsBISERK1~OsSERK1~OsBAK1__, __OsREM4.1__, [OsREM4.1 Interacts with OsSERK1 to Coordinate the Interlinking between Abscisic Acid and Brassinosteroid Signaling in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsREM4.1 Interacts with OsSERK1 to Coordinate the Interlinking between Abscisic Acid and Brassinosteroid Signaling in Rice.%5BTitle%5D), OsREM4.1 Interacts with OsSERK1 to Coordinate the Interlinking between Abscisic Acid and Brassinosteroid Signaling in Rice.
     + __OsBISERK1~OsSERK1~OsBAK1__, __OsPRA2__, [OsPRA2 fine-tunes rice brassinosteroid receptor.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPRA2 fine-tunes rice brassinosteroid receptor.%5BTitle%5D),  Recently we have reported that a rice small G protein, OsPRA2, bound to the BR receptor OsBRI1 at the plasma membrane (PM) and inhibited its kinase activity and its interaction with the co-receptor OsBAK1, leading to a lower sensitivity to BR treatment and dephosphorylation of OsBZR1
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

@@ -24,6 +24,6 @@ tags:
     + __OsDXR__, __OsDXS~OsDXS3__, [Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice%5BTitle%5D), Application of ketoclomazone and fosmidomycin, inhibitors of DXS and DXR, respectively, repressed the accumulation of diterpene-type phytoalexins in suspension cells treated with chitin elicitor
     + __OsDXS~OsDXS3__, __OsTGAP1~OsbZIP37__, [Identification of target genes of the bZIP transcription factor OsTGAP1, whose overexpression causes elicitor-induced hyperaccumulation of diterpenoid phytoalexins in rice cells.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of target genes of the bZIP transcription factor OsTGAP1, whose overexpression causes elicitor-induced hyperaccumulation of diterpenoid phytoalexins in rice cells.%5BTitle%5D), A subsequent transactivation assay further confirmed the direct regulation of OsDXS3 expression by OsTGAP1, but other MEP pathway genes were not included among the OsTGAP1 target genes
 
-* **Key figures**  
-
-
+[//]: # * **Key figures**  
+[//]: # 
+[//]: # 

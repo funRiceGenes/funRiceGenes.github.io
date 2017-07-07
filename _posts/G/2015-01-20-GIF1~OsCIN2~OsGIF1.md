@@ -45,9 +45,9 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall]
     + __GIF1~OsCIN2~OsGIF1__, __GW2__, [Seed size is determined by the combinations of the genes controlling different seed characteristics in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Seed size is determined by the combinations of the genes controlling different seed characteristics in rice.%5BTitle%5D), Additionally, GIF1 expression was found to be positively regulated by qSW5 but negatively by GW2 and GS3
     + __GIF1~OsCIN2~OsGIF1__, __OsYUC12__, [Auxin and Cell Wall Invertase Related Signaling during Rice Grain Development.](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin and Cell Wall Invertase Related Signaling during Rice Grain Development.%5BTitle%5D), Unlike ZmYUC1, OsYUC12 expression is not reduced in the rice CWIN mutant, gif1
 
-* **Key figures**  
-<img src="http://funRiceGenes.github.io/images/GIF1~OsCIN2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-<img src="http://funRiceGenes.github.io/images/GIF1~OsCIN2.exp.png" alt="expression"  style="width: 600px;"/>
-
-
+[//]: # * **Key figures**  
+[//]: # <img src="http://funRiceGenes.github.io/images/GIF1~OsCIN2.pheno.png" alt="phenotype"  style="width: 600px;"/>
+[//]: # 
+[//]: # <img src="http://funRiceGenes.github.io/images/GIF1~OsCIN2.exp.png" alt="expression"  style="width: 600px;"/>
+[//]: # 
+[//]: # 
