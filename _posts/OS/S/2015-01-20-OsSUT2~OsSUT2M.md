@@ -48,5 +48,5 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
     + __OsSUT2~OsSUT2M__, __OsSUT5~OsSUT5Z__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

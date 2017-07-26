@@ -36,5 +36,5 @@ tags: [stamen, flower, lemma, floral, leaf, palea]
     + __FZP~BFL1__, __OsMADS8~OsMADS24__, [Regulatory role of FZP in the determination of panicle branching and spikelet formation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory role of FZP in the determination of panicle branching and spikelet formation in rice.%5BTitle%5D), FZP overexpression positively regulates the expression of a subset of the class B genes, AGL6 genes (OsMADS6 and OsMADS17) as well as class E genes (OsMADS1, OsMADS7 and OsMADS8) in floral meristem (FM)
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

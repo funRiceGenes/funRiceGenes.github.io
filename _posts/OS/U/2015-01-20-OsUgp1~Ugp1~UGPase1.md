@@ -41,7 +41,7 @@ tags: [seed, pollen, meiosis, anther development, growth, anther, sterility, end
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/UGPase1.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/UGPase1.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

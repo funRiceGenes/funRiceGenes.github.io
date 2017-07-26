@@ -32,5 +32,5 @@ tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root
     + __IAA6~OsIAA6__, __OsPIN1~REH1~PIN1b__, [OsIAA6, a member of the rice Aux/IAA gene family, is involved in drought tolerance and tiller outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIAA6, a member of the rice Aux/IAA gene family, is involved in drought tolerance and tiller outgrowth.%5BTitle%5D), A knock-down mutant of OsIAA6 showed abnormal tiller outgrowth, apparently due to the regulation of the auxin transporter OsPIN1 and the rice tillering inhibitor OsTB1
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

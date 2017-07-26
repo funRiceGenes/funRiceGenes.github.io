@@ -47,7 +47,7 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall]
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/GIF1~OsCIN2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/GIF1~OsCIN2.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

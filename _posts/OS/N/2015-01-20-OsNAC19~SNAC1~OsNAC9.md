@@ -65,5 +65,5 @@ tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, eth
     + __OsNAC19~SNAC1~OsNAC9__, __OsSIDP366__, [OsSIDP366, a DUF1644 gene, positively regulates responses to drought and salt stresses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSIDP366, a DUF1644 gene, positively regulates responses to drought and salt stresses in rice%5BTitle%5D), Digital gene expression (DGE) profile analysis indicated that stress related genes such as SNAC1, OsHAK5 and PRs were up-regulated in OsSIDP366-overexpressing plants.
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

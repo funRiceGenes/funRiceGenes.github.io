@@ -68,6 +68,6 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsABI5~OREB1~OsbZIP10.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
-[//]: # 
+
+
+

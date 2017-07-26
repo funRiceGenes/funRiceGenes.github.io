@@ -111,5 +111,5 @@ tags: [sheath, flower, seedling,  ga , phosphate, flowering time, ethylene, flor
     + __OsCOL13__, __PHYA~OsPhyA__, [A CONSTANS-like transcriptional activator, OsCOL13, functions as a negative regulator of flowering downstream of OsphyB and upstream of Ehd1 in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A CONSTANS-like transcriptional activator, OsCOL13, functions as a negative regulator of flowering downstream of OsphyB and upstream of Ehd1 in rice.%5BTitle%5D), In addition, the transcriptional level of OsCOL13 significantly decreased in the osphyb mutant, but remained unchanged in the osphya and osphyc mutants
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

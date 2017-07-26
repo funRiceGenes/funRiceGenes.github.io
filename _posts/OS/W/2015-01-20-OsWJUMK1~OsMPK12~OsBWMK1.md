@@ -41,5 +41,5 @@ tags: [defense response,  sa , defense, transcription factor, cell death]
     + __OsMPK17__, __OsWJUMK1~OsMPK12~OsBWMK1__, [The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding](http://www.ncbi.nlm.nih.gov/pubmed?term=The Bphi008a gene interacts with the ethylene pathway and transcriptionally regulates MAPK genes in the response of rice to brown planthopper feeding%5BTitle%5D), Subsequently, we found that Bphi008a up-regulation and down-regulation were accompanied by different changes in transcription levels of OsMPK5, OsMPK12, OsMPK13, and OsMPK17 in transgenic plants
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

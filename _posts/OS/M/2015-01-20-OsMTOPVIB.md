@@ -22,5 +22,5 @@ tags: [meiotic]
 * **Connection**  
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

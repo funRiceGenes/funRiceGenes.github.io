@@ -25,5 +25,5 @@ tags:
     + __OsETTIN1~OsARF15__, __OsMADS1~LHS1~AFO__, [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D), We found that the OsMADS1 targets OsETTIN1 and OsETTIN2 redundantly ensure carpel differentiation
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

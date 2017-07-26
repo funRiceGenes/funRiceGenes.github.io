@@ -29,5 +29,5 @@ tags: [grain weight, root, heading date, grain, root development, cell division,
     + __APIP6__, __OsEF3~OsELF3-2~OsELF3.2__, [OsELF3-2, an ortholog of Arabidopsis ELF3, interacts with the E3 ligase APIP6 and negatively regulates immunity against Magnaporthe oryzae in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsELF3-2, an ortholog of Arabidopsis ELF3, interacts with the E3 ligase APIP6 and negatively regulates immunity against Magnaporthe oryzae in rice%5BTitle%5D), OsELF3-2 interacts with APIP6 and negatively regulates basal resistance against Magnaporthe oryzae.
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

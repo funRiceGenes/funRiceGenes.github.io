@@ -56,5 +56,5 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
     + __D1~RGA1__, __OsMYBGA~OsGAMYB__, [Rice dwarf mutantd1, which is defective in the a subunit of the heterotrimeric G protein, affects gibberellin signal transduction](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice dwarf mutantd1, which is defective in the a subunit of the heterotrimeric G protein, affects gibberellin signal transduction%5BTitle%5D), Relative to the wild type, the GA(3)-treated aleurone layer of d1 had lower expression of Ramy1A, which encodes alpha-amylase, and OsGAMYB, which encodes a GA-inducible transcriptional factor, and no increase in expression of Ca(2 +)-ATPase
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

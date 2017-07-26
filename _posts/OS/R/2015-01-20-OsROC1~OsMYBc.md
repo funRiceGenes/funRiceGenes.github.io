@@ -28,5 +28,5 @@ tags: [leaf, salt, transcription factor, Salt Sensitivity]
     + __OsHKT1;1~OsHKT4__, __OsROC1~OsMYBc__, [The Rice High-Affinity Potassium Transporter1;1 Is Involved in Salt Tolerance and Regulated by an MYB-Type Transcription Factor.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice High-Affinity Potassium Transporter1;1 Is Involved in Salt Tolerance and Regulated by an MYB-Type Transcription Factor.%5BTitle%5D), Taken together, these results suggest that OsHKT1;1 has a role in controlling Na(+) concentration and preventing sodium toxicity in leaf blades and is regulated by the OsMYBc transcription factor
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

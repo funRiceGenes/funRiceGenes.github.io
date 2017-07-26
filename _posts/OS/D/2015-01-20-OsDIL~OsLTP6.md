@@ -39,7 +39,7 @@ tags: [drought, pollen,  ABA , anther, drought tolerance, fertility, anther deve
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsLTP6.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/OsLTP6.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

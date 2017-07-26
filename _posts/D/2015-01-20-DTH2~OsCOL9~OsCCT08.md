@@ -51,7 +51,7 @@ tags: [domestication, flower, reproductive, floral, heading date, breeding, resi
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/DTH2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/DTH2.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

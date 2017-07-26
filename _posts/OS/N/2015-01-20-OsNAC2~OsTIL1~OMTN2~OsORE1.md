@@ -45,7 +45,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsNAC2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/OsNAC2.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

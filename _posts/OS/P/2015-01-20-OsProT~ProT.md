@@ -32,5 +32,5 @@ tags: [salt stress, drought, oxidative, salt tolerance, salt, seedling]
     + __OsP5CS~OsP5CS1__, __OsProT~ProT__, [Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional analysis of a novel Cys2/His2-type zinc finger protein involved in salt tolerance in rice%5BTitle%5D), The ZFP179 transgenic rice exhibited significantly increased tolerance to oxidative stress, the reactive oxygen species (ROS)-scavenging ability, and expression levels of a number of stress-related genes, including OsDREB2A, OsP5CS OsProT, and OsLea3 under salt stress
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

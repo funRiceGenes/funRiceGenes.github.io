@@ -37,5 +37,5 @@ tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endospe
     + __MOC1__, __OsCCS52A~TAD~TE__, [Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1%5BTitle%5D), TE physically interacts with MOC1 and OsCDC27
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

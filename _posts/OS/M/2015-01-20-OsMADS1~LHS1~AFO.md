@@ -148,5 +148,5 @@ tags: [meristem, palea, fertility, leaf, spikelet, branching, heading date, tran
     + __OsMADS1~LHS1~AFO__, __OsYABBY5~OsYAB3~TOB1__, [Genome-wide targets regulated by the OsMADS1 transcription factor reveals its DNA recognition properties.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide targets regulated by the OsMADS1 transcription factor reveals its DNA recognition properties.%5BTitle%5D), We show that the expression status of these nodal factors can be altered by inducing the OsMADS1-GR fusion protein and present a model for a regulatory cascade where the direct targets of OsMADS1, OsbHLH108/SPT, OsERF034 and OsHSF24, in turn control genes such as OsMADS32 and OsYABBY5
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

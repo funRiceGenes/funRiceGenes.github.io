@@ -42,5 +42,5 @@ tags: [leaf,  sa , jasmonic acid, jasmonic, phytohormone,  pi , ethylene, salicy
     + __OsMPK6~OsMPK4__, __OsPR1a~OsSCP__, [Opposite functions of a rice mitogen-activated protein kinase during the process of resistance against Xanthomonas oryzae](http://www.ncbi.nlm.nih.gov/pubmed?term=Opposite functions of a rice mitogen-activated protein kinase during the process of resistance against Xanthomonas oryzae%5BTitle%5D), Xoo infection induced the expression of PR1a, the marker gene of systemic acquired resistance (SAR), in systemic health tissues of OsMPK6-knock-out plants
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

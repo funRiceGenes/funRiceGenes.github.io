@@ -94,5 +94,5 @@ tags: [heading date, floral, flower, flowering time, vegetative]
     + __OsMADS50~OsSOC1~DTH3__, __OsMADS7~OsMADS45__, [Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Ectopic expression of OsMADS45 activates the upstream genes Hd3a and RFT1 at an early development stage causing early flowering in rice.%5BTitle%5D),  OsMADS45 overexpression did not influence other floral regulator genes upstream of Hd1 and Ehd1, such as OsGI (OsGIGANTEA), Ehd2/Osld1/RID1 and OsMADS50
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

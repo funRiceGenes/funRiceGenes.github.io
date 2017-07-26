@@ -37,7 +37,7 @@ tags: [lemma, spikelet, growth, meristem, flower, palea]
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsYABBY5~OsYAB3~TOB1.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/OsYABBY5~OsYAB3~TOB1.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

@@ -37,5 +37,5 @@ tags: [leaf, seed, starch]
     + __OsAPL4~OsAGPL4__, __OspPGM__, [Plastidic phosphoglucomutase and ADP-glucose pyrophosphorylase mutants impair starch synthesis in rice pollen grains and cause male sterility.](http://www.ncbi.nlm.nih.gov/pubmed?term=Plastidic phosphoglucomutase and ADP-glucose pyrophosphorylase mutants impair starch synthesis in rice pollen grains and cause male sterility.%5BTitle%5D), Progeny analysis of self-pollinated heterozygous lines carrying the OspPGM mutant alleles, osppgm-1 and osppgm-2, or the OsAGPL4 mutant allele, osagpl4-1, as well as reciprocal crosses between the wild type (WT) and heterozygotes revealed that loss of OspPGM or OsAGPL4 caused male sterility, with the former condition rescued by the introduction of the WT OspPGM gene
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

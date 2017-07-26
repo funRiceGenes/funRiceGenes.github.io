@@ -56,7 +56,7 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/GS6.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/GS6.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

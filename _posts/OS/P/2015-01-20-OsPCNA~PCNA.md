@@ -31,5 +31,5 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
 * **Connection**  
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

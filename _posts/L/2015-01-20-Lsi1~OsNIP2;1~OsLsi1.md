@@ -3,7 +3,7 @@ layout: post
 title: "Lsi1,OsNIP2;1,OsLsi1"
 description: ""
 category: genes
-tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings]
+tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings, transcription factor, resistance, stress, chilling, transcriptional regulator]
 ---
 
 * **Information**  
@@ -23,6 +23,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + [Reduced arsenic accumulation in rice Oryza sativa L. shoot involves sulfur mediated improved thiol metabolism, antioxidant system and altered arsenic transporters.](http://www.ncbi.nlm.nih.gov/pubmed?term=Reduced arsenic accumulation in rice Oryza sativa L. shoot involves sulfur mediated improved thiol metabolism, antioxidant system and altered arsenic transporters.%5BTitle%5D), 2015, Plant Physiol Biochem.
     + [High silicon accumulation in the shoot is required for down-regulating the expression of Si transporter genes in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High silicon accumulation in the shoot is required for down-regulating the expression of Si transporter genes in rice.%5BTitle%5D), 2016, Plant Cell Physiol.
     + [High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.%5BTitle%5D), 2016, Plant Cell Physiol.
+    + [Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress%5BTitle%5D), 2017, Plant Science.
 
 * **Genbank accession number**  
     + [AB222272](http://www.ncbi.nlm.nih.gov/nuccore/AB222272)
@@ -58,6 +59,8 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + In conclusion, the Si-induced down-regulation of Si transporter genes is controlled by shoot Si, not root Si, and that the region between -327 to -292 in the OsLsi1 promoter is involved in this regulation of OsLsi1 expression in rice
     + A split root experiment showed that the expression of both OsLsi1 and OsLsi2 was also down-regulated in half the roots without direct Si exposure when the other half of the roots were exposed to Si
     + In conclusion, the Si-induced down-regulation of Si transporter genes is controlled by shoot Si, not root Si, and the region between -327 and -292 in the OsLsi1 promoter is involved in this regulation of OsLsi1 expression in rice
+    + Our results suggest that when overexpressed Lsi1 in cold-sensitive rice, it possibility regulates the transcription factor OsWRKY53 in addition to the genes involved in the ROS metabolism, thus mediating resistance to chilling stress
+    + Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress
 
 * **Connection**  
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [An efflux transporter of silicon in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=An efflux transporter of silicon in rice%5BTitle%5D), Here we describe a previously uncharacterized gene, low silicon rice 2 (Lsi2), which has no similarity to Lsi1
@@ -76,10 +79,11 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.%5BTitle%5D), Herein we investigated the mechanism underlying regulation of OsLsi1 and OsLsi2 expression
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.%5BTitle%5D), There was a negative correlation between the expression level of OsLsi1 and OsLsi2 and shoot Si accumulation when the rice seedlings were exposed to different Si supply conditions
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.%5BTitle%5D), A split root experiment showed that the expression of both OsLsi1 and OsLsi2 was also down-regulated in half the roots without direct Si exposure when the other half of the roots were exposed to Si
+    + __Lsi1~OsNIP2;1~OsLsi1__, __OsWRKY53__, [Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress%5BTitle%5D),  Our results suggest that when overexpressed Lsi1 in cold-sensitive rice, it possibility regulates the transcription factor OsWRKY53 in addition to the genes involved in the ROS metabolism, thus mediating resistance to chilling stress
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/Lsi1.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/Lsi1.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

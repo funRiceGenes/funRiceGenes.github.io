@@ -43,5 +43,5 @@ tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, see
     + __OsCIPK15__, __OsCK1~OsCIPK31~CIPK03__, [Characterization of stress-responsive CIPK genes in rice for stress tolerance improvement](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of stress-responsive CIPK genes in rice for stress tolerance improvement%5BTitle%5D), Transgenic plants overexpressing the transgenes OsCIPK03, OsCIPK12, and OsCIPK15 showed significantly improved tolerance to cold, drought, and salt stress, respectively
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

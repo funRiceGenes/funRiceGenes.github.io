@@ -30,7 +30,7 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor ]
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ1~OsTIFY3.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ1~OsTIFY3.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

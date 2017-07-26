@@ -37,7 +37,7 @@ tags: [ awn , leaf, vascular bundle, meristem, transcription factor]
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsETT2~OsETTIN2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/OsETT2~OsETTIN2.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

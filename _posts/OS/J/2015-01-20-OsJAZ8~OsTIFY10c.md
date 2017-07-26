@@ -32,7 +32,7 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ8~OsTIFY10c.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/OsJAZ8~OsTIFY10c.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

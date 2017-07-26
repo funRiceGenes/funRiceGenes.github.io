@@ -22,5 +22,5 @@ tags:
     + __OsFTIP1__, __OsUbDKgamma4__, [OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.%5BTitle%5D), OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

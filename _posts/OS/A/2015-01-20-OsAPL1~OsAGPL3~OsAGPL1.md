@@ -43,6 +43,6 @@ tags: [leaf, seed, seed development]
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsAPL1~OsAGPL1~OsAGPL3.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
-[//]: # 
+
+
+

@@ -61,7 +61,7 @@ tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, r
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/WOX3.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/WOX3.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

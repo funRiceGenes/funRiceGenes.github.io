@@ -104,7 +104,7 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/DTH8.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/DTH8.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

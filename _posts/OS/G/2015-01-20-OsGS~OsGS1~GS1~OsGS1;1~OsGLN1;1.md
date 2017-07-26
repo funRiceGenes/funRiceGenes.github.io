@@ -78,5 +78,5 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + __GLN1;2~GS1;2~OsGS1;2__, __OsGS~OsGS1~GS1~OsGS1;1~OsGLN1;1__, [Severe reduction in growth rate and grain filling of rice mutants lacking OsGS1;1, a cytosolic glutamine synthetase1;1](http://www.ncbi.nlm.nih.gov/pubmed?term=Severe reduction in growth rate and grain filling of rice mutants lacking OsGS1;1, a cytosolic glutamine synthetase1;1%5BTitle%5D), The results indicate that GS1;1 is important for normal growth and grain filling in rice; GS1;2 and GS1;3 were not able to compensate for GS1;1 function
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

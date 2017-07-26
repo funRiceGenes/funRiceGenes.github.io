@@ -49,5 +49,5 @@ tags: [root development, salinity, seed,  ja , transcription factor, root, growt
     + __OsHOS1__, __OsRMC~OsRLK__, [The rice E3 ubiquitin ligase OsHOS1 modulates the expression of OsRMC, a gene involved in root mechano-sensing, through the interaction with two ERF transcription factors.](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice E3 ubiquitin ligase OsHOS1 modulates the expression of OsRMC, a gene involved in root mechano-sensing, through the interaction with two ERF transcription factors.%5BTitle%5D), Using the yeast two-hybrid system and BiFC assays we showed that OsHOS1 interacts with two ERF transcription factors (TFs), OsEREBP1 and OsEREBP2, known to regulate OsRMC gene expression
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

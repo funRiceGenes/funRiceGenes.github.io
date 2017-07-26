@@ -33,5 +33,5 @@ tags: [defense, defense response,  sa , SA]
     + __ICS1~OsVDAC1~OsICS1__, __OsWRKY6__, [Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.%5BTitle%5D), Our results suggest that OsWRKY6 positively regulates defense responses through activation of OsICS1 expression and OsWRKY6 stabilization
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

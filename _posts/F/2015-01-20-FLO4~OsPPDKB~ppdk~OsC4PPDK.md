@@ -37,5 +37,5 @@ tags: [pericarp, grain, endosperm, reproductive, seed, seed development, grain f
     + __FLO4~OsPPDKB~ppdk~OsC4PPDK__, __OsDof25__, [Functions of OsDof25 in regulation of OsC4PPDK](http://www.ncbi.nlm.nih.gov/pubmed?term=Functions of OsDof25 in regulation of OsC4PPDK%5BTitle%5D), Expression studies using promoter GUS plants as well as qPCR experiments showed that OsDof25 expressed in different tissues including both photosynthetic and non-photosynthetic organs and that expression of OsDof25 was partially overlapping with the OsC4PPDK gene
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

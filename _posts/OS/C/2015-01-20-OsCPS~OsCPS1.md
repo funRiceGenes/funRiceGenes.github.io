@@ -57,5 +57,5 @@ tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA defici
     + __OsCPS~OsCPS1__, __OsCPS4~OsCyc1__, [Biological functions of ent- and syn-copalyl diphosphate synthases in rice: key enzymes for the branch point of gibberellin and phytoalexin biosynthesis](http://www.ncbi.nlm.nih.gov/pubmed?term=Biological functions of ent- and syn-copalyl diphosphate synthases in rice: key enzymes for the branch point of gibberellin and phytoalexin biosynthesis%5BTitle%5D), These results suggest that OsCyc1, OsCyc2 and OsCPS1 are responsible for the biosynthesis of momilactones A and B and oryzalexin S, oryzalexins A-F and phytocassanes A-E, and GAs, respectively
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

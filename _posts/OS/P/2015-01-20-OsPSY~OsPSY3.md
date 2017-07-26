@@ -31,5 +31,5 @@ tags: [root, drought, salt]
     + __OsPSY~OsPSY3__, __PSY2__, [A third phytoene synthase is devoted to abiotic stress-induced abscisic acid formation in rice and defines functional diversification of phytoene synthase genes](http://www.ncbi.nlm.nih.gov/pubmed?term=A third phytoene synthase is devoted to abiotic stress-induced abscisic acid formation in rice and defines functional diversification of phytoene synthase genes%5BTitle%5D), Since the genomic structures of OsPSY2 and OsPSY3 are comparable, we conclude that they originated from the most recent common ancestor, OsPSY1
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

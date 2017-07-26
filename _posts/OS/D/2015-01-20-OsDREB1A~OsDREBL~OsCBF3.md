@@ -51,5 +51,5 @@ tags: [salt, temperature, drought, transcription factor, abiotic stress, cold st
     + __OsDREB1A~OsDREBL~OsCBF3__, __OsJRL__, [OsJRL, a rice jacalin-related mannose-binding lectin gene, enhances Escherichia coli viability under high-salinity stress and improves salinity tolerance of rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJRL, a rice jacalin-related mannose-binding lectin gene, enhances Escherichia coli viability under high-salinity stress and improves salinity tolerance of rice.%5BTitle%5D), Overexpression of OsJRL in rice also enhanced salinity tolerance and increased the expression levels of a number of stress-related genes, including three LEA (late embryogenesis abundant proteins) genes (OsLEA19a, OsLEA23 and OsLEA24), three Na(+) transporter genes (OsHKT1;3, OsHKT1;4 and OsHKT1;5) and two DREB genes (OsDREB1A and OsDREB2B)
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

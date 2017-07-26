@@ -34,5 +34,5 @@ tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, 
     + __OsBIABP1~SLAC1~OsSLAC1__, __OsSAPK8~SAPK8__, [Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice%5BTitle%5D), Protein kinase OsSAPK8 functions as an essential activator of S-type anion channel OsSLAC1, which is nitrate-selective in rice
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

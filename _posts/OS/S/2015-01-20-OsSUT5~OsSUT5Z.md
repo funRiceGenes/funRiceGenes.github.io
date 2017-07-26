@@ -37,5 +37,5 @@ tags: [leaf, transporter, vegetative]
     + __OsSUT1__, __OsSUT5~OsSUT5Z__, [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D), Transport activity of rice sucrose transporters OsSUT1 and OsSUT5
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

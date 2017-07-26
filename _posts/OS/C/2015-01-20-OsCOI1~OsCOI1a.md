@@ -40,5 +40,5 @@ tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, de
     + __OsCHX14__, __OsCOI1~OsCOI1a__, [OsCHX14 is involved in the K+ homeostasis in rice Oryza sativa flowers](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCHX14 is involved in the K+ homeostasis in rice Oryza sativa flowers%5BTitle%5D), Expression profiling confirmed that among 17 CHX genes in rice, OsCHX14 was the only member that showed an expression polymorphism, not only in osjar1 mutants but also in RNAi lines of OsCOI1, another key member of the JA signaling pathway
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

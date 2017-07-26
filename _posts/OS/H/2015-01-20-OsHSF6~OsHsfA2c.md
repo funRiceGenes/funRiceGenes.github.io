@@ -36,5 +36,5 @@ tags: [seed, transcription factor, root]
     + __HSP101~OsClpB-cyt~HSP100__, __OsHSF6~OsHsfA2c__, [OsHsfA2c and OsHsfB4b are involved in the transcriptional regulation of cytoplasmic OsClpB Hsp100 gene in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHsfA2c and OsHsfB4b are involved in the transcriptional regulation of cytoplasmic OsClpB Hsp100 gene in rice Oryza sativa L.%5BTitle%5D), OsHsfA2c and OsHsfB4b are involved in the transcriptional regulation of cytoplasmic OsClpB (Hsp100) gene in rice (Oryza sativa L.)
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

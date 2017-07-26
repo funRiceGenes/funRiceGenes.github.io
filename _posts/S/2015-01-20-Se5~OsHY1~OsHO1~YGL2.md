@@ -44,7 +44,7 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/YGL2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/YGL2.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

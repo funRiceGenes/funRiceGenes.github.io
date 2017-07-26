@@ -41,7 +41,7 @@ tags: [floral, flower, vascular bundle, lemma, sheath, growth, meristem, vegetat
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsYABBY1~OsYAB1.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
+
 [//]: # <img src="http://funRiceGenes.github.io/images/OsYABBY1~OsYAB1.exp.png" alt="expression"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
+
+

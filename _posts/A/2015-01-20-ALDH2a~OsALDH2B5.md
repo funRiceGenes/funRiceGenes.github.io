@@ -38,5 +38,5 @@ tags: [mitochondria, seedling, sheath, submergence, panicle, leaf]
     + __ALDH2a~OsALDH2B5__, __OsALDH2B1~ALDH2b__, [Organ-specific expressions and chromosomal locations of two mitochondrial aldehyde dehydrogenase genes from rice Oryza sativa L., ALDH2a and ALDH2b](http://www.ncbi.nlm.nih.gov/pubmed?term=Organ-specific expressions and chromosomal locations of two mitochondrial aldehyde dehydrogenase genes from rice Oryza sativa L., ALDH2a and ALDH2b%5BTitle%5D), Organ-specific expressions and chromosomal locations of two mitochondrial aldehyde dehydrogenase genes from rice (Oryza sativa L.), ALDH2a and ALDH2b
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

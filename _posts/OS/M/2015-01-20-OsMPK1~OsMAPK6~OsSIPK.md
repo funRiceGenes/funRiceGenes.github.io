@@ -66,5 +66,5 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + __OsMKK4__, __OsMPK1~OsMAPK6~OsSIPK__, [OsMAPK6, a mitogen-activated protein kinase, influences rice grain size and biomass production](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK6, a mitogen-activated protein kinase, influences rice grain size and biomass production%5BTitle%5D), As a functional kinase, OsMAPK6 interacts strongly with OsMKK4, indicating that OsMKK4 is likely to be the upstream MAPKK of OsMAPK6 in rice.
 
 [//]: # * **Key figures**  
-[//]: # 
-[//]: # 
+
+

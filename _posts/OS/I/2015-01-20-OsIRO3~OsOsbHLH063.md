@@ -25,6 +25,6 @@ tags: [root, transcription factor, homeostasis, shoot]
 
 [//]: # * **Key figures**  
 [//]: # <img src="http://funRiceGenes.github.io/images/OsIRO3.pheno.png" alt="phenotype"  style="width: 600px;"/>
-[//]: # 
-[//]: # 
-[//]: # 
+
+
+
