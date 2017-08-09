@@ -21,13 +21,12 @@ __A comprehensive database of functionally characterized rice genes__
 
 
 <br>
-<form action="search.html">
-  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
-  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
-  <div style="clear: both;"></div>
-</form>
-
+__To search this site, please use Google or Bing with the following search pattern!__  
+yourSearchKeyword site:https://funricegenes.github.io/  
+For example, to search this site with the keyword "domestication", open Google or Bing and type the following words:  
+domestication site:https://funricegenes.github.io/  
   
+
 <br>
 __To interactively query this database, go to the following site!__  
 [<img src="https://funricegenes.github.io/images/shiny.png" alt="Dynamic query of this database"  style="width: 600px;"/>](http://funricegenes.ncpgr.cn)   
