@@ -20,13 +20,13 @@ __A comprehensive database of functionally characterized rice genes__
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
 <br>
-__To search this site, please use Google or Bing with the following search pattern!__  
+__To search this site, please use [Google]{http://www.google.com/} or [Bing]{https://cn.bing.com} with the following search pattern!__
 ```
 yourSearchKeyword site:https://funricegenes.github.io/
 ```
-For example, to search this site with the keyword "domestication", open Google or Bing and type the following words:  
+For example, to search this site with the keyword "domestication", open [Google]{http://www.google.com/} or [Bing]{https://cn.bing.com} and type the following words:
 ```
-domestication site:https://funricegenes.github.io/  
+domestication site:https://funricegenes.github.io/
 ```
   
 <br>
