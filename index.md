@@ -19,6 +19,22 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: ywhzau at gmail.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
+
+<br>
+<form action="{{ page.url | relative_url }}">
+  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
+  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
+  <div style="clear: both;"></div>
+</form>
+
+<div id="tipue_search_content"></div>
+
+<script>
+$(document).ready(function() {
+  $('#tipue_search_input').tipuesearch();
+});
+</script>
+
   
 <br>
 __To interactively query this database, go to the following site!__  
