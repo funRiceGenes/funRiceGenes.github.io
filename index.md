@@ -19,18 +19,19 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: ywhzau at gmail.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
-
 <br>
 __To search this site, please use Google or Bing with the following search pattern!__  
-yourSearchKeyword site:https://funricegenes.github.io/  
+```
+yourSearchKeyword site:https://funricegenes.github.io/
+```
 For example, to search this site with the keyword "domestication", open Google or Bing and type the following words:  
+```
 domestication site:https://funricegenes.github.io/  
+```
   
-
 <br>
 __To interactively query this database, go to the following site!__  
 [<img src="https://funricegenes.github.io/images/shiny.png" alt="Dynamic query of this database"  style="width: 600px;"/>](http://funricegenes.ncpgr.cn)   
-
 
 <br>
 __If you find any error information in our database or any functionally characterized rice genes missing from our database, please leave us a message.__
@@ -48,7 +49,6 @@ __If you find any error information in our database or any functionally characte
 <button type="submit" class="button">Send</button>
 </label>
 </form>
-
 
 <br>
 __If you use the data in this database, please cite [our website](https://funricegenes.github.io/) for now.__
