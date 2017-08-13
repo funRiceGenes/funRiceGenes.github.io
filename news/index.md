@@ -5,6 +5,75 @@ comments: no
 thread: 616
 ---
 
+* 2017/Aug/13 add new pub.
+* 2017/Aug/13 add new info for gene: OsLAC13
+* 2017/Aug/13 add new pub.
+* 2017/Aug/13 add new gene: OsLAC13
+* 2017/Aug/13 add new pub.
+* 2017/Aug/13 add new pub.
+* 2017/Aug/13 add new pub.
+* 2017/Aug/11 add new pub.
+* 2017/Aug/11 add new pub.
+* 2017/Aug/10 add new info for gene: OsATG7
+* 2017/Aug/10 add new pub.
+* 2017/Aug/10 add new gene: OsATG7
+* 2017/Aug/9 add new info for gene: D14
+* 2017/Aug/9 add new pub.
+* 2017/Aug/9 add new reference for OsCW-ZF7
+* 2017/Aug/9 add new gene: OsCW-ZF7
+* 2017/Aug/9 add new info for gene: OsPKS2
+* 2017/Aug/9 add new pub.
+* 2017/Aug/9 add new gene: OsPKS2
+* 2017/Aug/9 add new pub.
+* 2017/Aug/8 add new info for gene: OsBDG1
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new gene: OsBDG1
+* 2017/Aug/8 add new info for gene: bHLH142
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new info for gene: OsbZIP48
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new gene: OsbZIP48
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new info for gene: OsOTUB1
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 WTG1 == OsOTUB1
+* 2017/Aug/8 add new info for gene: Pb1
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new info for gene: OsAIR2
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new gene: OsAIR2
+* 2017/Aug/8 add new info for gene: OsETR2
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new info for gene: OsERS1
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 ETR2 == Os-ERL1 == OsETR2
+* 2017/Aug/8 ERS1 == OsERS1
+* 2017/Aug/8 add new info for gene: OsMPK6
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new info for gene: OsSTRL2
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new gene: OsSTRL2
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new info for gene: OsPRI1
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new gene: OsPRI1
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new info for gene: OsFBN5
+* 2017/Aug/8 add new pub.
+* 2017/Aug/8 add new gene: OsFBN5
+* 2017/Aug/8 remove R history
+* 2017/Jul/29 add new info for gene: OsFH15
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new gene: OsFH15
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new pub.
+* 2017/Jul/29 add new pub.
 * 2017/Jul/26 add new reference for OsAPX4
 * 2017/Jul/26 add new gene: OsAPX4
 * 2017/Jul/26 add new pub.
