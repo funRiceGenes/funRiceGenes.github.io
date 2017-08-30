@@ -17,8 +17,13 @@ tags: [endosperm, seed]
     + [The small GTPase Rab5a is essential for intracellular transport of proglutelin from the Golgi apparatus to the protein storage vacuole and endosomal membrane organization in developing rice endosperm](http://www.ncbi.nlm.nih.gov/pubmed?term=The small GTPase Rab5a is essential for intracellular transport of proglutelin from the Golgi apparatus to the protein storage vacuole and endosomal membrane organization in developing rice endosperm%5BTitle%5D), 2011, Plant Physiol.
 
 * **Genbank accession number**  
+    + [AY029301](http://www.ncbi.nlm.nih.gov/nuccore/AY029301)
     + [AJ292320](http://www.ncbi.nlm.nih.gov/nuccore/AJ292320)
     + [AK061116](http://www.ncbi.nlm.nih.gov/nuccore/AK061116)
+    + [AY029301](http://www.ncbi.nlm.nih.gov/nuccore/AY029301)
+    + [AJ292320](http://www.ncbi.nlm.nih.gov/nuccore/AJ292320)
+    + [AK061116](http://www.ncbi.nlm.nih.gov/nuccore/AK061116)
+    + [AY029301](http://www.ncbi.nlm.nih.gov/nuccore/AY029301)
     + [AJ292320](http://www.ncbi.nlm.nih.gov/nuccore/AJ292320)
     + [AK061116](http://www.ncbi.nlm.nih.gov/nuccore/AK061116)
 

@@ -19,6 +19,9 @@ tags: [seed, pollen, meiosis, anther development, growth, anther, sterility, end
 
 * **Genbank accession number**  
     + [AB062606](http://www.ncbi.nlm.nih.gov/nuccore/AB062606)
+    + [DQ395328](http://www.ncbi.nlm.nih.gov/nuccore/DQ395328)
+    + [AB062606](http://www.ncbi.nlm.nih.gov/nuccore/AB062606)
+    + [DQ395328](http://www.ncbi.nlm.nih.gov/nuccore/DQ395328)
 
 * **Key message**  
     + The suppression of UGPase by the introduction of a UGPase1-RNAi construct in wild-type plants nearly eliminated seed set because of the male defect, with developmental retardation similar to the ms-h mutant phenotype, whereas overexpression of UGPase1 in ms-h mutant plants restored male fertility and the transformants produced T(1) seeds that segregated into normal and chalky endosperms

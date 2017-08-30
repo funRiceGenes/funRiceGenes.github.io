@@ -5,6 +5,251 @@ comments: no
 thread: 616
 ---
 
+* 2017/Aug/29 add new info for gene: OsMADS34
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new info for gene: HTH1
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new gene: HTH1
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new info for gene: OsNF-YC13
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new gene: OsNF-YC13
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new info for gene: WOX11
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new info for gene: OsPP2C50
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 OsABIL3 == OsPP2C50
+* 2017/Aug/29 add new pub for OsEIL1
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new info for gene: OsNPF7.3
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 OsPTR6 == PTR6 == OsNPF7.3
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new info for gene: IPA1
+* 2017/Aug/29 add new pub.
+* 2017/Aug/29 add new pub.
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for GIF1
+* 2017/Aug/16 add new accessions for OsRab5a
+* 2017/Aug/16 add new accessions for GPA3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 add new accessions for GS3
+* 2017/Aug/16 LA1 == LAZY1
+* 2017/Aug/16 add new accessions for LA1
+* 2017/Aug/16 add new accessions for LPA1
+* 2017/Aug/16 add new accessions for MEICA1
+* 2017/Aug/16 add new accessions for MEICA1
+* 2017/Aug/16 add new accessions for PAIR3
+* 2017/Aug/16 add new accessions for PAIR2
+* 2017/Aug/16 add new accessions for PAIR1
+* 2017/Aug/16 add new accessions for OsRad21-4
+* 2017/Aug/16 add new accessions for Ugp1
+* 2017/Aug/16 add new accessions for MEL1
+* 2017/Aug/16 add new accessions for PSS1
+* 2017/Aug/16 add new accessions for PSTOL1
+* 2017/Aug/16 add new accessions for PSTOL1
+* 2017/Aug/16 add new accessions for PTB1
+* 2017/Aug/16 add new accessions for qLTG3-1
+* 2017/Aug/16 add new accessions for OsSPL16
+* 2017/Aug/16 add new accessions for OsSPL16
+* 2017/Aug/16 add new accessions for OsSPL16
+* 2017/Aug/16 add new reference for OsMYB45
+* 2017/Aug/16 OsMPH1 == OsMYB45
+* 2017/Aug/16 add new info for gene: OsPIL1
+* 2017/Aug/16 add new pub.
+* 2017/Aug/15 add new accessions for Ehd4
+* 2017/Aug/15 add new accessions for D53
+* 2017/Aug/15 add new accessions for CCP1
+* 2017/Aug/15 add new accessions for Bph14
+* 2017/Aug/15 add new accessions for BPH29
+* 2017/Aug/15 add new accessions for BPH29
+* 2017/Aug/15 add new accessions for BG1
+* 2017/Aug/15 add new accessions for BC1
+* 2017/Aug/15 add new accessions for BC1
+* 2017/Aug/15 add new accessions for An-1
+* 2017/Aug/15 add new accessions for An-1
+* 2017/Aug/15 add new accessions for An-1
+* 2017/Aug/15 add new accessions for An-1
+* 2017/Aug/15 add new accessions for ASL2
+* 2017/Aug/15 add new accessions for ASL2
+* 2017/Aug/15 add new accessions for GW7
+* 2017/Aug/15 add new accessions for OsPRR37
+* 2017/Aug/15 add new accessions for OsPRR37
+* 2017/Aug/15 add new accessions for OsPRR37
+* 2017/Aug/15 add new accessions for OsPRR37
+* 2017/Aug/15 add new accessions for OsPRR37
+* 2017/Aug/15 add new pub.
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for RFT1
+* 2017/Aug/15 add new accessions for SSD1
+* 2017/Aug/15 add new accessions for SSG4
+* 2017/Aug/15 add new accessions for STR2
+* 2017/Aug/15 add new accessions for STR1
+* 2017/Aug/15 add new accessions for SaF
+* 2017/Aug/15 add new accessions for SaF
+* 2017/Aug/15 add new accessions for SaM
+* 2017/Aug/15 add new accessions for SaM
+* 2017/Aug/15 add new accessions for Sdr4
+* 2017/Aug/15 add new accessions for Sdr4
+* 2017/Aug/15 add new accessions for Sdr4
+* 2017/Aug/15 add new accessions for Sdr4
+* 2017/Aug/15 add new accessions for OsHY1
+* 2017/Aug/15 add new accessions for OsHY1
+* 2017/Aug/15 add new accessions for OsHY1
+* 2017/Aug/15 add new accessions for SnRK1B
+* 2017/Aug/15 add new accessions for TCM5
+* 2017/Aug/15 add new accessions for bHLH142
+* 2017/Aug/15 add new accessions for TOM1
+* 2017/Aug/15 add new accessions for TOM1
+* 2017/Aug/15 add new accessions for TPS46
+* 2017/Aug/15 add new accessions for VYL
+* 2017/Aug/15 add new accessions for WRKY70
+* 2017/Aug/15 add new accessions for XB15
+* 2017/Aug/15 add new accessions for XRCC3
+* 2017/Aug/15 add new accessions for Xa1
+* 2017/Aug/15 add new accessions for Xa1
+* 2017/Aug/15 add new accessions for Xa10-Ni
+* 2017/Aug/15 add new accessions for Xa25
+* 2017/Aug/15 add new accessions for Xa25
+* 2017/Aug/15 add new accessions for Xa26
+* 2017/Aug/15 add new accessions for Xa26
+* 2017/Aug/15 add new accessions for Xa26
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa27
+* 2017/Aug/15 add new accessions for Xa5
+* 2017/Aug/15 add new accessions for Xa5
+* 2017/Aug/15 add new accessions for Xa5
+* 2017/Aug/15 add new accessions for Xa5
+* 2017/Aug/15 add new accessions for Xa5
+* 2017/Aug/15 add new accessions for Xa5
+* 2017/Aug/15 add new accessions for YSS1
+* 2017/Aug/15 add new accessions for ZN
+* 2017/Aug/14 add new info for gene: OsREX1-S
+* 2017/Aug/14 add new pub.
+* 2017/Aug/14 add new gene: OsREX1-S
+* 2017/Aug/14 add new accessions for SIDP361
+* 2017/Aug/14 add new reference for SIDP361
+* 2017/Aug/14 add new gene: SIDP361
+* 2017/Aug/14 add new reference for OsPHY2
+* 2017/Aug/14 add new accessions for OsPHY2
+* 2017/Aug/14 add new gene: OsPHY2
+* 2017/Aug/14 add new reference for NSG
+* 2017/Aug/14 add new gene: NSG
+* 2017/Aug/14 add new reference for OsDPE2
+* 2017/Aug/14 add new gene: OsDPE2
+* 2017/Aug/14 add new pub.
 * 2017/Aug/13 add new pub.
 * 2017/Aug/13 add new info for gene: OsLAC13
 * 2017/Aug/13 add new pub.

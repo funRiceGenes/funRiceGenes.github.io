@@ -20,6 +20,15 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + [L -cysteine desulfhydrase-related H2 S production is involved in OsSE5-promoted ammonium tolerance in roots of Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=L -cysteine desulfhydrase-related H2 S production is involved in OsSE5-promoted ammonium tolerance in roots of Oryza sativa.%5BTitle%5D), 2017, Plant Cell Environ.
 
 * **Genbank accession number**  
+    + [AK068856](http://www.ncbi.nlm.nih.gov/nuccore/AK068856)
+    + [AK104955](http://www.ncbi.nlm.nih.gov/nuccore/AK104955)
+    + [EU781632](http://www.ncbi.nlm.nih.gov/nuccore/EU781632)
+    + [AK068856](http://www.ncbi.nlm.nih.gov/nuccore/AK068856)
+    + [AK104955](http://www.ncbi.nlm.nih.gov/nuccore/AK104955)
+    + [EU781632](http://www.ncbi.nlm.nih.gov/nuccore/EU781632)
+    + [AK068856](http://www.ncbi.nlm.nih.gov/nuccore/AK068856)
+    + [AK104955](http://www.ncbi.nlm.nih.gov/nuccore/AK104955)
+    + [EU781632](http://www.ncbi.nlm.nih.gov/nuccore/EU781632)
 
 * **Key message**  
     + Alleviation of seed germination inhibition, chlorophyll loss and ROS overproduction, as well as the induction of antioxidant defense were further observed when SE5 or HY1 was overexpressed in transgenic Arabidopsis plants, indicating that SE5 may be useful for molecular breeding designed to improve plant tolerance to oxidative stress
