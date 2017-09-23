@@ -31,6 +31,8 @@ tags: [microspore, sterile, fertility, anther, pollen, sterility, development, m
     + Post-meiosis, OsGEN1 foci were detected in wild-type microspore nuclei, but not in the osgen1 mutant concomitant with an increase in double strand breaks
 
 * **Connection**  
+    + __OsGEN-L~OsGEN1__, __OsSEND-1~OsSEND1__, [Resolvase OsGEN1 Mediates DNA Repair by Homologous Recombination.](http://www.ncbi.nlm.nih.gov/pubmed?term=Resolvase OsGEN1 Mediates DNA Repair by Homologous Recombination.%5BTitle%5D),  In this study, we characterized the loss of function mutants of OsGEN1 and OsSEND1, a pair of paralogs of Yen1/GEN1 in rice (Oryza sativa)
+    + __OsGEN-L~OsGEN1__, __OsSEND-1~OsSEND1__, [Resolvase OsGEN1 Mediates DNA Repair by Homologous Recombination.](http://www.ncbi.nlm.nih.gov/pubmed?term=Resolvase OsGEN1 Mediates DNA Repair by Homologous Recombination.%5BTitle%5D),  In contrast, depletion of OsSEND1 had no effects on plant development and did not enhance osgen1 defects
 
 [//]: # * **Key figures**  
 

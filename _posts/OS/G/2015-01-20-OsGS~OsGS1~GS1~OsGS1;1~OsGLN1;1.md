@@ -23,14 +23,14 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + [Overexpression of the glutamine synthetase gene modulates oxidative stress response in rice after exposure to cadmium stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of the glutamine synthetase gene modulates oxidative stress response in rice after exposure to cadmium stress%5BTitle%5D), 2013, Plant Cell Rep.
 
 * **Genbank accession number**  
-    + [AB037595](http://www.ncbi.nlm.nih.gov/nuccore/AB037595)
     + [NM_001054580.1](http://www.ncbi.nlm.nih.gov/nuccore/NM_001054580.1)
+    + [AB037595](http://www.ncbi.nlm.nih.gov/nuccore/AB037595)
     + [X14245](http://www.ncbi.nlm.nih.gov/nuccore/X14245)
-    + [AB037595](http://www.ncbi.nlm.nih.gov/nuccore/AB037595)
     + [NM_001054580.1](http://www.ncbi.nlm.nih.gov/nuccore/NM_001054580.1)
+    + [AB037595](http://www.ncbi.nlm.nih.gov/nuccore/AB037595)
     + [X14245](http://www.ncbi.nlm.nih.gov/nuccore/X14245)
-    + [AB037595](http://www.ncbi.nlm.nih.gov/nuccore/AB037595)
     + [NM_001054580.1](http://www.ncbi.nlm.nih.gov/nuccore/NM_001054580.1)
+    + [AB037595](http://www.ncbi.nlm.nih.gov/nuccore/AB037595)
     + [X14245](http://www.ncbi.nlm.nih.gov/nuccore/X14245)
 
 * **Key message**  

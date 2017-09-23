@@ -36,8 +36,5 @@ tags: [ awn , leaf, vascular bundle, meristem, transcription factor]
     + __DL__, __OsETT2~OsETTIN2__, [The DROOPING LEAF and OsETTIN2 genes promote awn development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The DROOPING LEAF and OsETTIN2 genes promote awn development in rice%5BTitle%5D), Genetic analyses and RNA-silencing experiments indicate that DL and OsETT2 act independently in awn formation, and that either gene alone is not sufficient for awn development
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/OsETT2~OsETTIN2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-[//]: # <img src="http://funRiceGenes.github.io/images/OsETT2~OsETTIN2.exp.png" alt="expression"  style="width: 600px;"/>
 
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "ASR5,OsAsr1"
+title: "ASR5,OsAsr1,OsASR2"
 description: ""
 category: genes
-tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, temperature, reproductive, shoot, aluminum, drought, sheath, gibberellin, cold stress, cold tolerance, lemma, abiotic stress, leaf, chloroplast, seedlings]
+tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, temperature, reproductive, shoot, aluminum, drought, sheath, gibberellin, cold stress, cold tolerance, lemma, abiotic stress, leaf, chloroplast, seedlings, resistance, stress, biotic stress]
 ---
 
 * **Information**  
-    + Symbol: ASR5,OsAsr1  
+    + Symbol: ASR5,OsAsr1,OsASR2  
     + MSU: [LOC_Os11g06720](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g06720)  
     + RAPdb: [Os11g0167800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os11g0167800)  
 
@@ -20,9 +20,13 @@ tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, te
     + [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), 2013, Mol Cells.
     + [Rice ASR1 protein with reactive oxygen species scavenging and chaperone-like activities enhances acquired tolerance to abiotic stresses in Saccharomyces cerevisiae](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice ASR1 protein with reactive oxygen species scavenging and chaperone-like activities enhances acquired tolerance to abiotic stresses in Saccharomyces cerevisiae%5BTitle%5D), 2012, Mol Cells.
     + [ASR5 is involved in the regulation of miRNA expression in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=ASR5 is involved in the regulation of miRNA expression in rice.%5BTitle%5D), 2015, Plant Cell Rep.
+    + [OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.%5BTitle%5D), 2017, Plant Biotechnol J.
 
 * **Genbank accession number**  
     + [AAB96681](http://www.ncbi.nlm.nih.gov/nuccore/AAB96681)
+    + [EF576160](http://www.ncbi.nlm.nih.gov/nuccore/EF576160)
+    + [AAB96681](http://www.ncbi.nlm.nih.gov/nuccore/AAB96681)
+    + [EF576160](http://www.ncbi.nlm.nih.gov/nuccore/EF576160)
 
 * **Key message**  
     + Low-temperature stress increased mRNA levels of OsAsr1 in both vegetative and reproductive organs
@@ -44,20 +48,22 @@ tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, te
     + Coexpression analysis of OsASR1 and OsASR3 and a comparison of the cis-acting elements upstream of OsASR1 and OsASR3 suggested that their expression is regulated in common by abiotic stresses but differently regulated by hormone and sugar signals
     + Furthermore, an ASR5-GFP fusion in rice protoplasts revealed for the first time a chloroplast localization of this protein
     + This work describes the transcriptomic analysis by deep sequencing two libraries, comparing miRNA abundance from the roots of transgenic ASR5 knockdown rice seedlings with that of the roots of wild-type non-transformed rice seedlings
+    + Overexpression of OsASR2 enhanced the resistance against Xanthomonas oryzae pv
+    + These results suggest that the interaction between OsASR2 and GT-1 plays an important role in the crosstalk of the response of rice to biotic and abiotic stresses
+    + Additionally, the expression of OsASR2 was elevated by pathogens and osmotic stress challenges
 
 * **Connection**  
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), OsASR1 and OsASR3 are the most abundant and are found in most tissues; they are enriched in the leaves and roots, respectively
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Coexpression analysis of OsASR1 and OsASR3 and a comparison of the cis-acting elements upstream of OsASR1 and OsASR3 suggested that their expression is regulated in common by abiotic stresses but differently regulated by hormone and sugar signals
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), The results of quantitative real-time PCR analyses of OsASR1 and OsASR3 expression under various conditions further support this model
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), The expression of both OsASR1 and OsASR3 was induced by drought stress, which is a major regulator of the expression of all ASR genes in rice
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), OsASR1 transcription was highly induced by ABA, whereas OsASR3 transcription was strongly induced by GA
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), In addition, OsASR1 and OsASR3 expression was significantly induced by sucrose and sucrose/glucose treatments, respectively
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Our data also showed that the overexpression of either OsASR1 or OsASR3 in transgenic rice plants increased their tolerance to drought and cold stress
-    + __Asr3~OsASR3__, __ASR5~OsAsr1__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), OsASR1 and OsASR3 are the most abundant and are found in most tissues; they are enriched in the leaves and roots, respectively
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Coexpression analysis of OsASR1 and OsASR3 and a comparison of the cis-acting elements upstream of OsASR1 and OsASR3 suggested that their expression is regulated in common by abiotic stresses but differently regulated by hormone and sugar signals
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), The results of quantitative real-time PCR analyses of OsASR1 and OsASR3 expression under various conditions further support this model
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), The expression of both OsASR1 and OsASR3 was induced by drought stress, which is a major regulator of the expression of all ASR genes in rice
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), OsASR1 transcription was highly induced by ABA, whereas OsASR3 transcription was strongly induced by GA
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), In addition, OsASR1 and OsASR3 expression was significantly induced by sucrose and sucrose/glucose treatments, respectively
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Our data also showed that the overexpression of either OsASR1 or OsASR3 in transgenic rice plants increased their tolerance to drought and cold stress
+    + __Asr3~OsASR3__, __ASR5~OsAsr1~OsASR2__, [Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities](http://www.ncbi.nlm.nih.gov/pubmed?term=Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities%5BTitle%5D), Abiotic stress responsive rice ASR1 and ASR3 exhibit different tissue-dependent sugar and hormone-sensitivities
+    + __ASR5~OsAsr1~OsASR2__, __Os2H16__, [OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.%5BTitle%5D), OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.
+    + __ASR5~OsAsr1~OsASR2__, __Os2H16__, [OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsASR2 regulates the expression of a defense-related gene, Os2H16, by targeting the GT-1 cis-element.%5BTitle%5D),  Furthermore, we identified that OsASR2 was specifically bound to GT-1 and activated the expression of the target gene Os2H16, as well as GFP driven by the chimeric promoter of 2 × GT-1-35S mini construct
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/ASR5~OsAsr1.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-[//]: # <img src="http://funRiceGenes.github.io/images/ASR5~OsAsr1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

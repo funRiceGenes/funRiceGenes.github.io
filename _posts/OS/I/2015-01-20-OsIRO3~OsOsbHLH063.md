@@ -26,7 +26,5 @@ tags: [root, transcription factor, homeostasis, shoot]
     + __OsIRO3~OsOsbHLH063__, __OsPRI1__, [POSITIVE REGULATOR OF IRON HOMEOSTASIS 1 OsPRI1 positively regulates iron homeostasis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=POSITIVE REGULATOR OF IRON HOMEOSTASIS 1 OsPRI1 positively regulates iron homeostasis in rice.%5BTitle%5D),  Collectively, these results imply that OsPRI1, which is ubiquitinated by OsHRZ1, mediates rice responses to Fe-deficiency by positively regulating OsIRO2 and OsIRO3 expression as part of the OsHRZ1-OsPRI1-OsIRO2/3 signal transduction cascade
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/OsIRO3.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
 
 

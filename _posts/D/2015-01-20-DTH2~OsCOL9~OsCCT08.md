@@ -50,8 +50,5 @@ tags: [domestication, flower, reproductive, floral, heading date, breeding, resi
     + __DTH2~OsCOL9~OsCCT08__, __Hd3a__, [CONSTANS-like 9 COL9 delays the flowering time in Oryza sativa by repressing the Ehd1 pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=CONSTANS-like 9 COL9 delays the flowering time in Oryza sativa by repressing the Ehd1 pathway.%5BTitle%5D), Our data showed that overexpression of OsCOL9 delayed the flowering time under both short-day (SD) and long-day (LD) conditions, leading to suppressed expressions of EHd1, RFT and Hd3a at the mRNA Level
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/DTH2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-[//]: # <img src="http://funRiceGenes.github.io/images/DTH2.exp.png" alt="expression"  style="width: 600px;"/>
 
 

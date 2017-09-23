@@ -22,7 +22,5 @@ tags:
 * **Connection**  
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/OsLCYe~OsLCYepsilon.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
 
 

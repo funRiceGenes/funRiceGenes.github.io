@@ -44,8 +44,5 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + __OsNAC2~OsTIL1~OMTN2~OsORE1__, __OsNCED3__, [A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.%5BTitle%5D),  Moreover, ectopic expression of OsNAC2 leads to an increase in ABA levels via directly upregulating expression of ABA biosynthetic genes (OsNCED3 and OsZEP1) as well as downregulating the ABA catabolic gene (OsABA8ox1)
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/OsNAC2.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-[//]: # <img src="http://funRiceGenes.github.io/images/OsNAC2.exp.png" alt="expression"  style="width: 600px;"/>
 
 

@@ -82,8 +82,5 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + __Lsi1~OsNIP2;1~OsLsi1__, __OsWRKY53__, [Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress%5BTitle%5D),  Our results suggest that when overexpressed Lsi1 in cold-sensitive rice, it possibility regulates the transcription factor OsWRKY53 in addition to the genes involved in the ROS metabolism, thus mediating resistance to chilling stress
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/Lsi1.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-[//]: # <img src="http://funRiceGenes.github.io/images/Lsi1.exp.png" alt="expression"  style="width: 600px;"/>
 
 

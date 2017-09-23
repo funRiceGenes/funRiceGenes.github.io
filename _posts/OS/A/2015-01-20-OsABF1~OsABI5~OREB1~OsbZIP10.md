@@ -67,7 +67,5 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
     + __OsABF1~OsABI5~OREB1~OsbZIP10__, __OsPP2C51__, [The protein phosphatase 2C clade A protein OsPP2C51 positively regulates seed germination by directly inactivating OsbZIP10.](http://www.ncbi.nlm.nih.gov/pubmed?term=The protein phosphatase 2C clade A protein OsPP2C51 positively regulates seed germination by directly inactivating OsbZIP10.%5BTitle%5D), Overall, our result suggests that OsPP2C51 is a positive regulator of seed germination by directly suppressing active phosphorylated OsbZIP10
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/OsABI5~OREB1~OsbZIP10.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
 
 

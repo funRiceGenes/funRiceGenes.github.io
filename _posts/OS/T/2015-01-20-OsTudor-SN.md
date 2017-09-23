@@ -23,7 +23,5 @@ tags: [endosperm]
 * **Connection**  
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/OsTudor-SN.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
 
 

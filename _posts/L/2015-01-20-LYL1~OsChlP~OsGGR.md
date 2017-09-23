@@ -26,8 +26,5 @@ tags: [leaf, oxidative]
     + __LYL1~OsChlP~OsGGR__, __OsPORB~FGL__, [A recruiting protein of geranylgeranyl diphosphate synthase controls metabolic flux toward chlorophyll biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A recruiting protein of geranylgeranyl diphosphate synthase controls metabolic flux toward chlorophyll biosynthesis in rice.%5BTitle%5D),  OsGRP determines OsGGPPS1 suborganellar localization and directs it to a large protein complex in thylakoid membranes, consisting of geranylgeranyl reductase (OsGGR), light-harvesting-like protein 3 (OsLIL3), protochlorophyllide oxidoreductase (OsPORB), and chlorophyll synthase (OsCHLG)
 
 [//]: # * **Key figures**  
-[//]: # <img src="http://funRiceGenes.github.io/images/LYL1.pheno.png" alt="phenotype"  style="width: 600px;"/>
-
-[//]: # <img src="http://funRiceGenes.github.io/images/LYL1.exp.png" alt="expression"  style="width: 600px;"/>
 
 
