@@ -20,7 +20,6 @@ thread: 616
 * 2017/Sep/20 add new info for OsWRKY53
 * 2017/Sep/20 add new pub.
 * 2017/Sep/20 add new pub.
-* 2017/Sep/19 choose new genes to display in HOME
 * 2017/Sep/13 add new reference for OsMEX1
 * 2017/Sep/13 OsMT == OsMEX1
 * 2017/Sep/13 add new accessions for OsAP23
