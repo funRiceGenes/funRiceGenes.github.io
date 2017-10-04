@@ -9095,6 +9095,7 @@ OsHAK1	Os04g0401700	LOC_Os04g32920	potassium	Rice potassium transporter OsHAK1 i
 OsHAK1	Os04g0401700	LOC_Os04g32920	steles	Rice potassium transporter OsHAK1 is essential for maintaining potassium mediated growth and functions in salt tolerance over low and high potassium concentration ranges.
 OsHAK1	Os04g0401700	LOC_Os04g32920	transporter	Production of low-Cs(+) rice plants by inactivation of the K(+) transporter OsHAK1 with the CRISPR-Cas system.
 OsHAK1	Os04g0401700	LOC_Os04g32920	transporter	Production of low-Cs(+) rice plants by inactivation of the K(+) transporter OsHAK1 with the CRISPR-Cas system.
+OsHAK1	Os04g0401700	LOC_Os04g32920	potassium	Cesium Uptake by Rice Roots Largely Depends Upon a Single Gene, HAK1, Which Encodes a Potassium Transporter.
 OsHAK10	Os06g0625900|Os06g0625800|Os06g0626050	LOC_Os06g42030	salt	Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice (Oryza sativa L.)
 OsHAK10	Os06g0625900|Os06g0625800|Os06g0626050	LOC_Os06g42030	transporter	Inventory and functional characterization of the HAK potassium transporters of rice
 OsHAK10	Os06g0625900|Os06g0625800|Os06g0626050	LOC_Os06g42030	salt stress	Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice (Oryza sativa L.)
@@ -13344,6 +13345,10 @@ OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	leaf senescence	Roles of rice PHYTOCH
 OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	transcription factor	Roles of rice PHYTOCHROME-INTERACTING FACTOR-LIKE1 (OsPIL1) in leaf senescence.
 OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	senescence	Roles of rice PHYTOCHROME-INTERACTING FACTOR-LIKE1 (OsPIL1) in leaf senescence.
 OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	senescence	Roles of rice PHYTOCHROME-INTERACTING FACTOR-LIKE1 (OsPIL1) in leaf senescence.
+OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	transcription factor	Rice Phytochrome-Interacting Factor-Like1 (OsPIL1) is involved in the promotion of chlorophyll biosynthesis through feed-forward regulatory loops.
+OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	photosynthesis	Rice Phytochrome-Interacting Factor-Like1 (OsPIL1) is involved in the promotion of chlorophyll biosynthesis through feed-forward regulatory loops.
+OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	Chl biosynthesis	Rice Phytochrome-Interacting Factor-Like1 (OsPIL1) is involved in the promotion of chlorophyll biosynthesis through feed-forward regulatory loops.
+OsPIL13|OsPIL1	Os03g0782500	LOC_Os03g56950	Chl biosynthesis	Rice Phytochrome-Interacting Factor-Like1 (OsPIL1) is involved in the promotion of chlorophyll biosynthesis through feed-forward regulatory loops.
 OsPIL14|OsPIF14	Os07g0143200	LOC_Os07g05010	stress	Rice phytochrome-interacting factor protein OsPIF14 represses OsDREB1B gene expression through an extended N-box and interacts preferentially with the active form of Phytochrome B.
 OsPIL14|OsPIF14	Os07g0143200	LOC_Os07g05010	stress	Rice phytochrome-interacting factor protein OsPIF14 represses OsDREB1B gene expression through an extended N-box and interacts preferentially with the active form of Phytochrome B.
 OsPIL14|OsPIF14	Os07g0143200	LOC_Os07g05010	R protein	Rice phytochrome-interacting factor protein OsPIF14 represses OsDREB1B gene expression through an extended N-box and interacts preferentially with the active form of Phytochrome B.
@@ -13860,6 +13865,21 @@ OsPYL|RCAR5	Os05g0213500	LOC_Os05g12260	salt stress	Overexpression of PYL5 in ri
 OsPYL|RCAR5	Os05g0213500	LOC_Os05g12260	 ABA 	Overexpression of PYL5 in rice enhances drought tolerance, inhibits growth, and modulates gene expression
 OsPYL1	Os10g0573400	LOC_Os10g42280	 ABA 	Abscisic acid regulates subcellular redistribution of OsABI-LIKE2, a negative regulator in ABA signaling, to control root architecture and drought resistance in Oryza Sativa.
 OsPYL1	Os10g0573400	LOC_Os10g42280	ABA	Abscisic acid regulates subcellular redistribution of OsABI-LIKE2, a negative regulator in ABA signaling, to control root architecture and drought resistance in Oryza Sativa.
+OsRA2	Os01g0169400	LOC_Os01g07480	panicle	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	panicle	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	spikelet	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	development	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	seed	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	meristem	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	spikelet meristem	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	inflorescence	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	architecture	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	architecture	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	inflorescence architecture	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	nucleus	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	panicle architecture	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	axillary meristem	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
+OsRA2	Os01g0169400	LOC_Os01g07480	axillary meristem	OsRAMOSA2 Shapes Panicle Architecture through Regulating Pedicel Length.
 OsRAA1	Os01g0257300	LOC_Os01g15340	seedling	Overexpression of OsRAA1 causes pleiotropic phenotypes in transgenic rice plants, including altered leaf, flower, and root development and root response to gravity
 OsRAA1	Os01g0257300	LOC_Os01g15340	cell division	Rice ROOT ARCHITECTURE ASSOCIATED1 binds the proteasome subunit RPT4 and is degraded in a D-box and proteasome-dependent manner
 OsRAA1	Os01g0257300	LOC_Os01g15340	root	Overexpression of OsRAA1 causes pleiotropic phenotypes in transgenic rice plants, including altered leaf, flower, and root development and root response to gravity
@@ -14683,6 +14703,15 @@ OsSIZ1	Os05g0125000	LOC_Os05g03430	photosynthesis	Overexpression of the Rice SUM
 OsSIZ1	Os05g0125000	LOC_Os05g03430	heat tolerance	Overexpression of the Rice SUMO E3 Ligase Gene OsSIZ1 in Cotton Enhances Drought and Heat Tolerance, and Substantially Improves Fiber Yields in the Field under Reduced Irrigation and Rainfed Conditions.
 OsSIZ2	Os03g0719100	LOC_Os03g50980	seed germination	Functional characterization of the SIZ/PIAS-type SUMO E3 ligases, OsSIZ1 and OsSIZ2 in rice
 OsSIZ2	Os03g0719100	LOC_Os03g50980	seed	Functional characterization of the SIZ/PIAS-type SUMO E3 ligases, OsSIZ1 and OsSIZ2 in rice
+OsSIZ2	Os03g0719100	LOC_Os03g50980	leaf	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	root	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	growth	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	development	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	homeostasis	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	Pi	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	phosphate	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	 pi 	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
+OsSIZ2	Os03g0719100	LOC_Os03g50980	phosphate homeostasis	OsSIZ2 exerts regulatory influences on the developmental responses and phosphate homeostasis in rice.
 OsSK1	Os02g0749300	LOC_Os02g51410	panicle	Identification of three shikimate kinase genes in rice: characterization of their differential expression during panicle development and of the enzymatic activities of the encoded proteins
 OsSK2	Os06g0225800	LOC_Os06g12150	panicle	Identification of three shikimate kinase genes in rice: characterization of their differential expression during panicle development and of the enzymatic activities of the encoded proteins
 OsSK3	Os04g0640600	LOC_Os04g54800	panicle	Identification of three shikimate kinase genes in rice: characterization of their differential expression during panicle development and of the enzymatic activities of the encoded proteins
@@ -18456,8 +18485,21 @@ SQS	Os03g0805100	LOC_Os03g59040	vegetative	RNAi-mediated disruption of squalene 
 SQS	Os03g0805100	LOC_Os03g59040	drought tolerance	RNAi-mediated disruption of squalene synthase improves drought tolerance and yield in rice
 SQS	Os03g0805100	LOC_Os03g59040	drought	RNAi-mediated disruption of squalene synthase improves drought tolerance and yield in rice
 SQS	Os03g0805100	LOC_Os03g59040	reproductive	RNAi-mediated disruption of squalene synthase improves drought tolerance and yield in rice
-SRL1	Os07g0102300	LOC_Os07g01240	leaf	Semi-rolled leaf1 encodes a putative glycosylphosphatidylinositol-anchored protein and modulates rice leaf rolling by regulating the formation of bulliform cells
-SRL1	Os07g0102300	LOC_Os07g01240	leaf rolling	Semi-rolled leaf1 encodes a putative glycosylphosphatidylinositol-anchored protein and modulates rice leaf rolling by regulating the formation of bulliform cells
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	leaf	Semi-rolled leaf1 encodes a putative glycosylphosphatidylinositol-anchored protein and modulates rice leaf rolling by regulating the formation of bulliform cells
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	leaf	Semi-rolled leaf1 encodes a putative glycosylphosphatidylinositol-anchored protein and modulates rice leaf rolling by regulating the formation of bulliform cells
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	leaf rolling	Semi-rolled leaf1 encodes a putative glycosylphosphatidylinositol-anchored protein and modulates rice leaf rolling by regulating the formation of bulliform cells
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	leaf rolling	Semi-rolled leaf1 encodes a putative glycosylphosphatidylinositol-anchored protein and modulates rice leaf rolling by regulating the formation of bulliform cells
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	leaf	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	map-based cloning	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	drought	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	tolerance	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	drought tolerance	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	cellulose	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	cell wall	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	lignin	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	water loss	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	epidermis	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
+SRL1|CLD1	Os07g0102300	LOC_Os07g01240	leaf rolling	CLD1/SRL1 modulates leaf rolling by affecting cell wall formation, epidermis integrity and water homeostasis in rice.
 SRL2|AVB|NRL2	Os03g0308200	LOC_Os03g19520	leaf	Semi-Rolled Leaf2 modulates rice leaf rolling by regulating abaxial side cell differentiation.
 SRL2|AVB|NRL2	Os03g0308200	LOC_Os03g19520	leaf	Semi-Rolled Leaf2 modulates rice leaf rolling by regulating abaxial side cell differentiation.
 SRL2|AVB|NRL2	Os03g0308200	LOC_Os03g19520	leaf	Semi-Rolled Leaf2 modulates rice leaf rolling by regulating abaxial side cell differentiation.
@@ -18948,6 +18990,13 @@ WFSL1	Os01g0109300	LOC_Os01g01920	yield	Single-point Mutation of an Histidine-as
 WFSL1	Os01g0109300	LOC_Os01g01920	yield	Single-point Mutation of an Histidine-aspartic Domain-containing Gene involving in Chloroplast Ribosome Biogenesis Leads to White Fine Stripe Leaf in Rice.
 WFSL1	Os01g0109300	LOC_Os01g01920	chloroplast development	Single-point Mutation of an Histidine-aspartic Domain-containing Gene involving in Chloroplast Ribosome Biogenesis Leads to White Fine Stripe Leaf in Rice.
 WFSL1	Os01g0109300	LOC_Os01g01920	chloroplast development	Single-point Mutation of an Histidine-aspartic Domain-containing Gene involving in Chloroplast Ribosome Biogenesis Leads to White Fine Stripe Leaf in Rice.
+WIN1	Os03g0347700	LOC_Os03g22600	leaf	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
+WIN1	Os03g0347700	LOC_Os03g22600	sheath	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
+WIN1	Os03g0347700	LOC_Os03g22600	auxin	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
+WIN1	Os03g0347700	LOC_Os03g22600	auxin	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
+WIN1	Os03g0347700	LOC_Os03g22600	auxin transport	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
+WIN1	Os03g0347700	LOC_Os03g22600	R protein	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
+WIN1	Os03g0347700	LOC_Os03g22600	plasma membrane	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
 WLP1	Os01g0749200	LOC_Os01g54540	photosynthesis	The rice nuclear gene WLP1 encoding a chloroplast ribosome L13 protein is needed for chloroplast development in rice grown under low temperature conditions
 WLP1	Os01g0749200	LOC_Os01g54540	chloroplast	The rice nuclear gene WLP1 encoding a chloroplast ribosome L13 protein is needed for chloroplast development in rice grown under low temperature conditions
 WLP1	Os01g0749200	LOC_Os01g54540	panicle	The rice nuclear gene WLP1 encoding a chloroplast ribosome L13 protein is needed for chloroplast development in rice grown under low temperature conditions
@@ -19551,3 +19600,8 @@ ZIP4|SPO22	Os01g0890900	LOC_Os01g66690	meiotic	The role of OsMSH5 in crossover f
 ZN	Os06g0116400	LOC_Os06g02580	leaf development	ZEBRA-NECROSIS, a thylakoid-bound protein, is critical for the photoprotection of developing chloroplasts during early leaf development
 ZN	Os06g0116400	LOC_Os06g02580	chloroplast	ZEBRA-NECROSIS, a thylakoid-bound protein, is critical for the photoprotection of developing chloroplasts during early leaf development
 ZN	Os06g0116400	LOC_Os06g02580	leaf	ZEBRA-NECROSIS, a thylakoid-bound protein, is critical for the photoprotection of developing chloroplasts during early leaf development
+ZYGO1	Os01g0219200	LOC_Os01g11990	meiosis	The F-box protein ZYGO1 mediates bouquet formation to promote homologous pairing, synapsis, and recombination in rice meiosis.
+ZYGO1	Os01g0219200	LOC_Os01g11990	meiosis	The F-box protein ZYGO1 mediates bouquet formation to promote homologous pairing, synapsis, and recombination in rice meiosis.
+ZYGO1	Os01g0219200	LOC_Os01g11990	meiotic	The F-box protein ZYGO1 mediates bouquet formation to promote homologous pairing, synapsis, and recombination in rice meiosis.
+ZYGO1	Os01g0219200	LOC_Os01g11990	crossover	The F-box protein ZYGO1 mediates bouquet formation to promote homologous pairing, synapsis, and recombination in rice meiosis.
+ZYGO1	Os01g0219200	LOC_Os01g11990	meiotic recombination	The F-box protein ZYGO1 mediates bouquet formation to promote homologous pairing, synapsis, and recombination in rice meiosis.
