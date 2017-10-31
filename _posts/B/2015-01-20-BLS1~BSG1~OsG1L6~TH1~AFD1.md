@@ -3,7 +3,7 @@ layout: post
 title: "BLS1,BSG1,OsG1L6,TH1,AFD1"
 description: ""
 category: genes
-tags: [inflorescence, architecture, lemma, cell division, grain size, palea, grain, spikelet, cell cycle, stem, starch, floral, panicle, sterile, seed, grain yield, yield, floral organ]
+tags: [inflorescence, architecture, lemma, cell division, grain size, palea, grain, spikelet, cell cycle, stem, starch, floral, panicle, sterile, seed, grain yield, yield, floral organ, development, nucleus]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [inflorescence, architecture, lemma, cell division, grain size, palea, gra
     + [Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice%5BTitle%5D), 2013, Sci China Life Sci.
     + [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D), 2014, Genes Genet Syst.
     + [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D), 2015, J Integr Plant Biol.
+    + [The rice TRIANGULAR HULL1 protein acts as a transcriptional repressor in regulating lateral development of spikelet.](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice TRIANGULAR HULL1 protein acts as a transcriptional repressor in regulating lateral development of spikelet.%5BTitle%5D), 2017, Sci Rep.
 
 * **Genbank accession number**  
 
@@ -40,6 +41,9 @@ tags: [inflorescence, architecture, lemma, cell division, grain size, palea, gra
     + The afd1 mutant showed variable defects including the dwarfism, long panicle, low seed setting and reduced grain yield
     + Meantime, our results suggested that AFD1 regulated the expression of cell division and expansion related genes
     + In addition, abnormal floral organs were also observed in the afd1 mutant including slender and thick hulls, and hull-like lodicules
+    + These results indicate that TH1 functions as a transcription repressor and regulates cell expansion during the lateral development of spikelet
+    + TH1 has been shown to regulate the lateral development of spikelet, but its mode of action remains unclear
+    + The TH1 protein was shown to localize in the nucleus and possess transcriptional repression activity
 
 * **Connection**  
     + __BLS1~BSG1~OsG1L6~TH1~AFD1__, __GW2__, [Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Beak-shaped grain 1/TRIANGULAR HULL 1, a DUF640 gene, is associated with grain shape, size and weight in rice%5BTitle%5D), The BSG1 mutation affected the expression of genes potentially involved in the cell cycle and GW2, an important regulator of grain size in rice

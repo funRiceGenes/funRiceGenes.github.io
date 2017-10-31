@@ -16,6 +16,7 @@ tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc
     + [The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice%5BTitle%5D), 2012, Plant Cell Environ.
     + [Mutations in rice Oryza sativa heavy metal ATPase 2 OsHMA2 restrict the translocation of zinc and cadmium](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutations in rice Oryza sativa heavy metal ATPase 2 OsHMA2 restrict the translocation of zinc and cadmium%5BTitle%5D), 2012, Plant Cell Physiol.
     + [Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2](http://www.ncbi.nlm.nih.gov/pubmed?term=Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2%5BTitle%5D), 2013, Plant Physiol.
+    + [Silicon reduces cadmium accumulation by suppressing expression of transporter genes involved in cadmium uptake and translocation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Silicon reduces cadmium accumulation by suppressing expression of transporter genes involved in cadmium uptake and translocation in rice.%5BTitle%5D), 2017, J Exp Bot.
 
 * **Genbank accession number**  
     + [AK107235](http://www.ncbi.nlm.nih.gov/nuccore/AK107235)
@@ -43,6 +44,7 @@ tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc
     + By comparing each allele in the OsHMA2 protein structure and measuring the Cd translocation ratio, we identified the C-terminal region as essential for Cd translocation into shoots
 
 * **Connection**  
+    + __OsHMA2~OsHMA2v__, __OsNRAMP5__, [Silicon reduces cadmium accumulation by suppressing expression of transporter genes involved in cadmium uptake and translocation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Silicon reduces cadmium accumulation by suppressing expression of transporter genes involved in cadmium uptake and translocation in rice.%5BTitle%5D),  The expression level of OsNramp5 and OsHMA2 was down-regulated by Si in the WTs, but not in the mutants
 
 [//]: # * **Key figures**  
 

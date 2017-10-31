@@ -3,7 +3,7 @@ layout: post
 title: "GIF1,OsCIN2,OsGIF1"
 description: ""
 category: genes
-tags: [domestication, grain, homeostasis, grain weight, cell wall]
+tags: [domestication, grain, homeostasis, grain weight, cell wall, development, grain size, vegetative, reproductive, breeding, organ size, reproductive development]
 ---
 
 * **Information**  
@@ -15,6 +15,7 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall]
     + [Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication](http://www.ncbi.nlm.nih.gov/pubmed?term=Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication%5BTitle%5D), 2010, BMC Evol Biol.
     + [Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 GIF1 plays a role in pre-existing and induced defence in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 GIF1 plays a role in pre-existing and induced defence in rice%5BTitle%5D), 2014, Mol Plant Pathol.
     + [Control of rice grain-filling and yield by a gene with a potential signature of domestication](http://www.ncbi.nlm.nih.gov/pubmed?term=Control of rice grain-filling and yield by a gene with a potential signature of domestication%5BTitle%5D), 2008, Nat Genet.
+    + [OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.%5BTitle%5D), 2017, Front Plant Sci.
 
 * **Genbank accession number**  
     + [EU095553](http://www.ncbi.nlm.nih.gov/nuccore/EU095553)
@@ -200,6 +201,12 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall]
     + These findings, together with the domestication signature that we identified by comparing nucleotide diversity of the GIF1 loci between cultivated and wild rice, strongly suggest that GIF1 is a potential domestication gene and that such a domestication-selected gene can be used for further crop improvement
     + In this study, we observed that the grains of gif1, a loss-of-function mutant of the cell wall invertase gene GRAIN INCOMPLETE FILLING 1 (GIF1), were hypersusceptible to postharvest fungal pathogens, with decreased levels of sugars and a thinner glume cell wall in comparison with the wild-type
     + Moreover, the cell wall was much thicker in the infection sites of the GIF1-OE plants when compared with the wild-type plants
+    + We previously showed that upregulation of OsGIF1 expression improves rice grain size
+    + Overexpression and functional knock-out via a CRISPR/Cas9 strategy revealed that OsGIF1 not only positively regulates the sizes of rice leaf, stem, and grain but also influences rice reproduction
+    + Expression profiles based on both qRT-PCR and GUS (ü¾¦„¼ü¾Œ¦Œ¼-glucuronidase) histochemical staining suggested that OsGIF1 is differentially expressed across various rice tissues, consistent with its roles in regulating the development of multiple rice organs
+    + Our results suggest that OsGIF1 plays important roles in vegetative and reproductive developmental processes, with important implications for rice breeding
+    + Here, we report pleiotropic effects of OsGIF1 on rice organ size regulation
+    + Further histological analysis suggested that OsGIF1 affected rice organ size possibly by regulating cell size
 
 * **Connection**  
     + __GIF1~OsCIN2~OsGIF1__, __OsCIN1__, [Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication](http://www.ncbi.nlm.nih.gov/pubmed?term=Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication%5BTitle%5D), Here, we report that GIF1 and another CWI gene OsCIN1 constitute a pair of duplicate genes with differentiated expression and function through independent selection
