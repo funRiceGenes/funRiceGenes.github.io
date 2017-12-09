@@ -22,7 +22,6 @@ __A comprehensive database of functionally characterized rice genes__
 <br>
 __If you use the data in this database, please cite [Yao et al. 2017](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117).__
 
-<br>
 __To search this site, please use [Google](http://www.google.com/) or [Bing](https://cn.bing.com) with the following search pattern!__
 ```
 yourSearchKeyword site:https://funricegenes.github.io/
@@ -32,7 +31,6 @@ For example, to search this site with the keyword "domestication", open [Google]
 domestication site:https://funricegenes.github.io/
 ```
   
-<br>
 __To interactively query this database, go to the following site!__  
 [<img src="https://funricegenes.github.io/images/shiny.png" alt="Dynamic query of this database"  style="width: 600px;"/>](http://funricegenes.ncpgr.cn)   
 
