@@ -51,4 +51,4 @@ __If you find any error information in our database or any functionally characte
 </form>
 
 <br>
-__If you use the data in this database, please cite [our website](https://funricegenes.github.io/) for now.__
+__If you use the data in this database, please cite [Yao et al. 2017](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117).__
