@@ -34,6 +34,9 @@ __To interactively query this database, go to the following site!__
 [<img src="https://funricegenes.github.io/images/shiny.png" alt="Dynamic query of this database"  style="width: 600px;"/>](http://funricegenes.ncpgr.cn)   
 
 <br>
+__If you use the data in this database, please cite [Yao et al. 2017](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117).__
+
+<br>
 __If you find any error information in our database or any functionally characterized rice genes missing from our database, please leave us a message.__
 <form action="http://formspree.io/venyao@qq.com" method="POST" class="dark-matter">
 <label>
@@ -49,6 +52,3 @@ __If you find any error information in our database or any functionally characte
 <button type="submit" class="button">Send</button>
 </label>
 </form>
-
-<br>
-__If you use the data in this database, please cite [Yao et al. 2017](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117).__
