@@ -3,7 +3,7 @@ layout: post
 title: "OsMAPK33,OsMAPK3"
 description: ""
 category: genes
-tags: 
+tags: [transcription factor, resistance, stress, chilling]
 ---
 
 * **Information**  
@@ -16,12 +16,21 @@ tags:
     + [Arsenic stress activates MAP kinase in rice roots and leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Arsenic stress activates MAP kinase in rice roots and leaves%5BTitle%5D), 2011, Arch Biochem Biophys.
     + [The bHLH Rac Immunity1 RAI1 Is Activated by OsRac1 via OsMAPK3 and OsMAPK6 in Rice Immunity](http://www.ncbi.nlm.nih.gov/pubmed?term=The bHLH Rac Immunity1 RAI1 Is Activated by OsRac1 via OsMAPK3 and OsMAPK6 in Rice Immunity%5BTitle%5D), 2012, Plant Cell Physiol.
     + [Disease Resistance and Abiotic Stress Tolerance in Rice Are Inversely Modulated by an Abscisic Acid-Inducible Mitogen-Activated Protein Kinase](http://www.ncbi.nlm.nih.gov/pubmed?term=Disease Resistance and Abiotic Stress Tolerance in Rice Are Inversely Modulated by an Abscisic Acid-Inducible Mitogen-Activated Protein Kinase%5BTitle%5D), 2003, The Plant Cell Online.
+    + [OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.%5BTitle%5D), 2017, Dev Cell.
 
 * **Genbank accession number**  
 
 * **Key message**  
+    + Here, we report that<U+00A0>the transcription factor OsbHLH002/OsICE1 is phosphorylated by OsMAPK3 under chilling stress
+    + Under chilling stress, active OsMAPK3 phosphorylates OsbHLH002, leading to accumulation of phospho-OsbHLH002, which promotes OsTPP1 expression and increases trehalose content and resistance to chilling damage
+    + OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.
 
 * **Connection**  
+    + __OsHOS1__, __OsMAPK33~OsMAPK3__, [OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.%5BTitle%5D),  OsMAPK3 interacts with OsbHLH002 to prevent its ubiquitination by the E3 ligase OsHOS1
+    + __OsMAPK33~OsMAPK3__, __OsTPP1__, [OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.%5BTitle%5D), OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.
+    + __OsMAPK33~OsMAPK3__, __OsTPP1__, [OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.%5BTitle%5D),  Under chilling stress, active OsMAPK3 phosphorylates OsbHLH002, leading to accumulation of phospho-OsbHLH002, which promotes OsTPP1 expression and increases trehalose content and resistance to chilling damage
+    + __OsMAPK33~OsMAPK3__, __OsTPP1__, [OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.%5BTitle%5D), <U+00A0>Taken together, these results indicate that OsbHLH002 is phosphorylated by OsMAPK3, which enhances OsbHLH002 activation to its target OsTPP1 during chilling stress
+    + __OsMAPK33~OsMAPK3__, __OsTPP1__, [OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK3 Phosphorylates OsbHLH002/OsICE1 and Inhibits Its Ubiquitination to Activate OsTPP1 and Enhances Rice Chilling Tolerance.%5BTitle%5D), <U+00A0>Taken together, these results indicate that OsbHLH002 is phosphorylated by OsMAPK3, which enhances OsbHLH002 activation to its target OsTPP1 during chilling stress
 
 [//]: # * **Key figures**  
 
