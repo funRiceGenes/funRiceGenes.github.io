@@ -19,8 +19,8 @@ tags:
 * **Key message**  
 
 * **Connection**  
-    + __OsPKS1~YY2__, __OsTKPR1~OsDFR2~OS-DFR2__, [Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice%5BTitle%5D), Similarly, recombinant rice OsPKS1 and OsTKPR1 were shown to function as downstream enzymes of NtACOS1
-    + __OsPKS1~YY2__, __OsTKPR1~OsDFR2~OS-DFR2__, [Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice%5BTitle%5D), Using fatty acids as starting substrates, sequential activities of heterologously expressed tobacco enzymes NtACOS1, NtPKS1 and NtTKPR1 resulted in the production of reduced tetraketide alpha-pyrones
+    + __OsPKS1~YY2~OsLAP6__, __OsTKPR1~OsDFR2~OS-DFR2__, [Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice%5BTitle%5D), Similarly, recombinant rice OsPKS1 and OsTKPR1 were shown to function as downstream enzymes of NtACOS1
+    + __OsPKS1~YY2~OsLAP6__, __OsTKPR1~OsDFR2~OS-DFR2__, [Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice%5BTitle%5D), Using fatty acids as starting substrates, sequential activities of heterologously expressed tobacco enzymes NtACOS1, NtPKS1 and NtTKPR1 resulted in the production of reduced tetraketide alpha-pyrones
 
 [//]: # * **Key figures**  
 
