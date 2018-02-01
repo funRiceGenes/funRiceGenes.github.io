@@ -3,7 +3,7 @@ layout: post
 title: "OsNAC2,OsTIL1,OMTN2,OsORE1"
 description: ""
 category: genes
-tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield]
+tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield, panicle, architecture, plant architecture]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + [OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.%5BTitle%5D), 2015, Plant J.
     + [The NAC-type transcription factor OsNAC2 regulates ABA-dependent genes and abiotic stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The NAC-type transcription factor OsNAC2 regulates ABA-dependent genes and abiotic stress tolerance in rice.%5BTitle%5D), 2017, Sci Rep.
     + [A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.%5BTitle%5D), 2017, Plant Physiol.
+    + [Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.%5BTitle%5D), 2018, J Exp Bot.
 
 * **Genbank accession number**  
 
@@ -34,6 +35,9 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + Additionally, reduced OsNAC2 expression leads to about 10% increase in the grain yield of RNAi lines
     + Moreover, ectopic expression of OsNAC2 leads to an increase in ABA levels via directly upregulating expression of ABA biosynthetic genes (OsNCED3 and OsZEP1) as well as downregulating the ABA catabolic gene (OsABA8ox1)
     + Interestingly, OsNAC2 is upregulated by a lower level of ABA but downregulated by a higher level of ABA, indicating a feedback repression of OsNAC2 by ABA
+    + Overexpression of miR164b or down-regulation of OsNAC2 led to decreased panicle length and grain yield in the main panicle
+    + Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.
+    + In summary, we identified an efficient new strategy to substantially increase rice yield and improve plant architecture through over-expression of OsmiR164b-resistant OsNAC2
 
 * **Connection**  
     + __D35~OsKOS3~OsKO2__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.%5BTitle%5D), Dual-luciferase reporter analyses, yeast one-hybrid assays and ChIP-qPCR suggested that OsNAC2 directly interacted with the promoter of OsEATB and OsKO2
