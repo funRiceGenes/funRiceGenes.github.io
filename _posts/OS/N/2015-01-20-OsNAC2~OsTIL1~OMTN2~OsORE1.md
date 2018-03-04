@@ -3,7 +3,7 @@ layout: post
 title: "OsNAC2,OsTIL1,OMTN2,OsORE1"
 description: ""
 category: genes
-tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield, panicle, architecture, plant architecture]
+tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield, panicle, architecture, plant architecture, seedlings, cell death, PCD]
 ---
 
 * **Information**  
@@ -17,6 +17,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + [The NAC-type transcription factor OsNAC2 regulates ABA-dependent genes and abiotic stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The NAC-type transcription factor OsNAC2 regulates ABA-dependent genes and abiotic stress tolerance in rice.%5BTitle%5D), 2017, Sci Rep.
     + [A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.%5BTitle%5D), 2017, Plant Physiol.
     + [Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.%5BTitle%5D), 2018, J Exp Bot.
+    + [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D), 2018, Plant J.
 
 * **Genbank accession number**  
 
@@ -38,6 +39,9 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + Overexpression of miR164b or down-regulation of OsNAC2 led to decreased panicle length and grain yield in the main panicle
     + Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.
     + In summary, we identified an efficient new strategy to substantially increase rice yield and improve plant architecture through over-expression of OsmiR164b-resistant OsNAC2
+    + Additionally, OsNAC2 expression was enhanced in rice seedlings exposed to a high NaCl concentration
+    + OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.
+    + Overall, our results suggest that OsNAC2 accelerates NaCl-induced PCD and provide new insights into the mechanisms affecting ROS accumulation, plant caspase-like activity, and K+efflux
 
 * **Connection**  
     + __D35~OsKOS3~OsKO2__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.%5BTitle%5D), Dual-luciferase reporter analyses, yeast one-hybrid assays and ChIP-qPCR suggested that OsNAC2 directly interacted with the promoter of OsEATB and OsKO2
@@ -46,6 +50,10 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + __OsABA1~OSZEP1__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.%5BTitle%5D),  Moreover, ectopic expression of OsNAC2 leads to an increase in ABA levels via directly upregulating expression of ABA biosynthetic genes (OsNCED3 and OsZEP1) as well as downregulating the ABA catabolic gene (OsABA8ox1)
     + __OsABA8ox1__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.%5BTitle%5D),  Moreover, ectopic expression of OsNAC2 leads to an increase in ABA levels via directly upregulating expression of ABA biosynthetic genes (OsNCED3 and OsZEP1) as well as downregulating the ABA catabolic gene (OsABA8ox1)
     + __OsNAC2~OsTIL1~OMTN2~OsORE1__, __OsNCED3__, [A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.%5BTitle%5D),  Moreover, ectopic expression of OsNAC2 leads to an increase in ABA levels via directly upregulating expression of ABA biosynthetic genes (OsNCED3 and OsZEP1) as well as downregulating the ABA catabolic gene (OsABA8ox1)
+    + __OsAP37__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D), OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.
+    + __OsAP37__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D),  Moreover, the results of quantitative real-time PCR, chromatin immunoprecipitation, dual-luciferase, and yeast one-hybrid assays indicated that OsNAC2 targeted genes encoding an ROS scavenger (OsCOX11) and a caspase-like protease (OsAP37)
+    + __OsGORK~OsK5.2__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D),  Furthermore, K+-efflux channels (OsGORK and OsSKOR) were obviously activated by OsNAC2
+    + __OsNAC2~OsTIL1~OMTN2~OsORE1__, __OsSKOR__, [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D),  Furthermore, K+-efflux channels (OsGORK and OsSKOR) were obviously activated by OsNAC2
 
 [//]: # * **Key figures**  
 
