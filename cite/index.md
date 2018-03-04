@@ -11,3 +11,4 @@ group: navigation
 3. Badoni et al. [Genome-wide generation and use of informative intron-spanning and intron-length polymorphism markers for high-throughput genetic analysis in rice](http://www.nature.com/articles/srep23765), 2016, Scientific reports.
 4. Das et al. [Revisiting the decoded genomes to promptly reveal their genomic perspectives](http://www.currentscience.ac.in/Volumes/112/02/0279.pdf), 2017, Current Science.
 5. Dingkuhn et al. [Crop-model assisted phenomics and genome-wide association study for climate adaptation of indica rice. 2. Thermal stress and spikelet sterility](https://doi.org/10.1093/jxb/erx250), 2017, Journal of Experimental Botany.
+6. Golicz et al. [MCRiceRepGP: a framework for identification of sexual reproduction associated coding and lincRNA genes in rice](https://www.biorxiv.org/content/early/2018/02/25/271353), 2018, bioRxiv.
