@@ -2133,9 +2133,22 @@ ETR3	Os02g0820900	LOC_Os02g57530	ethylene	Differential expression of three genes
 ETR4	Os07g0259100	LOC_Os07g15540	ethylene	Differential expression of three genes encoding an ethylene receptor in rice during development, and in response to indole-3-acetic acid and silver ions
 EUI1	Os05g0482400	LOC_Os05g40384	growth	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
 EUI1	Os05g0482400	LOC_Os05g40384	gibberellin	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
+EUI1	Os05g0482400	LOC_Os05g40384	gibberellin	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
+EUI1	Os05g0482400	LOC_Os05g40384	gibberellin	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
+EUI1	Os05g0482400	LOC_Os05g40384	gibberellin	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
+EUI1	Os05g0482400	LOC_Os05g40384	gibberellin	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
 EUI1	Os05g0482400	LOC_Os05g40384	cell elongation	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
 EUI1	Os05g0482400	LOC_Os05g40384	breeding	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
 EUI1	Os05g0482400	LOC_Os05g40384	panicle	EUI1, encoding a putative cytochrome P450 monooxygenase, regulates internode elongation by modulating gibberellin responses in rice
+EUI1	Os05g0482400	LOC_Os05g40384	homeostasis	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	homeostasis	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	 ga 	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	 ga 	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	dwarf	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	height	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	plant height	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	GA	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
+EUI1	Os05g0482400	LOC_Os05g40384	GA	The Intronic cis-Element SE1 Recruits trans-acting Repressor Complexes to Repress the Expression of ELONGATED UPPERMOST INTERNODE1 in Rice.
 FC1|OsCAD7	Os04g0612700	LOC_Os04g52280	tiller	FINE CULM1 (FC1) works downstream of strigolactones to inhibit the outgrowth of axillary buds in rice
 FC1|OsCAD7	Os04g0612700	LOC_Os04g52280	shoot	FINE CULM1 (FC1) works downstream of strigolactones to inhibit the outgrowth of axillary buds in rice
 FC1|OsCAD7	Os04g0612700	LOC_Os04g52280	crown root	FINE CULM1 (FC1) works downstream of strigolactones to inhibit the outgrowth of axillary buds in rice
@@ -2214,6 +2227,15 @@ FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	growth	RICE MORPHOLOGY D
 FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	inflorescence	RICE MORPHOLOGY DETERMINANT encodes the type II formin FH5 and regulates rice morphogenesis
 FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	cell elongation	RICE MORPHOLOGY DETERMINANT encodes the type II formin FH5 and regulates rice morphogenesis
 FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	panicle	BENT UPPERMOST INTERNODE1 encodes the class II formin FH5 crucial for actin organization and rice development
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	growth	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	growth	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	growth	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	growth	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	pollen	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	pollen	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	pollen	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	pollen	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
+FH5|RMD|BUI1	Os07g0596300	LOC_Os07g40510|LOC_Os07g40520	grain	Rice Morphology Determinant-mediated Actin Filament Organization Contributes to Pollen Tube Growth.
 FIB	Os01g0169800	LOC_Os01g07500	auxin	The rice FISH BONE gene encodes a tryptophan aminotransferase, which affects pleiotropic auxin-related processes
 FIB	Os01g0169800	LOC_Os01g07500	tryptophan aminotransferase	The rice FISH BONE gene encodes a tryptophan aminotransferase, which affects pleiotropic auxin-related processes
 FIB	Os01g0169800	LOC_Os01g07500	small leaves	The rice FISH BONE gene encodes a tryptophan aminotransferase, which affects pleiotropic auxin-related processes
@@ -2910,6 +2932,11 @@ Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	panicle	Updating the elite rice variety 
 Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	grain	Updating the elite rice variety Kongyu 131 by improving the Gn1a locus.
 Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	grain number	Updating the elite rice variety Kongyu 131 by improving the Gn1a locus.
 Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	yield	Updating the elite rice variety Kongyu 131 by improving the Gn1a locus.
+Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	panicle	Dissecting the genetic basis of heavy panicle hybrid rice uncovered Gn1a and GS3 as key genes.
+Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	panicle	Dissecting the genetic basis of heavy panicle hybrid rice uncovered Gn1a and GS3 as key genes.
+Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	grain	Dissecting the genetic basis of heavy panicle hybrid rice uncovered Gn1a and GS3 as key genes.
+Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	grain number	Dissecting the genetic basis of heavy panicle hybrid rice uncovered Gn1a and GS3 as key genes.
+Gn1a|OsCKX2	Os01g0197700	LOC_Os01g10110	grain size	Dissecting the genetic basis of heavy panicle hybrid rice uncovered Gn1a and GS3 as key genes.
 GN2	None	None	grain	Emergence of a Novel Chimeric Gene Underlying Grain Number in Rice.
 GN2	None	None	grain number	Emergence of a Novel Chimeric Gene Underlying Grain Number in Rice.
 GN2	None	None	heading date	Emergence of a Novel Chimeric Gene Underlying Grain Number in Rice.
@@ -3026,6 +3053,13 @@ GS5	Os05g0158500	LOC_Os05g06660	grain size	Differential expression of GS5 regula
 GS5	Os05g0158500	LOC_Os05g06660	grain size	Differential expression of GS5 regulates grain size in rice.
 GS5	Os05g0158500	LOC_Os05g06660	grain width	Differential expression of GS5 regulates grain size in rice.
 GS5	Os05g0158500	LOC_Os05g06660	abscisic acid	Differential expression of GS5 regulates grain size in rice.
+GS9	Os09g0448500	LOC_Os09g27590	grain	GS9 acts as a transcriptional activator to regulate rice grain shape and appearance quality.
+GS9	Os09g0448500	LOC_Os09g27590	grain	GS9 acts as a transcriptional activator to regulate rice grain shape and appearance quality.
+GS9	Os09g0448500	LOC_Os09g27590	grain	GS9 acts as a transcriptional activator to regulate rice grain shape and appearance quality.
+GS9	Os09g0448500	LOC_Os09g27590	map-based cloning	GS9 acts as a transcriptional activator to regulate rice grain shape and appearance quality.
+GS9	Os09g0448500	LOC_Os09g27590	grain size	GS9 acts as a transcriptional activator to regulate rice grain shape and appearance quality.
+GS9	Os09g0448500	LOC_Os09g27590	transcriptional activator	GS9 acts as a transcriptional activator to regulate rice grain shape and appearance quality.
+GS9	Os09g0448500	LOC_Os09g27590	quality	GS9 acts as a transcriptional activator to regulate rice grain shape and appearance quality.
 GSD1	Os04g0620200	LOC_Os04g52920	grain setting	Grain setting defect 1, encoding a remorin protein, affects the grain setting in rice through regulating plasmodesmatal conductance
 GSD1	Os04g0620200	LOC_Os04g52920	photoassimilate translocation	Grain setting defect 1, encoding a remorin protein, affects the grain setting in rice through regulating plasmodesmatal conductance
 GSD1	Os04g0620200	LOC_Os04g52920	plasma membrane	Grain setting defect 1, encoding a remorin protein, affects the grain setting in rice through regulating plasmodesmatal conductance
@@ -4432,6 +4466,10 @@ MIR	Os12g0282000	LOC_Os12g18410	mitochondria	Rice-specific mitochondrial iron-re
 MIR	Os12g0282000	LOC_Os12g18410	root	Rice-specific mitochondrial iron-regulated gene (MIR) plays an important role in iron homeostasis
 MIR	Os12g0282000	LOC_Os12g18410	homeostasis	Rice-specific mitochondrial iron-regulated gene (MIR) plays an important role in iron homeostasis
 MIR	Os12g0282000	LOC_Os12g18410	shoot	Rice-specific mitochondrial iron-regulated gene (MIR) plays an important role in iron homeostasis
+miR169o	None	None	resistance	Overexpression of miR169o, an Overlapping microRNA in Response to Both Nitrogen Limitation and Bacterial Infection, Promotes Nitrogen Use Efficiency and Susceptibility to Bacterial Blight in Rice.
+miR169o	None	None	stress	Overexpression of miR169o, an Overlapping microRNA in Response to Both Nitrogen Limitation and Bacterial Infection, Promotes Nitrogen Use Efficiency and Susceptibility to Bacterial Blight in Rice.
+miR169o	None	None	blight	Overexpression of miR169o, an Overlapping microRNA in Response to Both Nitrogen Limitation and Bacterial Infection, Promotes Nitrogen Use Efficiency and Susceptibility to Bacterial Blight in Rice.
+miR169o	None	None	bacterial blight	Overexpression of miR169o, an Overlapping microRNA in Response to Both Nitrogen Limitation and Bacterial Infection, Promotes Nitrogen Use Efficiency and Susceptibility to Bacterial Blight in Rice.
 MIT	Os03g0296800	LOC_Os03g18550	transporter	The rice mitochondrial iron transporter is essential for plant growth
 MIT	Os03g0296800	LOC_Os03g18550	transporter	Identification and characterization of the major mitochondrial Fe transporter in rice
 MIT	Os03g0296800	LOC_Os03g18550	transporter	The knockdown of OsVIT2 and MIT affects iron localization in rice seed
@@ -4448,6 +4486,10 @@ MIT	Os03g0296800	LOC_Os03g18550	mitochondria	The knockdown of OsVIT2 and MIT aff
 MIT	Os03g0296800	LOC_Os03g18550	flower	Identification and characterization of the major mitochondrial Fe transporter in rice
 MIT	Os03g0296800	LOC_Os03g18550	seed	The knockdown of OsVIT2 and MIT affects iron localization in rice seed
 MIT	Os03g0296800	LOC_Os03g18550	mitochondria	Identification and characterization of the major mitochondrial Fe transporter in rice
+MKB3	Os03g0733600	LOC_Os03g52320	leaf	Conserved functional control, but distinct regulation of cell proliferation in rice and Arabidopsis leaves revealed by comparative analysis ofGRF-INTERACTING FACTOR 1orthologs.
+MKB3	Os03g0733600	LOC_Os03g52320	leaf development	Conserved functional control, but distinct regulation of cell proliferation in rice and Arabidopsis leaves revealed by comparative analysis ofGRF-INTERACTING FACTOR 1orthologs.
+MKB3	Os03g0733600	LOC_Os03g52320	development	Conserved functional control, but distinct regulation of cell proliferation in rice and Arabidopsis leaves revealed by comparative analysis ofGRF-INTERACTING FACTOR 1orthologs.
+MKB3	Os03g0733600	LOC_Os03g52320	epidermis	Conserved functional control, but distinct regulation of cell proliferation in rice and Arabidopsis leaves revealed by comparative analysis ofGRF-INTERACTING FACTOR 1orthologs.
 MKRN	Os06g0318700	LOC_Os06g21390	seed	Sequence, expression and tissue localization of a gene encoding a makorin RING zinc-finger protein in germinating rice (Oryza sativa L. ssp. Japonica) seeds
 MKRN	Os06g0318700	LOC_Os06g21390	lateral root	Sequence, expression and tissue localization of a gene encoding a makorin RING zinc-finger protein in germinating rice (Oryza sativa L. ssp. Japonica) seeds
 MKRN	Os06g0318700	LOC_Os06g21390	vegetative	Sequence, expression and tissue localization of a gene encoding a makorin RING zinc-finger protein in germinating rice (Oryza sativa L. ssp. Japonica) seeds
@@ -5906,15 +5948,31 @@ OsAPX1|APXa	Os03g0285700	LOC_Os03g17690	zinc	The ascorbate peroxidase APX1 is a 
 OsAPX1|APXa	Os03g0285700	LOC_Os03g17690	transcriptional activator	The ascorbate peroxidase APX1 is a direct target of a zinc finger transcription factor ZFP36 and a late embryogenesis abundant protein OsLEA5 interacts with ZFP36 to co-regulate OsAPX1 in seed germination in rice.
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	leaf	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	growth	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	growth	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	growth	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	sterility	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	salt	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	salt	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	salt	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	cold stress	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	cold stress	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	cold stress	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	seedling	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	seedling	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	growth	Importance of ascorbate peroxidases OsAPX1 and OsAPX2 in the rice pathogen response pathways and growth and reproduction revealed by their transcriptional profiling
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	drought	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	drought	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	drought	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	seed	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	seed	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	abiotic stress	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	abiotic stress	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
 OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	dwarf	Gene knockout study reveals that cytosolic ascorbate peroxidase 2(OsAPX2) plays a critical role in growth and reproduction in rice under drought, salt and cold stresses
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	leaf	Cytosolic APX2 is a pleiotropic protein involved in H2O2homeostasis, chloroplast protection, plant architecture and fertility maintenance.
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	shoot	Cytosolic APX2 is a pleiotropic protein involved in H2O2homeostasis, chloroplast protection, plant architecture and fertility maintenance.
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	architecture	Cytosolic APX2 is a pleiotropic protein involved in H2O2homeostasis, chloroplast protection, plant architecture and fertility maintenance.
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	height	Cytosolic APX2 is a pleiotropic protein involved in H2O2homeostasis, chloroplast protection, plant architecture and fertility maintenance.
+OsAPX2|APXb	Os07g0694700	LOC_Os07g49400	fertility	Cytosolic APX2 is a pleiotropic protein involved in H2O2homeostasis, chloroplast protection, plant architecture and fertility maintenance.
 OsAPX4	Os08g0549100	LOC_Os08g43560	leaf	Rice peroxisomal ascorbate peroxidase knockdown affects ROS signaling and triggers early leaf senescence
 OsAPX4	Os08g0549100	LOC_Os08g43560	leaf senescence	Rice peroxisomal ascorbate peroxidase knockdown affects ROS signaling and triggers early leaf senescence
 OsAPX4	Os08g0549100	LOC_Os08g43560	senescence	Rice peroxisomal ascorbate peroxidase knockdown affects ROS signaling and triggers early leaf senescence
@@ -6183,6 +6241,21 @@ OsBBPI	Os01g0124401	LOC_Os01g03360	ethylene	Characterization of a rice (Oryza sa
 OsBBPI	Os01g0124401	LOC_Os01g03360	 ABA 	Characterization of a rice (Oryza sativa L.) Bowmanâ€“Birk proteinase inhibitor: tightly light regulated induction in response to cut, jasmonic acid, ethylene and protein phosphatase 2A inhibitors
 OsBBPI	Os01g0124401	LOC_Os01g03360	jasmonic acid	Characterization of a rice (Oryza sativa L.) Bowmanâ€“Birk proteinase inhibitor: tightly light regulated induction in response to cut, jasmonic acid, ethylene and protein phosphatase 2A inhibitors
 OsBBPI	Os01g0124401	LOC_Os01g03360	 sa 	Characterization of a rice (Oryza sativa L.) Bowmanâ€“Birk proteinase inhibitor: tightly light regulated induction in response to cut, jasmonic acid, ethylene and protein phosphatase 2A inhibitors
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	leaf	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	leaf	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	leaf senescence	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	leaf senescence	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	early leaf senescence	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	early leaf senescence	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	senescence	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	senescence	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	map-based cloning	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	salt	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	salt	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	salt stress	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	salt stress	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	stress	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
+OsBBS1|OsRLCK109	Os03g0364400	LOC_Os03g24930	stress	A guanine insert in OsBBS1 leads to early leaf senescence and salt stress sensitivity in rice (Oryza sativa L.).
 OsBBX14	Os05g0204600	LOC_Os05g11510	leaf	OsBBX14 delays heading date by repressing florigen gene expression under long and short-day conditions in rice
 OsBBX14	Os05g0204600	LOC_Os05g11510	floral	OsBBX14 delays heading date by repressing florigen gene expression under long and short-day conditions in rice
 OsBBX14	Os05g0204600	LOC_Os05g11510	heading date	OsBBX14 delays heading date by repressing florigen gene expression under long and short-day conditions in rice
@@ -8246,6 +8319,16 @@ OsDSS1	Os03g0140300	None	growth	A cytochrome P450, OsDSS1, is involved in growth
 OsDSS1	Os03g0140300	None	drought stress response	A cytochrome P450, OsDSS1, is involved in growth and drought stress responses in  rice (Oryza sativa L.)
 OsDSS1	Os03g0140300	None	drought stress	A cytochrome P450, OsDSS1, is involved in growth and drought stress responses in  rice (Oryza sativa L.)
 OsDSS1	Os03g0140300	None	drought	A cytochrome P450, OsDSS1, is involved in growth and drought stress responses in  rice (Oryza sativa L.)
+OsDSSR1	Os09g0109600	LOC_Os09g02180	drought	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	tolerance	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	 ABA 	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	stress	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	cytoplasm	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	nucleus	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	ABA	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	drought stress	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	drought stress 	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
+OsDSSR1	Os09g0109600	LOC_Os09g02180	stress tolerance	OsDSSR1, a novel small peptide, enhances drought tolerance in transgenic rice.
 OsDT11	Os11g0211800	LOC_Os11g10590	drought	Overexpression of OsDT11, which encodes a novel cysteine-rich peptide, enhances drought tolerance and increases ABA concentration in rice.
 OsDTC2|OsKSL11	Os11g0474800	LOC_Os11g28530	transcription factor	Promoter analysis of the rice stemar-13-ene synthase gene OsDTC2, which is involved in the biosynthesis of the phytoalexin oryzalexin S
 OsDTS2|OsKSL4|OsKS4	Os04g0179700	LOC_Os04g10060	growth	Genetic evidence for natural product-mediated plant-plant allelopathy in rice (Oryza sativa)
@@ -8610,6 +8693,37 @@ OsERF71	Os06g0194000	LOC_Os06g09390	root	Identification of two transcription fac
 OsERF71	Os06g0194000	LOC_Os06g09390	shoot	Identification of two transcription factors activating the expression of OsXIP in rice defence response.
 OsERF71	Os06g0194000	LOC_Os06g09390	wounding	Identification of two transcription factors activating the expression of OsXIP in rice defence response.
 OsERF71	Os06g0194000	LOC_Os06g09390	ethylene response	Identification of two transcription factors activating the expression of OsXIP in rice defence response.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	tolerance	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	tolerance	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	tolerance	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	abiotic stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	 ABA 	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	 ABA 	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	 ABA 	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought tolerance	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	biotic stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	ABA	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	ABA	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	ABA	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought stress	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	water loss	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	water loss	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought stress 	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought stress 	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	drought stress 	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	abscisic acid	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
+OsERF71	Os06g0194000	LOC_Os06g09390	stress tolerance	OsERF71 confers drought tolerance via modulating ABA signaling and proline biosynthesis.
 OsERF922	Os01g0752500	LOC_Os01g54890	disease	The rice ERF transcription factor OsERF922 negatively regulates resistance to Magnaporthe oryzae and salt tolerance
 OsERF922	Os01g0752500	LOC_Os01g54890	magnaporthe oryzae	The rice ERF transcription factor OsERF922 negatively regulates resistance to Magnaporthe oryzae and salt tolerance
 OsERF922	Os01g0752500	LOC_Os01g54890	magnaporthe oryzae	The rice ERF transcription factor OsERF922 negatively regulates resistance to Magnaporthe oryzae and salt tolerance
@@ -10143,24 +10257,40 @@ OsHKT2;4	Os06g0701600	LOC_Os06g48800	transporter	The Rice High-Affinity K(+) Tra
 OsHKT2;4	Os06g0701600	LOC_Os06g48800	transporter	The Rice High-Affinity K(+) Transporter OsHKT2;4 Mediates Mg(2+) Homeostasis under High-Mg(2+) Conditions in Transgenic Arabidopsis.
 OsHKT2;4	Os06g0701600	LOC_Os06g48800	R protein	The Rice High-Affinity K(+) Transporter OsHKT2;4 Mediates Mg(2+) Homeostasis under High-Mg(2+) Conditions in Transgenic Arabidopsis.
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	root	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	root	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	transporter	Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	vegetative	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	xylem	Cadmium retention in rice roots is influenced by cadmium availability, chelation and translocation
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	cadmium	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	cadmium	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	growth	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	reproductive	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	root	Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	xylem	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	transporter	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	transporter	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	zinc	Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	zinc	Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	root	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	root	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	root	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	root	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	zinc	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	zinc	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	zinc	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	zinc	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	cadmium	Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	vascular bundle	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	vascular bundle	Preferential delivery of zinc to developing tissues in rice is mediated by P-type heavy metal ATPase OsHMA2
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	grain	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	shoot	Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	shoot	Mutations in rice (Oryza sativa) heavy metal ATPase 2 (OsHMA2) restrict the translocation of zinc and cadmium
 OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	shoot	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	shoot	The OsHMA2 transporter is involved in root-to-shoot translocation of Zn and Cd in rice
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	grain	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	grain	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	transporter	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+OsHMA2|OsHMA2v	Os06g0700700	LOC_Os06g48720	cadmium	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
 OsHMA4	Os02g0196600	LOC_Os02g10290	root	A heavy metal P-type ATPase OsHMA4 prevents copper accumulation in rice grain.
 OsHMA4	Os02g0196600	LOC_Os02g10290	grain	A heavy metal P-type ATPase OsHMA4 prevents copper accumulation in rice grain.
 OsHMA4	Os02g0196600	LOC_Os02g10290	grain	A heavy metal P-type ATPase OsHMA4 prevents copper accumulation in rice grain.
@@ -10291,9 +10421,17 @@ OsHSBP2	Os06g0274000	LOC_Os06g16270	seed	Functional analysis of OsHSBP1 and OsHS
 OsHSBP2	Os06g0274000	LOC_Os06g16270	temperature	Functional analysis of OsHSBP1 and OsHSBP2 revealed their involvement in the heat shock response in rice (Oryza sativa L.)
 OsHSBP2	Os06g0274000	LOC_Os06g16270	seed development	Functional analysis of OsHSBP1 and OsHSBP2 revealed their involvement in the heat shock response in rice (Oryza sativa L.)
 OsHSBP2	Os06g0274000	LOC_Os06g16270	seedling	Functional analysis of OsHSBP1 and OsHSBP2 revealed their involvement in the heat shock response in rice (Oryza sativa L.)
-OsHSD1	Os11g0499600	LOC_Os11g30560	cuticle	OsHSD1, a Hydroxysteroid Dehydrogenase, Is Involved in Cuticle Formation and Lipid Homeostasis in Rice
-OsHSD1	Os11g0499600	LOC_Os11g30560	cuticle	OsHSD1, a Hydroxysteroid Dehydrogenase, Is Involved in Cuticle Formation and Lipid Homeostasis in Rice
-OsHSD1	Os11g0499600	LOC_Os11g30560	R protein	OsHSD1, a Hydroxysteroid Dehydrogenase, Is Involved in Cuticle Formation and Lipid Homeostasis in Rice
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	cuticle	OsHSD1, a Hydroxysteroid Dehydrogenase, Is Involved in Cuticle Formation and Lipid Homeostasis in Rice
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	cuticle	OsHSD1, a Hydroxysteroid Dehydrogenase, Is Involved in Cuticle Formation and Lipid Homeostasis in Rice
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	R protein	OsHSD1, a Hydroxysteroid Dehydrogenase, Is Involved in Cuticle Formation and Lipid Homeostasis in Rice
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	leaf	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	leaf	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	submergence	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	photosynthesis	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	tolerance	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	yield	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	breeding	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
+OsHSD1|LGF1	Os11g0499600	LOC_Os11g30560	submergence tolerance	Rice leaf hydrophobicity and gas films are conferred by a wax synthesis gene (LGF1) and contribute to flood tolerance.
 OsHsf23	Os09g0456800	LOC_Os09g28354	leaf	The elicitor-responsive gene for a GRAS family protein, CIGR2, suppresses cell death in rice inoculated with rice blast fungus via activation of a heat shock transcription factor, OsHsf23.
 OsHsf23	Os09g0456800	LOC_Os09g28354	sheath	The elicitor-responsive gene for a GRAS family protein, CIGR2, suppresses cell death in rice inoculated with rice blast fungus via activation of a heat shock transcription factor, OsHsf23.
 OsHsf23	Os09g0456800	LOC_Os09g28354	blast	The elicitor-responsive gene for a GRAS family protein, CIGR2, suppresses cell death in rice inoculated with rice blast fungus via activation of a heat shock transcription factor, OsHsf23.
@@ -11295,6 +11433,9 @@ OsLOX1	Os03g0700700	LOC_Os03g49380	insect	A novel lipoxygenase gene from develop
 OsLOX1	Os03g0700700	LOC_Os03g49380	resistant	A novel lipoxygenase gene from developing rice seeds confers dual position specificity and responds to wounding and insect attack
 OsLOX1	Os03g0700700	LOC_Os03g49380	seedling	A novel lipoxygenase gene from developing rice seeds confers dual position specificity and responds to wounding and insect attack
 OsLOX1	Os03g0700700	LOC_Os03g49380	seed	A novel lipoxygenase gene from developing rice seeds confers dual position specificity and responds to wounding and insect attack
+OsLOX2	Os03g0179900|Os03g0179950	LOC_Os03g08220	disease	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsLOX2	Os03g0179900|Os03g0179950	LOC_Os03g08220	 ja 	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsLOX2	Os03g0179900|Os03g0179950	LOC_Os03g08220	JA	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
 OsLOX3|LOX3	Os03g0699700	LOC_Os03g49260	grain	Antisense suppression of LOX3 gene expression in rice endosperm enhances seed longevity.
 OsLOX3|LOX3	Os03g0699700	LOC_Os03g49260	grain	Antisense suppression of LOX3 gene expression in rice endosperm enhances seed longevity.
 OsLOX3|LOX3	Os03g0699700	LOC_Os03g49260	grain	Antisense suppression of LOX3 gene expression in rice endosperm enhances seed longevity.
@@ -11308,6 +11449,9 @@ OsLOX3|LOX3	Os03g0699700	LOC_Os03g49260	quality	Antisense suppression of LOX3 ge
 OsLOX3|LOX3	Os03g0699700	LOC_Os03g49260	seed	TALEN-Based Mutagenesis of Lipoxygenase LOX3 Enhances the Storage Tolerance of Rice (Oryza sativa) Seeds.
 OsLOX3|LOX3	Os03g0699700	LOC_Os03g49260	seed	TALEN-Based Mutagenesis of Lipoxygenase LOX3 Enhances the Storage Tolerance of Rice (Oryza sativa) Seeds.
 OsLOX3|LOX3	Os03g0699700	LOC_Os03g49260	tolerance	TALEN-Based Mutagenesis of Lipoxygenase LOX3 Enhances the Storage Tolerance of Rice (Oryza sativa) Seeds.
+OsLOX5	Os02g0194700	LOC_Os02g10120	disease	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsLOX5	Os02g0194700	LOC_Os02g10120	 ja 	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsLOX5	Os02g0194700	LOC_Os02g10120	JA	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
 OsLpa1	Os02g0819400	LOC_Os02g57400	phosphate	The rice OsLpa1 gene encodes a novel protein involved in phytic acid metabolism
 OsLPLA	Os08g0435800	LOC_Os08g33810	seed	Characterization of a lipoate-protein ligase A gene of rice (Oryza sativa L.)
 OsLPR3	Os01g0127000	LOC_Os01g03630	homeostasis	Identification and expression analysis of OsLPR family revealed the potential roles of OsLPR3 and 5 in maintaining phosphate homeostasis in rice.
@@ -11966,9 +12110,21 @@ OsMKK4	Os02g0787300	LOC_Os02g54600	grain size	SMALL GRAIN 1, which encodes a mit
 OsMKK4	Os02g0787300	LOC_Os02g54600	growth	SMALL GRAIN 1, which encodes a mitogen-activated protein kinase kinase 4, influences grain size in rice
 OsMKK4	Os02g0787300	LOC_Os02g54600	wounding response	Involvement of the OsMKK4-OsMPK1 Cascade and its Downstream Transcription Factor OsWRKY53 in the Wounding Response in Rice
 OsMKK4	Os02g0787300	LOC_Os02g54600	biotic stress	Involvement of the OsMKK4-OsMPK1 Cascade and its Downstream Transcription Factor OsWRKY53 in the Wounding Response in Rice
-OsMKP1	Os05g0115800	LOC_Os05g02500	dwarf	A calmodulin-binding mitogen-activated protein kinase phosphatase is induced by wounding and regulates the activities of stress-related mitogen-activated protein kinases in rice
-OsMKP1	Os05g0115800	LOC_Os05g02500	brassinosteroid	A calmodulin-binding mitogen-activated protein kinase phosphatase is induced by wounding and regulates the activities of stress-related mitogen-activated protein kinases in rice
-OsMKP1	Os05g0115800	LOC_Os05g02500	gibberellin	A calmodulin-binding mitogen-activated protein kinase phosphatase is induced by wounding and regulates the activities of stress-related mitogen-activated protein kinases in rice
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	dwarf	A calmodulin-binding mitogen-activated protein kinase phosphatase is induced by wounding and regulates the activities of stress-related mitogen-activated protein kinases in rice
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	dwarf	A calmodulin-binding mitogen-activated protein kinase phosphatase is induced by wounding and regulates the activities of stress-related mitogen-activated protein kinases in rice
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	brassinosteroid	A calmodulin-binding mitogen-activated protein kinase phosphatase is induced by wounding and regulates the activities of stress-related mitogen-activated protein kinases in rice
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	gibberellin	A calmodulin-binding mitogen-activated protein kinase phosphatase is induced by wounding and regulates the activities of stress-related mitogen-activated protein kinases in rice
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	panicle	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	grain	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	grain size	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	architecture	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	Kinase	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	Kinase	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	Kinase	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	panicle architecture	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	protein kinase	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	protein kinase	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
+OsMKP1|GSN1	Os05g0115800	LOC_Os05g02500	protein kinase	GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.
 OsMLO12	Os05g0183300	LOC_Os05g09050	pollen	OsMLO12, encoding seven transmembrane proteins, is involved with pollen hydration in rice.
 OsMLO12	Os05g0183300	LOC_Os05g09050	pollen hydration	OsMLO12, encoding seven transmembrane proteins, is involved with pollen hydration in rice
 OsMLO12	Os05g0183300	LOC_Os05g09050	pollen	OsMLO12, encoding seven transmembrane proteins, is involved with pollen hydration in rice
@@ -12379,17 +12535,39 @@ OsMYB2P-1	Os05g0140100	LOC_Os05g04820	transporter	OsMYB2P-1, an R2R3 MYB transcr
 OsMYB2P-1	Os05g0140100	LOC_Os05g04820	phosphate	OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice
 OsMYB2P-1	Os05g0140100	LOC_Os05g04820	adventitious root	OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice
 OsMYB2P-1	Os05g0140100	LOC_Os05g04820	 pi 	OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice
-OsMYB30	Os02g0624300	LOC_Os02g41510	starch	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	starch	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	transcription factor	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
-OsMYB30	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing ¦Â-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	starch	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	starch	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	transcription factor	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	cold tolerance	The OsMYB30 transcription factor suppresses cold tolerance by interacting with a JAZ protein and suppressing beta-amylase expression.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	shoot	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	development	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	development	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	tolerance	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	tolerance	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	architecture	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	nucleus	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	plant development	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	Pi	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	Pi	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	Pi	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	Pi	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	transcription activator	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	phosphate	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	phosphate	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	 pi 	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	 pi 	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	 pi 	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	 pi 	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	phosphate transport	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	phosphate starvation	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
+OsMYB30|OsMYB5P	Os02g0624300	LOC_Os02g41510	phosphate acquisition	Rice OsMYB5P improves plant phosphate acquisition by regulation of phosphate transporter.
 OsMYB3R-2	Os01g0841500	LOC_Os01g62410	cold tolerance	Enhanced tolerance to chilling stress in OsMYB3R-2 transgenic rice is mediated by alteration in cell cycle and ectopic expression of stress genes
 OsMYB3R-2	Os01g0841500	LOC_Os01g62410	drought	Overexpression of an R1R2R3 MYB Gene, OsMYB3R-2, Increases Tolerance to Freezing, Drought, and Salt Stress in Transgenic Arabidopsis
 OsMYB3R-2	Os01g0841500	LOC_Os01g62410	mitosis	Enhanced tolerance to chilling stress in OsMYB3R-2 transgenic rice is mediated by alteration in cell cycle and ectopic expression of stress genes
@@ -12566,6 +12744,11 @@ OsNAAT1	Os02g0306401	LOC_Os02g20360	shoot	Identification and localisation of the
 OsNAAT1	Os02g0306401	LOC_Os02g20360	xylem	Identification and localisation of the rice nicotianamine aminotransferase gene OsNAAT1 expression suggests the site of phytosiderophore synthesis in rice
 OsNAAT2	Os02g0302700	LOC_Os02g19970	root	Identification and localisation of the rice nicotianamine aminotransferase gene OsNAAT1 expression suggests the site of phytosiderophore synthesis in rice
 OsNAAT2	Os02g0302700	LOC_Os02g19970	shoot	Identification and localisation of the rice nicotianamine aminotransferase gene OsNAAT1 expression suggests the site of phytosiderophore synthesis in rice
+OsNAC14	Os01g0675800	LOC_Os01g48446	defense	Overexpression ofOsNAC14Improves Drought Tolerance in Rice.
+OsNAC14	Os01g0675800	LOC_Os01g48446	drought	Overexpression ofOsNAC14Improves Drought Tolerance in Rice.
+OsNAC14	Os01g0675800	LOC_Os01g48446	tolerance	Overexpression ofOsNAC14Improves Drought Tolerance in Rice.
+OsNAC14	Os01g0675800	LOC_Os01g48446	defense response	Overexpression ofOsNAC14Improves Drought Tolerance in Rice.
+OsNAC14	Os01g0675800	LOC_Os01g48446	drought tolerance	Overexpression ofOsNAC14Improves Drought Tolerance in Rice.
 OsNAC19|SNAC1|OsNAC9	Os03g0815100	LOC_Os03g60080	salt	Overexpression of a new stress-repressive gene OsDSR2 encoding a protein with a DUF966 domain increases salt and simulated drought stress sensitivities and reduces ABA sensitivity in rice
 OsNAC19|SNAC1|OsNAC9	Os03g0815100	LOC_Os03g60080	 ABA 	Rice gene OsNAC19 encodes a novel NAC-domain transcription factor and responds to infection by Magnaporthe grisea
 OsNAC19|SNAC1|OsNAC9	Os03g0815100	LOC_Os03g60080	sheath	Rice gene OsNAC19 encodes a novel NAC-domain transcription factor and responds to infection by Magnaporthe grisea
@@ -12856,6 +13039,7 @@ OsNCED2	Os12g0435200	LOC_Os12g24800	anther	ABA regulates apoplastic sugar transp
 OsNCED2	Os12g0435200	LOC_Os12g24800	 ABA 	ABA regulates apoplastic sugar transport and is a potential signal for cold-induced pollen sterility in rice
 OsNCED2	Os12g0435200	LOC_Os12g24800	 ABA 	A rice F-box gene, OsFbx352, is involved in glucose-delayed seed germination in rice
 OsNCED3	Os03g0645900	LOC_Os03g44380	 ABA 	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
+OsNCED3	Os03g0645900	LOC_Os03g44380	 ABA 	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
 OsNCED3	Os03g0645900	LOC_Os03g44380	seed	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
 OsNCED3	Os03g0645900	LOC_Os03g44380	 ABA 	ABA controls H(2)O(2) accumulation through the induction of OsCATB in rice leaves under water stress
 OsNCED3	Os03g0645900	LOC_Os03g44380	anther	ABA regulates apoplastic sugar transport and is a potential signal for cold-induced pollen sterility in rice
@@ -12864,9 +13048,41 @@ OsNCED3	Os03g0645900	LOC_Os03g44380	drought tolerance	Ectopic expression of rice
 OsNCED3	Os03g0645900	LOC_Os03g44380	vascular bundle	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
 OsNCED3	Os03g0645900	LOC_Os03g44380	 ABA 	A rice F-box gene, OsFbx352, is involved in glucose-delayed seed germination in rice
 OsNCED3	Os03g0645900	LOC_Os03g44380	leaf	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
+OsNCED3	Os03g0645900	LOC_Os03g44380	leaf	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
+OsNCED3	Os03g0645900	LOC_Os03g44380	leaf	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
 OsNCED3	Os03g0645900	LOC_Os03g44380	leaf shape	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
 OsNCED3	Os03g0645900	LOC_Os03g44380	seed germination	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
 OsNCED3	Os03g0645900	LOC_Os03g44380	drought	Ectopic expression of rice OsNCED3 in Arabidopsis increases ABA level and alters leaf morphology
+OsNCED3	Os03g0645900	LOC_Os03g44380	leaf	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	leaf	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	leaf senescence	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	leaf senescence	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	senescence	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	senescence	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	seed	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	tolerance	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	tolerance	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	abiotic stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	abiotic stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	abiotic stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	 ABA 	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	 ABA 	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	biotic stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	biotic stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	biotic stress	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	ABA	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	ABA	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	quality	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress tolerance	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress tolerance	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress tolerance	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	stress tolerance	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	plant growth	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
+OsNCED3	Os03g0645900	LOC_Os03g44380	ABA biosynthesis	9-cis-Epoxycarotenoid Dioxygenase 3 Regulates Plant Growth and Enhances Multi-Abiotic Stress Tolerance in Rice
 OsNCED4	Os07g0154100	LOC_Os07g05940	salt	Overexpression of a new stress-repressive gene OsDSR2 encoding a protein with a DUF966 domain increases salt and simulated drought stress sensitivities and reduces ABA sensitivity in rice
 OsNCED4	Os07g0154100	LOC_Os07g05940	drought	Overexpression of OsMYB48-1, a novel MYB-related transcription factor, enhances drought and salinity tolerance in rice
 OsNCED4	Os07g0154100	LOC_Os07g05940	 ABA 	Overexpression of OsMYB48-1, a novel MYB-related transcription factor, enhances drought and salinity tolerance in rice
@@ -13585,16 +13801,29 @@ OsNMD3	Os10g0573900	LOC_Os10g42320	growth	Retention of OsNMD3 in the cytoplasm d
 OsNOA1	Os02g0104700	LOC_Os02g01440	root	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
 OsNOA1	Os02g0104700	LOC_Os02g01440	seedling	NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice
 OsNOA1	Os02g0104700	LOC_Os02g01440	chloroplast	OsNOA1/RIF1 is a functional homolog of AtNOA1/RIF1: implication for a highly conserved plant cGTPase essential for chloroplast function
+OsNOA1	Os02g0104700	LOC_Os02g01440	chloroplast	OsNOA1/RIF1 is a functional homolog of AtNOA1/RIF1: implication for a highly conserved plant cGTPase essential for chloroplast function
+OsNOA1	Os02g0104700	LOC_Os02g01440	chloroplast	OsNOA1/RIF1 is a functional homolog of AtNOA1/RIF1: implication for a highly conserved plant cGTPase essential for chloroplast function
 OsNOA1	Os02g0104700	LOC_Os02g01440	growth	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
 OsNOA1	Os02g0104700	LOC_Os02g01440	seedling	OsNOA1/RIF1 is a functional homolog of AtNOA1/RIF1: implication for a highly conserved plant cGTPase essential for chloroplast function
 OsNOA1	Os02g0104700	LOC_Os02g01440	seed	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
 OsNOA1	Os02g0104700	LOC_Os02g01440	salt tolerance	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	salt tolerance	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	salt tolerance	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	salt tolerance	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	salt	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	salt	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	salt	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
 OsNOA1	Os02g0104700	LOC_Os02g01440	salt	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
 OsNOA1	Os02g0104700	LOC_Os02g01440	seedling	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	temperature	NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice
 OsNOA1	Os02g0104700	LOC_Os02g01440	temperature	NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice
 OsNOA1	Os02g0104700	LOC_Os02g01440	seed germination	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
 OsNOA1	Os02g0104700	LOC_Os02g01440	vegetative	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
 OsNOA1	Os02g0104700	LOC_Os02g01440	salinity	Expression of a rice gene OsNOA1 re-establishes nitric oxide synthesis and stress-related gene expression for salt tolerance in Arabidopsis nitric oxide-associated 1 mutant Atnoa1
+OsNOA1	Os02g0104700	LOC_Os02g01440	chloroplast	OsNOA1 functions in a threshold-dependent manner to regulate chloroplast proteins in rice at lower temperatures.
+OsNOA1	Os02g0104700	LOC_Os02g01440	chloroplast	OsNOA1 functions in a threshold-dependent manner to regulate chloroplast proteins in rice at lower temperatures.
+OsNOA1	Os02g0104700	LOC_Os02g01440	chloroplast	OsNOA1 functions in a threshold-dependent manner to regulate chloroplast proteins in rice at lower temperatures.
+OsNOA1	Os02g0104700	LOC_Os02g01440	chloroplast	OsNOA1 functions in a threshold-dependent manner to regulate chloroplast proteins in rice at lower temperatures.
 OsNOMT	Os12g0240900	LOC_Os12g13800	jasmonic	Purification and identification of naringenin 7-O-methyltransferase, a key enzyme in biosynthesis of flavonoid phytoalexin sakuranetin in rice
 OsNOMT	Os12g0240900	LOC_Os12g13800	jasmonic acid	Purification and identification of naringenin 7-O-methyltransferase, a key enzyme in biosynthesis of flavonoid phytoalexin sakuranetin in rice
 Osnop	Os06g0607900	LOC_Os06g40570	sterile	The Oryza sativa no pollen (Osnop) gene plays a role in male gametophyte development and most likely encodes a C2-GRAM domain-containing protein
@@ -14071,11 +14300,19 @@ OsPE	Os03g0241300	LOC_Os03g13810	seed	Development of multiple embryos in polyemb
 OsPE	Os03g0241300	LOC_Os03g13810	shoot	The polyembryo gene (OsPE) in rice
 OsPE	Os03g0241300	LOC_Os03g13810	seed	The polyembryo gene (OsPE) in rice
 OsPE	Os03g0241300	LOC_Os03g13810	seedling	Development of multiple embryos in polyembryonic insertional mutant OsPE of rice
-OsPELOTA	Os04g0659900	LOC_Os04g56480	resistance	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
-OsPELOTA	Os04g0659900	LOC_Os04g56480	map-based cloning	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
-OsPELOTA	Os04g0659900	LOC_Os04g56480	salicylic acid	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
-OsPELOTA	Os04g0659900	LOC_Os04g56480	blight	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
-OsPELOTA	Os04g0659900	LOC_Os04g56480	bacterial blight	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	resistance	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	map-based cloning	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	salicylic acid	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	blight	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	bacterial blight	A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	leaf	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	growth	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	growth	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	resistance	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	blast	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	cell death	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	blight	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
+OsPELOTA|LML1	Os04g0659900	LOC_Os04g56480	bacterial blight	LML1, Encoding a Conserved Eukaryotic Release Factor 1 Protein, Regulates Cell Death and Pathogen Resistance by Forming a Conserved Complex with SPL33 in Rice.
 OsPEX11	Os03g0302000	LOC_Os03g19010	seedlings	OsPEX11, a Peroxisomal Biogenesis Factor 11, Contributes to Salt Stress Tolerance in Oryza sativa.
 OsPEX11	Os03g0302000	LOC_Os03g19010	defense	OsPEX11, a Peroxisomal Biogenesis Factor 11, Contributes to Salt Stress Tolerance in Oryza sativa.
 OsPEX11	Os03g0302000	LOC_Os03g19010	salinity	OsPEX11, a Peroxisomal Biogenesis Factor 11, Contributes to Salt Stress Tolerance in Oryza sativa.
@@ -14615,6 +14852,23 @@ OsPK1	Os11g0148500	LOC_Os11g05110	stem	Downregulation of OsPK1, a cytosolic pyru
 OsPK10|Pid2	Os06g0494100	LOC_Os06g29810	seedling	Molecular cloning and biochemical characterization of a receptor-like serine/threonine kinase from rice
 OsPK10|Pid2	Os06g0494100	LOC_Os06g29810	shoot	Molecular cloning and biochemical characterization of a receptor-like serine/threonine kinase from rice
 OsPK10|Pid2	Os06g0494100	LOC_Os06g29810	root	Molecular cloning and biochemical characterization of a receptor-like serine/threonine kinase from rice
+OsPK2	Os07g0181000	LOC_Os07g08340	grain	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	grain	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	seed	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	starch	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	starch	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	starch	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	map-based cloning	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	yield	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	endosperm	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	endosperm	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	grain filling	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	grain filling	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	Kinase	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	Kinase	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	seed development	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	quality	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
+OsPK2	Os07g0181000	LOC_Os07g08340	grain quality	OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.
 OsPKS1|YY2|OsLAP6	Os10g0484800	LOC_Os10g34360	tapetal	Isolation and characterization of two cDNA clones for mRNAs that are abundantly expressed in immature anthers of rice (Oryza sativa L.)
 OsPKS1|YY2|OsLAP6	Os10g0484800	LOC_Os10g34360	microspore	Isolation and characterization of two cDNA clones for mRNAs that are abundantly expressed in immature anthers of rice (Oryza sativa L.)
 OsPKS1|YY2|OsLAP6	Os10g0484800	LOC_Os10g34360	anther	Isolation and characterization of two cDNA clones for mRNAs that are abundantly expressed in immature anthers of rice (Oryza sativa L.)
@@ -16536,6 +16790,12 @@ OsTCP19	Os06g0226700	LOC_Os06g12230	lateral root	OsTCP19 influences developmenta
 OsTCP19	Os06g0226700	LOC_Os06g12230	abscisic acid	OsTCP19 influences developmental and abiotic stress signaling by modulating ABI4-mediated pathways.
 OsTCP19	Os06g0226700	LOC_Os06g12230	biotic stress	OsTCP19 influences developmental and abiotic stress signaling by modulating ABI4-mediated pathways.
 OsTCP19	Os06g0226700	LOC_Os06g12230	node	OsTCP19 influences developmental and abiotic stress signaling by modulating ABI4-mediated pathways.
+OsTCP21	Os07g0152000	LOC_Os07g05720	transcription factor	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsTCP21	Os07g0152000	LOC_Os07g05720	defense	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsTCP21	Os07g0152000	LOC_Os07g05720	defense response	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsTCP21	Os07g0152000	LOC_Os07g05720	disease	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsTCP21	Os07g0152000	LOC_Os07g05720	blast	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
+OsTCP21	Os07g0152000	LOC_Os07g05720	blast disease	Magnaporthe oryzae defeats rice defense by inducing miR319b and suppressing Jasmonic acid signaling.
 OsTCTP	Os11g0660500	LOC_Os11g43900	tolerance	OsTCTP, encoding a translationally controlled tumor protein, plays an important role in mercury tolerance in rice.
 OsTCTP	Os11g0660500	LOC_Os11g43900	tolerance	OsTCTP, encoding a translationally controlled tumor protein, plays an important role in mercury tolerance in rice.
 OsTCTP	Os11g0660500	LOC_Os11g43900	stress	OsTCTP, encoding a translationally controlled tumor protein, plays an important role in mercury tolerance in rice.
@@ -16690,6 +16950,13 @@ OsTPS1	Os05g0518600	LOC_Os05g44210	drought	Overexpression of the trehalose-6-pho
 OsTPS1	Os05g0518600	LOC_Os05g44210	cold stress	Characterization of a drought-responsive gene, OsTPS1, identified by the T-DNA gene-trap system in rice
 OsTPS1	Os05g0518600	LOC_Os05g44210	salt	Characterization of a drought-responsive gene, OsTPS1, identified by the T-DNA gene-trap system in rice
 OsTPS1	Os05g0518600	LOC_Os05g44210	transcription factor	Characterization of a drought-responsive gene, OsTPS1, identified by the T-DNA gene-trap system in rice
+OsTPS19	Os04g0340300	LOC_Os04g27190	resistance	The Rice Terpene Synthase Gene OsTPS19 Functions as an (S)-Limonene Synthase in planta and its Overexpression Leads to Enhanced Resistance to the Blast Fungus Magnaporthe oryzae.
+OsTPS19	Os04g0340300	LOC_Os04g27190	resistance	The Rice Terpene Synthase Gene OsTPS19 Functions as an (S)-Limonene Synthase in planta and its Overexpression Leads to Enhanced Resistance to the Blast Fungus Magnaporthe oryzae.
+OsTPS19	Os04g0340300	LOC_Os04g27190	defense	The Rice Terpene Synthase Gene OsTPS19 Functions as an (S)-Limonene Synthase in planta and its Overexpression Leads to Enhanced Resistance to the Blast Fungus Magnaporthe oryzae.
+OsTPS19	Os04g0340300	LOC_Os04g27190	defense	The Rice Terpene Synthase Gene OsTPS19 Functions as an (S)-Limonene Synthase in planta and its Overexpression Leads to Enhanced Resistance to the Blast Fungus Magnaporthe oryzae.
+OsTPS19	Os04g0340300	LOC_Os04g27190	blast	The Rice Terpene Synthase Gene OsTPS19 Functions as an (S)-Limonene Synthase in planta and its Overexpression Leads to Enhanced Resistance to the Blast Fungus Magnaporthe oryzae.
+OsTPS19	Os04g0340300	LOC_Os04g27190	magnaporthe oryzae	The Rice Terpene Synthase Gene OsTPS19 Functions as an (S)-Limonene Synthase in planta and its Overexpression Leads to Enhanced Resistance to the Blast Fungus Magnaporthe oryzae.
+OsTPS19	Os04g0340300	LOC_Os04g27190	pathogen	The Rice Terpene Synthase Gene OsTPS19 Functions as an (S)-Limonene Synthase in planta and its Overexpression Leads to Enhanced Resistance to the Blast Fungus Magnaporthe oryzae.
 OsTPS20	Os04g0341500	LOC_Os04g27340	oxidative stress	Rice terpene synthase 20 (OsTPS20) plays an important role in producing terpene volatiles in response to abiotic stresses.
 OsTPS20	Os04g0341500	LOC_Os04g27340	oxidative	Rice terpene synthase 20 (OsTPS20) plays an important role in producing terpene volatiles in response to abiotic stresses.
 OsTPS20	Os04g0341500	LOC_Os04g27340	abiotic stress	Rice terpene synthase 20 (OsTPS20) plays an important role in producing terpene volatiles in response to abiotic stresses.
@@ -17025,6 +17292,23 @@ OsWJUMK1|OsMPK12|OsBWMK1	Os06g0708000	LOC_Os06g49430	defense	Alternative splicin
 OsWJUMK1|OsMPK12|OsBWMK1	Os06g0708000	LOC_Os06g49430	transcription factor	OsBWMK1 mediates SA-dependent defense responses by activating the transcription factor OsWRKY33
 OsWJUMK1|OsMPK12|OsBWMK1	Os06g0708000	LOC_Os06g49430	defense	Identification and characterization of alternative promoters of the rice MAP kinase gene OsBWMK1
 OsWJUMK1|OsMPK12|OsBWMK1	Os06g0708000	LOC_Os06g49430	cell death	OsBWMK1 mediates SA-dependent defense responses by activating the transcription factor OsWRKY33
+OsWNK9	Os12g0162100	LOC_Os12g06490	drought	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	drought	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	drought	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	salt	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	salt	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	tolerance	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	tolerance	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	 ABA 	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	 ABA 	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	 ABA 	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	stress	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	stress	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	nucleus	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	ABA	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	ABA	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	ABA	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
+OsWNK9	Os12g0162100	LOC_Os12g06490	drought stress	Expression of OsWNK9 in Arabidopsis conferred tolerance to salt and drought stress.
 OsWR1	Os02g0202000	LOC_Os02g10760	ethylene	An ethylene response factor OsWR1 responsive to drought stress transcriptionally activates wax synthesis related genes and increases wax production in rice
 OsWR1	Os02g0202000	LOC_Os02g10760	oxidative	An ethylene response factor OsWR1 responsive to drought stress transcriptionally activates wax synthesis related genes and increases wax production in rice
 OsWR1	Os02g0202000	LOC_Os02g10760	drought tolerance	An ethylene response factor OsWR1 responsive to drought stress transcriptionally activates wax synthesis related genes and increases wax production in rice
@@ -18479,6 +18763,12 @@ qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	tolerance	Overexpression of OsHMA3 enha
 qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	grain	A loss-of-function allele of OsHMA3 associated with high cadmium accumulation in shoots and grain of Japonica rice cultivars.
 qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	grain	A loss-of-function allele of OsHMA3 associated with high cadmium accumulation in shoots and grain of Japonica rice cultivars.
 qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	cadmium	A loss-of-function allele of OsHMA3 associated with high cadmium accumulation in shoots and grain of Japonica rice cultivars.
+qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	vascular bundle	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	root	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	grain	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	grain	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	phloem	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
+qCdT7|OsHMA3	Os07g0232900	LOC_Os07g12900	cadmium	Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
 qCTS-9	Os09g0410300	LOC_Os09g24440	seedling	A novel functional gene associated with cold tolerance at the seedling stage in rice.
 qCTS-9	Os09g0410300	LOC_Os09g24440	seedling	A novel functional gene associated with cold tolerance at the seedling stage in rice.
 qCTS-9	Os09g0410300	LOC_Os09g24440	development	A novel functional gene associated with cold tolerance at the seedling stage in rice.
@@ -18513,6 +18803,10 @@ qSH1	Os01g0848400	LOC_Os01g62920	shattering	Genomewide association analysis for 
 qSH1	Os01g0848400	LOC_Os01g62920	shattering	Genomewide association analysis for awn length linked to the seed shattering gene qSH1 in rice.
 qSH1	Os01g0848400	LOC_Os01g62920	seed shattering	Genomewide association analysis for awn length linked to the seed shattering gene qSH1 in rice.
 qSH1	Os01g0848400	LOC_Os01g62920	seed shattering	Genomewide association analysis for awn length linked to the seed shattering gene qSH1 in rice.
+qTGW3|TGW3|GL3.3	Os03g0841800	LOC_Os03g62500	grain	A Novel QTL qTGW3 Encodes the GSK3/SHAGGY-Like Kinase OsGSK5/OsSK41 that Interacts with OsARF4 to Negatively Regulate Grain Size and Weight in Rice.
+qTGW3|TGW3|GL3.3	Os03g0841800	LOC_Os03g62500	grain size	A Novel QTL qTGW3 Encodes the GSK3/SHAGGY-Like Kinase OsGSK5/OsSK41 that Interacts with OsARF4 to Negatively Regulate Grain Size and Weight in Rice.
+qTGW3|TGW3|GL3.3	Os03g0841800	LOC_Os03g62500	breeding	A Novel QTL qTGW3 Encodes the GSK3/SHAGGY-Like Kinase OsGSK5/OsSK41 that Interacts with OsARF4 to Negatively Regulate Grain Size and Weight in Rice.
+qTGW3|TGW3|GL3.3	Os03g0841800	LOC_Os03g62500	Kinase	A Novel QTL qTGW3 Encodes the GSK3/SHAGGY-Like Kinase OsGSK5/OsSK41 that Interacts with OsARF4 to Negatively Regulate Grain Size and Weight in Rice.
 R2	Os05g0392300	LOC_Os05g32600	root	Differential expression of genes for cyclin-dependent protein kinases in rice plants
 R2	Os05g0392300	LOC_Os05g32600	temperature	A rice homolog of Cdk7/MO15 phosphorylates both cyclin-dependent protein kinases and the carboxy-terminal domain of RNA polymerase II
 R2	Os05g0392300	LOC_Os05g32600	growth	The Rice Cyclin-Dependent Kinase -Activating Kinase R2 Regulates S-Phase Progression
@@ -19433,6 +19727,16 @@ SDS|OsSDS	Os03g0225200	LOC_Os03g12414	growth	OsSDS is essential for DSB formatio
 SDS|OsSDS	Os03g0225200	LOC_Os03g12414	vegetative	OsSDS is essential for DSB formation in rice meiosis.
 SDS|OsSDS	Os03g0225200	LOC_Os03g12414	meiotic	OsSDS is essential for DSB formation in rice meiosis.
 SDS|OsSDS	Os03g0225200	LOC_Os03g12414	meiotic	OsSDS is essential for DSB formation in rice meiosis.
+SDS2	Os01g0783800	LOC_Os01g57480	resistance	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	blast	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	magnaporthe oryzae	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	cell death	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	immunity	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	immunity	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	immune response	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	immune response	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	Kinase	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
+SDS2	Os01g0783800	LOC_Os01g57480	PCD	The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.
 SDT	Os06g0649600	LOC_Os06g44034	panicle	Regulation of OsmiR156h through Alternative Polyadenylation Improves Grain Yield in Rice.
 SDT	Os06g0649600	LOC_Os06g44034	grain	Regulation of OsmiR156h through Alternative Polyadenylation Improves Grain Yield in Rice.
 SDT	Os06g0649600	LOC_Os06g44034	grain	Regulation of OsmiR156h through Alternative Polyadenylation Improves Grain Yield in Rice.
@@ -19746,11 +20050,26 @@ SNORKEL1	None	None	gibberellin	The ethylene response factors SNORKEL1 and SNORKE
 SNORKEL1	None	None	ethylene	The ethylene response factors SNORKEL1 and SNORKEL2 allow rice to adapt to deep water
 SNORKEL2	None	None	ethylene	The ethylene response factors SNORKEL1 and SNORKEL2 allow rice to adapt to deep water
 SNORKEL2	None	None	gibberellin	The ethylene response factors SNORKEL1 and SNORKEL2 allow rice to adapt to deep water
-SnRK1A	Os05g0530500	LOC_Os05g45420	growth	Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding
-SnRK1A	Os05g0530500	LOC_Os05g45420	seedling	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
-SnRK1A	Os05g0530500	LOC_Os05g45420	seed	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
-SnRK1A	Os05g0530500	LOC_Os05g45420	growth	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
-SnRK1A	Os05g0530500	LOC_Os05g45420	seed germination	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	growth	Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	seedling	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	seedling	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	seed	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	seed	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	growth	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	growth	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	seed germination	The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	growth	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	resistance	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	resistance	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	development	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	defense	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	defense response	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	disease	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	salicylic acid	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	blast	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	disease resistance	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	immunity	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
+SnRK1A|OsSnRK1a	Os05g0530500	LOC_Os05g45420	broad-spectrum disease resistance	The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
 SnRK1B|OsK4	Os08g0484600	LOC_Os08g37800	Kinase	The Oryza sativa Regulator HDR1 Associates with the Kinase OsK4 to Control Photoperiodic Flowering.
 SodCc7	Os03g0351500	LOC_Os03g22810	zinc	Molecular Cloning of the Gene (SodCc7) that Encodes a Cytosolic Copper/Zinc-Superoxide  Dismutase from Rice
 SOR1	Os04g0101800	LOC_Os04g01160	root	Isolation of a novel mutant gene for soil-surface rooting in rice (Oryza sativa L.)
@@ -19763,6 +20082,10 @@ SPDT	Os06g0143700	LOC_Os06g05160	transporter	Reducing phosphorus accumulation in
 SPDT	Os06g0143700	LOC_Os06g05160	phosphorus	Reducing phosphorus accumulation in rice grains with an impaired transporter in the node.
 SPDT	Os06g0143700	LOC_Os06g05160	phosphorus	Reducing phosphorus accumulation in rice grains with an impaired transporter in the node.
 SPDT	Os06g0143700	LOC_Os06g05160	node	Reducing phosphorus accumulation in rice grains with an impaired transporter in the node.
+SPH	Os04g0447100	LOC_Os04g37430	lemma	Identification of a novel SPLIT-HULL (SPH) gene associated with hull splitting in rice (Oryza sativa L.).
+SPH	Os04g0447100	LOC_Os04g37430	lemma	Identification of a novel SPLIT-HULL (SPH) gene associated with hull splitting in rice (Oryza sativa L.).
+SPH	Os04g0447100	LOC_Os04g37430	lignin	Identification of a novel SPLIT-HULL (SPH) gene associated with hull splitting in rice (Oryza sativa L.).
+SPH	Os04g0447100	LOC_Os04g37430	lignin	Identification of a novel SPLIT-HULL (SPH) gene associated with hull splitting in rice (Oryza sativa L.).
 SPIN1	Os03g0815700	LOC_Os03g60110	disease	RBS1, an RNA Binding Protein, Interacts with SPIN1 and Is Involved in Flowering Time Control in Rice
 SPIN1	Os03g0815700	LOC_Os03g60110	heading date	SPIN1, a K homology domain protein negatively regulated and ubiquitinated by the E3 ubiquitin ligase SPL11, is involved in flowering time control in rice
 SPIN1	Os03g0815700	LOC_Os03g60110	flowering time	SPIN1, a K homology domain protein negatively regulated and ubiquitinated by the E3 ubiquitin ligase SPL11, is involved in flowering time control in rice
@@ -19952,6 +20275,24 @@ STR2	Os07g0191600	LOC_Os07g09384	strigolactone	The half-size ABC transporters ST
 STR2	Os07g0191600	LOC_Os07g09384	transporter	The half-size ABC transporters STR1 and STR2 are indispensable for mycorrhizal arbuscule formation in rice
 STR2	Os07g0191600	LOC_Os07g09384	root	The half-size ABC transporters STR1 and STR2 are indispensable for mycorrhizal arbuscule formation in rice
 STR2	Os07g0191600	LOC_Os07g09384	branching	The half-size ABC transporters STR1 and STR2 are indispensable for mycorrhizal arbuscule formation in rice
+STRK1	Os04g0540900	LOC_Os04g45730	growth	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	grain	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	seedling	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	salt	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	salt	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	salt	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	tolerance	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	tolerance	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	grain yield	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	yield	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	oxidative	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	salt tolerance	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	salt stress	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	stress	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	homeostasis	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	homeostasis	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	Kinase	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
+STRK1	Os04g0540900	LOC_Os04g45730	plasma membrane	The Receptor-like Cytoplasmic Kinase STRK1 Phosphorylates and Activates CatC, thereby Regulating H2O2 Homeostasis and Improving Salt Tolerance in Rice
 Sub1A	None	None	ethylene	Sub1A is an ethylene-response-factor-like gene that confers submergence tolerance to rice
 Sub1A	None	None	transcription factor	Submergence tolerance conferred by Sub1A is mediated by SLR1 and SLRL1 restriction of gibberellin responses in rice
 Sub1A	None	None	 ABA 	The submergence tolerance regulator SUB1A mediates crosstalk between submergence and drought tolerance in rice
@@ -20151,6 +20492,11 @@ TCD5|CSV1|TSV	Os05g0411200	LOC_Os05g34040	chloroplast development	TSV, a putativ
 TCD9	Os09g0563300	LOC_Os09g38980	leaf	Importance of the rice TCD9 encoding alpha subunit of chaperonin protein 60 (Cpn60alpha) for the chloroplast development during the early leaf stage
 TCD9	Os09g0563300	LOC_Os09g38980	chloroplast	Importance of the rice TCD9 encoding alpha subunit of chaperonin protein 60 (Cpn60alpha) for the chloroplast development during the early leaf stage
 TCD9	Os09g0563300	LOC_Os09g38980	seedling	Importance of the rice TCD9 encoding alpha subunit of chaperonin protein 60 (Cpn60alpha) for the chloroplast development during the early leaf stage
+TCM1	Os01g0769900	LOC_Os01g56350	chloroplast	RiceTCM1Encoding a Component of the TAC Complex is Required for Chloroplast Development under Cold Stress.
+TCM1	Os01g0769900	LOC_Os01g56350	development	RiceTCM1Encoding a Component of the TAC Complex is Required for Chloroplast Development under Cold Stress.
+TCM1	Os01g0769900	LOC_Os01g56350	cold stress	RiceTCM1Encoding a Component of the TAC Complex is Required for Chloroplast Development under Cold Stress.
+TCM1	Os01g0769900	LOC_Os01g56350	stress	RiceTCM1Encoding a Component of the TAC Complex is Required for Chloroplast Development under Cold Stress.
+TCM1	Os01g0769900	LOC_Os01g56350	chloroplast development	RiceTCM1Encoding a Component of the TAC Complex is Required for Chloroplast Development under Cold Stress.
 TCM5	Os05g0417100	LOC_Os05g34460	leaf	The Rice TCM5 Gene Encoding a Novel Deg Protease Protein is Essential for Chloroplast Development under High Temperatures.
 TCM5	Os05g0417100	LOC_Os05g34460	temperature	The Rice TCM5 Gene Encoding a Novel Deg Protease Protein is Essential for Chloroplast Development under High Temperatures.
 TCM5	Os05g0417100	LOC_Os05g34460	seedling	The Rice TCM5 Gene Encoding a Novel Deg Protease Protein is Essential for Chloroplast Development under High Temperatures.
