@@ -12,3 +12,4 @@ group: navigation
 4. Das et al. [Revisiting the decoded genomes to promptly reveal their genomic perspectives](http://www.currentscience.ac.in/Volumes/112/02/0279.pdf), 2017, Current Science.
 5. Dingkuhn et al. [Crop-model assisted phenomics and genome-wide association study for climate adaptation of indica rice. 2. Thermal stress and spikelet sterility](https://doi.org/10.1093/jxb/erx250), 2017, Journal of Experimental Botany.
 6. Golicz et al. [MCRiceRepGP: a framework for identification of sexual reproduction associated coding and lincRNA genes in rice](https://www.biorxiv.org/content/early/2018/02/25/271353), 2018, bioRxiv.
+7. Gianinetti et al. [Seed Dormancy Involves a Transcriptional Program That Supports Early Plastid Functionality during Imbibition](http://www.mdpi.com/2223-7747/7/2/35/htm), 2018, Plants.
