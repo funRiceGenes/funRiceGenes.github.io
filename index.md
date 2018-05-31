@@ -19,12 +19,12 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: ywhzau at gmail.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
-<table>
+<table align="center">
 <tr>
 <th>
 <a href="http://funricegenes.ncpgr.cn" target="_blank"><img src="https://funricegenes.github.io/images/funShiny.png" alt="Dynamic query of this database" style="width: 200px;"/></a>
 </th>
-<th></th>
+<th></th><th></th>
 <th>
 <a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117" target="_blank"><img src="https://funricegenes.github.io/images/gigascience.png" style="width: 200px;"/></a>
 </th>
