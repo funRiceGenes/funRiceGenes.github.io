@@ -21,8 +21,8 @@ __A comprehensive database of functionally characterized rice genes__
 
 <br>
 
-[<img src="https://funricegenes.github.io/images/funShiny.tif" alt="Dynamic query of this database"  style="width: 200px;"/>](http://funricegenes.ncpgr.cn)   
-[<img src="https://funricegenes.github.io/images/gigascience.png" style="width: 200px;"/>](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117)   
+[<img src="https://funricegenes.github.io/images/funShiny.tif" alt="Dynamic query of this database" target="_blank" style="width: 200px;"/>](http://funricegenes.ncpgr.cn)   
+[<img src="https://funricegenes.github.io/images/gigascience.png" target="_blank" style="width: 200px;"/>](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117)   
 
 __To search this site, please use [Google](http://www.google.com/) or [Bing](https://cn.bing.com) with the following search pattern!__
 ```
