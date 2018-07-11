@@ -14,6 +14,7 @@ tags: [transcription factor, temperature, stress]
 * **Publication**  
     + [OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor%5BTitle%5D), 2009, BMB reports.
     + [An alternatively spliced heat shock transcription factor, OsHSFA2dI, functions in the heat stress-induced unfolded protein response in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=An alternatively spliced heat shock transcription factor, OsHSFA2dI, functions in the heat stress-induced unfolded protein response in rice.%5BTitle%5D), 2014, Plant Biol (Stuttg).
+    + [A Core Regulatory Pathway Controlling Rice Tiller Angle Mediated by the LAZY1-dependent Asymmetric Distribution of Auxin.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Core Regulatory Pathway Controlling Rice Tiller Angle Mediated by the LAZY1-dependent Asymmetric Distribution of Auxin.%5BTitle%5D), 2018, Plant Cell.
 
 * **Genbank accession number**  
     + [AK066844](http://www.ncbi.nlm.nih.gov/nuccore/AK066844)
