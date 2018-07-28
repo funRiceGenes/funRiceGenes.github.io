@@ -2542,6 +2542,21 @@ FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	branching	Duplication of an upstream 
 FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	grain weight	Duplication of an upstream silencer of FZP increases grain yield in rice.
 FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	axillary meristem	Duplication of an upstream silencer of FZP increases grain yield in rice.
 FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	spikelets per panicle	Duplication of an upstream silencer of FZP increases grain yield in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	grain	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	grain	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	grain	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	grain size	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	grain size	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	grain size	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	lemma	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	lemma	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	lemma	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	lemma	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	sterile	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	sterile	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	sterile	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	sterile	FZP determines grain size and sterile lemma fate in rice.
+FZP|BFL1|SGDP7	Os07g0669500	LOC_Os07g47330	sterile	FZP determines grain size and sterile lemma fate in rice.
 G1	Os07g0139300	LOC_Os07g04670	sterile	The homeotic gene long sterile lemma (G1) specifies sterile lemma identity in the rice spikelet
 G1	Os07g0139300	LOC_Os07g04670	sterile	The homeotic gene long sterile lemma (G1) specifies sterile lemma identity in the rice spikelet
 G1	Os07g0139300	LOC_Os07g04670	sterile	The homeotic gene long sterile lemma (G1) specifies sterile lemma identity in the rice spikelet
@@ -2806,34 +2821,45 @@ GID1|OsGID1	Os05g0407500	LOC_Os05g33730	submergence tolerance	GID1 modulates sto
 GID1|OsGID1	Os05g0407500	LOC_Os05g33730	submergence tolerance	GID1 modulates stomatal response and submergence tolerance involving ABA and GA signaling in rice.
 GID1|OsGID1	Os05g0407500	LOC_Os05g33730	drought stress	GID1 modulates stomatal response and submergence tolerance involving ABA and GA signaling in rice.
 GID1|OsGID1	Os05g0407500	LOC_Os05g33730	drought stress 	GID1 modulates stomatal response and submergence tolerance involving ABA and GA signaling in rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	domestication	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	domestication	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	domestication	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	homeostasis	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	homeostasis	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	domestication	Control of rice grain-filling and yield by a gene with a potential signature of domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	domestication	Control of rice grain-filling and yield by a gene with a potential signature of domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain weight	Control of rice grain-filling and yield by a gene with a potential signature of domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	cell wall	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	cell wall	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	cell wall	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	development	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	grain size	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	vegetative	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	reproductive	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	breeding	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	organ size	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	organ size	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
-GIF1|OsCIN2|OsGIF1	Os04g0413500	LOC_Os04g33740	reproductive development	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	domestication	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	domestication	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	domestication	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	Control of rice grain-filling and yield by a gene with a potential signature of domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	homeostasis	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	homeostasis	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	domestication	Control of rice grain-filling and yield by a gene with a potential signature of domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	domestication	Control of rice grain-filling and yield by a gene with a potential signature of domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain weight	Control of rice grain-filling and yield by a gene with a potential signature of domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	cell wall	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	cell wall	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	cell wall	Sugar homeostasis mediated by cell wall invertase GRAIN INCOMPLETE FILLING 1 (GIF1) plays a role in pre-existing and induced defence in rice
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	development	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain size	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	vegetative	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	reproductive	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	breeding	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	organ size	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	organ size	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	reproductive development	OsGIF1 Positively Regulates the Sizes of Stems, Leaves, and Grains in Rice.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	development	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	starch	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	endosperm	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	endosperm	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	endosperm	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	endosperm	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	chalkiness	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	grain weight	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	endosperm development	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
+GIF1|OsCIN2|OsGIF1|WB1	Os04g0413500	LOC_Os04g33740	endosperm development	WB1, a Regulator of Endosperm Development in Rice, Is Identified by a Modified MutMap Method.
 GL3.1|qGL3-1|qGL3|OsPPKL1	Os03g0646900	LOC_Os03g44500	grain length	Rare allele of OsPPKL1 associated with grain length causes extra-large grain and a significant yield increase in rice
 GL3.1|qGL3-1|qGL3|OsPPKL1	Os03g0646900	LOC_Os03g44500	grain yield	Rare allele of OsPPKL1 associated with grain length causes extra-large grain and a significant yield increase in rice
 GL3.1|qGL3-1|qGL3|OsPPKL1	Os03g0646900	LOC_Os03g44500	grain length	Rare allele of OsPPKL1 associated with grain length causes extra-large grain and a significant yield increase in rice
@@ -3626,13 +3652,18 @@ HMG2	Os09g0492700	LOC_Os09g31970	seedling	Molecular characterization of Hmg2 gen
 HMG2	Os09g0492700	LOC_Os09g31970	lamina	Molecular characterization of Hmg2 gene encoding a 3-hydroxy-methylglutaryl-CoA reductase in rice
 HMG2	Os09g0492700	LOC_Os09g31970	flower	Molecular characterization of Hmg2 gene encoding a 3-hydroxy-methylglutaryl-CoA reductase in rice
 HN1L	Os04g0455600	LOC_Os04g38310	silicon	Cloning, expression and subcellular localization of HN1 and HN1L genes, as well as characterization of their orthologs, defining an evolutionarily conserved gene family
-HOX12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
-HOX12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
-HOX12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
-HOX12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
-HOX12	Os03g0198600	LOC_Os03g10210	transcription factor	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
-HOX12	Os03g0198600	LOC_Os03g10210	 ga 	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
-HOX12	Os03g0198600	LOC_Os03g10210	GA	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	panicle	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	transcription factor	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	 ga 	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	GA	Rice HOX12 Regulates Panicle Exsertion by Directly Modulating the Expression of ELONGATED UPPERMOST INTERNODE1.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	transcription factor	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	panicle	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	panicle	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	development	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+HOX12|Oshox12	Os03g0198600	LOC_Os03g10210	dwarf	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
 HSA1a	Os12g0589400	LOC_Os12g39880	hybrid sterility	Two tightly linked genes at the hsa1 locus cause both F1 and F2 hybrid sterility in rice
 HSA1b	None	LOC_Os12g39920	hybrid sterility	Two tightly linked genes at the hsa1 locus cause both F1 and F2 hybrid sterility in rice
 HSA32	Os06g0682900	LOC_Os06g46900	seedling	A positive feedback loop between HEAT SHOCK PROTEIN101 and HEAT STRESS-ASSOCIATED 32-KD PROTEIN modulates long-term acquired thermotolerance illustrating diverse heat stress responses in rice varieties
@@ -4686,6 +4717,7 @@ MYBS3|OsMYBS3	Os10g0561400	LOC_Os10g41200	yield	A novel MYBS3-dependent pathway 
 MYBS3|OsMYBS3	Os10g0561400	LOC_Os10g41200	cold tolerance	A novel MYBS3-dependent pathway confers cold tolerance in rice
 MYBS3|OsMYBS3	Os10g0561400	LOC_Os10g41200	abiotic stress	A novel MYBS3-dependent pathway confers cold tolerance in rice
 MYBS3|OsMYBS3	Os10g0561400	LOC_Os10g41200	cold stress	A novel MYBS3-dependent pathway confers cold tolerance in rice
+NAD3	None	None	R protein	Rice PPS1 encodes a DYW motif-containing pentatricopeptide repeat protein required for five consecutive RNA-editing sites of nad3 in mitochondria.
 NADP-ME2|OsNADP-ME2	Os01g0723400	LOC_Os01g52500	growth	Expression of an NADP-malic enzyme gene in rice (Oryza sativa. L) is induced by environmental stresses; over-expression of the gene in Arabidopsis confers salt and osmotic stress tolerance
 NADP-ME2|OsNADP-ME2	Os01g0723400	LOC_Os01g52500	seedling	Expression of an NADP-malic enzyme gene in rice (Oryza sativa. L) is induced by environmental stresses; over-expression of the gene in Arabidopsis confers salt and osmotic stress tolerance
 NADP-ME2|OsNADP-ME2	Os01g0723400	LOC_Os01g52500	salt	Expression of an NADP-malic enzyme gene in rice (Oryza sativa. L) is induced by environmental stresses; over-expression of the gene in Arabidopsis confers salt and osmotic stress tolerance
@@ -6335,6 +6367,13 @@ OsATX	Os01g0826000	LOC_Os01g61070	ethylene	Characterization of a novel rice gene
 OsATX	Os01g0826000	LOC_Os01g61070	defense	Characterization of a novel rice gene OsATX and modulation of its expression by components of the stress signalling pathways
 OsATX	Os01g0826000	LOC_Os01g61070	jasmonic	Characterization of a novel rice gene OsATX and modulation of its expression by components of the stress signalling pathways
 OsATX	Os01g0826000	LOC_Os01g61070	 ja 	Characterization of a novel rice gene OsATX and modulation of its expression by components of the stress signalling pathways
+OsATX1	Os08g0205400	LOC_Os08g10480	leaf	OsATX1 Interacts with Heavy Metal P1B-type ATPases and Affects Copper Transport and Distribution.
+OsATX1	Os08g0205400	LOC_Os08g10480	root	OsATX1 Interacts with Heavy Metal P1B-type ATPases and Affects Copper Transport and Distribution.
+OsATX1	Os08g0205400	LOC_Os08g10480	tolerance	OsATX1 Interacts with Heavy Metal P1B-type ATPases and Affects Copper Transport and Distribution.
+OsATX1	Os08g0205400	LOC_Os08g10480	reproductive	OsATX1 Interacts with Heavy Metal P1B-type ATPases and Affects Copper Transport and Distribution.
+OsATX1	Os08g0205400	LOC_Os08g10480	homeostasis	OsATX1 Interacts with Heavy Metal P1B-type ATPases and Affects Copper Transport and Distribution.
+OsATX1	Os08g0205400	LOC_Os08g10480	cadmium	OsATX1 Interacts with Heavy Metal P1B-type ATPases and Affects Copper Transport and Distribution.
+OsATX1	Os08g0205400	LOC_Os08g10480	copper	OsATX1 Interacts with Heavy Metal P1B-type ATPases and Affects Copper Transport and Distribution.
 OsAUX1	Os01g0856500	LOC_Os01g63770	tillering	OsTIR1 and OsAFB2 downregulation via OsmiR393 overexpression leads to more tillers, early flowering and less tolerance to salt and drought in rice
 OsAUX1	Os01g0856500	LOC_Os01g63770	tiller	OsTIR1 and OsAFB2 downregulation via OsmiR393 overexpression leads to more tillers, early flowering and less tolerance to salt and drought in rice
 OsAUX1	Os01g0856500	LOC_Os01g63770	transporter	OsTIR1 and OsAFB2 downregulation via OsmiR393 overexpression leads to more tillers, early flowering and less tolerance to salt and drought in rice
@@ -6483,6 +6522,12 @@ OsbHLH1|OsbHLH062	Os07g0628500	LOC_Os07g43530	transcription factor	OsJAZ9 acts a
 OsbHLH1|OsbHLH062	Os07g0628500	LOC_Os07g43530	transporter	OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.
 OsbHLH1|OsbHLH062	Os07g0628500	LOC_Os07g43530	 ja 	OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.
 OsbHLH1|OsbHLH062	Os07g0628500	LOC_Os07g43530	JA	OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.
+OsbHLH107	Os02g0805250	LOC_Os02g56140	transcription factor	Overexpression of OsbHLH107, a member of the basic helix-loop-helix transcription factor family, enhances grain size in rice (Oryza sativa L.).
+OsbHLH107	Os02g0805250	LOC_Os02g56140	grain	Overexpression of OsbHLH107, a member of the basic helix-loop-helix transcription factor family, enhances grain size in rice (Oryza sativa L.).
+OsbHLH107	Os02g0805250	LOC_Os02g56140	development	Overexpression of OsbHLH107, a member of the basic helix-loop-helix transcription factor family, enhances grain size in rice (Oryza sativa L.).
+OsbHLH107	Os02g0805250	LOC_Os02g56140	grain yield	Overexpression of OsbHLH107, a member of the basic helix-loop-helix transcription factor family, enhances grain size in rice (Oryza sativa L.).
+OsbHLH107	Os02g0805250	LOC_Os02g56140	yield	Overexpression of OsbHLH107, a member of the basic helix-loop-helix transcription factor family, enhances grain size in rice (Oryza sativa L.).
+OsbHLH107	Os02g0805250	LOC_Os02g56140	grain size	Overexpression of OsbHLH107, a member of the basic helix-loop-helix transcription factor family, enhances grain size in rice (Oryza sativa L.).
 OsbHLH133	Os12g0508500	LOC_Os12g32400	iron	Identification of OsbHLH133 as a regulator of iron distribution between roots and shoots in Oryza sativa
 OsbHLH133	Os12g0508500	LOC_Os12g32400	root	Identification of OsbHLH133 as a regulator of iron distribution between roots and shoots in Oryza sativa
 OsbHLH133	Os12g0508500	LOC_Os12g32400	growth	Identification of OsbHLH133 as a regulator of iron distribution between roots and shoots in Oryza sativa
@@ -8159,18 +8204,26 @@ OsD-LDH	Os07g0163000	LOC_Os07g06890	growth	Silencing of D-Lactate Dehydrogenase 
 OsD-LDH	Os07g0163000	LOC_Os07g06890	salt	Silencing of D-Lactate Dehydrogenase Impedes Glyoxalase System and Leads to Methylglyoxal Accumulation and Growth Inhibition in Rice.
 OsD-LDH	Os07g0163000	LOC_Os07g06890	salt stress	Silencing of D-Lactate Dehydrogenase Impedes Glyoxalase System and Leads to Methylglyoxal Accumulation and Growth Inhibition in Rice.
 OsD-LDH	Os07g0163000	LOC_Os07g06890	stress	Silencing of D-Lactate Dehydrogenase Impedes Glyoxalase System and Leads to Methylglyoxal Accumulation and Growth Inhibition in Rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	seedling	Loss of function of OsDCL1 affects microRNA accumulation and causes developmental defects in rice
-OsDCL1	Os03g0121800	LOC_Os03g02970	resistance	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	defense	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	defense	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	defense response	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	disease	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	blast	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	blast	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	magnaporthe oryzae	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	magnaporthe oryzae	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	cell death	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
-OsDCL1	Os03g0121800	LOC_Os03g02970	immunity	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	seedling	Loss of function of OsDCL1 affects microRNA accumulation and causes developmental defects in rice
+OsDCL1a	Os03g0121800	LOC_Os03g02970	resistance	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	defense	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	defense	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	defense response	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	disease	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	blast	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	blast	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	magnaporthe oryzae	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	magnaporthe oryzae	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	cell death	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	immunity	Repression of microRNA biogenesis by silencing of OsDCL1 activates the basal resistance to Magnaporthe oryzae in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	resistance	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	resistance	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	disease	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	disease resistance	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	immunity	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	pathogen	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	defence	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
+OsDCL1a	Os03g0121800	LOC_Os03g02970	defence response	OsDCL1a activation impairs phytoalexin biosynthesis and compromises disease resistance in rice.
 OsDCL3a	Os01g0909200	LOC_Os01g68120	brassinosteroid	Dicer-like 3 produces transposable element-associated 24-nt siRNAs that control agricultural traits in rice
 OsDCL3a	Os01g0909200	LOC_Os01g68120	dwarf	Dicer-like 3 produces transposable element-associated 24-nt siRNAs that control agricultural traits in rice
 OsDCL3a	Os01g0909200	LOC_Os01g68120	leaf	Dicer-like 3 produces transposable element-associated 24-nt siRNAs that control agricultural traits in rice
@@ -8518,6 +8571,19 @@ OsDRP1E	Os09g0572900	LOC_Os09g39960	cell death	The Rice Dynamin-Related Protein 
 OsDRP1E	Os09g0572900	LOC_Os09g39960	PCD	The Rice Dynamin-Related Protein OsDRP1E Negatively Regulates Programmed Cell Death by Controlling the Release of Cytochrome c from Mitochondria.
 OsDRP1E	Os09g0572900	LOC_Os09g39960	lesion	The Rice Dynamin-Related Protein OsDRP1E Negatively Regulates Programmed Cell Death by Controlling the Release of Cytochrome c from Mitochondria.
 OsDRP1E	Os09g0572900	LOC_Os09g39960	lesion mimic	The Rice Dynamin-Related Protein OsDRP1E Negatively Regulates Programmed Cell Death by Controlling the Release of Cytochrome c from Mitochondria.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	growth	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	seedling	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	drought	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	drought	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	drought	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	drought	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	tolerance	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	abiotic stress	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	drought tolerance	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	nucleus	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	biotic stress	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	transcriptional activator	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
+OsDRZ1	Os03g0437100	LOC_Os03g32220	reactive oxygen species	A zinc finger transcriptional repressor confers pleiotropic effects on rice growth and drought tolerance by down-regulating stress-responsive genes.
 OsDSG1	Os09g0434200	LOC_Os09g26400	 ABA 	A RING finger E3 ligase gene, Oryza sativa Delayed Seed Germination 1 (OsDSG1), controls seed germination and stress responses in rice
 OsDSG1	Os09g0434200	LOC_Os09g26400	root	A RING finger E3 ligase gene, Oryza sativa Delayed Seed Germination 1 (OsDSG1), controls seed germination and stress responses in rice
 OsDSG1	Os09g0434200	LOC_Os09g26400	seed	A RING finger E3 ligase gene, Oryza sativa Delayed Seed Germination 1 (OsDSG1), controls seed germination and stress responses in rice
@@ -9455,6 +9521,15 @@ OsGAE1	Os01g0201600	LOC_Os01g10490	shoot	The rice OsGAE1 is a novel gibberellin-
 OsGAE1	Os01g0201600	LOC_Os01g10490	growth	The rice OsGAE1 is a novel gibberellin-regulated gene and involved in rice growth
 OsGAE1	Os01g0201600	LOC_Os01g10490	leaf	The rice OsGAE1 is a novel gibberellin-regulated gene and involved in rice growth
 OsGAE1	Os01g0201600	LOC_Os01g10490	sheath	The rice OsGAE1 is a novel gibberellin-regulated gene and involved in rice growth
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	 ga 	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	 ga 	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	 BR 	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	 BR 	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	 BR 	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	BR signaling	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	BR signaling	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	GA	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
+OsGAMYBL2	Os03g0578900	LOC_Os03g38210	GA	A brassinosteroid responsive miRNA-target module regulates gibberellin biosynthesis and plant development.
 OsGAP1	Os02g0327000	LOC_Os02g22130	photosynthesis	Identification of Fe-excess-induced genes in rice shoots reveals a WRKY transcription factor responsive to Fe, drought and senescence
 OsGAP1	Os02g0327000	LOC_Os02g22130	defense	An ancient P-loop GTPase in rice is regulated by a higher plant-specific regulatory protein
 OsGAP1	Os02g0327000	LOC_Os02g22130	defense response	Constitutive expression of a rice GTPase-activating protein induces defense responses
@@ -10353,7 +10428,12 @@ OsHDAC1	Os06g0583400	LOC_Os06g38470	root	Structure and expression of the rice cl
 OsHDAC1	Os06g0583400	LOC_Os06g38470	growth	The histone deacetylase OsHDAC1 epigenetically regulates theOsNAC6gene that controls seedling root growth in rice
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	flowering time	Altered levels of histone deacetylase OsHDT1 affect differential gene expression patterns in hybrid rice
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	defense	HDT701, a histone H4 deacetylase, negatively regulates plant innate immunity by modulating histone H4 acetylation of defense-related genes in rice
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	defense	HDT701, a histone H4 deacetylase, negatively regulates plant innate immunity by modulating histone H4 acetylation of defense-related genes in rice
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	defense	HDT701, a histone H4 deacetylase, negatively regulates plant innate immunity by modulating histone H4 acetylation of defense-related genes in rice
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	defense	HDT701, a histone H4 deacetylase, negatively regulates plant innate immunity by modulating histone H4 acetylation of defense-related genes in rice
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	growth	Altered levels of histone deacetylase OsHDT1 affect differential gene expression patterns in hybrid rice
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	flower	Altered levels of histone deacetylase OsHDT1 affect differential gene expression patterns in hybrid rice
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	flower	Altered levels of histone deacetylase OsHDT1 affect differential gene expression patterns in hybrid rice
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	flower	Altered levels of histone deacetylase OsHDT1 affect differential gene expression patterns in hybrid rice
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	magnaporthe oryzae	HDT701, a histone H4 deacetylase, negatively regulates plant innate immunity by modulating histone H4 acetylation of defense-related genes in rice
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	seed	Expression and functional analysis of the plant-specific histone deacetylase HDT701 in rice.
@@ -10375,6 +10455,9 @@ OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	nucleus	Expression and functional anal
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	biotic stress	Expression and functional analysis of the plant-specific histone deacetylase HDT701 in rice.
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	resistance	Expression and functional analysis of the plant-specific histone deacetylase HDT701 in rice.
 OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	resistance	Expression and functional analysis of the plant-specific histone deacetylase HDT701 in rice.
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	floral	Histone Deacetylase 701 (HDT701) Induces Flowering in Rice by Modulating Expression of OsIDS1.
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	heading date	Histone Deacetylase 701 (HDT701) Induces Flowering in Rice by Modulating Expression of OsIDS1.
+OsHDT1|HDT701	Os05g0597100	LOC_Os05g51830	flowering time	Histone Deacetylase 701 (HDT701) Induces Flowering in Rice by Modulating Expression of OsIDS1.
 OsHFP	Os04g0213100	LOC_Os04g13540	cell death	A structurally novel hemopexin fold protein of rice plays role in chlorophyll degradation
 OsHFP	Os04g0213100	LOC_Os04g13540	root	A structurally novel hemopexin fold protein of rice plays role in chlorophyll degradation
 OsHFP	Os04g0213100	LOC_Os04g13540	leaf	A structurally novel hemopexin fold protein of rice plays role in chlorophyll degradation
@@ -10628,6 +10711,12 @@ OsHox1	Os10g0561800	LOC_Os10g41230	transcription factor	A role for the rice home
 OsHox1	Os10g0561800	LOC_Os10g41230	transcription factor	Transcriptional repression by Oshox1, a novel homeodomain leucine zipper protein from rice
 OsHox1	Os10g0561800	LOC_Os10g41230	leaf	Transcriptional repression by Oshox1, a novel homeodomain leucine zipper protein from rice
 OsHox1	Os10g0561800	LOC_Os10g41230	seedling	Transcriptional repression by Oshox1, a novel homeodomain leucine zipper protein from rice
+Oshox14	Os07g0581700	LOC_Os07g39320	transcription factor	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+Oshox14	Os07g0581700	LOC_Os07g39320	panicle	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+Oshox14	Os07g0581700	LOC_Os07g39320	panicle	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+Oshox14	Os07g0581700	LOC_Os07g39320	panicle	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+Oshox14	Os07g0581700	LOC_Os07g39320	development	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
+Oshox14	Os07g0581700	LOC_Os07g39320	dwarf	Functional analysis of the HD-Zip transcription factor genes Oshox12 and Oshox14 in rice.
 Oshox22	Os04g0541700	LOC_Os04g45810	 ABA 	Function of the HD-Zip I gene Oshox22 in ABA-mediated drought and salt tolerances in rice
 Oshox22	Os04g0541700	LOC_Os04g45810	transcription factor	Function of the HD-Zip I gene Oshox22 in ABA-mediated drought and salt tolerances in rice
 Oshox22	Os04g0541700	LOC_Os04g45810	salt stress	Function of the HD-Zip I gene Oshox22 in ABA-mediated drought and salt tolerances in rice
@@ -12363,6 +12452,7 @@ OsMATE1	Os03g0188100	LOC_Os03g08900	disease resistance	Expression of OsMATE1 and
 OsMATE2	Os05g0554000	LOC_Os05g48040	growth	Expression of OsMATE1 and OsMATE2 alters development, stress responses and pathogen susceptibility in Arabidopsis
 OsMATE2	Os05g0554000	LOC_Os05g48040	disease resistance	Expression of OsMATE1 and OsMATE2 alters development, stress responses and pathogen susceptibility in Arabidopsis
 OsMATE2	Os05g0554000	LOC_Os05g48040	disease	Expression of OsMATE1 and OsMATE2 alters development, stress responses and pathogen susceptibility in Arabidopsis
+OsMATL	Os03g0393900	LOC_Os03g27610	seed	OsMATL mutation induces haploid seed formation in indica rice.
 OsMCA1|PAD	Os03g0157300	LOC_Os03g06120	seed	Plasma membrane protein OsMCA1 is involved in regulation of hypo-osmotic shock-induced Ca2+ influx and modulates generation of reactive oxygen species in cultured rice cells
 OsMCA1|PAD	Os03g0157300	LOC_Os03g06120	shoot	Plasma membrane protein OsMCA1 is involved in regulation of hypo-osmotic shock-induced Ca2+ influx and modulates generation of reactive oxygen species in cultured rice cells
 OsMCA1|PAD	Os03g0157300	LOC_Os03g06120	root	Plasma membrane protein OsMCA1 is involved in regulation of hypo-osmotic shock-induced Ca2+ influx and modulates generation of reactive oxygen species in cultured rice cells
@@ -15810,15 +15900,20 @@ OsRab7|OsRab7B3	Os05g0516600	LOC_Os05g44050	leaf	Overexpression ofOsRab7B3, a Sm
 OsRab7|OsRab7B3	Os05g0516600	LOC_Os05g44050	 ABA 	Overexpression ofOsRab7B3, a Small GTP-Binding Protein Gene, Enhances Leaf Senescence in Transgenic Rice
 OsRab7|OsRab7B3	Os05g0516600	LOC_Os05g44050	senescence	Overexpression ofOsRab7B3, a Small GTP-Binding Protein Gene, Enhances Leaf Senescence in Transgenic Rice
 OsRac1	Os01g0229400	LOC_Os01g12900	disease	Essential role of the small GTPase Rac in disease resistance of rice
+OsRac1	Os01g0229400	LOC_Os01g12900	disease	Essential role of the small GTPase Rac in disease resistance of rice
 OsRac1	Os01g0229400	LOC_Os01g12900	defense	Gene editing a constitutively active OsRac1 by homologous recombination-based gene targeting induces immune responses in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	bacterial blight	Essential role of the small GTPase Rac in disease resistance of rice
 OsRac1	Os01g0229400	LOC_Os01g12900	ethylene	Proteomics of Rac GTPase signaling reveals its predominant role in elicitor-induced defense response of cultured rice cells
+OsRac1	Os01g0229400	LOC_Os01g12900	defense	Proteomics of Rac GTPase signaling reveals its predominant role in elicitor-induced defense response of cultured rice cells
+OsRac1	Os01g0229400	LOC_Os01g12900	defense	Proteomics of Rac GTPase signaling reveals its predominant role in elicitor-induced defense response of cultured rice cells
 OsRac1	Os01g0229400	LOC_Os01g12900	defense	Proteomics of Rac GTPase signaling reveals its predominant role in elicitor-induced defense response of cultured rice cells
 OsRac1	Os01g0229400	LOC_Os01g12900	cell death	Essential role of the small GTPase Rac in disease resistance of rice
 OsRac1	Os01g0229400	LOC_Os01g12900	defense	Essential role of the small GTPase Rac in disease resistance of rice
 OsRac1	Os01g0229400	LOC_Os01g12900	blast	Down-regulation of metallothionein, a reactive oxygen scavenger, by the small GTPase OsRac1 in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	magnaporthe oryzae	Gene editing a constitutively active OsRac1 by homologous recombination-based gene targeting induces immune responses in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	defense	The heterotrimeric G protein alpha subunit acts upstream of the small GTPase Rac in disease resistance of rice
+OsRac1	Os01g0229400	LOC_Os01g12900	defense	The heterotrimeric G protein alpha subunit acts upstream of the small GTPase Rac in disease resistance of rice
+OsRac1	Os01g0229400	LOC_Os01g12900	resistant	Proteome analysis of detergent-resistant membranes (DRMs) associated with OsRac1-mediated innate immunity in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	resistant	Proteome analysis of detergent-resistant membranes (DRMs) associated with OsRac1-mediated innate immunity in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	blast	Gene editing a constitutively active OsRac1 by homologous recombination-based gene targeting induces immune responses in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	cell death	The small GTP-binding protein Rac is a regulator of cell death in plants
@@ -15826,10 +15921,16 @@ OsRac1	Os01g0229400	LOC_Os01g12900	disease resistance	Essential role of the smal
 OsRac1	Os01g0229400	LOC_Os01g12900	blight	Essential role of the small GTPase Rac in disease resistance of rice
 OsRac1	Os01g0229400	LOC_Os01g12900	blast	Essential role of the small GTPase Rac in disease resistance of rice
 OsRac1	Os01g0229400	LOC_Os01g12900	defense response	Proteomics of Rac GTPase signaling reveals its predominant role in elicitor-induced defense response of cultured rice cells
+OsRac1	Os01g0229400	LOC_Os01g12900	defense response	Proteomics of Rac GTPase signaling reveals its predominant role in elicitor-induced defense response of cultured rice cells
+OsRac1	Os01g0229400	LOC_Os01g12900	defense response	Proteomics of Rac GTPase signaling reveals its predominant role in elicitor-induced defense response of cultured rice cells
 OsRac1	Os01g0229400	LOC_Os01g12900	defense	Cinnamoyl-CoA reductase, a key enzyme in lignin biosynthesis, is an effector of small GTPase Rac in defense signaling in rice
+OsRac1	Os01g0229400	LOC_Os01g12900	defense	Cinnamoyl-CoA reductase, a key enzyme in lignin biosynthesis, is an effector of small GTPase Rac in defense signaling in rice
+OsRac1	Os01g0229400	LOC_Os01g12900	defense response	Cinnamoyl-CoA reductase, a key enzyme in lignin biosynthesis, is an effector of small GTPase Rac in defense signaling in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	defense response	Cinnamoyl-CoA reductase, a key enzyme in lignin biosynthesis, is an effector of small GTPase Rac in defense signaling in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	leaf	Gene editing a constitutively active OsRac1 by homologous recombination-based gene targeting induces immune responses in rice
 OsRac1	Os01g0229400	LOC_Os01g12900	blast	The heterotrimeric G protein alpha subunit acts upstream of the small GTPase Rac in disease resistance of rice
+OsRac1	Os01g0229400	LOC_Os01g12900	defence	In vivo monitoring of plant small GTPase activation using a F<U+00F6>rster resonance energy transfer biosensor.
+OsRac1	Os01g0229400	LOC_Os01g12900	defence response	In vivo monitoring of plant small GTPase activation using a F<U+00F6>rster resonance energy transfer biosensor.
 OsRacB	Os02g0120800	LOC_Os02g02840	root	Rice GTPase OsRacB: Potential Accessory Factor in Plant Salt-stress Signaling
 OsRacB	Os02g0120800	LOC_Os02g02840	stem	Rice GTPase OsRacB: Potential Accessory Factor in Plant Salt-stress Signaling
 OsRacB	Os02g0120800	LOC_Os02g02840	blast	Functional characterization of OsRacB GTPase--a potentially negative regulator of basal disease resistance in rice
@@ -17394,6 +17495,7 @@ OsTGAP1|OsbZIP37	Os04g0637000	LOC_Os04g54474	transcription factor	OsTGAP1, a bZI
 OsTGAP1|OsbZIP37	Os04g0637000	LOC_Os04g54474	transcription factor	OsTGAP1 is responsible for JA-inducible diterpenoid phytoalexin biosynthesis in rice roots with biological impacts on allelopathic interaction.
 OsTGAP1|OsbZIP37	Os04g0637000	LOC_Os04g54474	jasmonic	OsTGAP1 is responsible for JA-inducible diterpenoid phytoalexin biosynthesis in rice roots with biological impacts on allelopathic interaction.
 OsTGAP1|OsbZIP37	Os04g0637000	LOC_Os04g54474	jasmonic acid	OsTGAP1 is responsible for JA-inducible diterpenoid phytoalexin biosynthesis in rice roots with biological impacts on allelopathic interaction.
+OsTHION15	Os06g0517700	LOC_Os06g32600	disease	In Silico Analyses of Rice Thionin genes and the Antimicrobial Activity of OsTHION15 against Phytopathogens.
 OsTIP3;1	Os10g0492600	LOC_Os10g35050	 ABA 	Cross-talk between ABA and sugar signaling is mediated by the ACGT core and CE1 element reciprocally in OsTIP3;1 promoter.
 OsTIP3;1	Os10g0492600	LOC_Os10g35050	 ABA 	Cross-talk between ABA and sugar signaling is mediated by the ACGT core and CE1 element reciprocally in OsTIP3;1 promoter.
 OsTIP3;1	Os10g0492600	LOC_Os10g35050	 ABA 	Cross-talk between ABA and sugar signaling is mediated by the ACGT core and CE1 element reciprocally in OsTIP3;1 promoter.
@@ -18552,11 +18654,18 @@ OsZIP5	Os05g0472700	LOC_Os05g39560	transporter	OsZIP4, a novel zinc-regulated zi
 OsZIP6	Os05g0164800	LOC_Os05g07210	transporter	Functional characterization of a transition metal ion transporter, OsZIP6 from rice (Oryza sativa L.).
 OsZIP6	Os05g0164800	LOC_Os05g07210	iron	Functional characterization of a transition metal ion transporter, OsZIP6 from rice (Oryza sativa L.).
 OsZIP6	Os05g0164800	LOC_Os05g07210	zinc	Functional characterization of a transition metal ion transporter, OsZIP6 from rice (Oryza sativa L.).
-OsZIP7a	Os05g0198400	LOC_Os05g10940	transporter	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
-OsZIP7a	Os05g0198400	LOC_Os05g10940	root	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
-OsZIP7a	Os05g0198400	LOC_Os05g10940	zinc	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
-OsZIP7a	Os05g0198400	LOC_Os05g10940	shoot	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
-OsZIP7a	Os05g0198400	LOC_Os05g10940	iron	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	transporter	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	root	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	zinc	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	zinc	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	zinc	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	shoot	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	iron	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	iron	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	iron	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	shoot	Elemental Profiling of Rice FOX Lines Leads to Characterization of a New Zn Plasma Membrane Transporter, OsZIP7.
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	transporter	Elemental Profiling of Rice FOX Lines Leads to Characterization of a New Zn Plasma Membrane Transporter, OsZIP7.
+OsZIP7a|OsZIP7	Os05g0198400	LOC_Os05g10940	plasma membrane	Elemental Profiling of Rice FOX Lines Leads to Characterization of a New Zn Plasma Membrane Transporter, OsZIP7.
 OsZIP8	Os07g0232800	LOC_Os07g12890	transporter	Zinc deficiency-inducible OsZIP8 encodes a plasma membrane-localized zinc transporter in rice
 OsZIP8	Os07g0232800	LOC_Os07g12890	transporter	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
 OsZIP8	Os07g0232800	LOC_Os07g12890	shoot	Cloning and functional identification of two members of the ZIP (Zrt, Irt-like protein) gene family in rice (Oryza sativa L.)
@@ -19278,6 +19387,11 @@ PNZIP|OsCRD1|YL-1	Os01g0279100	LOC_Os01g17170	flowering time	Dissection of a QTL
 PNZIP|OsCRD1|YL-1	Os01g0279100	LOC_Os01g17170	map-based cloning	Yellow-Leaf 1 encodes a magnesium-protoporphyrin IX monomethyl ester cyclase, involved in chlorophyll biosynthesis in rice (Oryza sativa L.).
 PNZIP|OsCRD1|YL-1	Os01g0279100	LOC_Os01g17170	Chl biosynthesis	Yellow-Leaf 1 encodes a magnesium-protoporphyrin IX monomethyl ester cyclase, involved in chlorophyll biosynthesis in rice (Oryza sativa L.).
 POXGX9|prx112	Os07g0677300	LOC_Os07g48030	root	Differential induction of a peroxidase gene family during infection of rice by Xanthomonas oryzae pv. oryzae
+PPS1	Os12g0552300	LOC_Os12g36620	pollen	Rice PPS1 encodes a DYW motif-containing pentatricopeptide repeat protein required for five consecutive RNA-editing sites of nad3 in mitochondria.
+PPS1	Os12g0552300	LOC_Os12g36620	sterility	Rice PPS1 encodes a DYW motif-containing pentatricopeptide repeat protein required for five consecutive RNA-editing sites of nad3 in mitochondria.
+PPS1	Os12g0552300	LOC_Os12g36620	development	Rice PPS1 encodes a DYW motif-containing pentatricopeptide repeat protein required for five consecutive RNA-editing sites of nad3 in mitochondria.
+PPS1	Os12g0552300	LOC_Os12g36620	vegetative	Rice PPS1 encodes a DYW motif-containing pentatricopeptide repeat protein required for five consecutive RNA-editing sites of nad3 in mitochondria.
+PPS1	Os12g0552300	LOC_Os12g36620	reproductive	Rice PPS1 encodes a DYW motif-containing pentatricopeptide repeat protein required for five consecutive RNA-editing sites of nad3 in mitochondria.
 prog1	Os07g0153600	LOC_Os07g05900	meristem	Genetic control of rice plant architecture under domestication
 prog1	Os07g0153600	LOC_Os07g05900	domestication	Control of a key transition from prostrate to erect growth in rice domestication
 prog1	Os07g0153600	LOC_Os07g05900	domestication	Genetic control of rice plant architecture under domestication
@@ -19668,14 +19782,23 @@ REL2	Os10g0562700	LOC_Os10g41310	leaf shape	REL2, A Gene Encoding An Unknown Fun
 REL2	Os10g0562700	LOC_Os10g41310	erect	REL2, A Gene Encoding An Unknown Function Protein which Contains DUF630 and DUF632 Domains Controls Leaf Rolling in Rice.
 REL2	Os10g0562700	LOC_Os10g41310	plasma membrane	REL2, A Gene Encoding An Unknown Function Protein which Contains DUF630 and DUF632 Domains Controls Leaf Rolling in Rice.
 REL2	Os10g0562700	LOC_Os10g41310	leaf rolling	REL2, A Gene Encoding An Unknown Function Protein which Contains DUF630 and DUF632 Domains Controls Leaf Rolling in Rice.
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	seedling	Multiple mode regulation of a cysteine proteinase gene expression in rice
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	gibberellin	Two cis-acting elements necessary and sufficient for gibberellin-upregulated proteinase expression in rice seeds
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	seed	Multiple mode regulation of a cysteine proteinase gene expression in rice
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	seed	Multiple mode regulation of a cysteine proteinase gene expression in rice
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	growth	Multiple mode regulation of a cysteine proteinase gene expression in rice
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	vegetative	Multiple mode regulation of a cysteine proteinase gene expression in rice
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	seed	Two cis-acting elements necessary and sufficient for gibberellin-upregulated proteinase expression in rice seeds
-REP-1|OsEP3A	Os01g0907600	LOC_Os01g67980	nitrogen	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	seedling	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	gibberellin	Two cis-acting elements necessary and sufficient for gibberellin-upregulated proteinase expression in rice seeds
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	seed	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	seed	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	seed	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	seed	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	growth	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	vegetative	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	vegetative	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	seed	Two cis-acting elements necessary and sufficient for gibberellin-upregulated proteinase expression in rice seeds
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	nitrogen	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	nitrogen	Multiple mode regulation of a cysteine proteinase gene expression in rice
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	senescence	Down-regulation of OsSAG12-1 results in enhanced senescence and pathogen-induced cell death in transgenic rice plants.
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	senescence	Down-regulation of OsSAG12-1 results in enhanced senescence and pathogen-induced cell death in transgenic rice plants.
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	cell death	Down-regulation of OsSAG12-1 results in enhanced senescence and pathogen-induced cell death in transgenic rice plants.
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	cell death	Down-regulation of OsSAG12-1 results in enhanced senescence and pathogen-induced cell death in transgenic rice plants.
+REP-1|OsEP3A|OsSAG12-1	Os01g0907600	LOC_Os01g67980	cell death	Down-regulation of OsSAG12-1 results in enhanced senescence and pathogen-induced cell death in transgenic rice plants.
 REP1	Os09g0410500	LOC_Os09g24480	palea	An AT-hook gene is required for palea formation and floral organ number control in rice
 REP1	Os09g0410500	LOC_Os09g24480	floral	RETARDED PALEA1 controls palea development and floral zygomorphy in rice
 REP1	Os09g0410500	LOC_Os09g24480	floral	RETARDED PALEA1 controls palea development and floral zygomorphy in rice
@@ -20353,6 +20476,10 @@ sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	shoot	Overexpression of a GRAS protein l
 sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	 ga 	The rice YABBY1 gene is involved in the feedback regulation of gibberellin metabolism
 sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	grain protein content	Control of grain protein contents through SEMIDWARF1 mutant alleles: sd1 increases the grain protein content in Dee-geo-woo-gen but not in Reimei.
 sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	grain protein	Control of grain protein contents through SEMIDWARF1 mutant alleles: sd1 increases the grain protein content in Dee-geo-woo-gen but not in Reimei.
+sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	transcription factor	Ethylene-gibberellin signaling underlies adaptation of rice to periodic flooding.
+sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	gibberellin	Ethylene-gibberellin signaling underlies adaptation of rice to periodic flooding.
+sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	Gibberellin	Ethylene-gibberellin signaling underlies adaptation of rice to periodic flooding.
+sd1|GA20ox2	Os01g0883800	LOC_Os01g66100	gibberellin biosynthesis	Ethylene-gibberellin signaling underlies adaptation of rice to periodic flooding.
 SDG701	Os08g0180100	LOC_Os08g08210	grain	SET DOMAIN GROUP701 encodes a H3K4-methytransferase and regulates multiple key processes of rice plant development.
 SDG701	Os08g0180100	LOC_Os08g08210	development	SET DOMAIN GROUP701 encodes a H3K4-methytransferase and regulates multiple key processes of rice plant development.
 SDG701	Os08g0180100	LOC_Os08g08210	flowering time	SET DOMAIN GROUP701 encodes a H3K4-methytransferase and regulates multiple key processes of rice plant development.
@@ -20907,9 +21034,16 @@ SRL2|AVB|NRL2	Os03g0308200	LOC_Os03g19520	microspore	NARROW AND ROLLED LEAF 2 re
 SRL2|AVB|NRL2	Os03g0308200	LOC_Os03g19520	lignin	NARROW AND ROLLED LEAF 2 regulates leaf shape, male fertility, and seed size in rice.
 SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	grain	Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice
 SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	seed	A novel kinesin 13 protein regulating rice seed length
+SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	seed	A novel kinesin 13 protein regulating rice seed length
+SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	seed	A novel kinesin 13 protein regulating rice seed length
+SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	seed	A novel kinesin 13 protein regulating rice seed length
 SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	cellulose	OsKinesin-13A Is an Active Microtubule Depolymerase Involved in Glume Length Regulation via Affecting Cell Elongation.
 SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	cell elongation	OsKinesin-13A Is an Active Microtubule Depolymerase Involved in Glume Length Regulation via Affecting Cell Elongation.
 SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	cell elongation	OsKinesin-13A Is an Active Microtubule Depolymerase Involved in Glume Length Regulation via Affecting Cell Elongation.
+SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	grain	An EMS-induced new sequence variant, TEMS5032, in the coding region of SRS3 gene leads to shorter grain length in rice (Oryza sativa L.).
+SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	grain	An EMS-induced new sequence variant, TEMS5032, in the coding region of SRS3 gene leads to shorter grain length in rice (Oryza sativa L.).
+SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	grain length	An EMS-induced new sequence variant, TEMS5032, in the coding region of SRS3 gene leads to shorter grain length in rice (Oryza sativa L.).
+SRS3|OsKINESIN-13A	Os05g0154700	LOC_Os05g06280	grain size	An EMS-induced new sequence variant, TEMS5032, in the coding region of SRS3 gene leads to shorter grain length in rice (Oryza sativa L.).
 SRT702|Sir2	Os12g0179800	LOC_Os12g07950	cell death	Genome-wide gene expression profiling of introgressed indica rice alleles associated with seedling cold tolerance improvement in a japonica rice background
 SRWD1	Os08g0497600	LOC_Os08g38880	salt stress	SRWD: a novel WD40 protein subfamily regulated by salt stress in rice (OryzasativaL.)
 SRWD1	Os08g0497600	LOC_Os08g38880	salt	SRWD: a novel WD40 protein subfamily regulated by salt stress in rice (OryzasativaL.)
@@ -21453,6 +21587,15 @@ WFSL1	Os01g0109300	LOC_Os01g01920	yield	Single-point Mutation of an Histidine-as
 WFSL1	Os01g0109300	LOC_Os01g01920	yield	Single-point Mutation of an Histidine-aspartic Domain-containing Gene involving in Chloroplast Ribosome Biogenesis Leads to White Fine Stripe Leaf in Rice.
 WFSL1	Os01g0109300	LOC_Os01g01920	chloroplast development	Single-point Mutation of an Histidine-aspartic Domain-containing Gene involving in Chloroplast Ribosome Biogenesis Leads to White Fine Stripe Leaf in Rice.
 WFSL1	Os01g0109300	LOC_Os01g01920	chloroplast development	Single-point Mutation of an Histidine-aspartic Domain-containing Gene involving in Chloroplast Ribosome Biogenesis Leads to White Fine Stripe Leaf in Rice.
+WGL2	Os03g0769100	LOC_Os03g55930	chloroplast	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	chloroplast	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	chloroplast	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	chloroplast	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	development	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	development	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	map-based cloning	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	chloroplast development	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
+WGL2	Os03g0769100	LOC_Os03g55930	chloroplast development	The rice white green leaf 2 gene causes defects in chloroplast development and affects the plastid ribosomal protein S9.
 WIN1	Os03g0347700	LOC_Os03g22600	leaf	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
 WIN1	Os03g0347700	LOC_Os03g22600	sheath	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
 WIN1	Os03g0347700	LOC_Os03g22600	auxin	Ectopic Expression of WINDING 1 Leads to Asymmetrical Distribution of Auxin and a Spiral Phenotype in Rice.
