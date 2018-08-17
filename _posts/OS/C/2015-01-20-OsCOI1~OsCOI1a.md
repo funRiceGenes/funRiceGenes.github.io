@@ -17,6 +17,7 @@ tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, de
     + [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), 2012, Plant Cell Physiol.
     + [Plant hormone jasmonate prioritizes defense over growth by interfering with gibberellin signaling cascade](http://www.ncbi.nlm.nih.gov/pubmed?term=Plant hormone jasmonate prioritizes defense over growth by interfering with gibberellin signaling cascade%5BTitle%5D), 2012, Proc Natl Acad Sci U S A.
     + [Jasmonic acid-mediated defense suppresses brassinosteroid-mediated susceptibility to Rice black streaked dwarf virus infection in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonic acid-mediated defense suppresses brassinosteroid-mediated susceptibility to Rice black streaked dwarf virus infection in rice%5BTitle%5D), 2016, New Phytol.
+    + [Dynamic perception of jasmonates by the F-box protein COI1.](http://www.ncbi.nlm.nih.gov/pubmed?term=Dynamic perception of jasmonates by the F-box protein COI1.%5BTitle%5D), 2018, Mol Plant.
 
 * **Genbank accession number**  
 

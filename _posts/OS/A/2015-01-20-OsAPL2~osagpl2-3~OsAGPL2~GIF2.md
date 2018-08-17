@@ -3,7 +3,7 @@ layout: post
 title: "OsAPL2,osagpl2-3,OsAGPL2,GIF2"
 description: ""
 category: genes
-tags: [endosperm, temperature, seed development, starch, grain, seed, domestication, yield, branching, grain filling, grain weight, starch biosynthesis, pyrophosphorylase]
+tags: [endosperm, temperature, seed development, starch, grain, seed, domestication, yield, branching, grain filling, grain weight, starch biosynthesis, pyrophosphorylase, leaf]
 ---
 
 * **Information**  
@@ -20,6 +20,7 @@ tags: [endosperm, temperature, seed development, starch, grain, seed, domesticat
     + [ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm](http://www.ncbi.nlm.nih.gov/pubmed?term=ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm%5BTitle%5D), 2016, Plant Science.
     + [ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.%5BTitle%5D), 2016, Plant Sci.
     + [GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.](http://www.ncbi.nlm.nih.gov/pubmed?term=GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.%5BTitle%5D), 2016, J Integr Plant Biol.
+    + [CRISPR/Cas9-induced monoallelic mutations in the cytosolic AGPase large subunit gene APL2 induce the ectopic expression of APL2 and the corresponding small subunit gene APS2b in rice leaves.](http://www.ncbi.nlm.nih.gov/pubmed?term=CRISPR/Cas9-induced monoallelic mutations in the cytosolic AGPase large subunit gene APL2 induce the ectopic expression of APL2 and the corresponding small subunit gene APS2b in rice leaves.%5BTitle%5D), 2018, Transgenic Res.
 
 * **Genbank accession number**  
     + [AK071497](http://www.ncbi.nlm.nih.gov/nuccore/AK071497)
@@ -39,6 +40,9 @@ tags: [endosperm, temperature, seed development, starch, grain, seed, domesticat
     + Transcript levels for granule-bound starch synthase, starch synthase, starch branching enzyme and starch debranching enzyme were distinctly elevated in gif2 grains
     + Moreover, gif2 endosperm cells showed obvious defects in compound granule formation
     + Positional cloning identified GIF2 to encode an ADP-glucose pyrophosphorylase (AGP) large subunit, AGPL2; consequently, AGP enzyme activity in gif2 endosperms was remarkably decreased
+    + This reflected the unanticipated expression of both OsAPL2 and OsAPS2b in the leaves, generating a complete ectopic AGPase in the leaf cytosol, and a corresponding decrease in the expression of the plastidial small subunit OsAPS2a that was only partially complemented by an increase in the expression of OsAPS1
+    + The first committed step in the endosperm starch biosynthetic pathway is catalyzed by the cytosolic glucose-1-phosphate adenylyl transferase (AGPase) comprising large and small subunits encoded by the OsAPL2 and OsAPS2b genes, respectively
+    + OsAPL2 is expressed solely in the endosperm so we hypothesized that mutating this gene would block starch biosynthesis in the endosperm without affecting the leaves
 
 * **Connection**  
     + __OsAPL1~OsAGPL3~OsAGPL1__, __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, [Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene expression of ADP-glucose pyrophosphorylase and starch contents in rice cultured cells are cooperatively regulated by sucrose and ABA%5BTitle%5D), Six cDNA clones encoding two small subunits and four large subunits of ADP-glucose pyrophosphorylase (AGPase) were mined from the database of rice full-length cDNAs, cloned and subsequently named: OsAPS1, OsAPS2, OsAPL1, OsAPL2, OsAPL3 and OsAPL4
@@ -60,6 +64,7 @@ tags: [endosperm, temperature, seed development, starch, grain, seed, domesticat
     + __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, __OsAPS2~OsAGPS2b__, [ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=ADP-glucose pyrophosphorylase large subunit 2 is essential for storage substance accumulation and subunit interactions in rice endosperm.%5BTitle%5D), Besides, our data provided no evidence for the self-binding of OsAGPS2b, implying that OsAGPS2b might not interact to form higher molecular mass aggregates in the absence of OsAGPL2
     + __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, __OsAPS1~OsAGPS1__, [GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.](http://www.ncbi.nlm.nih.gov/pubmed?term=GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.%5BTitle%5D), Yeast two hybrid assay showed that GIF2 interacted with AGP small subunits OsAGPS1, OsAGPS2a and OsAGPS2b
     + __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, __OsAPS2~OsAGPS2b__, [GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.](http://www.ncbi.nlm.nih.gov/pubmed?term=GRAIN INCOMPLETE FILLING 2 regulates grain filling and starch synthesis during rice caryopsis development.%5BTitle%5D), Yeast two hybrid assay showed that GIF2 interacted with AGP small subunits OsAGPS1, OsAGPS2a and OsAGPS2b
+    + __OsAPL2~osagpl2-3~OsAGPL2~GIF2__, __OsAPS1~OsAGPS1__, [CRISPR/Cas9-induced monoallelic mutations in the cytosolic AGPase large subunit gene APL2 induce the ectopic expression of APL2 and the corresponding small subunit gene APS2b in rice leaves.](http://www.ncbi.nlm.nih.gov/pubmed?term=CRISPR/Cas9-induced monoallelic mutations in the cytosolic AGPase large subunit gene APL2 induce the ectopic expression of APL2 and the corresponding small subunit gene APS2b in rice leaves.%5BTitle%5D),  This reflected the unanticipated expression of both OsAPL2 and OsAPS2b in the leaves, generating a complete ectopic AGPase in the leaf cytosol, and a corresponding decrease in the expression of the plastidial small subunit OsAPS2a that was only partially complemented by an increase in the expression of OsAPS1
 
 [//]: # * **Key figures**  
 
