@@ -14,6 +14,7 @@ tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root
 * **Publication**  
     + [OsRPK1, a novel leucine-rich repeat receptor-like kinase, negatively regulates polar auxin transport and root development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRPK1, a novel leucine-rich repeat receptor-like kinase, negatively regulates polar auxin transport and root development in rice%5BTitle%5D), 2014, Biochim Biophys Acta.
     + [A PIN1 family gene, OsPIN1, involved in auxin-dependent adventitious root emergence and tillering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A PIN1 family gene, OsPIN1, involved in auxin-dependent adventitious root emergence and tillering in rice%5BTitle%5D), 2005, Plant Cell Physiol.
+    + [OsPIN1b is Involved in Rice Seminal Root Elongation by Regulating Root Apical Meristem Activity in Response to Low Nitrogen and Phosphate.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPIN1b is Involved in Rice Seminal Root Elongation by Regulating Root Apical Meristem Activity in Response to Low Nitrogen and Phosphate.%5BTitle%5D), 2018, Sci Rep.
 
 * **Genbank accession number**  
     + [AF056027](http://www.ncbi.nlm.nih.gov/nuccore/AF056027)
