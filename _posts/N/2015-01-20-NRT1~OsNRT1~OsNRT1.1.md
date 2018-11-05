@@ -32,6 +32,7 @@ tags: [root hair, nitrate, transporter, root]
     + Cloning and functional characterization of a constitutively expressed nitrate transporter gene, OsNRT1, from rice
 
 * **Connection**  
+    + __NRT1~OsNRT1~OsNRT1.1__, __OsPHR3__, [OsPHR3 affects the traits governing nitrogen homeostasis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPHR3 affects the traits governing nitrogen homeostasis in rice.%5BTitle%5D),  During vegetative growth phase, compared with the wild-type, OsPHR3 mutants showed significant variations in the adventitious root development, influx rates of 15N-NO3- and 15N-NH4+, concentrations of total N, NO3- and NH4+ in different tissues, and the relative expression levels of OsNRT1
 
 [//]: # * **Key figures**  
 

@@ -3,7 +3,7 @@ layout: post
 title: "OsDEF7,CAL1,OsAFP1"
 description: ""
 category: genes
-tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake]
+tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake, blast, pathogen]
 ---
 
 * **Information**  
@@ -15,6 +15,7 @@ tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake]
     + [Gene expression analysis, subcellular localization, and in planta antimicrobial activity of rice Oryza sativa L. defensin 7 and 8.](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene expression analysis, subcellular localization, and in planta antimicrobial activity of rice Oryza sativa L. defensin 7 and 8.%5BTitle%5D), 2018, Plant Physiol Biochem.
     + [A defensin-like protein drives cadmium efflux and allocation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A defensin-like protein drives cadmium efflux and allocation in rice.%5BTitle%5D), 2018, Nat Commun.
     + [Rice Defensin OsAFP1 is a New Drug Candidate against Human Pathogenic Fungi.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Defensin OsAFP1 is a New Drug Candidate against Human Pathogenic Fungi.%5BTitle%5D), 2018, Sci Rep.
+    + [Partial peptides from rice defensin OsAFP1 exhibited antifungal activity against the rice blast pathogen Pyricularia oryzae.](http://www.ncbi.nlm.nih.gov/pubmed?term=Partial peptides from rice defensin OsAFP1 exhibited antifungal activity against the rice blast pathogen Pyricularia oryzae.%5BTitle%5D), 2017, J Pestic Sci.
 
 * **Genbank accession number**  
 
@@ -24,6 +25,7 @@ tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake]
     + OsAFP1 exerted fungicidal activity against Candida albicans, the most common pathogenic fungus in humans, at 4<U+2009>ü¾¦„¼ü¾˜¶Œ¼M concentration, but it did not inhibit the growth of human pathogenic bacteria
     + Immunohistochemistry showed that the OsAFP1 target molecule was located in the cell wall
     + Further, PI uptake and apoptosis assays suggested that OsAFP1 exerts its antifungal activity by inducing apoptosis of target cells
+    + Partial peptides from rice defensin OsAFP1 exhibited antifungal activity against the rice blast pathogen Pyricularia oryzae.
 
 * **Connection**  
 

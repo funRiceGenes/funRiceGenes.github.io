@@ -3,7 +3,7 @@ layout: post
 title: "OsCDPK1,OsCDPK13,OsCDPK11,OsCPK11,OsCDPK12"
 description: ""
 category: genes
-tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, drought, flower, cold stress, seed development, resistance, grain, development, grain yield, yield, grain size, disease, salicylic acid, disease resistance, stress, jasmonic, jasmonic acid, height, plant height, immunity, innate immunity,  xoo , stress response]
+tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, drought, flower, cold stress, seed development, resistance, grain, development, grain yield, yield, grain size, disease, salicylic acid, disease resistance, stress, jasmonic, jasmonic acid, height, plant height, immunity, innate immunity,  xoo , stress response, starch, endosperm, starch biosynthesis]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, droug
     + [Over-expression of calcium-dependent protein kinase 13 and calreticulin interacting protein 1 confers cold tolerance on rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Over-expression of calcium-dependent protein kinase 13 and calreticulin interacting protein 1 confers cold tolerance on rice plants%5BTitle%5D), 2007, Mol Genet Genomics.
     + [Sugar starvation- and GA-inducible calcium-dependent protein kinase 1 feedback regulates GA biosynthesis and activates a 14-3-3 protein to confer drought tolerance in rice seedlings](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar starvation- and GA-inducible calcium-dependent protein kinase 1 feedback regulates GA biosynthesis and activates a 14-3-3 protein to confer drought tolerance in rice seedlings%5BTitle%5D), 2013, Plant Mol Biol.
     + [Overexpression of a constitutively active truncated form of OsCDPK1 confers disease resistance by affecting OsPR10a expression in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a constitutively active truncated form of OsCDPK1 confers disease resistance by affecting OsPR10a expression in rice.%5BTitle%5D), 2018, Sci Rep.
+    + [Effects of OsCDPK1 on the Structure and Physicochemical Properties of Starch in Developing Rice Seeds.](http://www.ncbi.nlm.nih.gov/pubmed?term=Effects of OsCDPK1 on the Structure and Physicochemical Properties of Starch in Developing Rice Seeds.%5BTitle%5D), 2018, Int J Mol Sci.
 
 * **Genbank accession number**  
 
@@ -41,6 +42,10 @@ tags: [seed, gibberellin, salt, sheath, seedling,  ga , leaf, dwarf, root, droug
     + The dihybrid rice Ri-1/OsPR10a-Ox not only bypassed the effect of OsCDPK1 silencing on the susceptibility to Xoo but also showed enhanced disease resistance and, consistent with Ri-1 phenotypes, increased plant height and grain size
     + Our results reveal that OsCDPK1 plays novel key roles in the cross-talk and mediation of the balance between stress response and development and provides a clue for improving grain yield and disease resistance simultaneously in rice
     + OsPR10a and OsCDPK1 showed corresponding expression patterns and were up-regulated in response to the jasmonic acid, salicylic acid and Xoo treatments, and OsPR1 and OsPR4 were significantly up-regulated in OEtr-1
+    + In the study presented here, we propose a model in which OsCDPK1 plays key roles in negatively controlling the grain size, amylose content, and endosperm appearance, and also affects the physicochemical properties of the starch
+    + Overexpression of a constitutively active truncated form of OsCDPK1 (OEtr) in rice produced smaller seeds, but a double-stranded RNA gene-silenced form of OsCDPK1 (Ri) yielded larger seeds, suggesting that OsCDPK1 plays a functional role in rice seed development
+    + This demonstrates that OsCDPK1 plays a novel functional role in starch biosynthesis during seed development and affects the transparent appearance of the endosperm
+    + Effects of OsCDPK1 on the Structure and Physicochemical Properties of Starch in Developing Rice Seeds.
 
 * **Connection**  
     + __OsCDPK1~OsCDPK13~OsCDPK11~OsCPK11~OsCDPK12__, __OsCDPK2~OsCPK2__, [Molecular cloning of two novel rice cDNA sequences encoding putative calcium-dependent protein kinases](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular cloning of two novel rice cDNA sequences encoding putative calcium-dependent protein kinases%5BTitle%5D), We have isolated, from a cDNA library constructed from rice coleoptiles, two sequences, OSCPK2 and OSCPK11, that encode for putative calcium-dependent protein kinase (CDPK) proteins
