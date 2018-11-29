@@ -15,3 +15,4 @@ group: navigation
 7. Gianinetti et al. [Seed Dormancy Involves a Transcriptional Program That Supports Early Plastid Functionality during Imbibition](http://www.mdpi.com/2223-7747/7/2/35/htm), 2018, Plants.
 8. Liao et al. [A comprehensive review of web-based resources of non-coding RNAs for plant science research](http://www.ijbs.com/v14p0819), 2018, Int J Biol Sci.
 9. Wing et al. [The rice genome revolution: from an ancient grain to Green Super Rice](https://www.nature.com/articles/s41576-018-0024-z), 2018, Nature Reviews Genetics.
+10. Kim Nhung TA et al. [A genome-wide association study using a Vietnamese landrace panel of rice (Oryza sativa) reveals new QTLs controlling panicle morphological traits](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1504-1), 2018, BMC Plant Biology.
