@@ -3,7 +3,7 @@ layout: post
 title: "Lsi1,OsNIP2;1,OsLsi1"
 description: ""
 category: genes
-tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings, transcription factor, resistance, stress, chilling, transcriptional regulator]
+tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings, transcription factor, resistance, stress, chilling, transcriptional regulator, tolerance]
 ---
 
 * **Information**  
@@ -24,6 +24,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + [High silicon accumulation in the shoot is required for down-regulating the expression of Si transporter genes in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High silicon accumulation in the shoot is required for down-regulating the expression of Si transporter genes in rice.%5BTitle%5D), 2016, Plant Cell Physiol.
     + [High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.%5BTitle%5D), 2016, Plant Cell Physiol.
     + [Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress%5BTitle%5D), 2017, Plant Science.
+    + [Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.%5BTitle%5D), 2018, Plant Sci.
 
 * **Genbank accession number**  
     + [AB222272](http://www.ncbi.nlm.nih.gov/nuccore/AB222272)
@@ -61,6 +62,8 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + In conclusion, the Si-induced down-regulation of Si transporter genes is controlled by shoot Si, not root Si, and the region between -327 and -292 in the OsLsi1 promoter is involved in this regulation of OsLsi1 expression in rice
     + Our results suggest that when overexpressed Lsi1 in cold-sensitive rice, it possibility regulates the transcription factor OsWRKY53 in addition to the genes involved in the ROS metabolism, thus mediating resistance to chilling stress
     + Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress
+    + Our results demonstrate that Lsi1 overexpression or interference causes changes in both miRNA expression and antioxidant capacity in rice, and therefore modulates rice tolerance to UV-B radiation
+    + In rice, the accumulation of Si is controlled by the low silicon rice 1 (Lsi1) gene; overexpression of Lsi1 (Lsi1-OX) increases Si uptake and accumulation, while the reverse is observed in Lsi1-RNA interference (Lsi1-RNAi) transgenic rice
 
 * **Connection**  
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [An efflux transporter of silicon in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=An efflux transporter of silicon in rice%5BTitle%5D), Here we describe a previously uncharacterized gene, low silicon rice 2 (Lsi2), which has no similarity to Lsi1
@@ -84,6 +87,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + __Lsi1~OsNIP2;1~OsLsi1__, __OsNIP1;1__, [Decreasing arsenic accumulation in rice by overexpressing OsNIP1;1 and OsNIP3;3 through disrupting arsenite radial transport in roots.](http://www.ncbi.nlm.nih.gov/pubmed?term=Decreasing arsenic accumulation in rice by overexpressing OsNIP1;1 and OsNIP3;3 through disrupting arsenite radial transport in roots.%5BTitle%5D),  We generated transgenic rice overexpressing two aquaporin genes, OsNIP1;1 and OsNIP3;3, under the control of a maize ubiquitin promoter or the rice OsLsi1 promoter, and tested the effect on arsenite uptake and translocation
     + __Lsi1~OsNIP2;1~OsLsi1__, __OsNIP1;1__, [Decreasing arsenic accumulation in rice by overexpressing OsNIP1;1 and OsNIP3;3 through disrupting arsenite radial transport in roots.](http://www.ncbi.nlm.nih.gov/pubmed?term=Decreasing arsenic accumulation in rice by overexpressing OsNIP1;1 and OsNIP3;3 through disrupting arsenite radial transport in roots.%5BTitle%5D),  Expression of OsNIP1;1 driven by the OsLsi1 promoter produced similar effects
     + __Lsi1~OsNIP2;1~OsLsi1__, __OsNIP3;3__, [Decreasing arsenic accumulation in rice by overexpressing OsNIP1;1 and OsNIP3;3 through disrupting arsenite radial transport in roots.](http://www.ncbi.nlm.nih.gov/pubmed?term=Decreasing arsenic accumulation in rice by overexpressing OsNIP1;1 and OsNIP3;3 through disrupting arsenite radial transport in roots.%5BTitle%5D),  We generated transgenic rice overexpressing two aquaporin genes, OsNIP1;1 and OsNIP3;3, under the control of a maize ubiquitin promoter or the rice OsLsi1 promoter, and tested the effect on arsenite uptake and translocation
+    + __Lsi1~OsNIP2;1~OsLsi1__, __PAL~OsPAL4__, [Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.%5BTitle%5D),  A further comparison of the transcript levels of individual PAL genes revealed that the expression of PAL2-2 (Os02g0626400) was positively regulated by Lsi1
 
 [//]: # * **Key figures**  
 
