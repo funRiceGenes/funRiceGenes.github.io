@@ -3,7 +3,7 @@ layout: post
 title: "OsCK1,OsCIPK31,CIPK03"
 description: ""
 category: genes
-tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, seed germination,  ABA , abiotic stress]
+tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, seed germination,  ABA , abiotic stress, panicle, development, cell death]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, see
     + [Calcium sensors and their interacting protein kinases: genomics of the Arabidopsis and rice CBL-CIPK signaling networks](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium sensors and their interacting protein kinases: genomics of the Arabidopsis and rice CBL-CIPK signaling networks%5BTitle%5D), 2004, Plant Physiol.
     + [Characterization of stress-responsive CIPK genes in rice for stress tolerance improvement](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of stress-responsive CIPK genes in rice for stress tolerance improvement%5BTitle%5D), 2007, Plant Physiol.
     + [Isolation and characterization of a novel rice Ca2+-regulated protein kinase gene involved in responses to diverse signals including cold, light, cytokinins, sugars and salts](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a novel rice Ca2+-regulated protein kinase gene involved in responses to diverse signals including cold, light, cytokinins, sugars and salts%5BTitle%5D), 2003, Plant Mol Biol.
+    + [Rice Calcineurin B-Like Protein-Interacting Protein Kinase 31 OsCIPK31 Is Involved in the Development of Panicle Apical Spikelets.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Calcineurin B-Like Protein-Interacting Protein Kinase 31 OsCIPK31 Is Involved in the Development of Panicle Apical Spikelets.%5BTitle%5D), 2018, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AK111929](http://www.ncbi.nlm.nih.gov/nuccore/AK111929)
@@ -34,6 +35,9 @@ tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, see
     + Under cold and drought stresses, OsCIPK03- and OsCIPK12-overexpressing transgenic plants accumulated significantly higher contents of proline and soluble sugars than the wild type
     + oscipk31::Ds mutants exhibited hypersensitive phenotypes to ABA, salt, mannitol, and glucose
     + However, the expression of ABA metabolic genes and the endogenous levels of ABA were not altered significantly in the oscipk31::Ds mutant
+    + Our results support that OsCIPK31 plays an important role in panicle development
+    + We found that dysregulation is caused by the disruption of OsCIPK31 function due to excessive accumulation of ROS, which ultimately leads to cell death in rice panicle
+    + Our study provides an understanding of the role of OsCIPK31 in panicle development by responding to various stresses and phytohormones
 
 * **Connection**  
     + __OsCIPK12__, __OsCK1~OsCIPK31~CIPK03__, [Characterization of stress-responsive CIPK genes in rice for stress tolerance improvement](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of stress-responsive CIPK genes in rice for stress tolerance improvement%5BTitle%5D), To prove that some of these stress-responsive OsCIPK genes are potentially useful for stress-tolerance improvement, three CIPK genes (OsCIPK03, OsCIPK12, and OsCIPK15) were overexpressed in japonica rice 'Zhonghua 11'

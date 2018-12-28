@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ8,OsTIFY10c"
 description: ""
 category: genes
-tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
+tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, seedlings, salt, tolerance, salt tolerance, salt stress, stress, stress tolerance]
 ---
 
 * **Information**  
@@ -14,6 +14,7 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.
     + [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), 2012, Plant Cell Physiol.
+    + [Salt-inducible expression of OsJAZ8 improves resilience against salt-stress.](http://www.ncbi.nlm.nih.gov/pubmed?term=Salt-inducible expression of OsJAZ8 improves resilience against salt-stress.%5BTitle%5D), 2018, BMC Plant Biol.
 
 * **Genbank accession number**  
     + [AK108738](http://www.ncbi.nlm.nih.gov/nuccore/AK108738)
@@ -25,6 +26,9 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense]
     + Expression of OsJAZ8, a rice jasmonate ZIM-domain protein, was highly up-regulated by JA
     + Furthermore, OsJAZ8DeltaC negatively regulated the JA-induced resistance to Xoo in rice
     + A large-scale analysis using a rice DNA microarray revealed that overexpression of OsJAZ8DeltaC altered the expression of JA-responsive genes, including defense-related genes, in rice
+    + The result concluded that, more efficient activation of OsJAZ8 was accompanied by improved salt tolerance of the transgenic seedlings and demonstrates the impact of temporal signatures of jasmonate signalling for stress tolerance
+    + In the case of transgenic rice, the steady-state levels of OsJAZ8 transcripts were more efficiently induced under salt stress compared to the wild type, this induction was more pronounced in the dominant-negative OsJAZ8 variant
+    + To modulate the time course of jasmonate signalling, either a full-length or a dominant negative C-terminally truncated version of OsJAZ8 driven by the ZOS3-11 promoter were expressed in a stable manner either in tobacco BY-2 cells, or in japonica rice
 
 * **Connection**  
     + __OsCOI1~OsCOI1a__, __OsJAZ8~OsTIFY10c__, [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), OsJAZ8 interacted with a putative OsCOI1, which is a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner

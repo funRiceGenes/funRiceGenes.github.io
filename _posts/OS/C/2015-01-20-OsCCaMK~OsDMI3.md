@@ -17,6 +17,7 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
     + [OsDMI3-mediated activation of OsMPK1 regulates the activities of antioxidant enzymes in abscisic acid signalling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDMI3-mediated activation of OsMPK1 regulates the activities of antioxidant enzymes in abscisic acid signalling in rice%5BTitle%5D), 2014, Plant Cell Environ.
     + [Fungal symbiosis in rice requires an ortholog of a legume common symbiosis gene encoding a Ca2+/calmodulin-dependent protein kinase](http://www.ncbi.nlm.nih.gov/pubmed?term=Fungal symbiosis in rice requires an ortholog of a legume common symbiosis gene encoding a Ca2+/calmodulin-dependent protein kinase%5BTitle%5D), 2007, Plant Physiol.
     + [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), 2008, Proc Natl Acad Sci U S A.
+    + [Abscisic Acid Inhibits Rice Protein Phosphatase PP45 via H2O2 and Relieves Repression of the Ca2+/CaM-Dependent Protein Kinase DMI3.](http://www.ncbi.nlm.nih.gov/pubmed?term=Abscisic Acid Inhibits Rice Protein Phosphatase PP45 via H2O2 and Relieves Repression of the Ca2+/CaM-Dependent Protein Kinase DMI3.%5BTitle%5D), 2018, Plant Cell.
 
 * **Genbank accession number**  
     + [AK070533](http://www.ncbi.nlm.nih.gov/nuccore/AK070533)

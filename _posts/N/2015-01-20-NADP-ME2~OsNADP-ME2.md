@@ -14,6 +14,7 @@ tags: [growth, seedling, salt, root]
 * **Publication**  
     + [Expression of an NADP-malic enzyme gene in rice Oryza sativa. L is induced by environmental stresses; over-expression of the gene in Arabidopsis confers salt and osmotic stress tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of an NADP-malic enzyme gene in rice Oryza sativa. L is induced by environmental stresses; over-expression of the gene in Arabidopsis confers salt and osmotic stress tolerance%5BTitle%5D), 2007, Plant Mol Biol.
     + [Magnaporthe oryzae Effector AVR-Pii Helps to Establish Compatibility by Inhibition of the Rice NADP-Malic Enzyme Resulting in Disruption of Oxidative Burst and Host Innate Immunity.](http://www.ncbi.nlm.nih.gov/pubmed?term=Magnaporthe oryzae Effector AVR-Pii Helps to Establish Compatibility by Inhibition of the Rice NADP-Malic Enzyme Resulting in Disruption of Oxidative Burst and Host Innate Immunity.%5BTitle%5D), 2016, Mol Cells.
+    + [Iron- and Reactive Oxygen Species-Dependent Ferroptotic Cell Death in Rice-Magnaporthe oryzae Interactions.](http://www.ncbi.nlm.nih.gov/pubmed?term=Iron- and Reactive Oxygen Species-Dependent Ferroptotic Cell Death in Rice-Magnaporthe oryzae Interactions.%5BTitle%5D), 2018, Plant Cell.
 
 * **Genbank accession number**  
     + [AB053295](http://www.ncbi.nlm.nih.gov/nuccore/AB053295)
