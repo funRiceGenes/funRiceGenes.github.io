@@ -14,6 +14,7 @@ tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, gra
 * **Publication**  
     + [LABA1, a Domestication Gene Associated with Long, Barbed Awns in Wild Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=LABA1, a Domestication Gene Associated with Long, Barbed Awns in Wild Rice.%5BTitle%5D), 2015, Plant Cell.
     + [An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.%5BTitle%5D), 2015, Mol Plant.
+    + [Natural alleles of GLA for grain length and awn development were differently domesticated in rice subspecies japonica and indica.](http://www.ncbi.nlm.nih.gov/pubmed?term=Natural alleles of GLA for grain length and awn development were differently domesticated in rice subspecies japonica and indica.%5BTitle%5D), 2019, Plant Biotechnol J.
 
 * **Genbank accession number**  
 
@@ -27,9 +28,11 @@ tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, gra
     + We therefore proposed that the selection of the genetic variation in An-2 was due to reduced awn length and increased grain yield in cultivated rice
     + Expressional analysis demonstrates that An-1 regulates the formation of awn primordial, and An-2 promotes awn elongation
     + Here we report the cloning of An-2 gene, encoding a Lonely Guy Like protein 6 (OsLOGL6), which catalyzes the final step of cytokinin synthesis in O
+    + Analyses of minimum spanning trees and introgression regions demonstrated that An-1, an important gene for awn formation, was preferentially domesticated, and its mutation to an-1 was followed by GLA and An-2
 
 * **Connection**  
     + __An-1__, __LABA1~OsLOGL6~An-2__, [An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=An-2 Encodes a Cytokinin Synthesis Enzyme That Regulates Awn Length and Grain Production in Rice.%5BTitle%5D), Expressional analysis demonstrates that An-1 regulates the formation of awn primordial, and An-2 promotes awn elongation
+    + __An-1__, __LABA1~OsLOGL6~An-2__, [Natural alleles of GLA for grain length and awn development were differently domesticated in rice subspecies japonica and indica.](http://www.ncbi.nlm.nih.gov/pubmed?term=Natural alleles of GLA for grain length and awn development were differently domesticated in rice subspecies japonica and indica.%5BTitle%5D),  Analyses of minimum spanning trees and introgression regions demonstrated that An-1, an important gene for awn formation, was preferentially domesticated, and its mutation to an-1 was followed by GLA and An-2
 
 [//]: # * **Key figures**  
 

@@ -17,6 +17,7 @@ tags: [seed]
     + [Ethylene promotes submergence-induced expression of OsABA8ox1, a gene that encodes ABA 8'-hydroxylase in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Ethylene promotes submergence-induced expression of OsABA8ox1, a gene that encodes ABA 8'-hydroxylase in rice%5BTitle%5D), 2007, Plant Cell Physiol.
     + [Glucose-induced delay of seed germination in rice is mediated by the suppression of ABA catabolism rather than an enhancement of ABA biosynthesis](http://www.ncbi.nlm.nih.gov/pubmed?term=Glucose-induced delay of seed germination in rice is mediated by the suppression of ABA catabolism rather than an enhancement of ABA biosynthesis%5BTitle%5D), 2009, Plant Cell Physiol.
     + [RNAi-mediated Suppression of Three Rice Carotenoid Cleavage Dioxygenase Genes, OsCCD1, 4a, and 4b, Increases Carotenoid Content of Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=RNAi-mediated Suppression of Three Rice Carotenoid Cleavage Dioxygenase Genes, OsCCD1, 4a, and 4b, Increases Carotenoid Content of Rice.%5BTitle%5D), 2018, J Exp Bot.
+    + [Developmental analysis of the early steps in strigolactone-mediated axillary bud dormancy in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Developmental analysis of the early steps in strigolactone-mediated axillary bud dormancy in rice.%5BTitle%5D), 2019, Plant J.
 
 * **Genbank accession number**  
     + [AY838897](http://www.ncbi.nlm.nih.gov/nuccore/AY838897)

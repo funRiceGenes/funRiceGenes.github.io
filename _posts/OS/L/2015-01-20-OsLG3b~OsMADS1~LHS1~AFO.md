@@ -35,6 +35,7 @@ tags: [meristem, palea, fertility, leaf, spikelet, branching, heading date, tran
     + [OsMADS1 Represses microRNA172 in Elongation of Palea/Lemma Development in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMADS1 Represses microRNA172 in Elongation of Palea/Lemma Development in Rice.%5BTitle%5D), 2016, Front Plant Sci.
     + [Alternative<U+00A0>splicing of OsLG3b controls grain length and yield in japonica rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Alternative<U+00A0>splicing of OsLG3b controls grain length and yield in japonica rice.%5BTitle%5D), 2018, Plant Biotechnol J.
     + [G-protein ¶¬¶√ subunits determine grain size through interaction with MADS-domain transcription factors in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=G-protein ¶¬¶√ subunits determine grain size through interaction with MADS-domain transcription factors in rice.%5BTitle%5D), 2018, Nat Commun.
+    + [Rice shoot and floral meristem development: An overview of developmental regulators of meristem maintenance and organ identity.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice shoot and floral meristem development: An overview of developmental regulators of meristem maintenance and organ identity.%5BTitle%5D), 2019, J Exp Bot.
 
 * **Genbank accession number**  
     + [AK069728](http://www.ncbi.nlm.nih.gov/nuccore/AK069728)
@@ -108,6 +109,7 @@ tags: [meristem, palea, fertility, leaf, spikelet, branching, heading date, tran
     + Analysis of haplotypes and introgression regions revealed that the long-grain allele of OsLG3b might have arisen after domestication of tropical japonica and spread to subspecies indica or temperate japonica by natural crossing and artificial selection
     + OsLG3b is therefore a target of human selection for adaptation to tropical regions during domestication and/or improvement of rice
     + The G¸æç¶Ñº¸æå∂åº subunits GS3 and DEP1 interact directly with the conserved keratin-like domain of MADS transcription factors, function as cofactors to enhance OsMADS1 transcriptional activity and promote the co-operative transactivation of common target genes, thereby regulating grain size and shape
+    + Yet, several evidences suggest the evolution of distinctive functions for some of these rice floral regulators, the occurrence of other grass species-specific factors and regulatory pathways - for example LOFSEP 'E' class genes OsMADS1 and OsMAD34 and ramosa genes
 
 * **Connection**  
     + __OsLG3b~OsMADS1~LHS1~AFO__, __OsMADS16~SPW1__, [Morphogenesis and molecular basis on naked seed rice, a novel homeotic mutation of OsMADS1 regulating transcript level of AP3 homologue in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Morphogenesis and molecular basis on naked seed rice, a novel homeotic mutation of OsMADS1 regulating transcript level of AP3 homologue in rice%5BTitle%5D), Moreover, it was indicated that OsMADS1 upregulated the transcript level of AP3 homologue OsMADS16, using real-time PCR analysis on gain- and loss-of-function of OsMADS1 transgenic lines

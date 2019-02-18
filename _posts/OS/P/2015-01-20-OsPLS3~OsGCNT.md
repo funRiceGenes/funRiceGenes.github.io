@@ -14,6 +14,7 @@ tags: [leaf, leaf senescence, senescence, map-based cloning, ethylene, cytokinin
 * **Publication**  
     + [A 22-bp deletion in OsPLS3 gene encoding a DUF266-containing protein is implicated in rice leaf senescence.](http://www.ncbi.nlm.nih.gov/pubmed?term=A 22-bp deletion in OsPLS3 gene encoding a DUF266-containing protein is implicated in rice leaf senescence.%5BTitle%5D), 2018, Plant Mol Biol.
     + [Functional inactivation of OsGCNT induces enhanced disease resistance to Xanthomonas oryzae pv. oryzae in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional inactivation of OsGCNT induces enhanced disease resistance to Xanthomonas oryzae pv. oryzae in rice%5BTitle%5D), 2018, BMC Plant Biol.
+    + [Mutation in a putative glycosyltransferase-like gene causes programmed cell death and early leaf senescence in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation in a putative glycosyltransferase-like gene causes programmed cell death and early leaf senescence in rice.%5BTitle%5D), 2019, Rice (N Y).
 
 * **Genbank accession number**  
 

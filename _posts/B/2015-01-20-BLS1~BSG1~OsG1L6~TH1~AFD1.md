@@ -17,6 +17,7 @@ tags: [inflorescence, architecture, lemma, cell division, grain size, palea, gra
     + [A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A role for TRIANGULAR HULL1 in fine-tuning spikelet morphogenesis in rice.%5BTitle%5D), 2014, Genes Genet Syst.
     + [The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The pleiotropic ABNORMAL FLOWER AND DWARF1 affects plant height, floral development and grain yield in rice.%5BTitle%5D), 2015, J Integr Plant Biol.
     + [The rice TRIANGULAR HULL1 protein acts as a transcriptional repressor in regulating lateral development of spikelet.](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice TRIANGULAR HULL1 protein acts as a transcriptional repressor in regulating lateral development of spikelet.%5BTitle%5D), 2017, Sci Rep.
+    + [Analysing the rice young panicle transcriptome reveals the gene regulatory network controlled by TRIANGULAR HULL1.](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysing the rice young panicle transcriptome reveals the gene regulatory network controlled by TRIANGULAR HULL1.%5BTitle%5D), 2019, Rice (N Y).
 
 * **Genbank accession number**  
 

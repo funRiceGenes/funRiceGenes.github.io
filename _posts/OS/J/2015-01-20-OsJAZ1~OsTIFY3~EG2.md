@@ -15,6 +15,7 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor , root, sh
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.
     + [OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice%5BTitle%5D), 2011, Plant J.
     + [OsJAZ1 Attenuates Drought Resistance by Regulating JA and ABA Signaling in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ1 Attenuates Drought Resistance by Regulating JA and ABA Signaling in Rice.%5BTitle%5D), 2017, Front Plant Sci.
+    + [The OsJAZ1 degron modulates jasmonate signaling sensitivity during rice development.](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsJAZ1 degron modulates jasmonate signaling sensitivity during rice development.%5BTitle%5D), 2019, Development.
 
 * **Genbank accession number**  
 
@@ -27,6 +28,8 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor , root, sh
     + These results together suggest that OsJAZ1 plays a role in regulating the drought resistance of rice partially via the ABA and JA pathways
     + Expression of OsJAZ1 was strongly responsive to JA treatment, and it was slightly responsive to ABA, salicylic acid, and abiotic stresses including drought, salinity, and cold
     + A subcellular localization assay indicated that OsJAZ1 was localized in both the nucleus and cytoplasm
+    + The OsJAZ1 degron modulates jasmonate signaling sensitivity during rice development.
+    + To clarify this question, we performed bioassays and genetic experiments to uncover the function of the OsJAZ1 degron in rice JA signaling
 
 * **Connection**  
     + __OsCOI1~OsCOI1a__, __OsJAZ1~OsTIFY3~EG2__, [OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice%5BTitle%5D), OsJAZ1, a rice ZIM domain protein, interacted with OsbHLH148 in yeast two-hybrid and pull-down assays, but it interacted with the putative OsCOI1 only in the presence of coronatine
