@@ -19,6 +19,7 @@ tags: [salt, temperature, drought, transcription factor, abiotic stress, cold st
     + [ENAC1, a NAC transcription factor, is an early and transient response regulator induced by abiotic stress in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=ENAC1, a NAC transcription factor, is an early and transient response regulator induced by abiotic stress in rice Oryza sativa L.%5BTitle%5D), 2012, Mol Biotechnol.
     + [Allele mining across DREB1A and DREB1B in diverse rice genotypes suggest a highly conserved pathway inducible by low temperature.](http://www.ncbi.nlm.nih.gov/pubmed?term=Allele mining across DREB1A and DREB1B in diverse rice genotypes suggest a highly conserved pathway inducible by low temperature.%5BTitle%5D), 2015, J Genet.
     + [Double overexpression of DREB and PIF transcription factors improves drought stress tolerance and cell elongation in transgenic plants.](http://www.ncbi.nlm.nih.gov/pubmed?term=Double overexpression of DREB and PIF transcription factors improves drought stress tolerance and cell elongation in transgenic plants.%5BTitle%5D), 2016, Plant Biotechnol J.
+    + [Computational characterization of structural and functional roles of DREB1A, DREB1B and DREB1C in enhancing cold tolerance in rice plant.](http://www.ncbi.nlm.nih.gov/pubmed?term=Computational characterization of structural and functional roles of DREB1A, DREB1B and DREB1C in enhancing cold tolerance in rice plant.%5BTitle%5D), 2019, Amino Acids.
 
 * **Genbank accession number**  
     + [AF494422](http://www.ncbi.nlm.nih.gov/nuccore/AF494422)
