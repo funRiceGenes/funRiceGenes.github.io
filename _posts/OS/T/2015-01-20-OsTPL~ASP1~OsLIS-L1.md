@@ -3,7 +3,7 @@ layout: post
 title: "OsTPL,ASP1,OsLIS-L1"
 description: ""
 category: genes
-tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, height, spikelet meristem, stem, meiosis, cell wall, growth, fertility, inflorescence, spikelet]
+tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, height, spikelet meristem, stem, meiosis, cell wall, growth, fertility, inflorescence, spikelet, cell proliferation]
 ---
 
 * **Information**  
@@ -14,6 +14,7 @@ tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, h
 * **Publication**  
     + [OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice%5BTitle%5D), 2012, Planta.
     + [Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice%5BTitle%5D), 2012, Plant J.
+    + [Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.%5BTitle%5D), 2019, Plant Physiol.
 
 * **Genbank accession number**  
     + [AB638269](http://www.ncbi.nlm.nih.gov/nuccore/AB638269)
@@ -31,8 +32,17 @@ tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, h
     + Histological analysis revealed that OsLIS-L1 regulates the cell proliferation in the first internode under the panicle
     + OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice
     + Here, we report the cloning and functional characterization of a novel rice gene OsLIS-L1 (Lissencephaly type-1-like 1), which is required for normal fertility and the first internode elongation
+    + These results suggest that ASP1 and FON2 synergistically regulate stem cell maintenance in rice
+    + Taken together, our results suggest that TPL-like corepressor activity plays a crucial role in meristem maintenance, and that stem cell proliferation is properly maintained via the cooperation of ASP1 and FON2
+    + Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.
+    + In the fon2 asp1 double mutant, the inflorescence was severely affected, resulting in bifurcation of the main axis (rachis), a phenotype that has not previously been reported
 
 * **Connection**  
+    + __FON2~FON4~TG1__, __OsTPL~ASP1~OsLIS-L1__, [Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.%5BTitle%5D),  In this study, through genetic enhancer analysis, we found that loss of function of ABERRANT SPIKELET AND PANICLE1 (ASP1), encoding an Arabidopsis TOPLESS (TPL)-like transcriptional corepressor, enhances the fon2 flower phenotype, which displayed an increase in floral organ number
+    + __FON2~FON4~TG1__, __OsTPL~ASP1~OsLIS-L1__, [Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.%5BTitle%5D),  In the fon2 asp1 double mutant, the inflorescence was severely affected, resulting in bifurcation of the main axis (rachis), a phenotype that has not previously been reported
+    + __FON2~FON4~TG1__, __OsTPL~ASP1~OsLIS-L1__, [Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.%5BTitle%5D),  The stem cells showed marked overproliferation in fon2 asp1, resulting in extreme enlargement and splitting of the inflorescence meristem
+    + __FON2~FON4~TG1__, __OsTPL~ASP1~OsLIS-L1__, [Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.%5BTitle%5D),  These results suggest that ASP1 and FON2 synergistically regulate stem cell maintenance in rice
+    + __FON2~FON4~TG1__, __OsTPL~ASP1~OsLIS-L1__, [Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.%5BTitle%5D),  Taken together, our results suggest that TPL-like corepressor activity plays a crucial role in meristem maintenance, and that stem cell proliferation is properly maintained via the cooperation of ASP1 and FON2
 
 [//]: # * **Key figures**  
 

@@ -3,7 +3,7 @@ layout: post
 title: "OsMPK1,OsMAPK6,OsSIPK"
 description: ""
 category: genes
-tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, temperature, drought, seedling,  ja , wounding response, abiotic stress, biotic stress, grain size, protein kinase, biomass production, biomass, cell proliferation, BR signaling, BR homeostasis, grain]
+tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, temperature, drought, seedling,  ja , wounding response, abiotic stress, biotic stress, grain size, protein kinase, biomass production, biomass, cell proliferation, BR signaling, BR homeostasis, grain, abscisic acid]
 ---
 
 * **Information**  
@@ -22,6 +22,7 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + [OsMAPK6, a mitogen-activated protein kinase, influences rice grain size and biomass production](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMAPK6, a mitogen-activated protein kinase, influences rice grain size and biomass production%5BTitle%5D), 2015, Plant J.
     + [Control of grain size and weight by the OsMKKK10-OsMKK4-OsMAPK6 signaling pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Control of grain size and weight by the OsMKKK10-OsMKK4-OsMAPK6 signaling pathway in rice.%5BTitle%5D), 2018, Mol Plant.
     + [Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.](http://www.ncbi.nlm.nih.gov/pubmed?term=Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.%5BTitle%5D), 2018, Int J Mol Sci.
+    + [Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.%5BTitle%5D), 2019, Biochem Biophys Res Commun.
 
 * **Genbank accession number**  
     + [AB183398](http://www.ncbi.nlm.nih.gov/nuccore/AB183398)
@@ -45,6 +46,9 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + OsMAPK6, a mitogen-activated protein kinase, influences rice grain size and biomass production
     + Thus, OsMAPK6, a mitogen-activated protein kinase, plays a pivotal role in grain size, via cell proliferation, and BR signaling and homeostasis, in  rice.
     + Further biochemical and genetic analyses reveal that OsMKKK10, OsMKK4 and OsMAPK6 function in a common pathway to control grain size
+    + Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.
+    + Furthermore, bip130 can be phosphorylated by OsMPK1 at Thr-153 in vitro, and Thr-153 is essential for the ABA-induced antioxidant defense by OsMPK1
+    + These results reveal that OsMPK1 phosphorylates bip130 at Thr-153 to regulate ABA-induced antioxidant defense
 
 * **Connection**  
     + __OsMPK1~OsMAPK6~OsSIPK__, __ZFP182~ZOS3-21__, [The C2H2-type zinc finger protein ZFP182 is involved in abscisic acid-induced antioxidant defense in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The C2H2-type zinc finger protein ZFP182 is involved in abscisic acid-induced antioxidant defense in rice%5BTitle%5D), Nipponbare) C(2) H(2) -type ZFP ZFP182 in ABA-induced antioxidant defense and the relationship between ZFP182 and two rice MAPKs, OsMPK1 and OsMPK5 in ABA signaling were investigated
@@ -75,6 +79,10 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + __OsMPK1~OsMAPK6~OsSIPK__, __OsMPK16__, [Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.](http://www.ncbi.nlm.nih.gov/pubmed?term=Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.%5BTitle%5D),  Out of these genes, five OsMPKs (OsMPK1, OsMPK3, OsMPK7, OsMPK14, and OsMPK16) were found to exhibit upregulated expression only during incompatible interaction
     + __OsMPK1~OsMAPK6~OsSIPK__, __OsMPK7~OsMAPK20-5__, [Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.](http://www.ncbi.nlm.nih.gov/pubmed?term=Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.%5BTitle%5D),  Out of these genes, five OsMPKs (OsMPK1, OsMPK3, OsMPK7, OsMPK14, and OsMPK16) were found to exhibit upregulated expression only during incompatible interaction
     + __OsMPK1~OsMAPK6~OsSIPK__, __OsMSRMK2~OsMAP1~OsMPK5~OsMAPK2~OsMAPK5~OsBIMK1~OsMPK3__, [Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.](http://www.ncbi.nlm.nih.gov/pubmed?term=Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.%5BTitle%5D),  Out of these genes, five OsMPKs (OsMPK1, OsMPK3, OsMPK7, OsMPK14, and OsMPK16) were found to exhibit upregulated expression only during incompatible interaction
+    + __bip130__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.%5BTitle%5D), Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.
+    + __bip130__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.%5BTitle%5D),  Here, we identified a BRI1-KD interacting protein 130, bip130, which interacts with OsMPK1 in vitro and in vivo
+    + __bip130__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.%5BTitle%5D),  Furthermore, bip130 can be phosphorylated by OsMPK1 at Thr-153 in vitro, and Thr-153 is essential for the ABA-induced antioxidant defense by OsMPK1
+    + __bip130__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.%5BTitle%5D),  These results reveal that OsMPK1 phosphorylates bip130 at Thr-153 to regulate ABA-induced antioxidant defense
 
 [//]: # * **Key figures**  
 
