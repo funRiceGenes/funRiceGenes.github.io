@@ -18,3 +18,4 @@ group: navigation
 10. Kim Nhung TA et al. [A genome-wide association study using a Vietnamese landrace panel of rice (Oryza sativa) reveals new QTLs controlling panicle morphological traits](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-018-1504-1), 2018, BMC Plant Biology.
 11. Hong et al. [Infrastructures of systems biology that facilitate functional genomic study in rice](https://link.springer.com/article/10.1186/s12284-019-0276-z), 2019, Rice.
 12. Borrill et al. [Identification of transcription factors regulating senescence in wheat through gene regulatory network modelling](http://www.plantphysiol.org/content/early/2019/05/07/pp.19.00380.abstract), 2019, Plant physiology.
+13. Yoo et al. [A Systematic View Exploring the Role of Chloroplasts in Plant Abiotic Stress Responses](https://www.hindawi.com/journals/bmri/2019/6534745/), 2019, BioMed Research International.
