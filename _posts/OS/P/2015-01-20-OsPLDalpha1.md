@@ -12,7 +12,7 @@ tags:
     + RAPdb: [Os01g0172400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0172400)  
 
 * **Publication**  
-    + [Overexpression of a phospholipase OsPLD¸æç¶Ñº¸æåñåº1 for drought tolerance in upland rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a phospholipase OsPLD¸æç¶Ñº¸æåñåº1 for drought tolerance in upland rice Oryza sativa L..%5BTitle%5D), 2018, Protoplasma.
+    + [Overexpression of a phospholipase OsPLD¶¡1 for drought tolerance in upland rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a phospholipase OsPLD¶¡1 for drought tolerance in upland rice Oryza sativa L..%5BTitle%5D), 2018, Protoplasma.
 
 * **Genbank accession number**  
 

@@ -108,7 +108,7 @@ tags: [meristem, palea, fertility, leaf, spikelet, branching, heading date, tran
     + Phylogenetic analysis and pedigree records showed that OsLG3b had been employed by breeders, but the gene still has much breeding potential for increasing grain length in indica
     + Analysis of haplotypes and introgression regions revealed that the long-grain allele of OsLG3b might have arisen after domestication of tropical japonica and spread to subspecies indica or temperate japonica by natural crossing and artificial selection
     + OsLG3b is therefore a target of human selection for adaptation to tropical regions during domestication and/or improvement of rice
-    + The G¸æç¶Ñº¸æå∂åº subunits GS3 and DEP1 interact directly with the conserved keratin-like domain of MADS transcription factors, function as cofactors to enhance OsMADS1 transcriptional activity and promote the co-operative transactivation of common target genes, thereby regulating grain size and shape
+    + The G¶√ subunits GS3 and DEP1 interact directly with the conserved keratin-like domain of MADS transcription factors, function as cofactors to enhance OsMADS1 transcriptional activity and promote the co-operative transactivation of common target genes, thereby regulating grain size and shape
     + Yet, several evidences suggest the evolution of distinctive functions for some of these rice floral regulators, the occurrence of other grass species-specific factors and regulatory pathways - for example LOFSEP 'E' class genes OsMADS1 and OsMAD34 and ramosa genes
 
 * **Connection**  

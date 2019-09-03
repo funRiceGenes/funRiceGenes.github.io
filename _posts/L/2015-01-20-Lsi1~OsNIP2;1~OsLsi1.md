@@ -25,6 +25,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + [High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High Silicon Accumulation in the Shoot is Required for Down-Regulating the Expression of Si Transporter Genes in Rice.%5BTitle%5D), 2016, Plant Cell Physiol.
     + [Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of Lsi1 in cold-sensitive rice mediates transcriptional regulatory networks and enhances resistance to chilling stress%5BTitle%5D), 2017, Plant Science.
     + [Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.%5BTitle%5D), 2018, Plant Sci.
+    + [Si permeability of a deficient Lsi1 aquaporin in tobacco can be enhanced through a conserved residue substitution.](http://www.ncbi.nlm.nih.gov/pubmed?term=Si permeability of a deficient Lsi1 aquaporin in tobacco can be enhanced through a conserved residue substitution.%5BTitle%5D), 2019, Plant Direct.
 
 * **Genbank accession number**  
     + [AB222272](http://www.ncbi.nlm.nih.gov/nuccore/AB222272)

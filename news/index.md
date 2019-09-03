@@ -5,6 +5,245 @@ comments: no
 thread: 616
 ---
 
+* 2019/Sep/2 add new info for gene: OsLTPL159
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new gene: OsLTPL159
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new info for gene: Ef-cd
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new gene: Ef-cd
+* 2019/Sep/2 add new info for gene: Lsi1
+* 2019/Sep/2 add new pub.
+* 2019/Sep/2 add new pub.
+* 2019/Aug/28 add new info for gene: Os8N3
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsSFL1
+* 2019/Aug/28 add new info for gene: WED
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: WED
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new info for gene: DPS1
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: DPS1
+* 2019/Aug/28 add new info for gene: OsRCAR1
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsRCAR1
+* 2019/Aug/28 add new info for gene: OsGAP
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsGAP
+* 2019/Aug/28 add new info for gene: PHS9
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: PHS9
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new info for gene: OsACBP2
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new info for gene: OsPPR4
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 WSL5 == OsPPR4
+* 2019/Aug/28 add new info for gene: OsGBP
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsGBP
+* 2019/Aug/28 CDS1 == OsCNGC9
+* 2019/Aug/28 add new info for gene: OsCNGC9
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsCNGC9
+* 2019/Aug/28 add new info for gene: miR156
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: miR156
+* 2019/Aug/28 add new info for gene: OsMGD2
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 OsMGD == OsMGD2
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 RL9 == SLL1 == AH2 == OsADD1
+* 2019/Aug/28 add new info for gene: RMD
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new info for gene: ALEX1
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: ALEX1
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new info for gene: OsDGD2β
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsDGD2β
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new info for gene: OsPIN1d
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsPIN1d
+* 2019/Aug/28 add new info for gene: OsPIN1c
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsPIN1c
+* 2019/Aug/28 add new info for gene: OsPIN1b
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 OsPIN1 == REH1 == PIN1b == OsPIN1b
+* 2019/Aug/28 add new info for gene: OsPIN1a
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new gene: OsPIN1a
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new pub.
+* 2019/Aug/28 add new pub.
+* 2019/Aug/15 add new info for gene: Lhcb5
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new info for gene: OsIAA11
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new info for gene: SNAC1
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new info for gene: OsCAldOMT1
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 COMT == OsCOMT == OsCAldOMT1
+* 2019/Aug/15 add new info for gene: OsLOX9
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 OsHI-LOX == OsLOX9
+* 2019/Aug/15 add new info for gene: OsEBF1
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new gene: OsEBF1
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new info for gene: OsAGO1b
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new info for gene: OsPSKR1
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new gene: OsPSKR1
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 add new info for gene: OsGL1-4
+* 2019/Aug/15 add new pub.
+* 2019/Aug/15 OsCER1 == OsGL1-4
+* 2019/Aug/15 add new pub.
+* 2019/Aug/14 add new info for gene: OsHBP1b
+* 2019/Aug/14 add new pub.
+* 2019/Aug/14 add new pub.
+* 2019/Aug/14 add new pub.
+* 2019/Jul/28 add new info for gene: OsMTOPVIB
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 OsVMT == OsZIFL12
+* 2019/Jul/28 add new info for gene: OsVMT
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new gene: OsVMT
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new info for gene: RGG1
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new info for gene: MIR396f
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new gene: MIR396f
+* 2019/Jul/28 add new info for gene: MIR396e
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new gene: MIR396e
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new info for gene: OsABCG36
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 Ospdr9 == OsABCG36
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new info for gene: OsSIRH2-14
+* 2019/Jul/28 add new pub.
+* 2019/Jul/28 add new gene: OsSIRH2-14
+* 2019/Jul/21 add new pub.
+* 2019/Jul/21 OsDREB4-2 == CR250 == OsAP2
+* 2019/Jul/21 add new pub.
+* 2019/Jul/21 add new info for gene: OsVIN2
+* 2019/Jul/21 add new pub.
+* 2019/Jul/21 OSINV3 == OsVIN2
+* 2019/Jul/21 add new info for gene: RGB1
+* 2019/Jul/21 add new pub.
+* 2019/Jul/21 add new pub.
+* 2019/Jul/21 add new info for gene: OsGrxC2.2
+* 2019/Jul/21 add new pub.
+* 2019/Jul/21 OsGrx == OsGrxC2;2 == OsGrxC2.2
+* 2019/Jul/21 add new info for gene: OsFWL5
+* 2019/Jul/21 add new pub.
+* 2019/Jul/21 add new gene: OsFWL5
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new info for gene: OsPRR37
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new info for gene: OsHKT1;5
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new info for gene: OsGASR9
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new gene: OsGASR9
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new info for gene: OsCLR1
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new gene: OsCLR1
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new info for gene: OsMPK15
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new info for gene: OsMAPK20-5
+* 2019/Jul/18 add new pub.
+* 2019/Jul/18 add new info for gene: TAB1
+* 2019/Jul/18 add new pub.
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new info for gene: OsLCT1
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new info for gene: OsNHX5
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new info for gene: OsSUF4
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 SIP1 == OsSUF4
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new info for gene: NAL1
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new info for gene: LMM24
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 OsBBS1 == OsRLCK109 == LMM24
+* 2019/Jul/9 add new info for gene: Ghd8
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new gene: H2AX
+* 2019/Jul/9 add new pub.
+* 2019/Jul/9 add new info for gene: OsPEX5
+* 2019/Jul/9 add new pub.
+* 2019/Jul/3 add new info for gene: OsZIP1
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 Se5 == OsHY1 == OsHO1 == YGL2 == YE1 == PE-1
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new info for gene: OsPPa6
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new gene: OsPPa6
+* 2019/Jul/3 add new info for gene: OsDHODH1
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new info for gene: OsGS2
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new info for gene: CRD1
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new gene: CRD1
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new info for gene: OsCKX9
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new gene: OsCKX9
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new info for gene: ONAC066
+* 2019/Jul/3 add new pub.
+* 2019/Jul/3 add new pub.
 * 2019/Jun/24 add new info for gene: SIT1
 * 2019/Jun/24 add new pub.
 * 2019/Jun/24 add new info for gene: OsLHT1

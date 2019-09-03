@@ -3,7 +3,7 @@ layout: post
 title: "OsNAC2,OsTIL1,OMTN2,OsORE1"
 description: ""
 category: genes
-tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield, panicle, architecture, plant architecture, seedlings, cell death, PCD]
+tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield, panicle, architecture, plant architecture, seedlings, cell death, PCD, root, auxin, development, cell division, root development, cytokinin, iaa, crown, crown root, lateral root, primary root, IAA]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + [A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Rice NAC Transcription Factor Promotes Leaf Senescence via ABA Biosynthesis.%5BTitle%5D), 2017, Plant Physiol.
     + [Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.%5BTitle%5D), 2018, J Exp Bot.
     + [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D), 2018, Plant J.
+    + [OsNAC2 integrates auxin and cytokinin pathways to modulate rice root development.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 integrates auxin and cytokinin pathways to modulate rice root development.%5BTitle%5D), 2019, Plant Biotechnol J.
 
 * **Genbank accession number**  
 
@@ -42,6 +43,10 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + Additionally, OsNAC2 expression was enhanced in rice seedlings exposed to a high NaCl concentration
     + OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.
     + Overall, our results suggest that OsNAC2 accelerates NaCl-induced PCD and provide new insights into the mechanisms affecting ROS accumulation, plant caspase-like activity, and K+efflux
+    + OsNAC2 integrates auxin and cytokinin pathways to modulate rice root development.
+    + OsNAC2 predominantly expressed in primary root tips, crown roots and lateral root primordia, implying it influences root development
+    + Thus, we describe that OsNAC2 functions as an upstream integrator of auxin and cytokinin signals that affect CRL and CDK production to regulate cell division during root development
+    + Additionally, OsNAC2 can directly bind to the promoters of IAA inactivation-related genes (GH3
 
 * **Connection**  
     + __D35~OsKOS3~OsKO2__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.%5BTitle%5D), Dual-luciferase reporter analyses, yeast one-hybrid assays and ChIP-qPCR suggested that OsNAC2 directly interacted with the promoter of OsEATB and OsKO2

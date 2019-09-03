@@ -3,7 +3,7 @@ layout: post
 title: "OsNAC19,SNAC1,OsNAC9"
 description: ""
 category: genes
-tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, ethylene, root, yield, salinity, grain, architecture, drought resistance, jasmonate, blast, seed, culm, seedling, transcription factor, reproductive, grain yield, stomata]
+tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, ethylene, root, yield, salinity, grain, architecture, drought resistance, jasmonate, blast, seed, culm, seedling, transcription factor, reproductive, grain yield, stomata, resistance, stress, ABA, drought stress, drought stress ]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, eth
     + [Overexpressing a NAM, ATAF, and CUC NAC transcription factor enhances drought resistance and salt tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpressing a NAM, ATAF, and CUC NAC transcription factor enhances drought resistance and salt tolerance in rice%5BTitle%5D), 2006, Proc Natl Acad Sci U S A.
     + [A homolog of human ski-interacting protein in rice positively regulates cell viability and stress tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=A homolog of human ski-interacting protein in rice positively regulates cell viability and stress tolerance%5BTitle%5D), 2009, Proc Natl Acad Sci U S A.
     + [Overexpression of a new stress-repressive gene OsDSR2 encoding a protein with a DUF966 domain increases salt and simulated drought stress sensitivities and reduces ABA sensitivity in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a new stress-repressive gene OsDSR2 encoding a protein with a DUF966 domain increases salt and simulated drought stress sensitivities and reduces ABA sensitivity in rice%5BTitle%5D), 2014, Plant Cell Rep.
+    + [Genome-Wide Identification of SNAC1-Targeted Genes Involved in Drought Response in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-Wide Identification of SNAC1-Targeted Genes Involved in Drought Response in Rice.%5BTitle%5D), 2019, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AK067690](http://www.ncbi.nlm.nih.gov/nuccore/AK067690)
@@ -46,6 +47,10 @@ tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, eth
     + Root-specific (RCc3) and constitutive (GOS2) promoters were used to overexpress OsNAC9 and produced the transgenic RCc3:OsNAC9 and GOS2:OsNAC9 plants
     + Interestingly, O-methyltransferase, a gene necessary for barrier formation, was specifically up-regulated only in the RCc3:OsNAC9 roots
     + Rice gene OsNAC19 encodes a novel NAC-domain transcription factor and responds to infection by Magnaporthe grisea
+    + A stress-responsive NAC transcription factor gene SNAC1 has been reported for its function in the positive regulation of drought resistance in rice, and several downstream SNAC1 targets have been identified
+    + However, a complete regulatory network mediated by SNAC1 in drought response remains unknown
+    + In this study, we performed Chromatin immunoprecipitation sequencing (ChIP-Seq) and RNA-Seq of SNAC1-overexpression transgenic rice (SNAC1-OE) lines and wild-type under normal and moderate drought stress conditions, to identify all SNAC1 target genes at a genome-wide scale by RNA-Seq analyses
+    + SNAC1 can bind to the OsbZIP23 promoter, an important ABA signaling regulator, and positively regulate the expression of several ABA signaling genes
 
 * **Connection**  
     + __OsNAC19~SNAC1~OsNAC9__, __OsNAC6~SNAC2__, [The abiotic stress-responsive NAC-type transcription factor OsNAC5 regulates stress-inducible genes and stress tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The abiotic stress-responsive NAC-type transcription factor OsNAC5 regulates stress-inducible genes and stress tolerance in rice%5BTitle%5D), Pull-down assays revealed that OsNAC5 interacts with OsNAC5, OsNAC6 and SNAC1
@@ -63,6 +68,7 @@ tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, eth
     + __OsNAC19~SNAC1~OsNAC9__, __OsSKIPa__, [A homolog of human ski-interacting protein in rice positively regulates cell viability and stress tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=A homolog of human ski-interacting protein in rice positively regulates cell viability and stress tolerance%5BTitle%5D), The OsSKIPa-overexpressing rice showed significantly increased reactive oxygen species-scavenging ability and transcript levels of many stress-related genes, including SNAC1 and rice homologs of CBF2, PP2C, and RD22, under drought stress conditions
     + __OsNAC19~SNAC1~OsNAC9__, __OsPP18~OsPP2C10__, [A SNAC1-regulated protein phosphatase gene OsPP18 modulates drought and oxidative stress tolerance through ABA-independent reactive oxygen species scavenging in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A SNAC1-regulated protein phosphatase gene OsPP18 modulates drought and oxidative stress tolerance through ABA-independent reactive oxygen species scavenging in rice%5BTitle%5D), We identified a rice protein phosphatase 2C (PP2C) gene, OsPP18, as a STRESS-RESPOSIVE NAC1 (SNAC1)-regulated downstream gene.
     + __OsNAC19~SNAC1~OsNAC9__, __OsSIDP366__, [OsSIDP366, a DUF1644 gene, positively regulates responses to drought and salt stresses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSIDP366, a DUF1644 gene, positively regulates responses to drought and salt stresses in rice%5BTitle%5D), Digital gene expression (DGE) profile analysis indicated that stress related genes such as SNAC1, OsHAK5 and PRs were up-regulated in OsSIDP366-overexpressing plants.
+    + __OsbZIP23__, __OsNAC19~SNAC1~OsNAC9__, [Genome-Wide Identification of SNAC1-Targeted Genes Involved in Drought Response in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-Wide Identification of SNAC1-Targeted Genes Involved in Drought Response in Rice.%5BTitle%5D),  SNAC1 can bind to the OsbZIP23 promoter, an important ABA signaling regulator, and positively regulate the expression of several ABA signaling genes
 
 [//]: # * **Key figures**  
 

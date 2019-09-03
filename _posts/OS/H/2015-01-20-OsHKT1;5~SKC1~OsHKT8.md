@@ -3,7 +3,7 @@ layout: post
 title: "OsHKT1;5,SKC1,OsHKT8"
 description: ""
 category: genes
-tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoot, transporter, salt stress, salt, vascular bundle, growth, tolerance, stress, reproductive, phloem, plasma membrane]
+tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoot, transporter, salt stress, salt, vascular bundle, growth, tolerance, stress, reproductive, phloem, plasma membrane, development]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoo
     + [A rice quantitative trait locus for salt tolerance encodes a sodium transporter](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice quantitative trait locus for salt tolerance encodes a sodium transporter%5BTitle%5D), 2005, Nat Genet.
     + [A two-staged model of Na+ exclusion in rice explained by 3D modeling of HKT transporters and alternative splicing](http://www.ncbi.nlm.nih.gov/pubmed?term=A two-staged model of Na+ exclusion in rice explained by 3D modeling of HKT transporters and alternative splicing%5BTitle%5D), 2012, PLoS One.
     + [OsHKT1;5 mediates Na+ exclusion in the vasculature to protect leaf blades and reproductive tissues from salt toxicity in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHKT1;5 mediates Na+ exclusion in the vasculature to protect leaf blades and reproductive tissues from salt toxicity in rice.%5BTitle%5D), 2017, Plant J.
+    + [Analysis of genetic diversity and population structure using SSR markers and validation of a Cleavage Amplified Polymorphic Sequences CAPS marker involving the sodium transporter OsHKT1;5 in saline tolerant rice Oryza sativa L. landraces.](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of genetic diversity and population structure using SSR markers and validation of a Cleavage Amplified Polymorphic Sequences CAPS marker involving the sodium transporter OsHKT1;5 in saline tolerant rice Oryza sativa L. landraces.%5BTitle%5D), 2019, Gene.
 
 * **Genbank accession number**  
     + [DQ148410](http://www.ncbi.nlm.nih.gov/nuccore/DQ148410)
@@ -43,6 +44,8 @@ tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoo
     + Salt tolerance QTL analysis of rice has revealed that the SKC1 locus, which is involved in a higher K(+) /Na(+) ratio in shoots, corresponds to the OsHKT1;5 gene encoding a Na(+) -selective transporter
     + However, physiological roles of OsHKT1;5 in rice exposed to salt stress remain elusive and no OsHKT1;5 gene disruption mutants have been characterized to date
     + Salt stress-induced increases in the OsHKT1;5 transcript was observed in roots and basal stems including basal nodes
+    + We also report the development and validation of a new Cleavage Amplified Polymorphic Sequence (CAPS) marker (OsHKT1;5V395) that targets a codon in the sodium transporter gene OsHKT1;5 (Saltol/SKC1 locus) that is associated with sodium transport rates in the above rice landraces
+    + Analysis of genetic diversity and population structure using SSR markers and validation of a Cleavage Amplified Polymorphic Sequences (CAPS) marker involving the sodium transporter OsHKT1;5 in saline tolerant rice (Oryza sativa L.) landraces.
 
 * **Connection**  
     + __OsHKT1;5~SKC1~OsHKT8__, __OsNHA1~OsSOS1__, [Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Effects of salt stress on ion balance and nitrogen metabolism of old and young leaves in rice Oryza sativa L.%5BTitle%5D), In addition, lower expression of OsHKT1;5 and OsSOS1 in old leaves may decrease frequency of retrieving Na+ from old leaf cells

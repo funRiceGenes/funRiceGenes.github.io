@@ -50,7 +50,7 @@ tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, v
     + The results of ORF analysis in target region and nucleotide sequence alignment indicated that DNL1 encodes cellulose synthase-like D4 protein, and a single nucleotide substitution (C2488T) in dnl1 result in decrease in plant height and leaf width
 
 * **Connection**  
-    + __OsCD1~OsCSLD4~NRL1~ND1~sle1~DNL1__, __RL9~SLL1__, [Isolation and characterization of a rice mutant with narrow and rolled leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a rice mutant with narrow and rolled leaves%5BTitle%5D), NAL7 and SLL1 were found to be upregulated, whereas OsAGO7 were downregulated in the nrl1 mutant
+    + __OsCD1~OsCSLD4~NRL1~ND1~sle1~DNL1__, __RL9~SLL1~AH2~OsADD1__, [Isolation and characterization of a rice mutant with narrow and rolled leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a rice mutant with narrow and rolled leaves%5BTitle%5D), NAL7 and SLL1 were found to be upregulated, whereas OsAGO7 were downregulated in the nrl1 mutant
     + __OsAGO7~shl4~SHO2__, __OsCD1~OsCSLD4~NRL1~ND1~sle1~DNL1__, [Isolation and characterization of a rice mutant with narrow and rolled leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a rice mutant with narrow and rolled leaves%5BTitle%5D), NAL7 and SLL1 were found to be upregulated, whereas OsAGO7 were downregulated in the nrl1 mutant
 
 [//]: # * **Key figures**  

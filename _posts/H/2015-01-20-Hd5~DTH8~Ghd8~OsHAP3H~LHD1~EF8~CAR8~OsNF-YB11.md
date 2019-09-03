@@ -3,7 +3,7 @@ layout: post
 title: "Hd5,DTH8,Ghd8,OsHAP3H,LHD1,EF8,CAR8,OsNF-YB11"
 description: ""
 category: genes
-tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flower, grain, tillering, floral, transcription factor, panicle, branching, breeding, flowering time, nucleus, chlorophyll biogenesis, photosynthesis, R protein]
+tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flower, grain, tillering, floral, transcription factor, panicle, branching, breeding, flowering time, nucleus, chlorophyll biogenesis, photosynthesis, R protein, tolerance, cold tolerance]
 ---
 
 * **Information**  
@@ -23,6 +23,7 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
     + [EF8 is involved in photoperiodic flowering pathway and chlorophyll biogenesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=EF8 is involved in photoperiodic flowering pathway and chlorophyll biogenesis in rice.%5BTitle%5D), 2014, Plant Cell Rep.
     + [Fine Mapping of Carbon Assimilation Rate 8, a Quantitative Trait Locus for Flag Leaf Nitrogen Content, Stomatal Conductance and Photosynthesis in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Fine Mapping of Carbon Assimilation Rate 8, a Quantitative Trait Locus for Flag Leaf Nitrogen Content, Stomatal Conductance and Photosynthesis in Rice.%5BTitle%5D), 2017, Front Plant Sci.
     + [The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.](http://www.ncbi.nlm.nih.gov/pubmed?term=The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.%5BTitle%5D), 2017, Mol Plant.
+    + [A key variant in the cis-regulatory element of flowering gene Ghd8 associated with cold tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A key variant in the cis-regulatory element of flowering gene Ghd8 associated with cold tolerance in rice.%5BTitle%5D), 2019, Sci Rep.
 
 * **Genbank accession number**  
     + [AB288039](http://www.ncbi.nlm.nih.gov/nuccore/AB288039)
@@ -56,6 +57,8 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
     + Fine mapping suggested that CAR8 encodes a putative Heme Activator Protein 3 (OsHAP3) subunit of a CCAAT-box-binding transcription factor called OsHAP3H
     + This indicates that CAR8 affects multiple physiological aspects relating to photosynthesis
     + The detailed analysis of molecular functions of CAR8 would help to understand the association between photosynthesis and flowering and demonstrate specific genetic mechanisms that can be exploited to improve photosynthesis in rice and potentially other crops
+    + A key variant in the cis-regulatory element of flowering gene Ghd8 associated with cold tolerance in rice.
+    + Transgenic analyses revealed that higher expression levels of Ghd8 delayed heading date and enhanced cold tolerance in rice
 
 * **Connection**  
     + __CKI~EL1~Hd16__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8~OsNF-YB11__, [Genetic interactions involved in the inhibition of heading by heading date QTL, Hd2 in rice under long-day conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic interactions involved in the inhibition of heading by heading date QTL, Hd2 in rice under long-day conditions%5BTitle%5D), Combinations of several QTLs near Hd1, Hd2, Ghd7, Hd5, and Hd16 were detected under these four conditions
@@ -102,6 +105,7 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
     + __Hd3a__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8~OsNF-YB11__, [The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.](http://www.ncbi.nlm.nih.gov/pubmed?term=The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.%5BTitle%5D),  H3K27 trimethylation increases at Hd3a in the presence the DTH8-Hd1 complex, while Hd1 attenuates the H3K27me3 level in Hd3a when DTH8 function is lost
     + __Hd3a__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8~OsNF-YB11__, [The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.](http://www.ncbi.nlm.nih.gov/pubmed?term=The DTH8-Hd1 module mediates day length-dependent regulation of rice flowering.%5BTitle%5D),  Therefore, our findings establish that, in response to day length, DTH8 plays a critical role in mediating Hd1 regulation of Hd3a transcription through the DTH8-Hd1 module to shape epigenetic marks in photoperiodic flowering
     + __Hd1__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8~OsNF-YB11__, [Loss-of-Function Alleles of Heading date 1 Hd1 Are Associated With Adaptation of Temperate Japonica Rice Plants to the Tropical Region.](http://www.ncbi.nlm.nih.gov/pubmed?term=Loss-of-Function Alleles of Heading date 1 Hd1 Are Associated With Adaptation of Temperate Japonica Rice Plants to the Tropical Region.%5BTitle%5D),  We analyzed the 45 diverse rice accessions and 12 tropical-adapted temperate japonica lines for the allele types of seven major flowering genes Hd1, OsPPR37, DTH8, Ghd7, Ehd1, RFT1, and Hd3a and flowering time under three different field conditions in temperate and tropical locations
+    + __Ghd7.1~Hd2~OsPRR37~DTH7__, __Hd5~DTH8~Ghd8~OsHAP3H~LHD1~EF8~CAR8~OsNF-YB11__, [Genetic Interactions Among Ghd7, Ghd8, OsPRR37 and Hd1 Contribute to Large Variation in Heading Date in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic Interactions Among Ghd7, Ghd8, OsPRR37 and Hd1 Contribute to Large Variation in Heading Date in Rice.%5BTitle%5D), Genetic Interactions Among Ghd7, Ghd8, OsPRR37 and Hd1 Contribute to Large Variation in Heading Date in Rice.
 
 [//]: # * **Key figures**  
 

@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Se5,OsHY1,OsHO1,YGL2,YE1"
+title: "Se5,OsHY1,OsHO1,YGL2,YE1,PE-1"
 description: ""
 category: genes
-tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, photosynthesis, defense, temperature, chloroplast, heading date, leaf, seed, seedlings, map-based cloning, chlorophyll biogenesis]
+tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, photosynthesis, defense, temperature, chloroplast, heading date, leaf, seed, seedlings, map-based cloning, chlorophyll biogenesis, pollen, starch, fertility]
 ---
 
 * **Information**  
-    + Symbol: Se5,OsHY1,OsHO1,YGL2,YE1  
+    + Symbol: Se5,OsHY1,OsHO1,YGL2,YE1,PE-1  
     + MSU: [LOC_Os06g40080](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g40080)  
     + RAPdb: [Os06g0603000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0603000)  
 
@@ -19,6 +19,7 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + [RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense](http://www.ncbi.nlm.nih.gov/pubmed?term=RNAi knockdown of rice SE5 gene is sensitive to the herbicide methyl viologen by the down-regulation of antioxidant defense%5BTitle%5D), 2012, Plant Mol Biol.
     + [L -cysteine desulfhydrase-related H2 S production is involved in OsSE5-promoted ammonium tolerance in roots of Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=L -cysteine desulfhydrase-related H2 S production is involved in OsSE5-promoted ammonium tolerance in roots of Oryza sativa.%5BTitle%5D), 2017, Plant Cell Environ.
     + [Map-Based Cloning and Functional Analysis of YE1 in Rice, Which Is Involved in Light-Dependent Chlorophyll Biogenesis and Photoperiodic Flowering Pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=Map-Based Cloning and Functional Analysis of YE1 in Rice, Which Is Involved in Light-Dependent Chlorophyll Biogenesis and Photoperiodic Flowering Pathway.%5BTitle%5D), 2019, Int J Mol Sci.
+    + [PE-1, Encoding Heme Oxygenase 1, Impacts Heading Date and Chloroplast Development in Rice  Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=PE-1, Encoding Heme Oxygenase 1, Impacts Heading Date and Chloroplast Development in Rice  Oryza sativa L..%5BTitle%5D), 2019, J Agric Food Chem.
 
 * **Genbank accession number**  
     + [AK068856](http://www.ncbi.nlm.nih.gov/nuccore/AK068856)
@@ -50,13 +51,16 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
     + Here, we identified a rice mutant, yellow leaf and early flowering (ye1), and characterized the gene YE1 by using a map-based cloning method
     + Furthermore, the expression levels of Chl biosynthetic genes were downregulated in ye1 seedlings during de-etiolation responses to light
     + Map-Based Cloning and Functional Analysis of YE1 in Rice, Which Is Involved in Light-Dependent Chlorophyll Biogenesis and Photoperiodic Flowering Pathway.
+    + Expression pattern analysis indicated that PE-1 was mainly expressed in roots, stems, leaves, leaf sheaths, and young panicles
+    + Furthermore, the chloroplasts of pe-1 were filled with many large-sized starch grains, and the number of osmiophilic granules (a chloroplast lipid reservoir) was significantly decreased
+    + The pe-1 plant is accompanied by a decreased chlorophyll content, an enhanced photosynthesis, and a decreased pollen fertility
 
 * **Connection**  
-    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2~YE1__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants
-    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2~YE1__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
-    + __Hd17~Ef7~OsELF3-1~OsELF3.1~OsELF3__, __Se5~OsHY1~OsHO1~YGL2~YE1__, [Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.%5BTitle%5D),  Here, we observed that the oself3-1 mutation suppresses the photoperiod-insensitive early flowering of photoperiod sensitivity5 (se5), which is a chromophore-deficient rice mutant
-    + __Hd17~Ef7~OsELF3-1~OsELF3.1~OsELF3__, __Se5~OsHY1~OsHO1~YGL2~YE1__, [Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.%5BTitle%5D),  Although the oself3-1 mutation recovered Ghd7 expression in the se5 background, there was a lack of Ghd7 expression in the phyAphyBphyC triple mutant background
-    + __Ghd7__, __Se5~OsHY1~OsHO1~YGL2~YE1__, [Posttranscriptional regulation of Ghd7 protein stability by phytochrome and OsGI in photoperiodic control of flowering in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Posttranscriptional regulation of Ghd7 protein stability by phytochrome and OsGI in photoperiodic control of flowering in rice.%5BTitle%5D),  We found that constitutive expression of Ghd7 delays flowering in the wild type background, but not in the se5 mutant background (deficient in functional phytochromes) under LD and that Ghd7 protein fails to accumulate in the se5 mutant
+    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2~YE1~PE-1__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Early heading date1 (Ehd1), an additional rice floral activator, was also highly expressed in the s73 mutant, suggesting that SE5 represses Ehd1 in wild-type plants
+    + __Ehd1__, __Se5~OsHY1~OsHO1~YGL2~YE1~PE-1__, [Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of PHOTOPERIOD SENSITIVITY5 sheds light on the role of phytochromes in photoperiodic flowering in rice%5BTitle%5D), Silencing of Ehd1 in both Bahia and s73 backgrounds indicated that SE5 regulates Ehd1 expression
+    + __Hd17~Ef7~OsELF3-1~OsELF3.1~OsELF3__, __Se5~OsHY1~OsHO1~YGL2~YE1~PE-1__, [Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.%5BTitle%5D),  Here, we observed that the oself3-1 mutation suppresses the photoperiod-insensitive early flowering of photoperiod sensitivity5 (se5), which is a chromophore-deficient rice mutant
+    + __Hd17~Ef7~OsELF3-1~OsELF3.1~OsELF3__, __Se5~OsHY1~OsHO1~YGL2~YE1~PE-1__, [Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic relationship between phytochromes and OsELF3-1 reveals the mode of regulation for the suppression of phytochrome signaling in rice.%5BTitle%5D),  Although the oself3-1 mutation recovered Ghd7 expression in the se5 background, there was a lack of Ghd7 expression in the phyAphyBphyC triple mutant background
+    + __Ghd7__, __Se5~OsHY1~OsHO1~YGL2~YE1~PE-1__, [Posttranscriptional regulation of Ghd7 protein stability by phytochrome and OsGI in photoperiodic control of flowering in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Posttranscriptional regulation of Ghd7 protein stability by phytochrome and OsGI in photoperiodic control of flowering in rice.%5BTitle%5D),  We found that constitutive expression of Ghd7 delays flowering in the wild type background, but not in the se5 mutant background (deficient in functional phytochromes) under LD and that Ghd7 protein fails to accumulate in the se5 mutant
 
 [//]: # * **Key figures**  
 
