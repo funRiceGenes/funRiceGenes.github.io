@@ -11,12 +11,12 @@ tagline:
 __A comprehensive database of functionally characterized rice genes__
 
 
-* 3200+ cloned rice genes [[Download↓]](https://funricegenes.github.io/geneInfo.table.txt)  
-* 400+ gene families [[Download↓]](https://funricegenes.github.io/famInfo.table.txt)  
+* 3300+ cloned rice genes [[Download↓]](https://funricegenes.github.io/geneInfo.table.txt)  
+* 5000+ gene family members [[Download↓]](https://funricegenes.github.io/famInfo.table.txt)  
 * 400+ keywords [[Download↓]](https://funricegenes.github.io/geneKeyword.table.txt)  
-* 6000+ literatures [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
+* 6500+ literatures [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
 * 200+ interaction networks [[Download↓]](https://funricegenes.github.io/net.pdf)  
-* Contact: ywhzau at gmail.com   
+* Contact: venyao at qq.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
 <table align="center">
