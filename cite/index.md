@@ -19,3 +19,4 @@ group: navigation
 11. Hong et al. [Infrastructures of systems biology that facilitate functional genomic study in rice](https://link.springer.com/article/10.1186/s12284-019-0276-z), 2019, Rice.
 12. Borrill et al. [Identification of transcription factors regulating senescence in wheat through gene regulatory network modelling](http://www.plantphysiol.org/content/early/2019/05/07/pp.19.00380.abstract), 2019, Plant physiology.
 13. Yoo et al. [A Systematic View Exploring the Role of Chloroplasts in Plant Abiotic Stress Responses](https://www.hindawi.com/journals/bmri/2019/6534745/), 2019, BioMed Research International.
+14. Ram et al. [Insertional Mutagenesis Approaches and Their Use in Rice for Functional Genomics](https://www.mdpi.com/2223-7747/8/9/310), 2019, Plants.
