@@ -5,6 +5,50 @@ comments: no
 thread: 616
 ---
 
+* 2019/Oct/31 CYP96B5 == WSL5
+* 2019/Oct/31 add new info for gene: CYP96B5
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new gene: CYP96B5
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new info for gene: OsIQD14
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new gene: OsIQD14
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 RGB1 == OsRGB1
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new info for gene: ONAC096
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new info for gene: GA20ox2
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new info for gene: OsATG8c
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new gene: OsATG8c
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new info for gene: OsSPY
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new info for gene: OsNramp5
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new info for gene: OsbHLH156
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new gene: OsbHLH156
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 OsIRO2 == OsbHLH056
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new gene: OsRAmy3E
+* 2019/Oct/31 add new pub.
+* 2019/Oct/31 add new gene: OsPKG
+* 2019/Oct/30 add new pub
+* 2019/Oct/30 add new info for OsNAC2
+* 2019/Oct/30 add new info for OsVIN2
+* 2019/Oct/25 add new info
+* 2019/Oct/25 add new gene: OsGATA8
+* 2019/Oct/22 add new info
+* 2019/Oct/22 HEIP1 == OsAGG1
 * 2019/Oct/3 add new info for gene: OsRBR2
 * 2019/Oct/3 add new pub.
 * 2019/Oct/3 add new gene: OsRBR2

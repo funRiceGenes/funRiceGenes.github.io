@@ -3,7 +3,7 @@ layout: post
 title: "OsNAC2,OsTIL1,OMTN2,OsORE1"
 description: ""
 category: genes
-tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield, panicle, architecture, plant architecture, seedlings, cell death, PCD, root, auxin, development, cell division, root development, cytokinin, iaa, crown, crown root, lateral root, primary root, IAA]
+tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, transcription factor, height,  ga , flowering time, GA, resistance, drought, salt, tolerance, abiotic stress,  ABA , stress, biotic stress, ABA, stress tolerance, stress response, protein kinase, leaf, leaf senescence, senescence, grain, grain yield, panicle, architecture, plant architecture, seedlings, cell death, PCD, root, auxin, development, cell division, root development, cytokinin, iaa, crown, crown root, lateral root, primary root, IAA, salt tolerance]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + [Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsmiR164b-resistant OsNAC2 improves plant architecture and grain yield in rice.%5BTitle%5D), 2018, J Exp Bot.
     + [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D), 2018, Plant J.
     + [OsNAC2 integrates auxin and cytokinin pathways to modulate rice root development.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 integrates auxin and cytokinin pathways to modulate rice root development.%5BTitle%5D), 2019, Plant Biotechnol J.
+    + [Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.%5BTitle%5D), 2019, Rice (N Y).
 
 * **Genbank accession number**  
 
@@ -47,6 +48,8 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + OsNAC2 predominantly expressed in primary root tips, crown roots and lateral root primordia, implying it influences root development
     + Thus, we describe that OsNAC2 functions as an upstream integrator of auxin and cytokinin signals that affect CRL and CDK production to regulate cell division during root development
     + Additionally, OsNAC2 can directly bind to the promoters of IAA inactivation-related genes (GH3
+    + Overexpressing a microRNA (miR164b)-resistant OsNAC2 mutant gene, which generates transcripts that cannot be targeted by miR164b, improves rice plant architecture and yield; however, the performance of these mOsNAC2-overexpressing lines, named ZUOErN3 and ZUOErN4, under abiotic stress conditions such as drought have not yet been fully characterized
+    + Taken together, our results show that OsNAC2 plays a positive regulatory role in drought and salt tolerance in rice through ABA-mediated pathways
 
 * **Connection**  
     + __D35~OsKOS3~OsKO2__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 encoding a NAC transcription factor affects plant height through mediating the gibberellic acid pathway in rice.%5BTitle%5D), Dual-luciferase reporter analyses, yeast one-hybrid assays and ChIP-qPCR suggested that OsNAC2 directly interacted with the promoter of OsEATB and OsKO2
@@ -60,6 +63,8 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + __OsGORK~OsK5.2__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D),  Furthermore, K+-efflux channels (OsGORK and OsSKOR) were obviously activated by OsNAC2
     + __OsNAC2~OsTIL1~OMTN2~OsORE1__, __OsSKOR__, [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D),  Furthermore, K+-efflux channels (OsGORK and OsSKOR) were obviously activated by OsNAC2
     + __OsNAC2~OsTIL1~OMTN2~OsORE1__, __OsWRKY5__, [OsWRKY5 Promotes Rice Leaf Senescence via Senescence-Associated NAC and Abscisic Acid Biosynthesis Pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsWRKY5 Promotes Rice Leaf Senescence via Senescence-Associated NAC and Abscisic Acid Biosynthesis Pathway.%5BTitle%5D),  Furthermore, RT-qPCR and yeast one-hybrid analysis demonstrated that OsWRKY5 indirectly upregulates the expression of senescence-associated NAM/ATAF1/2/CUC2 (NAC) genes including OsNAP and OsNAC2
+    + __OsLEA3~OsLEA3-1__, __OsNAC2~OsTIL1~OMTN2~OsORE1__, [Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.%5BTitle%5D),  Moreover, OsNAC2 directly interacted with the promoters of OsLEA3 and OsNCED3 in yeast one-hybrid assays
+    + __OsNAC2~OsTIL1~OMTN2~OsORE1__, __OsNCED3__, [Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.%5BTitle%5D),  Moreover, OsNAC2 directly interacted with the promoters of OsLEA3 and OsNCED3 in yeast one-hybrid assays
 
 [//]: # * **Key figures**  
 

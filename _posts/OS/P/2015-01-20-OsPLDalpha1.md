@@ -13,6 +13,7 @@ tags:
 
 * **Publication**  
     + [Overexpression of a phospholipase OsPLD¦Á1 for drought tolerance in upland rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a phospholipase OsPLD¦Á1 for drought tolerance in upland rice Oryza sativa L..%5BTitle%5D), 2018, Protoplasma.
+    + [Novel cis-acting regulatory elements in wild Oryza species impart improved rice bran quality by lowering the expression of phospholipase D alpha1 enzyme OsPLD¦Á1.](http://www.ncbi.nlm.nih.gov/pubmed?term=Novel cis-acting regulatory elements in wild Oryza species impart improved rice bran quality by lowering the expression of phospholipase D alpha1 enzyme OsPLD¦Á1.%5BTitle%5D), 2019, Mol Biol Rep.
 
 * **Genbank accession number**  
 
