@@ -1,0 +1,47 @@
+---
+layout: post
+title: "OsbHLH59,OsbHLH059,OsPRI3"
+description: ""
+category: genes
+tags: [root, shoot, wounding, transcription factor, iron, homeostasis]
+---
+
+* **Information**  
+    + Symbol: OsbHLH59,OsbHLH059,OsPRI3  
+    + MSU: [LOC_Os02g02480](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g02480)  
+    + RAPdb: [Os02g0116600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0116600)  
+
+* **Publication**  
+    + [Identification of two transcription factors activating the expression of OsXIP in rice defence response.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of two transcription factors activating the expression of OsXIP in rice defence response.%5BTitle%5D), 2017, BMC Biotechnol.
+    + [OsbHLH058 and OsbHLH059 transcription factors positively regulate iron deficiency responses in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH058 and OsbHLH059 transcription factors positively regulate iron deficiency responses in rice.%5BTitle%5D), 2019, Plant Mol Biol.
+    + [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D), 2019, Plant Cell Environ.
+
+* **Genbank accession number**  
+
+* **Key message**  
+    + Moreover, transcriptional analysis revealed that mechanical wounding and treatment with MeJA resulted in an obvious increase in transcript levels of OsbHLH59 and OsERF71 in root and shoot tissues
+    + OsbHLH058 and OsbHLH059 transcription factors positively regulate iron deficiency responses in rice.
+    + Subgroup IVc basic helix-loop-helix transcription factors OsbHLH058 and OsbHLH059 positively regulate major iron deficiency responses in rice in a similar but distinct manner, putatively under partial control by OsHRZs
+    + In the present study, we investigated the functions of OsbHLH058 and OsbHLH059 related to iron deficiency response
+    + OsbHLH059 knockdown lines were also susceptible to iron deficiency, and formed characteristic brownish regions in iron-deficient new leaves
+    + OsbHLH059 knockdown lines also showed reduced expression of many iron deficiency-inducible genes
+    + These results indicate that OsbHLH058 and OsbHLH059 positively regulate major iron deficiency responses in a similar but distinct manner, and that this function may be partially controlled by OsHRZs
+    + We also provide evidence that OsPRI2 and OsPRI3 bind to the promoters of OsIRO2 and OsIRO3, two key regulators of Fe homeostasis
+    + Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 (OsPRI2) and OsPRI3 are involved in the maintenance of Fe homeostasis.
+
+* **Connection**  
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsERF71__, [Identification of two transcription factors activating the expression of OsXIP in rice defence response.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of two transcription factors activating the expression of OsXIP in rice defence response.%5BTitle%5D),  Using yeast one-hybrid screening, coupled with chromatin immunoprecipitation analysis, a basic helix-loop-helix protein (OsbHLH59) and an APETALA2/ETHYLENE RESPONSE FACTOR (AP2/ERF) transcription factor OsERF71 directly binding to the 562<U+00A0>bp key sequence to activate the expression of OsXIP were identified, which is further supported by transient expression assay
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsERF71__, [Identification of two transcription factors activating the expression of OsXIP in rice defence response.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of two transcription factors activating the expression of OsXIP in rice defence response.%5BTitle%5D),  Moreover, transcriptional analysis revealed that mechanical wounding and treatment with MeJA resulted in an obvious increase in transcript levels of OsbHLH59 and OsERF71 in root and shoot tissues
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsXIP__, [Identification of two transcription factors activating the expression of OsXIP in rice defence response.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of two transcription factors activating the expression of OsXIP in rice defence response.%5BTitle%5D),  Using yeast one-hybrid screening, coupled with chromatin immunoprecipitation analysis, a basic helix-loop-helix protein (OsbHLH59) and an APETALA2/ETHYLENE RESPONSE FACTOR (AP2/ERF) transcription factor OsERF71 directly binding to the 562<U+00A0>bp key sequence to activate the expression of OsXIP were identified, which is further supported by transient expression assay
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsHRZ1__, [OsbHLH058 and OsbHLH059 transcription factors positively regulate iron deficiency responses in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH058 and OsbHLH059 transcription factors positively regulate iron deficiency responses in rice.%5BTitle%5D),  Yeast two-hybrid analysis indicated that OsbHLH058 interacts with OsHRZ1 and OsHRZ2 more strongly than OsbHLH060, whereas OsbHLH059 showed no interaction
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsHRZ2__, [OsbHLH058 and OsbHLH059 transcription factors positively regulate iron deficiency responses in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH058 and OsbHLH059 transcription factors positively regulate iron deficiency responses in rice.%5BTitle%5D),  Yeast two-hybrid analysis indicated that OsbHLH058 interacts with OsHRZ1 and OsHRZ2 more strongly than OsbHLH060, whereas OsbHLH059 showed no interaction
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsHRZ1__, [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D),  In this study, we identified and functionally characterized OsPRI2 and OsPRI3, two paralogs of OsPRI1, observing that they directly interact with OsHRZ1
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsHRZ1__, [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D),  Additional analyses suggested that OsHRZ1 promotes the degradation of OsPRI2 and OsPRI3
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsIRO2~OsbHLH056__, [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D),  We also provide evidence that OsPRI2 and OsPRI3 bind to the promoters of OsIRO2 and OsIRO3, two key regulators of Fe homeostasis
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsIRO3~OsOsbHLH063__, [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D),  We also provide evidence that OsPRI2 and OsPRI3 bind to the promoters of OsIRO2 and OsIRO3, two key regulators of Fe homeostasis
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsPRI1~OsbHLH115__, [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D),  In this study, we identified and functionally characterized OsPRI2 and OsPRI3, two paralogs of OsPRI1, observing that they directly interact with OsHRZ1
+    + __OsbHLH59~OsbHLH059~OsPRI3__, __OsYSL2__, [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D),  Moreover, OsPRI2 and OsPRI3 directly induce expression of the metal-nicotianamine transporter, OsYSL2, by associating with the promoter in response to Fe deficiency
+
+[//]: # * **Key figures**  
+
+

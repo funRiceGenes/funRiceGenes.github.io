@@ -5,6 +5,132 @@ comments: no
 thread: 616
 ---
 
+* 2019/Nov/28 add new info for gene: OsGL6
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 HL6 == OsGL6
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new info for gene: OsPUB67
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new gene: OsPUB67
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new info for gene: OsRH42
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 PRP5 == OsRH42
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new gene: OsNAC42
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new gene: OsNPF6.1
+* 2019/Nov/28 add new info for gene: OsOFP19
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new gene: OsNRT1.1B
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new info for gene: OsNramp5
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new info for gene: OsLsi2
+* 2019/Nov/28 add new pub.
+* 2019/Nov/28 add new info for gene: OsLsi1
+* 2019/Nov/28 add new pub.
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new gene: PiPR1
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new info for gene: OsCYP20-2
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new info for gene: OsGORK
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new info for gene: OsAOC
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new info for gene: OsNTL3
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new gene: OsNTL3
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new info for gene: Z15
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new gene: Z15
+* 2019/Nov/20 add new info for gene: OsPHT2;1
+* 2019/Nov/20 add new pub.
+* 2019/Nov/20 add new gene: OsPHT2;1
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new info for gene: OsGF14b
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new info for gene: OsNR2
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 OsNIA1 == OsNia1 == OsNR2
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new info for gene: OsRIP1
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new gene: OsRIP1
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 SAPK9 == OsSAPK9
+* 2019/Nov/17 add new info for gene: OsProT3
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new gene: OsProT3
+* 2019/Nov/17 add new info for gene: OsProT1
+* 2019/Nov/17 add new pub.
+* 2019/Nov/17 add new gene: OsProT1
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new gene: OsCYCP4;4
+* 2019/Nov/13 add new info for gene: OsCYCP4;3
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new gene: OsCYCP4;3
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new gene: OsCYCP4;2
+* 2019/Nov/13 CYCU4;1 == OsCYCP4;1
+* 2019/Nov/13 add new info for gene: GW2
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new info for gene: DSL1
+* 2019/Nov/13 add new pub.
+* 2019/Nov/13 add new gene: DSL1
+* 2019/Nov/13 add new info for gene: OsCBL1
+* 2019/Nov/13 add new pub.
+* 2019/Nov/12 add new info for gene: BSR1
+* 2019/Nov/12 add new pub.
+* 2019/Nov/12 add new info for gene: Ptd1
+* 2019/Nov/12 add new pub.
+* 2019/Nov/12 Psd1 == Ptd1
+* 2019/Nov/12 add new info for gene: SH4
+* 2019/Nov/12 add new pub.
+* 2019/Nov/12 add new info for gene: SLC1
+* 2019/Nov/12 add new pub.
+* 2019/Nov/12 add new gene: SLC1
+* 2019/Nov/12 add new info for gene: SLC2
+* 2019/Nov/12 add new pub.
+* 2019/Nov/12 add new gene: SLC2
+* 2019/Nov/12 add new pub.
+* 2019/Nov/10 add new info for gene: Ghd8
+* 2019/Nov/10 add new pub.
+* 2019/Nov/10 add new info for gene: OsCYP71D8L
+* 2019/Nov/10 add new pub.
+* 2019/Nov/10 add new gene: OsCYP71D8L
+* 2019/Nov/10 add new info for gene: OsIRO2
+* 2019/Nov/10 add new pub.
+* 2019/Nov/10 add new info for gene: OsHXK5
+* 2019/Nov/10 add new pub.
+* 2019/Nov/10 add new info for OsPRI2
+* 2019/Nov/10 add new pub.
+* 2019/Nov/10 OsbHLH59 == OsbHLH059 == OsPRI3
+* 2019/Nov/10 OsbHLH058 == OsPRI2
+* 2019/Nov/10 add new info for gene: HMS1
+* 2019/Nov/10 add new pub.
+* 2019/Nov/10 add new pub.
+* 2019/Nov/10 OsCER2 == OsHMS1I
+* 2019/Nov/10 WSL4 == CUT1L == HMS1
 * 2019/Oct/31 CYP96B5 == WSL5
 * 2019/Oct/31 add new info for gene: CYP96B5
 * 2019/Oct/31 add new pub.
@@ -2321,7 +2447,6 @@ thread: 616
 * 2018/Mar/30 add new pub.
 * 2018/Mar/30 add new pub.
 * 2018/Mar/30 add new pub.
-* 2018/Mar/23 fix error info
 * 2018/Mar/17 add new pub.
 * 2018/Mar/17 add new pub.
 * 2018/Mar/17 add new info for gene: Gn1a
@@ -3999,19 +4124,8 @@ thread: 616
 * 2017/Mar/10 add new pub.
 * 2017/Mar/10 add new pub.
 * 2017/Mar/10 add new pub.
-* 2017/Mar/1 fix info
 * 2017/Mar/1 add new accessions for OsGPCR
 * 2017/Mar/1 add new pub.
-* 2017/Mar/1 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
-* 2017/Feb/27 fix info
 * 2017/Feb/27 add new info for gene: OsLBD3-7
 * 2017/Feb/27 add new pub.
 * 2017/Feb/27 PLA3 == OsLBD3-7
@@ -4020,7 +4134,6 @@ thread: 616
 * 2017/Feb/27 add new info for gene: OsWAK91
 * 2017/Feb/27 add new pub.
 * 2017/Feb/27 OsDEES1 == OsWAK91
-* 2017/Feb/27 fix info
 * 2017/Feb/27 OsWAK1
 * 2017/Feb/27 add new accessions for OsWAK1
 * 2017/Feb/27 OsWAK1
@@ -4069,7 +4182,6 @@ thread: 616
 * 2017/Feb/20 add new info for gene: OsCPK9
 * 2017/Feb/20 add new pub.
 * 2017/Feb/20 add new gene: OsCPK9
-* 2017/Feb/19 fix info
 * 2017/Feb/19 D53
 * 2017/Feb/19 delete files done
 * 2017/Feb/19 add new accessions for OsBRL2
@@ -4191,7 +4303,6 @@ thread: 616
 * 2017/Feb/14 add new pub.
 * 2017/Feb/14 add new pub.
 * 2017/Feb/14 add new pub.
-* 2017/Feb/12 fix encoding
 * 2017/Feb/11 add new pub.
 * 2017/Feb/11 add new info for gene: OsFBK1
 * 2017/Feb/11 add new pub.
@@ -4683,7 +4794,6 @@ thread: 616
 * 2016/Nov/5 add new gene: TAC3
 * 2016/Nov/5 add new family: histone chaperones
 * 2016/Nov/5 add new pub.
-* 2016/Nov/5 fix info
 * 2016/Nov/5 Rf98 == PPR762
 * 2016/Nov/5 add new reference for Rf98
 * 2016/Nov/5 add new gene: Rf98
@@ -4730,7 +4840,6 @@ thread: 616
 * 2016/Oct/28 add new info for gene: RGG1
 * 2016/Oct/28 add new pub.
 * 2016/Oct/28 add new gene: RGG1
-* 2016/Oct/27 fix info
 * 2016/Oct/27 add new pub.
 * 2016/Oct/26 add new pub.
 * 2016/Oct/26 add new pub.
@@ -5008,7 +5117,6 @@ thread: 616
 * 2016/Sep/1 add new gene: OsWSL3
 * 2016/Sep/1 add new pub.
 * 2016/Sep/1 add new pub.
-* 2016/Sep/1 fix bug
 * 2016/Aug/30 update the interface
 * 2016/Aug/29 add new pub.
 * 2016/Aug/29 add new pub.
@@ -5104,7 +5212,6 @@ thread: 616
 * 2016/Aug/17 add new gene: OsPHT2
 * 2016/Aug/17 add new pub.
 * 2016/Aug/17 add new gene: OsPHT1
-* 2016/Aug/13 fix encoding
 * 2016/Aug/13 add new info for gene: OsRAD1
 * 2016/Aug/13 add new pub.
 * 2016/Aug/13 add new gene: OsRAD1
@@ -5220,7 +5327,6 @@ thread: 616
 * 2016/Jul/9 add new info for gene: OsMDHAR
 * 2016/Jul/9 add new pub.
 * 2016/Jul/9 add new gene: OsMDHAR
-* 2016/Jul/9 fix error info
 * 2016/Jul/7 add new info for gene: OsPRA2
 * 2016/Jul/7 add new pub.
 * 2016/Jul/7 add new gene: OsPRA2
@@ -5418,7 +5524,6 @@ thread: 616
 * 2016/May/19 add new fam: Exo70 protein
 * 2016/May/19 add new info for gene: OsExo70-F2
 * 2016/May/19 add new gene: OsExo70-F2
-* 2016/May/19 fix info
 * 2016/May/19 add new pub for SDT
 * 2016/May/19 add new gene: SDT
 * 2016/May/19 add new pub for OsPP108
@@ -5506,7 +5611,6 @@ thread: 616
 * 2016/May/5 add new gene: BPH26
 * 2016/May/5 add new gene: BPH26
 * 2016/May/5 add new family: snf2 family
-* 2016/May/5 fix OsAUX1
 * 2016/May/5 add new pub for OsFIE1
 * 2016/May/5 add new pub.
 * 2016/May/4 add new fam: Ubiquitin-Conjugating_Enzyme_Gene_Family

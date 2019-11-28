@@ -33,6 +33,8 @@ tags: [root hair, nitrate, transporter, root]
 
 * **Connection**  
     + __NRT1~OsNRT1~OsNRT1.1__, __OsPHR3__, [OsPHR3 affects the traits governing nitrogen homeostasis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPHR3 affects the traits governing nitrogen homeostasis in rice.%5BTitle%5D),  During vegetative growth phase, compared with the wild-type, OsPHR3 mutants showed significant variations in the adventitious root development, influx rates of 15N-NO3- and 15N-NH4+, concentrations of total N, NO3- and NH4+ in different tissues, and the relative expression levels of OsNRT1
+    + __NRT1~OsNRT1~OsNRT1.1__, __OsNIA1~OsNia1~OsNR2__, [The indica nitrate reductase gene OsNR2 allele enhances rice yield potential and nitrogen use efficiency.](http://www.ncbi.nlm.nih.gov/pubmed?term=The indica nitrate reductase gene OsNR2 allele enhances rice yield potential and nitrogen use efficiency.%5BTitle%5D),  Indica OsNR2 also promotes NO3- uptake via feed-forward interaction with OsNRT1
+    + __NRT1~OsNRT1~OsNRT1.1__, __OsNIA1~OsNia1~OsNR2__, [The indica nitrate reductase gene OsNR2 allele enhances rice yield potential and nitrogen use efficiency.](http://www.ncbi.nlm.nih.gov/pubmed?term=The indica nitrate reductase gene OsNR2 allele enhances rice yield potential and nitrogen use efficiency.%5BTitle%5D),  These properties enable indica OsNR2 to confer increased effective tiller number, grain yield and NUE on japonica rice, effects enhanced by interaction with an additionally introgressed indica OsNRT1
 
 [//]: # * **Key figures**  
 
