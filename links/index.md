@@ -8,6 +8,8 @@ comments: yes
 - **ResearchGate**: <a href="https://www.researchgate.net/profile/Wen_Yao" target="_blank">https://www.researchgate.net/profile/Wen_Yao</a>  
 - **GitHub**: <a href="https://github.com/venyao" target="_blank">https://github.com/venyao</a>  
 - **Google Scholar**: <a href="https://scholar.google.com/citations?user=n6WrEUQAAAAJ&hl=zh-CN" target="_blank">https://scholar.google.com/citations?user=n6WrEUQAAAAJ&hl=zh-CN</a>  
+- **Resume**: <a href="https://venyao.github.io/" target="_blank">https://venyao.github.io</a>  
+
 
 # Softwares and Databases  
 - **ECOGEMS**: <a href="http://ecogems.ncpgr.cn/" target="_blank">http://ecogems.ncpgr.cn/</a>, <a href="http://150.109.59.144:3838/ECOGEMS/" target="_blank">http://150.109.59.144:3838/ECOGEMS/</a>, <a href="https://github.com/venyao/ECOGEMS" target="_blank">https://github.com/venyao/ECOGEMS</a>  
