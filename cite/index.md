@@ -24,3 +24,4 @@ group: navigation
 16. Dhaka et al. [Small RNA profiling from meiotic and post-meiotic anthers reveals prospective miRNA-target modules for engineering male fertility in sorghum](https://www.sciencedirect.com/science/article/pii/S0888754319302927), 2019, Genomics.
 17. Chandran et al. [A web-based tool for the prediction of rice transcription factor function](https://academic.oup.com/database/article/doi/10.1093/database/baz061/5511305), 2019, Database.
 18. Peng et al. [MBKbase for rice: an integrated omics knowledgebase for molecular breeding in rice](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz921/5590660), 2019, Nucleic Acids Research.
+19. Liu et al. [Identification of genes for salt tolerance and yield-related traits in rice plants grown hydroponically and under saline field conditions by genome-wide association study](https://link.springer.com/article/10.1186/s12284-019-0349-z), 2019, Rice.
