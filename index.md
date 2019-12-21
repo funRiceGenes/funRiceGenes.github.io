@@ -19,6 +19,8 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: venyao at qq.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
+__Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_blank">paper</a> if you use the funRiceGenes dataset in your study!__  
+
 <table align="center">
 <tr>
 <th>
@@ -26,7 +28,7 @@ __A comprehensive database of functionally characterized rice genes__
 </th>
 <th></th><th></th>
 <th>
-<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/gix119/4689117" target="_blank"><img src="https://funricegenes.github.io/images/gigascience.png" style="width: 300px;"/></a>
+<a href="https://doi.org/10.1093/gigascience/gix119" target="_blank"><img src="https://funricegenes.github.io/images/gigascience.png" style="width: 300px;"/></a>
 </th>
 </tr>
 </table>

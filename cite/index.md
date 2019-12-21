@@ -4,6 +4,8 @@ title: Citations
 group: navigation
 ---
 
+__Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_blank">paper</a> if you use the funRiceGenes dataset in your study!__  
+
 **Publications that cite the funRiceGenes database:**  
 
 1. Zong et al. [Feedback Regulation of ABA Signaling and Biosynthesis by a bZIP Transcription Factor Targets Drought-Resistance-Related Genes](http://www.plantphysiol.org/content/early/2016/06/20/pp.16.00469.abstract), 2016, Plant physiology.
