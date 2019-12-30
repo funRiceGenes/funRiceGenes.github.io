@@ -5,6 +5,141 @@ comments: no
 thread: 616
 ---
 
+* 2019/Dec/30 add new gene GH1
+* 2019/Dec/30 add new info for gene: OsmiR530
+* 2019/Dec/30 add new pub.
+* 2019/Dec/30 add new gene: OsmiR530
+* 2019/Dec/30 add new pub.
+* 2019/Dec/30 add new pub.
+* 2019/Dec/30 add new info for gene: OsCADT1
+* 2019/Dec/30 add new pub.
+* 2019/Dec/30 add new gene: OsCADT1
+* 2019/Dec/30 add new info for gene: OsHKT1;1
+* 2019/Dec/30 add new pub.
+* 2019/Dec/30 add new pub.
+* 2019/Dec/27 add new info for gene: OsIAGT1
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 OsIAGLU == OsIAAGLU == OsIAGT1
+* 2019/Dec/27 add new info for gene: Osa-miR7695
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: Osa-miR7695
+* 2019/Dec/27 add new info for gene: OsJAC1
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new info for gene: OsmiR528
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new info for gene: OsUCL23
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: OsUCL23
+* 2019/Dec/27 add new accessions for OsBRD1
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 OsDWARF == OsBRD1
+* 2019/Dec/27 add new info for gene: OsLOGL5
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: OsLOGL5
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new info for gene: OsPIP1;3
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new info for gene: DEP1
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new info for gene: OsPAL6
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: OsPAL6
+* 2019/Dec/27 add new info for gene: OsPAL8
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: OsPAL8
+* 2019/Dec/27 add new info for gene: RL1
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: RL1
+* 2019/Dec/27 add new info for gene: OsCASP2
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: OsCASP2
+* 2019/Dec/27 add new info for gene: OsPYL10
+* 2019/Dec/27 add new pub.
+* 2019/Dec/27 add new gene: OsPYL10
+* 2019/Dec/15 add new info for gene: OsLecRK-S.7
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: OsLecRK-S.7
+* 2019/Dec/15 add new info for gene: OsDSK2a
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: OsDSK2a
+* 2019/Dec/15 add new info for gene: WG7
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 OsCW-ZF7 == WG7
+* 2019/Dec/15 add new info for gene: OsWRKY24
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new info for gene: OsPUB73
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: OsPUB73
+* 2019/Dec/15 add new info for gene: OsMSR3
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 OsHsp18.0-CI == Oshsp18.0 == OsMSR3
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new info for gene: MADS79
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: MADS79
+* 2019/Dec/15 add new info for gene: MADS78
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: MADS78
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new accessions for OsDim1
+* 2019/Dec/15 add new info for gene: OsDim1
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: OsDim1
+* 2019/Dec/15 add new info for gene: OsMYB57
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: OsMYB57
+* 2019/Dec/15 add new info for gene: OsMAPK11
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 OsMPK11 == OsMAPK11
+* 2019/Dec/15 add new info for gene: OsPAL2;3
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new gene: OsPAL2;3
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new info for gene: OsMOT1;1
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new pub.
+* 2019/Dec/15 add new pub.
+* 2019/Dec/13 add new pub.
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new info for gene: OsESG1
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new gene: OsESG1
+* 2019/Dec/12 add new info for gene: PFKB1
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new gene: PFKB1
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new info for gene: OsCAF1B
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new gene: OsCAF1B
+* 2019/Dec/12 add new info for gene: NSG1
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 NSG == NSG1
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new info for gene: OsMIZ1
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new gene: OsMIZ1
+* 2019/Dec/12 add new info for gene: OsPUB41
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new gene: OsPUB41
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new info for gene: PTC2
+* 2019/Dec/12 add new pub.
+* 2019/Dec/12 add new gene: PTC2
 * 2019/Nov/28 add new info for gene: OsGL6
 * 2019/Nov/28 add new pub.
 * 2019/Nov/28 HL6 == OsGL6
