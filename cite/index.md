@@ -27,3 +27,7 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 17. Chandran et al. [A web-based tool for the prediction of rice transcription factor function](https://academic.oup.com/database/article/doi/10.1093/database/baz061/5511305), 2019, Database.
 18. Peng et al. [MBKbase for rice: an integrated omics knowledgebase for molecular breeding in rice](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz921/5590660), 2019, Nucleic Acids Research.
 19. Liu et al. [Identification of genes for salt tolerance and yield-related traits in rice plants grown hydroponically and under saline field conditions by genome-wide association study](https://link.springer.com/article/10.1186/s12284-019-0349-z), 2019, Rice.
+20. Dhaka et al. [Transcriptional trajectories of anther development provide candidates for engineering male fertility in sorghum](https://www.nature.com/articles/s41598-020-57717-0), 2020, Scientific Reports.
+21. Yoo et al. [Fast Track to Discover Novel Promoters in Rice](https://www.mdpi.com/2223-7747/9/1/125), 2020, Plants.
+22. Yang et al. [Crop Phenomics and High-Throughput Phenotyping: Past Decades, Current Challenges, and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1674205220300083), 2020, Molecular Plant.
+23. DO et al. [Candidate gene prioritization using graph embedding](https://www.biorxiv.org/content/10.1101/2020.02.03.927913v1), 2020, BioRxiv.
