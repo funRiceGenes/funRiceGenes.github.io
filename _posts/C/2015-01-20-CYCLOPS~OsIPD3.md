@@ -3,7 +3,7 @@ layout: post
 title: "CYCLOPS,OsIPD3"
 description: ""
 category: genes
-tags: 
+tags: [mycorrhizal symbiosis]
 ---
 
 * **Information**  
@@ -18,6 +18,8 @@ tags:
 * **Genbank accession number**  
 
 * **Key message**  
+    + OsIPD3, an ortholog of the Medicago truncatula DMI3 interacting protein IPD3, is required for mycorrhizal symbiosis in rice.
+    + Osipd3 mutants are unable to form mycorrhizal symbiosis
 
 * **Connection**  
     + __CYCLOPS~OsIPD3__, __OsCCaMK~OsDMI3__, [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), We observed colocalization and physical interaction between CCaMK and CYCLOPS in plant and yeast cell nuclei in the absence of symbiotic stimulation

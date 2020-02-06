@@ -3,7 +3,7 @@ layout: post
 title: "OsCER2,OsHMS1I"
 description: ""
 category: genes
-tags: 
+tags: [male sterility, fatty acid biosynthesis]
 ---
 
 * **Information**  
@@ -18,6 +18,8 @@ tags:
 * **Genbank accession number**  
 
 * **Key message**  
+    + HMS1 interacts with HMS1I to regulate very-long-chain fatty acid biosynthesis and the humidity-sensitive genic male sterility in rice (Oryza sativa).
+    + The ER localization of WSL4 and OsCER2 suggested that they might act synergistically for carbon-chain elongation in fatty acid synthesis.
 
 * **Connection**  
     + __OsCER2~OsHMS1I__, __WSL4~CUT1L~HMS1__, [A beta-ketoacyl-CoA synthase is Involved in Rice Leaf Cuticular Wax Synthesis and requires a CER2-LIKE Protein as a Cofactor](http://www.ncbi.nlm.nih.gov/pubmed?term=A beta-ketoacyl-CoA synthase is Involved in Rice Leaf Cuticular Wax Synthesis and requires a CER2-LIKE Protein as a Cofactor%5BTitle%5D), We further isolated a cofactor of WSL4, OsCER2, a homolog of Arabidopsis CER2, by coimmunoprecipitation, and confirmed their physical interaction by split-ubiquitin yeast two-hybrid experiments

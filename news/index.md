@@ -5,6 +5,366 @@ comments: no
 thread: 616
 ---
 
+* 2020/Feb/5 OsHOS1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsMED25
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsMED25
+* 2020/Feb/5 add new info for gene: OsNRAMP5
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new keywords for OsALDH2b
+* 2020/Feb/5 add new keywords for OsALDH2b
+* 2020/Feb/5 add new keywords for OsALDH2b
+* 2020/Feb/5 add new keywords for OsALDH2b
+* 2020/Feb/5 add new keywords for OsALDH2b
+* 2020/Feb/5 OsALDH2b == OsALDH2B1 == ALDH2b
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new keywords for BOC1
+* 2020/Feb/5 add new keywords for BOC1
+* 2020/Feb/5 add new info for gene: BOC1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 OsSRO1c == BOC1
+* 2020/Feb/5 add new info for gene: OsUGT90A1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsUGT90A1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: Xa4
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new connections between OsRR21 and MHZ1
+* 2020/Feb/5 add new info for gene: OsRR21
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsRR21
+* 2020/Feb/5 add new connections between OsEIN2 and MHZ1
+* 2020/Feb/5 add new connections between ERS2 and MHZ1
+* 2020/Feb/5 add new info for gene: MHZ1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 MHZ1 == OsHK1 == HK1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsBURP16
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsSAPK8
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: MIS2
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 OsCR4 == MIS2
+* 2020/Feb/5 add new info for gene: OsSUS3
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 RSUS3 == SUS3 == OsSUS3
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsmiR396
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsmiR396
+* 2020/Feb/5 add new info for gene: OsCV
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: GPA5
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: GPA5
+* 2020/Feb/5 add new info for gene: OFP3
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OFP3
+* 2020/Feb/5 add new info for gene: OsPID
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 OsPID == OsPINOID
+* 2020/Feb/5 add new info for gene: Osexpa7
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsEXPA7
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsPCS2
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsPCS1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsNHAD
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsNHAD
+* 2020/Feb/5 add new info for gene: OsTZF5
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsTZF5
+* 2020/Feb/5 add new info for gene: OsSR45
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsSR45
+* 2020/Feb/5 add new info for gene: OsFKBP20-1b
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsFKBP20-1b
+* 2020/Feb/5 add new info for gene: WEG1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: WEG1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: FBL55
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: FBL55
+* 2020/Feb/5 add new info for gene: siR109944
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: siR109944
+* 2020/Feb/5 add new info for gene: OsKO1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: LTT1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: LTT1
+* 2020/Feb/5 add new info for gene: ES5
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 SUI2 == ES5
+* 2020/Feb/5 add new info for gene: AFG1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 OsMADS6 == MFO1 == AFG1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: Os3BGlu6
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: ONAC054
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 RIM1 == ONAC054
+* 2020/Feb/5 add new info for gene: OsNADK1
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsNADK1
+* 2020/Feb/5 add new info for gene: OsFPFL4
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsFPFL4
+* 2020/Feb/5 add new info for gene: KRP2
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: KRP2
+* 2020/Feb/5 add new info for gene: OsSRLK
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsSRLK
+* 2020/Feb/5 add new keywords for OsGPI8
+* 2020/Feb/5 add new keywords for OsGPI8
+* 2020/Feb/5 add new keywords for OsGPI8
+* 2020/Feb/5 add new keywords for OsGPI8
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsGPI8
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new info for gene: OsAP2
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new keywords for OsERdj7
+* 2020/Feb/5 add new keywords for OsERdj7
+* 2020/Feb/5 add new info for gene: OsERdj7
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsERdj7
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 OsNPPR3 == FLO14
+* 2020/Feb/5 add new info for gene: OsNPPR3
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsNPPR3
+* 2020/Feb/5 add new keywords for OsSEX4
+* 2020/Feb/5 add new keywords for OsSEX4
+* 2020/Feb/5 add new info for gene: OsSEX4
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new gene: OsSEX4
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Feb/5 add new pub.
+* 2020/Jan/2 add new keywords for OsPGR5
+* 2020/Jan/2 add new keywords for OsPGR5
+* 2020/Jan/2 add new keywords for OsOSCA1.2
+* 2020/Jan/2 add new keywords for OsOSC12
+* 2020/Jan/2 add new keywords for OsOSC12
+* 2020/Jan/2 add new keywords for OsIDD6
+* 2020/Jan/2 add new keywords for OsGINT1
+* 2020/Jan/2 add new keywords for OsARF15
+* 2020/Jan/2 add new keywords for OsPAL9
+* 2020/Jan/2 add new keywords for OsKRP1
+* 2020/Jan/2 add new keywords for OsKRP1
+* 2020/Jan/2 add new keywords for OsRPT4
+* 2020/Jan/2 add new keywords for OsRPT4
+* 2020/Jan/2 add new keywords for OsGPX1
+* 2020/Jan/2 add new keywords for OsGPX1
+* 2020/Jan/2 add new keywords for OsCML16
+* 2020/Jan/2 add new keywords for OsCML16
+* 2020/Jan/2 add new keywords for OsCML16
+* 2020/Jan/2 add new keywords for OsCML16
+* 2020/Jan/2 add new keywords for OsCML16
+* 2020/Jan/2 add new keywords for NF-YC12
+* 2020/Jan/2 add new keywords for NF-YC12
+* 2020/Jan/2 add new keywords for NF-YC12
+* 2020/Jan/2 add new keywords for NF-YC12
+* 2020/Jan/2 NF-YC12 == OsNF-YC12
+* 2020/Jan/2 add new keywords for LPL3
+* 2020/Jan/2 add new keywords for DNMT2
+* 2020/Jan/2 add new keywords for OsOFP14
+* 2020/Jan/2 add new keywords for OsOFP14
+* 2020/Jan/2 add new keywords for OsOFP14
+* 2020/Jan/2 add new keywords for OsMeCP
+* 2020/Jan/2 add new keywords for OsHORZ1
+* 2020/Jan/2 add new keywords for OsHORZ1
+* 2020/Jan/2 add new keywords for OsGapC2
+* 2020/Jan/2 add new keywords for OsGapC2
+* 2020/Jan/2 add new keywords for OsGapC2
+* 2020/Jan/2 add new keywords for OsGapC2
+* 2020/Jan/2 add new keywords for OsDR10
+* 2020/Jan/2 add new keywords for OsDR10
+* 2020/Jan/2 add new keywords for OsDR10
+* 2020/Jan/2 add new keywords for OsDR10
+* 2020/Jan/2 add new keywords for OsDR10
+* 2020/Jan/2 add new keywords for OsDR11
+* 2020/Jan/2 add new keywords for OsDR11
+* 2020/Jan/2 add new keywords for OsDR11
+* 2020/Jan/2 add new keywords for OsDR11
+* 2020/Jan/2 add new keywords for OsDR11
+* 2020/Jan/2 add new keywords for OsDR11
+* 2020/Jan/2 add new keywords for OsACL-A2
+* 2020/Jan/2 add new keywords for OsACL-A2
+* 2020/Jan/2 add new keywords for OsACL-A2
+* 2020/Jan/2 add new keywords for OsACL-A2
+* 2020/Jan/2 add new keywords for OsMUS81
+* 2020/Jan/2 add new keywords for OsMUS81
+* 2020/Jan/2 add new keywords for OsMADS72
+* 2020/Jan/2 add new keywords for OsMADS21
+* 2020/Jan/2 add new keywords for OsLDC-like1
+* 2020/Jan/2 add new keywords for OsLDC-like1
+* 2020/Jan/2 add new keywords for OsLDC-like1
+* 2020/Jan/2 add new keywords for OsGATA28
+* 2020/Jan/2 add new keywords for OsGATA28
+* 2020/Jan/2 add new keywords for OsGATA28
+* 2020/Jan/2 add new keywords for OsFTIP1
+* 2020/Jan/2 add new keywords for OsFTIP1
+* 2020/Jan/2 add new keywords for OsFTIP1
+* 2020/Jan/2 add new keywords for OsFlot
+* 2020/Jan/2 add new keywords for OsFlot
+* 2020/Jan/2 add new keywords for OsFlot
+* 2020/Jan/2 add new keywords for OsFlot
+* 2019/Dec/31 add new keywords for OsDEF8
+* 2019/Dec/31 add new keywords for OsDUF26
+* 2019/Dec/31 add new keywords for OsDVR
+* 2019/Dec/31 add new keywords for OsZOU-1
+* 2019/Dec/31 add new keywords for OsZOU-1
+* 2019/Dec/31 add new keywords for OsZOU-1
+* 2019/Dec/31 add new keywords for OsZOU-1
+* 2019/Dec/31 add new keywords for OsSRK
+* 2019/Dec/31 add new keywords for OsSRK
+* 2019/Dec/31 add new keywords for OSOTP51
+* 2019/Dec/31 add new keywords for Pikp-2
+* 2019/Dec/31 add new keywords for Pikp-1
+* 2019/Dec/31 add new keywords for PiPR1
+* 2019/Dec/31 add new keywords for PiPR1
+* 2019/Dec/31 add new keywords for OsSWEET15
+* 2019/Dec/31 add new keywords for OsSWEET15
+* 2019/Dec/31 add new keywords for OsSWEET15
+* 2019/Dec/31 add new keywords for OsRecQl4
+* 2019/Dec/31 add new keywords for OsdNK2
+* 2019/Dec/31 add new keywords for OsdNK2
+* 2019/Dec/31 add new keywords for OsbZIP79
+* 2019/Dec/31 add new keywords for OsbZIP79
+* 2019/Dec/31 add new keywords for OsBOR1
+* 2019/Dec/31 add new keywords for OsBOR1
+* 2019/Dec/31 add new keywords for OsBiP5
+* 2019/Dec/31 add new keywords for OsBiP5
+* 2019/Dec/31 add new keywords for PDIL2;3
+* 2019/Dec/31 add new keywords for PDIL2;3
+* 2019/Dec/31 add new keywords for PDIL2;3
+* 2019/Dec/31 add new keywords for OsZFP7
+* 2019/Dec/31 add new keywords for OsZFP7
+* 2019/Dec/31 add new keywords for OsZFP7
+* 2019/Dec/31 add new keywords for OsWS1
+* 2019/Dec/31 add new keywords for OsWS1
+* 2019/Dec/31 add new keywords for OsWS1
+* 2019/Dec/31 add new keywords for OsWS1
+* 2019/Dec/31 add new keywords for OsWSL3
+* 2019/Dec/31 add new keywords for OsWSL3
+* 2019/Dec/31 add new keywords for OsXRCC1
+* 2019/Dec/31 add new keywords for OsBRXL5
+* 2019/Dec/31 add new keywords for MRG701
+* 2019/Dec/31 add new keywords for MRG701
+* 2019/Dec/31 add new keywords for LMM5.4
+* 2019/Dec/31 add new keywords for LMM5.4
+* 2019/Dec/31 add new keywords for LMM5.4
+* 2019/Dec/31 add new keywords for LMM5.4
+* 2019/Dec/31 add new keywords for Hwc3
+* 2019/Dec/31 add new keywords for GLR3.1
+* 2019/Dec/31 add new keywords for GLR3.1
+* 2019/Dec/31 add new keywords for GLR3.1
+* 2019/Dec/31 add new keywords for GLR3.1
+* 2019/Dec/31 add new keywords for OsIPD3
+* 2019/Dec/31 add new keywords for OsIPD3
+* 2019/Dec/31 add new keywords for CRK6
+* 2019/Dec/31 add new keywords for CRK6
+* 2019/Dec/31 add new keywords for CCD1
+* 2019/Dec/31 add new keywords for CCD1
+* 2019/Dec/31 add new keywords for CCD1
+* 2019/Dec/31 add new keywords for CCD1
+* 2019/Dec/31 add new keywords for OsFUG1
+* 2019/Dec/31 add new keywords for OsFUG1
+* 2019/Dec/31 add new keywords for OsFUG1
+* 2019/Dec/31 add new keywords for OsFUG1
+* 2019/Dec/31 add new keywords for OsFUG1
+* 2019/Dec/31 add new keywords for OsCPK26
+* 2019/Dec/31 add new keywords for OsDA1
+* 2019/Dec/31 add new keywords for OsDBH
+* 2019/Dec/31 add new keywords for OsDBH
+* 2019/Dec/31 add new keywords for OsALKBH1
+* 2019/Dec/31 add new keywords for OsALKBH1
+* 2019/Dec/31 add new keywords for ESP1
+* 2019/Dec/31 add new keywords for OsHMS1I
+* 2019/Dec/31 add new keywords for OsHMS1I
+* 2019/Dec/31 add new keywords for OsHMS1I
+* 2019/Dec/31 add new keywords for BET1
+* 2019/Dec/31 add new keywords for BET1
+* 2019/Dec/31 add new keywords for BET1
+* 2019/Dec/31 add new keywords for BET1
+* 2019/Dec/31 add new keywords for BG3
+* 2019/Dec/31 add new keywords for BG3
+* 2019/Dec/31 add new keywords for OsMAX1
+* 2019/Dec/31 add new keywords for OsMAX1
+* 2019/Dec/31 add new keywords for SGL1
+* 2019/Dec/31 add new keywords for SGL1
+* 2019/Dec/31 add new keywords for SGL1
+* 2019/Dec/31 add new keywords for SGL1
+* 2019/Dec/31 add new keywords for WOX6
+* 2019/Dec/31 add new keywords for WOX6
+* 2019/Dec/31 add new keywords for WOX6
+* 2019/Dec/31 add new keywords for WOX6
+* 2019/Dec/31 add new keywords for Xb3
+* 2019/Dec/31 add new keywords for Xb3
+* 2019/Dec/31 add new keywords for Xb3
+* 2019/Dec/31 add new keywords for OsTITANIA
+* 2019/Dec/31 add new keywords for OsTITANIA
+* 2019/Dec/31 add new keywords for OsTITANIA
+* 2019/Dec/31 add new keywords for OsIPMDH
+* 2019/Dec/31 add new keywords for OsIRX14
+* 2019/Dec/31 add new keywords for Hb5
+* 2019/Dec/31 add new keywords for Hb5
+* 2019/Dec/31 add new keywords for GLB1
+* 2019/Dec/31 add new keywords for GLB1
+* 2019/Dec/31 add new keywords for GL3.2
+* 2019/Dec/31 add new keywords for GL3.2
+* 2019/Dec/31 add new keywords for GL3.2
+* 2019/Dec/31 add new keywords for GL3.2
+* 2019/Dec/31 add new keywords for GL3.2
+* 2019/Dec/31 add new keywords for GL3.2
+* 2019/Dec/30 add new keywords for LPL2
+* 2019/Dec/30 add new keywords for LPL2
+* 2019/Dec/30 add new keywords for LPL2
+* 2019/Dec/30 add new keywords for LPL2
+* 2019/Dec/30 add new keywords for LPL2
+* 2019/Dec/30 add new keywords for OsFAMA
+* 2019/Dec/30 add new keywords for OsFAMA
+* 2019/Dec/30 add new keywords for OsFAMA
+* 2019/Dec/30 add new keywords for XB24
+* 2019/Dec/30 add new keywords for XB24
+* 2019/Dec/30 add new keywords for XB24
+* 2019/Dec/30 add new keywords for XB24
+* 2019/Dec/30 add new keywords for XB24
+* 2019/Dec/30 add new keywords for XB24
+* 2019/Dec/30 add new keywords for SAMDC1
+* 2019/Dec/30 add new keywords for SAMDC1
+* 2019/Dec/30 add new keywords for SAMDC1
+* 2019/Dec/30 add new keywords for Fd1
+* 2019/Dec/30 add new keywords for Fd1
 * 2019/Dec/30 add new gene GH1
 * 2019/Dec/30 add new info for gene: OsmiR530
 * 2019/Dec/30 add new pub.
