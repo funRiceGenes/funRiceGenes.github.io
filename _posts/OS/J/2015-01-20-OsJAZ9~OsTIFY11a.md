@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ9,OsTIFY11a"
 description: ""
 category: genes
-tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin,  ga , GA]
+tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin,  ga , GA, nitrogen, root, sugar, phytohormone, root growth]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
     + [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), 2012, Plant Cell Physiol.
     + [OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.%5BTitle%5D), 2014, Plant Sci.
     + [Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.%5BTitle%5D), 2018, Front Plant Sci.
+    + [Transcriptome analysis of rice Oryza sativa L. in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptome analysis of rice Oryza sativa L. in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.%5BTitle%5D), 2020, J Plant Physiol.
 
 * **Genbank accession number**  
     + [AK070649](http://www.ncbi.nlm.nih.gov/nuccore/AK070649)
@@ -31,6 +32,9 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
     + Based on this broader interaction, we explored the function of OsJAZ9 in JA and GA responses by analyzing transcript levels of the JA-responsive gene OsbHLH148 and the GA-responsive gene OsPIL14 in OsJAZ9-overexpressing (OsJAZ9-Ox) and osjaz9 mutant plants
     + These observations indicated that OsJAZ9 regulates both JA and GA responses in rice, and this finding was supported by the opposite expression patterns of OsDREB1s, downstream targets of OsbHLH148 and OsPIL14, in the OsJAZ9-Ox and osjaz9 plants
     + Together, these findings indicate that OsJAZ9 suppresses JA responses and promotes GA responses in rice, and the protein-protein interaction between OsJAZ9 and SLR1 is involved in the antagonistic interplay between JA and GA
+    + Transcriptome analysis of rice (Oryza sativa L.) in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.
+    + The transcription factor OsJAZ9 was the most pronouncedly induced component under low NH4+ in roots, and a significant increase in root growth, NH4+ absorption, amino acid, and sugar metabolism in response to resupplied NH4+ following nitrogen starvation was identified in JAZ9ox (OsJAZ9-overexpressed) and coi1 (OsCOI1-RNAi)
+    + Our data provide comprehensive insight into the whole-plant transcriptomic response in terms of metabolic processes and signaling transduction to a low-NH4+ signal, and identify the transcription factor OsJAZ9 and its involvement in the regulation of carbon/nitrogen metabolism as central to the response to low NH4+
 
 * **Connection**  
     + __OsCOI1~OsCOI1a__, __OsJAZ9~OsTIFY11a__, [OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.%5BTitle%5D), OsJAZ9 interacts with OsCOI1a, a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner, suggesting that OsJAZ9 is involved in the regulation of JA signaling

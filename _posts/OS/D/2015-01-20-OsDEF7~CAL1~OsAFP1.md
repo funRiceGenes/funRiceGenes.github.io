@@ -3,7 +3,7 @@ layout: post
 title: "OsDEF7,CAL1,OsAFP1"
 description: ""
 category: genes
-tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake, blast, pathogen]
+tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake, blast, pathogen, phosphate]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake, bl
     + [A defensin-like protein drives cadmium efflux and allocation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A defensin-like protein drives cadmium efflux and allocation in rice.%5BTitle%5D), 2018, Nat Commun.
     + [Rice Defensin OsAFP1 is a New Drug Candidate against Human Pathogenic Fungi.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Defensin OsAFP1 is a New Drug Candidate against Human Pathogenic Fungi.%5BTitle%5D), 2018, Sci Rep.
     + [Partial peptides from rice defensin OsAFP1 exhibited antifungal activity against the rice blast pathogen Pyricularia oryzae.](http://www.ncbi.nlm.nih.gov/pubmed?term=Partial peptides from rice defensin OsAFP1 exhibited antifungal activity against the rice blast pathogen Pyricularia oryzae.%5BTitle%5D), 2017, J Pestic Sci.
+    + [Crystal structure of rice defensin OsAFP1 and molecular insight into lipid-binding.](http://www.ncbi.nlm.nih.gov/pubmed?term=Crystal structure of rice defensin OsAFP1 and molecular insight into lipid-binding.%5BTitle%5D), 2020, J Biosci Bioeng.
 
 * **Genbank accession number**  
 
@@ -26,8 +27,10 @@ tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake, bl
     + Immunohistochemistry showed that the OsAFP1 target molecule was located in the cell wall
     + Further, PI uptake and apoptosis assays suggested that OsAFP1 exerts its antifungal activity by inducing apoptosis of target cells
     + Partial peptides from rice defensin OsAFP1 exhibited antifungal activity against the rice blast pathogen Pyricularia oryzae.
+    + In lipid-binding analyses performed using nitrocellulose membranes immobilized with various membrane lipid components, OsAFP1 was found to bind to phosphatidylinositols (PIPs) harboring phosphate groups, particularly PI(3)P
 
 * **Connection**  
+    + __CAL2__, __OsDEF7~CAL1~OsAFP1__, [Overexpression of a Defensin-Like Gene CAL2 Enhances Cadmium Accumulation in Plants.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a Defensin-Like Gene CAL2 Enhances Cadmium Accumulation in Plants.%5BTitle%5D),  CAL2 shared 66% similarity with CAL1, and its mRNA accumulation is mainly observed in roots and is unaffected by Cd stress, but its transcription level was lower than that of CAL1 based on the relative expression of CAL2/Actin1 observed in this study and that reported previously
 
 [//]: # * **Key figures**  
 

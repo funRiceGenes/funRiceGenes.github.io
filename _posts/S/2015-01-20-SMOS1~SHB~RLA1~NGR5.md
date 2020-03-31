@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "SMOS1,SHB,RLA1"
+title: "SMOS1,SHB,RLA1,NGR5"
 description: ""
 category: genes
-tags: [auxin, organ size, transcription factor, root, meristem,  ga , GA, GA deficiency, GA biosynthesis, root meristem, root meristem size, Gibberellin]
+tags: [auxin, organ size, transcription factor, root, meristem,  ga , GA, GA deficiency, GA biosynthesis, root meristem, root meristem size, Gibberellin, nitrogen, tillering, growth, tiller, gibberellin, yield]
 ---
 
 * **Information**  
-    + Symbol: SMOS1,SHB,RLA1  
+    + Symbol: SMOS1,SHB,RLA1,NGR5  
     + MSU: [LOC_Os05g32270](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g32270)  
     + RAPdb: [Os05g0389000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0389000)  
 
@@ -15,6 +15,7 @@ tags: [auxin, organ size, transcription factor, root, meristem,  ga , GA, GA def
     + [A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway%5BTitle%5D), 2014, Plant Cell Physiol.
     + [SHOEBOX Modulates Root Meristem Size in Rice through Dose-Dependent Effects of Gibberellins on Cell Elongation and Proliferation.](http://www.ncbi.nlm.nih.gov/pubmed?term=SHOEBOX Modulates Root Meristem Size in Rice through Dose-Dependent Effects of Gibberellins on Cell Elongation and Proliferation.%5BTitle%5D), 2015, PLoS Genet.
     + [The RLA1/SMOS1 Transcription Factor Functions with OsBZR1 to Regulate Brassinosteroid Signaling and Rice Architecture.](http://www.ncbi.nlm.nih.gov/pubmed?term=The RLA1/SMOS1 Transcription Factor Functions with OsBZR1 to Regulate Brassinosteroid Signaling and Rice Architecture.%5BTitle%5D), 2017, Plant Cell.
+    + [Enhanced sustainable green revolution yield via nitrogen-responsive chromatin modulation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Enhanced sustainable green revolution yield via nitrogen-responsive chromatin modulation in rice.%5BTitle%5D), 2020, Science.
 
 * **Genbank accession number**  
 
@@ -30,10 +31,14 @@ tags: [auxin, organ size, transcription factor, root, meristem,  ga , GA, GA def
     + Thus, root meristem size in rice is modulated by SHB-mediated GA biosynthesis that regulates the elongation and proliferation of meristem cells in a developmental stage-specific manner.
     + SHOEBOX Modulates Root Meristem Size in Rice through Dose-Dependent Effects of Gibberellins on Cell Elongation and Proliferation
     + RLA1 was identical to the previously reported SMALL ORGAN SIZE 1 (SMOS1) which was cloned from another allele
+    + Increased NGR5 activity consequently uncouples tillering from nitrogen regulation, boosting rice yield at low nitrogen fertilization levels
+    + NGR5 thus enables enhanced nitrogen use efficiency for improved future agricultural sustainability and food security
+    + We found that genome-wide promotion of histone H3 lysine 27 trimethylation (H3K27me3) enables nitrogen-induced stimulation of rice tillering: APETALA2-domain transcription factor NGR5 (NITROGEN-MEDIATED TILLER GROWTH RESPONSE 5) facilitates nitrogen-dependent recruitment of polycomb repressive complex 2 to repress branching-inhibitory genes via H3K27me3 modification
+    + NGR5 is a target of gibberellin receptor GIBBERELLIN INSENSITIVE DWARF1 (GID1)-promoted proteasomal destruction
 
 * **Connection**  
-    + __OsPHI-1__, __SMOS1~SHB~RLA1__, [A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway%5BTitle%5D), Among the down-regulated genes, we demonstrated by gel-shift and chromatin immunoprecipitation (ChIP) experiments that OsPHI-1, which is involved in cell expansion, is a target of SMOS1
-    + __OsPHI-1__, __SMOS1~SHB~RLA1__, [Small Organ Size 1 and Small Organ Size 2/Dwarf and Low Tillering form a Complex to Integrate Auxin and Brassinosteroid Signaling in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Small Organ Size 1 and Small Organ Size 2/Dwarf and Low Tillering form a Complex to Integrate Auxin and Brassinosteroid Signaling in Rice.%5BTitle%5D), Consistently, the expression of OsPHI-1, a direct target of SMOS1, is up-regulated only when SMOS1 and SMOS2/DLT proteins were both present in rice cells
+    + __OsPHI-1__, __SMOS1~SHB~RLA1~NGR5__, [A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway%5BTitle%5D), Among the down-regulated genes, we demonstrated by gel-shift and chromatin immunoprecipitation (ChIP) experiments that OsPHI-1, which is involved in cell expansion, is a target of SMOS1
+    + __OsPHI-1__, __SMOS1~SHB~RLA1~NGR5__, [Small Organ Size 1 and Small Organ Size 2/Dwarf and Low Tillering form a Complex to Integrate Auxin and Brassinosteroid Signaling in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Small Organ Size 1 and Small Organ Size 2/Dwarf and Low Tillering form a Complex to Integrate Auxin and Brassinosteroid Signaling in Rice.%5BTitle%5D), Consistently, the expression of OsPHI-1, a direct target of SMOS1, is up-regulated only when SMOS1 and SMOS2/DLT proteins were both present in rice cells
 
 [//]: # * **Key figures**  
 

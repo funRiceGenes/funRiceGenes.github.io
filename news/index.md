@@ -5,6 +5,217 @@ comments: no
 thread: 616
 ---
 
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new info for gene: OsBADH2
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 OsMSH6
+* 2020/Mar/31 add new info for gene: OsAFP1
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new info for gene: OsDHAR
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new info for gene: OsTMF
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new gene: OsTMF
+* 2020/Mar/31 add new info for gene: CAL2
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new gene: CAL2
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new info for gene: TGW2
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new gene: TGW2
+* 2020/Mar/31 add new info for gene: PL1
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 DPW3 == PL1
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 OsBLR1 == OsbHLH079
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new info for gene: OsDHSRP1
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new gene: OsDHSRP1
+* 2020/Mar/31 add new info for gene: OsHKT2;1
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new info for gene: OsMFT2
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new gene: OsMFT2
+* 2020/Mar/31 add new info for gene: Pita2
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new gene: Pita2
+* 2020/Mar/31 add new info for gene: OsCYP96B4
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new info for gene: OsLHT1
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/31 add new pub.
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new info for gene: MHZ11
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new gene: MHZ11
+* 2020/Mar/30 add new info for gene: OsHSFA3
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new gene: OsHSFA3
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new info for gene: TCD33
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 OsBIRH1 == TCD33
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new info for gene: OsINV2
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new info for gene: OsLACS9
+* 2020/Mar/30 add new pub.
+* 2020/Mar/30 add new gene: OsLACS9
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new info for gene: SAW1
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 DCM1 == SAW1
+* 2020/Mar/11 add new keywords for GW2
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new info for gene: OsMYB80
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new info for gene: OsOASTL-A1
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new gene: OsOASTL-A1
+* 2020/Mar/11 add new info for gene: OsNMCP1
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new gene: OsNMCP1
+* 2020/Mar/11 add new info for gene: OsAKT2
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new info for gene: OsbHLH6
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 RERJ1 == OsOsbHLH006 == OsbHLH6
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new pub.
+* 2020/Mar/11 add new info for gene: OsTB1
+* 2020/Mar/11 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsNRPD1b
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsNRPD1a
+* 2020/Mar/2 add new info for gene: OsCFM2
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsCFM2
+* 2020/Mar/2 add new info for gene: OsANN10
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsANN10
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: GNP1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: NAL1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new keywords for OsUGT706D1
+* 2020/Mar/2 add new keywords for OsUGT706D1
+* 2020/Mar/2 add new keywords for OsUGT707A2
+* 2020/Mar/2 add new keywords for OsUGT707A2
+* 2020/Mar/2 add new keywords for OsUGT706C2
+* 2020/Mar/2 add new keywords for OsUGT706C2
+* 2020/Mar/2 add new keywords for OsUGT706C2
+* 2020/Mar/2 add new info for gene: OsUGT706D1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsUGT706D1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsUGT707A2
+* 2020/Mar/2 add new info for gene: OsUGT706C2
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsUGT706C2
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 GGC2
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: OsAAA-ATPase1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsAAA-ATPase1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: RFT1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: OsNIT2
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsNIT2
+* 2020/Mar/2 add new info for gene: OsNIT1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsNIT1
+* 2020/Mar/2 add new info for gene: OsNAR2.1
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: OsNAR2.2
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: OsGELP115
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsGELP115
+* 2020/Mar/2 add new info for gene: OsGELP110
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsGELP110
+* 2020/Mar/2 add new info for gene: OsGELP34
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 RMS2 == OsGELP34
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new info for gene: OsmiR167a
+* 2020/Mar/2 add new pub.
+* 2020/Mar/2 add new gene: OsmiR167a
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new info for gene: OsPLB
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: OsPLB
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new info for gene: OsDMT1
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 OsMCA1 == PAD == OsDMT1
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: OsPLGG2
+* 2020/Feb/15 add new info for gene: OsPLGG1
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: OsPLGG1
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: RBG1-L
+* 2020/Feb/15 add new info for gene: RBG1
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: RBG1
+* 2020/Feb/15 add new info for gene: NGR5
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 SMOS1 == SHB == RLA1 == NGR5
+* 2020/Feb/15 add new info for gene: RMS2
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: RMS2
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new info for gene: OsGS1;2
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new info for gene: OsTb2
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 REP1 == OsTb2
+* 2020/Feb/15 add new info for gene: OsBLR1
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: OsBLR1
+* 2020/Feb/15 add new info for gene: OsPDR2
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new gene: OsPDR2
+* 2020/Feb/15 add new info for gene: OsALDH2B1
+* 2020/Feb/15 add new pub.
+* 2020/Feb/15 add new info for gene: qLTG3-1
+* 2020/Feb/15 add new pub.
 * 2020/Feb/5 OsHOS1
 * 2020/Feb/5 add new pub.
 * 2020/Feb/5 add new pub.
