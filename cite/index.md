@@ -31,3 +31,7 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 21. Yoo et al. [Fast Track to Discover Novel Promoters in Rice](https://www.mdpi.com/2223-7747/9/1/125), 2020, Plants.
 22. Yang et al. [Crop Phenomics and High-Throughput Phenotyping: Past Decades, Current Challenges, and Future Perspectives](https://www.sciencedirect.com/science/article/pii/S1674205220300083), 2020, Molecular Plant.
 23. DO et al. [Candidate gene prioritization using graph embedding](https://www.biorxiv.org/content/10.1101/2020.02.03.927913v1), 2020, BioRxiv.
+24. Jia et al. [Pleiotropic changes revealed by in situ recovery of the semi-dwarf gene sd1 in rice](https://doi.org/10.1016/j.jplph.2020.153141), 2020, Journal of Plant Physiology.
+25. Lu et al. [A direct PCR–based SNP marker–assisted selection system (D-MAS) for different crops](https://link.springer.com/article/10.1007/s11032-019-1091-3), 2020, Molecular Breeding.
+26. Cubry et al. [Genome wide association study pinpoints key agronomic QTLs in African rice Oryza glaberrima](https://www.biorxiv.org/content/10.1101/2020.01.07.897298v1.full), 2020, BioRxiv.
+27. Mohammed Abdullah Abdulraheem Ghaleb et al. [Heterosis analysis and underlying molecular regulatory mechanism in a wide-compatible neo-tetraploid rice line with long panicles](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-020-2291-z), 2020, BMC Plant Biology.
