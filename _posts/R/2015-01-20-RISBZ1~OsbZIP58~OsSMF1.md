@@ -3,7 +3,7 @@ layout: post
 title: "RISBZ1,OsbZIP58,OsSMF1"
 description: ""
 category: genes
-tags: [grain, transcription factor, seed, endosperm, seed development, starch, starch biosynthesis, grain filling, gibberellin biosynthesis, seed germination, prolamin]
+tags: [grain, transcription factor, seed, endosperm, seed development, starch, starch biosynthesis, grain filling, gibberellin biosynthesis, seed germination, prolamin, temperature, tolerance, heat tolerance]
 ---
 
 * **Information**  
@@ -20,6 +20,7 @@ tags: [grain, transcription factor, seed, endosperm, seed development, starch, s
     + [Synergism between RPBF Dof and RISBZ1 bZIP activators in the regulation of rice seed expression genes](http://www.ncbi.nlm.nih.gov/pubmed?term=Synergism between RPBF Dof and RISBZ1 bZIP activators in the regulation of rice seed expression genes%5BTitle%5D), 2006, Plant Physiol.
     + [OsLOL1, a C2C2-type zinc finger protein, interacts with OsbZIP58 to promote seed germination through the modulation of gibberellin biosynthesis in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=OsLOL1, a C2C2-type zinc finger protein, interacts with OsbZIP58 to promote seed germination through the modulation of gibberellin biosynthesis in Oryza sativa%5BTitle%5D), 2014, Plant J.
     + [Genome-wide identification of grain filling genes regulated by the OsSMF1 transcription factor in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide identification of grain filling genes regulated by the OsSMF1 transcription factor in rice.%5BTitle%5D), 2017, Rice (N Y).
+    + [High temperature inhibits the accumulation of storage materials by inducing alternative splicing of OsbZIP58 during filling stage in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=High temperature inhibits the accumulation of storage materials by inducing alternative splicing of OsbZIP58 during filling stage in rice.%5BTitle%5D), 2020, Plant Cell Environ.
 
 * **Genbank accession number**  
     + [AB053472](http://www.ncbi.nlm.nih.gov/nuccore/AB053472)
@@ -57,6 +58,10 @@ tags: [grain, transcription factor, seed, endosperm, seed development, starch, s
     + The results of this study suggest that OsSMF1 is one of the key transcription factors that functions in a wide range of seed developmental processes with different specific binding affinities for the three DNA-binding motifs
     + OsSMF1 (previously called RISBZ1 or OsbZIP58) is known to interact with GCN4 motifs (TGA(G/C)TCA) to regulate seed storage protein synthesis, and it functions as a key regulator of starch synthesis
     + OsSMF1 was shown to bind directly to the promoters of Os03g0168500 (GCN4 motif), patatin-like gene (GCN4 motif), Î±-globulin (ACGT motif), rice prolamin box-binding factor (RPBF) (ATGA motif), and ONAC024 (GCN4 and ACGT motifs) and to regulate their expression
+    + Here, we report that Opaque2 like transcription factor OsbZIP58 is a key factor regulating storage material accumulation under HT
+    + High temperature inhibits the accumulation of storage materials by inducing alternative splicing of OsbZIP58 during filling stage in rice.
+    + Therefore, OsbZIP58 is a crucial gene in regulating storage material accumulation under HT and lower alternative splicing of OsbZIP58 may contribute to heat tolerance during grain filling
+    + The OsbZIP58 gene promotes expression of many seed storage protein genes and starch synthesis genes while inhibits expression of some starch hydrolyzing ¦Á-amylase genes under HT
 
 * **Connection**  
     + __RISBZ1~OsbZIP58~OsSMF1__, __RPBF~OsDof3__, [Differences in transcriptional regulatory mechanisms functioning for free lysine content and seed storage protein accumulation in rice grain](http://www.ncbi.nlm.nih.gov/pubmed?term=Differences in transcriptional regulatory mechanisms functioning for free lysine content and seed storage protein accumulation in rice grain%5BTitle%5D), Here, we show that OsLKR/SDH is directly regulated by major transcriptional regulators of seed storage protein (SSP) genes: the basic leucine zipper (bZIP) transcription factor (TF), RISBZ1, and the DNA-binding with one finger (DOF) transcription factor, RPBF

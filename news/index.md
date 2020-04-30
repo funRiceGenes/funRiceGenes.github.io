@@ -5,6 +5,81 @@ comments: no
 thread: 616
 ---
 
+* 2020/Apr/30 add new info for gene: OsZIP5
+* 2020/Apr/30 add new pub.
+* 2020/Apr/30 add new info for gene: OsZIP9
+* 2020/Apr/30 add new pub.
+* 2020/Apr/30 add new gene: OsZIP9
+* 2020/Apr/30 add new info for gene: OsbHLH073
+* 2020/Apr/30 add new pub.
+* 2020/Apr/30 add new gene: OsbHLH073
+* 2020/Apr/30 add new info for gene: OsXYN1
+* 2020/Apr/30 add new pub.
+* 2020/Apr/30 add new gene: OsXYN1
+* 2020/Apr/30 add new info for gene: OsHPL2
+* 2020/Apr/30 add new pub.
+* 2020/Apr/30 add new info for gene: OsbZIP58
+* 2020/Apr/30 add new pub.
+* 2020/Apr/27 add new info for gene: PDD
+* 2020/Apr/27 add new pub.
+* 2020/Apr/27 add new gene: PDD
+* 2020/Apr/27 add new info for gene: OsROS1
+* 2020/Apr/27 add new pub.
+* 2020/Apr/27 add new info for gene: OsGLP2-1
+* 2020/Apr/27 add new pub.
+* 2020/Apr/27 add new info for gene: OsCUL3a
+* 2020/Apr/27 add new pub.
+* 2020/Apr/20 add new reference for OsbHLH96
+* 2020/Apr/20 add new gene: OsbHLH96
+* 2020/Apr/20 add new reference for OsHLH61
+* 2020/Apr/20 add new gene: OsHLH61
+* 2020/Apr/20 add new reference for FLR11
+* 2020/Apr/20 add new gene: FLR11
+* 2020/Apr/20 add new reference for FLR2
+* 2020/Apr/20 DRUS2 == FLR2
+* 2020/Apr/20 add new reference for FLR1
+* 2020/Apr/20 DRUS1 == FLR1
+* 2020/Apr/20 add new reference for OsMED14_1
+* 2020/Apr/20 add new gene: OsMED14_1
+* 2020/Apr/20 add new reference for OsSQD1
+* 2020/Apr/20 add new gene: OsSQD1
+* 2020/Apr/20 add new reference for CHR721
+* 2020/Apr/20 add new gene: CHR721
+* 2020/Apr/20 add new reference for OsSLC1
+* 2020/Apr/20 add new gene: OsSLC1
+* 2020/Apr/20 add new reference for OsARF17
+* 2020/Apr/20 add new reference for OsINP1
+* 2020/Apr/20 add new gene: OsINP1
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 OsLecRK-S.7 == OsLecRK5 == OsDAF1
+* 2020/Apr/20 add new info for gene: OsNPR3
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 NH3 == OsNPR3
+* 2020/Apr/20 add new info for gene: OsBT1
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 add new info for gene: OsNSUN2
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 add new gene: OsNSUN2
+* 2020/Apr/20 add new info for gene: OsRAD51D
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 add new info for gene: OsLecRK5
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 OsLecRK-S.7 == OsLecRK5
+* 2020/Apr/20 add new info for gene: OsPAP10c
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 add new pub
+* 2020/Apr/20 add new pub
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 SNAC3 == ONAC066 == OsNAC006
+* 2020/Apr/20 add new info for gene: HTD1
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 HTD1 == OsCCD7 == D17
+* 2020/Apr/20 LARGE1 == OML4
+* 2020/Apr/20 add new info for gene: LARGE1
+* 2020/Apr/20 add new pub.
+* 2020/Apr/20 add new gene: LARGE1
 * 2020/Mar/31 add new pub.
 * 2020/Mar/31 add new pub.
 * 2020/Mar/31 add new info for gene: OsBADH2
