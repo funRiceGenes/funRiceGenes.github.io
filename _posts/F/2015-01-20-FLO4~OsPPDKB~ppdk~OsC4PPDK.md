@@ -17,6 +17,7 @@ tags: [pericarp, grain, endosperm, reproductive, seed, seed development, grain f
     + [Characterization of the gene for pyruvate, orthophosphate dikinase from rice, a C3 plant, and a comparison of structure and expression between C3 and C4 genes for this protein](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of the gene for pyruvate, orthophosphate dikinase from rice, a C3 plant, and a comparison of structure and expression between C3 and C4 genes for this protein%5BTitle%5D), 1997, Plant Mol Biol.
     + [A new SNP in cyOsPPDK gene is associated with floury endosperm in Suweon 542.](http://www.ncbi.nlm.nih.gov/pubmed?term=A new SNP in cyOsPPDK gene is associated with floury endosperm in Suweon 542.%5BTitle%5D), 2018, Mol Genet Genomics.
     + [A Novel Mutation of OsPPDKB, Encoding Pyruvate Orthophosphate Dikinase, Affects Metabolism and Structure of Starch in the Rice Endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Novel Mutation of OsPPDKB, Encoding Pyruvate Orthophosphate Dikinase, Affects Metabolism and Structure of Starch in the Rice Endosperm.%5BTitle%5D), 2018, Int J Mol Sci.
+    + [A New SNP in Rice Gene Encoding Pyruvate Phosphate Dikinase PPDK Associated with Floury Endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=A New SNP in Rice Gene Encoding Pyruvate Phosphate Dikinase PPDK Associated with Floury Endosperm.%5BTitle%5D), 2020, Genes (Basel).
 
 * **Genbank accession number**  
     + [D87952](http://www.ncbi.nlm.nih.gov/nuccore/D87952)

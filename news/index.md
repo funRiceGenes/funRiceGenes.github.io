@@ -5,6 +5,54 @@ comments: no
 thread: 616
 ---
 
+* 2020/May/22 add new reference for OsPP2C09
+* 2020/May/22 add new reference for OsPMT16
+* 2020/May/22 add new gene: OsPMT16
+* 2020/May/22 add new reference for OsbHLH034
+* 2020/May/22 add new gene: OsbHLH034
+* 2020/May/22 add new reference for Bph14
+* 2020/May/22 add new reference for APIP4
+* 2020/May/22 add new gene: APIP4
+* 2020/May/22 add new reference for OsABAR1
+* 2020/May/22 add new gene: OsABAR1
+* 2020/May/22 add new connections between OsAGO2 and BG3
+* 2020/May/22 add new connections between OsAGO2 and BG3
+* 2020/May/22 add new reference for OsAGO2
+* 2020/May/16 add new reference for OsATM
+* 2020/May/16 add new gene: OsATM
+* 2020/May/16 add new pub.
+* 2020/May/16 add new reference for HGW
+* 2020/May/16 add new reference for DMD1
+* 2020/May/16 add new gene: DMD1
+* 2020/May/16 add new reference for miR156
+* 2020/May/16 add new reference for CYP93G1
+* 2020/May/16 add new reference for CYP93G2
+* 2020/May/16 add new reference for OsCHS1
+* 2020/May/16 CHS == OsCHS1
+* 2020/May/16 add new reference for cycOs2
+* 2020/May/16 add new gene: cycOs2
+* 2020/May/16 add new gene: cycOs1
+* 2020/May/16 add new reference for OsPK3
+* 2020/May/16 add new gene: OsPK3
+* 2020/May/8 add new reference for GW6
+* 2020/May/8 OsGSR1 == GW6
+* 2020/May/8 add new info for gene: FLOC1
+* 2020/May/8 add new pub.
+* 2020/May/8 add new gene: FLOC1
+* 2020/May/8 add new info for gene: OsGOGAT1
+* 2020/May/8 add new pub.
+* 2020/May/8 OsNADH-GOGAT1 == OsGOGAT1
+* 2020/May/8 add new info for gene: OsZIP9
+* 2020/May/8 add new pub.
+* 2020/May/8 add new pub.
+* 2020/May/8 add new gene: OsSMAX1
+* 2020/May/8 add new info for gene: OsWAKL21
+* 2020/May/8 add new pub.
+* 2020/May/8 add new gene: OsWAKL21
+* 2020/May/8 add new reference for OsEBP89
+* 2020/May/8 OsEBP-89 == OsEBP89
+* 2020/May/8 add new pub.
+* 2020/May/8 add new pub.
 * 2020/Apr/30 add new info for gene: OsZIP5
 * 2020/Apr/30 add new pub.
 * 2020/Apr/30 add new info for gene: OsZIP9

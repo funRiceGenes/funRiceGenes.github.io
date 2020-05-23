@@ -8,6 +8,8 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 
 **Publications that cite the funRiceGenes database:**  
 
+- Gupta et al. [Prediction and characterization of transcription factors involved in drought stress response](https://www.biorxiv.org/content/10.1101/2020.04.29.068379v1.full), 2020, BioRxiv.
+- Kumar et al. [CRISPR-Cas9 mediated genome editing of drought and salt tolerance (OsDST) gene in indica mega rice cultivar MTU1010](http://link.springer.com/10.1007/s12298-020-00819-w), 2020, Physiology and Molecular Biology of Plants.
 - Yang et al. [A lamin‐like protein OsNMCP1 regulates drought resistance and root growth through chromatin accessibility modulation by interacting with a chromatin remodeller OsSWI3C in rice](https://doi.org/10.1111/nph.16518), 2020, New Phytologist.
 - Khahani et al. [Genome wide screening and comparative genome analysis for Meta-QTLs, ortho-MQTLs and candidate genes controlling yield and yield-related traits in rice](https://doi.org/10.1186/s12864-020-6702-1), 2020, BMC Genomics.
 - Do et al. [PyRice: a Python package for querying Oryza Sativa functional databases](https://doi.org/10.1101/2020.04.20.049742), 2020, BioRxiv.
