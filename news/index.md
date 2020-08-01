@@ -5,6 +5,106 @@ comments: no
 thread: 616
 ---
 
+* 2020/Aug/1 add new reference for OsWRKY29
+* 2020/Aug/1 add new gene: OsWRKY29
+* 2020/Aug/1 add new reference for OM64
+* 2020/Aug/1 add new gene: OM64
+* 2020/Aug/1 add new keywords for OsTubA2
+* 2020/Aug/1 add new reference for OsTubA2
+* 2020/Aug/1 TID1 == SRS5 == OsTubA2
+* 2020/Aug/1 add new reference for BZ1
+* 2020/Aug/1 add new gene: BZ1
+* 2020/Aug/1 add new reference for miR2118
+* 2020/Aug/1 add new gene: miR2118
+* 2020/Aug/1 add new reference for OsGASR7
+* 2020/Aug/1 OsGSR1 == GW6 == OsGASR7
+* 2020/Aug/1 add new reference for OsPPR16
+* 2020/Aug/1 add new gene: OsPPR16
+* 2020/Aug/1 add new reference for OsbZIP72
+* 2020/Aug/1 add new reference for OsNPF4.5
+* 2020/Aug/1 add new gene: OsNPF4.5
+* 2020/Aug/1 add new reference for OsARF22
+* 2020/Aug/1 add new gene: OsARF22
+* 2020/Aug/1 add new reference for PPR756
+* 2020/Aug/1 add new gene: PPR756
+* 2020/Aug/1 add new reference for OsPLS4
+* 2020/Aug/1 add new gene: OsPLS4
+* 2020/Aug/1 add new keywords for OsLRR-RLK2
+* 2020/Aug/1 add new reference for OsLRR-RLK2
+* 2020/Aug/1 add new gene: OsLRR-RLK2
+* 2020/Aug/1 add new reference for Fd1
+* 2020/Aug/1 add new reference for OsbZIP76
+* 2020/Aug/1 add new gene: OsbZIP76
+* 2020/Aug/1 add new keywords for OsELP3
+* 2020/Aug/1 add new reference for OsELP3
+* 2020/Aug/1 add new gene: OsELP3
+* 2020/Jul/31 add new reference for OsSOD1
+* 2020/Jul/31 SodCc7 == OsSOD1
+* 2020/Jul/31 add new reference for OsNiR
+* 2020/Jul/31 PSR1 == OsNiR
+* 2020/Jul/31 add new reference for Ghd7
+* 2020/Jul/31 add new keywords for OsOFP6
+* 2020/Jul/31 add new keywords for OsOFP6
+* 2020/Jul/31 add new keywords for OsOFP6
+* 2020/Jul/31 add new keywords for OsOFP6
+* 2020/Jul/31 add new keywords for OsOFP6
+* 2020/Jul/31 add new reference for MFS2
+* 2020/Jul/31 MOF1 == MFS2
+* 2020/Jul/31 add new genes and publications
+* 2020/Jul/26 add new keywords for OsGPRP3
+* 2020/Jul/26 add new reference for OsGPRP3
+* 2020/Jul/25 add new keywords for OsSBPase
+* 2020/Jul/25 add new keywords for OsSBPase
+* 2020/Jul/25 add new reference for OsSBPase
+* 2020/Jul/25 add new gene: OsSBPase
+* 2020/Jun/15 add new reference for OsGTγ-2
+* 2020/Jun/15 SAB18 == OsGTγ-2
+* 2020/Jun/15 add new reference for OsCpn60β1
+* 2020/Jun/15 add new gene: OsCpn60β1
+* 2020/Jun/15 add new reference for OsSGR
+* 2020/Jun/15 SGR == OsSGR
+* 2020/Jun/15 add new reference for OsAAP1
+* 2020/Jun/15 add new gene: OsAAP1
+* 2020/Jun/15 add new reference for OsTBP2.2
+* 2020/Jun/15 add new gene: OsTBP2.2
+* 2020/Jun/15 add new reference for OsRPA2b
+* 2020/Jun/15 add new gene: OsRPA2b
+* 2020/Jun/15 add new reference for OsHOP2
+* 2020/Jun/15 add new gene: OsHOP2
+* 2020/Jun/15 add new reference for OsMFS1
+* 2020/Jun/15 add new gene: OsMFS1
+* 2020/Jun/13 add new reference for HDA710
+* 2020/Jun/13 add new gene: HDA710
+* 2020/Jun/13 add new reference for SAPK2
+* 2020/Jun/13 add new reference for OsGAPB
+* 2020/Jun/13 GADPH == OsGAPB
+* 2020/Jun/13 add new reference for OsRab6a
+* 2020/Jun/13 add new reference for Osa-miR162a
+* 2020/Jun/13 add new gene: Osa-miR162a
+* 2020/Jun/13 add new reference for OsEPSPS
+* 2020/Jun/13 EPSPs == OsEPSPS
+* 2020/Jun/13 add new reference for AGO18
+* 2020/Jun/13 add new reference for miR168
+* 2020/Jun/13 add new reference for miR528
+* 2020/Jun/13 add new gene: miR528
+* 2020/Jun/13 add new gene: miR168
+* 2020/Jun/13 add new reference for Wx
+* 2020/Jun/13 add new reference for OsPHO1;1
+* 2020/Jun/13 add new reference for OsPHO1;2
+* 2020/Jun/13 add new reference for SG3
+* 2020/Jun/13 Osmyb3 == SG3
+* 2020/Jun/13 add new reference for OsHsfB4d
+* 2020/Jun/13 add new gene: OsHsfB4d
+* 2020/Jun/13 add new reference for ARG1
+* 2020/Jun/13 add new gene: ARG1
+* 2020/Jun/13 add new reference for GSA1
+* 2020/Jun/13 add new gene: GSA1
+* 2020/Jun/8 add new reference for CHR729
+* 2020/Jun/8 add new reference for JMJ703
+* 2020/Jun/8 add new reference for OsZHD2
+* 2020/Jun/8 add new reference for OsZIP9
+* 2020/Jun/8 add new reference for TCD3
+* 2020/Jun/8 add new gene: TCD3
 * 2020/May/22 add new reference for OsPP2C09
 * 2020/May/22 add new reference for OsPMT16
 * 2020/May/22 add new gene: OsPMT16
@@ -8348,4 +8448,4 @@ thread: 616
 * 2014/Aug/16 add new genes OMTN1, OMTN3, OMTN4, OMTN6
 * 2014/Aug/15 add new gene OsSPX4
 * 2014/Aug/15 add new gene DWT1
-* 2014/Aug/13 initate the RicENcode database
+* 2014/Aug/13 initate the funRiceGenes database

@@ -34,6 +34,7 @@ tags: [root, transcription factor, growth, jasmonate, disease, seedling, salinit
     + In this study we identified one MYB transcription factor gene OsJAMyb from rice landrace Heikezijing, which encodes a protein with 283 amino-acid residues belonging to R2R3-type MYB transcription factor family
 
 * **Connection**  
+    + __AGO18~OsAGO18__, __JAmyb~OsJAmyb__, [Jasmonate Signaling Enhances RNA Silencing and Antiviral Defense in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonate Signaling Enhances RNA Silencing and Antiviral Defense in Rice.%5BTitle%5D),  Mechanistically, the JA-responsive transcription factor JAMYB directly binds to the AGO18 promoter to activate AGO18 transcription
 
 [//]: # * **Key figures**  
 

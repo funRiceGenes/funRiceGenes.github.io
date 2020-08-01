@@ -17,6 +17,7 @@ tags: [seedling, development, gibberellin, R protein, Gibberellin, stem, root, m
     + [CRL6, a member of the CHD protein family, is required for crown root development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=CRL6, a member of the CHD protein family, is required for crown root development in rice%5BTitle%5D), 2016, Plant Physiology and Biochemistry.
     + [CRL6, a member of the CHD protein family, is required for crown root development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=CRL6, a member of the CHD protein family, is required for crown root development in rice.%5BTitle%5D), 2016, Plant Physiol Biochem.
     + [The Rice Rolled Fine Striped RFS CHD3/Mi-2 Chromatin Remodeling Factor Epigenetically Regulates Genes Involved in Oxidative Stress Responses During Leaf Development.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice Rolled Fine Striped RFS CHD3/Mi-2 Chromatin Remodeling Factor Epigenetically Regulates Genes Involved in Oxidative Stress Responses During Leaf Development.%5BTitle%5D), 2018, Front Plant Sci.
+    + [A Chromodomain-Helicase-DNA-like Binding Factor Functions in Chromatin Modification and Gene Regulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Chromodomain-Helicase-DNA-like Binding Factor Functions in Chromatin Modification and Gene Regulation.%5BTitle%5D), 2020, Plant Physiol..
 
 * **Genbank accession number**  
     + [AK103233](http://www.ncbi.nlm.nih.gov/nuccore/AK103233)
@@ -34,6 +35,7 @@ tags: [seedling, development, gibberellin, R protein, Gibberellin, stem, root, m
 
 * **Connection**  
     + __CHR729~OsCHD3~CRL6~RFS__, __OsCLF~SDG711__, [Histone H3K4me3 and H3K27me3 regulatory genes control stable transmission of an epimutation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Histone H3K4me3 and H3K27me3 regulatory genes control stable transmission of an epimutation in rice.%5BTitle%5D), Here we show that maintenance of a stably hypomethylated active epiallele in rice required a CHD3 protein (CHR729) and that over-expression of an H3K4me3 demethylase (JMJ703) or H3K27me3 methyltransferase (SDG711) could stably resilence the epiallele
+    + __CHR729~OsCHD3~CRL6~RFS__, __JMJ703~OsJMJ703__, [A Chromodomain-Helicase-DNA-like Binding Factor Functions in Chromatin Modification and Gene Regulation.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Chromodomain-Helicase-DNA-like Binding Factor Functions in Chromatin Modification and Gene Regulation.%5BTitle%5D),  Genetic and genomic analysis revealed that CHR729 and JMJ703, an H3K4 demethylase, had agonistic, antagonistic and independent functions in modulating H3K4me3 and expression of subsets of genes
 
 [//]: # * **Key figures**  
 

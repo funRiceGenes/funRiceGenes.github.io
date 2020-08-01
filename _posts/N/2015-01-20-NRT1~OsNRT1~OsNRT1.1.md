@@ -15,6 +15,7 @@ tags: [root hair, nitrate, transporter, root]
     + [Rice OsNAR2.1 interacts with OsNRT2.1, OsNRT2.2 and OsNRT2.3a nitrate transporters to provide uptake over high and low concentration ranges](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice OsNAR2.1 interacts with OsNRT2.1, OsNRT2.2 and OsNRT2.3a nitrate transporters to provide uptake over high and low concentration ranges%5BTitle%5D), 2011, Plant Cell Environ.
     + [Cloning and functional characterization of a constitutively expressed nitrate transporter gene, OsNRT1, from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and functional characterization of a constitutively expressed nitrate transporter gene, OsNRT1, from rice%5BTitle%5D), 2000, Plant Physiol.
     + [Comparison of ion balance and nitrogen metabolism in old and young leaves of alkali-stressed rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Comparison of ion balance and nitrogen metabolism in old and young leaves of alkali-stressed rice plants%5BTitle%5D), 2012, PLoS One.
+    + [NRT1.1s in plants: functions beyond nitrate transport](http://www.ncbi.nlm.nih.gov/pubmed?term=NRT1.1s in plants: functions beyond nitrate transport%5BTitle%5D), 2020, J Exp Bot.
 
 * **Genbank accession number**  
     + [AF140606](http://www.ncbi.nlm.nih.gov/nuccore/AF140606)

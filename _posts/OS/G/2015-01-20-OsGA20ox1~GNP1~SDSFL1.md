@@ -3,7 +3,7 @@ layout: post
 title: "OsGA20ox1,GNP1,SDSFL1"
 description: ""
 category: genes
-tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, cytokinin, inflorescence, GA, leaf, tiller, photosynthesis, stomatal, breeding, height, plant height, tiller number, grain yield]
+tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, cytokinin, inflorescence, GA, leaf, tiller, photosynthesis, stomatal, breeding, height, plant height, tiller number, grain yield, Gibberellin, gibberellin biosynthesis]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, 
     + [The QTL GNP1 Encodes GA20ox1, Which Increases Grain Number and Yield by Increasing Cytokinin Activity in Rice Panicle Meristems.](http://www.ncbi.nlm.nih.gov/pubmed?term=The QTL GNP1 Encodes GA20ox1, Which Increases Grain Number and Yield by Increasing Cytokinin Activity in Rice Panicle Meristems.%5BTitle%5D), 2016, PLoS Genet.
     + [Rice SDSFL1 plays a critical role in the regulation of plant structure through the control of different phytohormones and altered cell structure.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice SDSFL1 plays a critical role in the regulation of plant structure through the control of different phytohormones and altered cell structure.%5BTitle%5D), 2018, J Plant Physiol.
     + [Natural Sequence Variations and Combinations of GNP1 and NAL1 Determine the Grain Number per Panicle in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Natural Sequence Variations and Combinations of GNP1 and NAL1 Determine the Grain Number per Panicle in Rice.%5BTitle%5D), 2020, Rice (N Y).
+    + [Pleiotropic Effect of GNP1 Underlying Grain Number per Panicle on Sink, Source and Flow in Rice ](http://www.ncbi.nlm.nih.gov/pubmed?term=Pleiotropic Effect of GNP1 Underlying Grain Number per Panicle on Sink, Source and Flow in Rice %5BTitle%5D), 2020, Front Plant Sci.
 
 * **Genbank accession number**  
     + [U50333](http://www.ncbi.nlm.nih.gov/nuccore/U50333)
@@ -40,6 +41,10 @@ tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, 
     + Although the NAL1 and GNP1 genes regulating the rice GNP and grain yield have been cloned, their allelic diversity, functional differences in rice germplasms, and effects of their combination on GNP and grain yield remain unclear
     + Our results indicated that the GNP1 and NAL1 exhibited obvious differentiation and their combinations can significantly increase the grain yield in geng rice cultivars
     + These observations provide insights into the molecular basis of the GNP and may be useful for rice breeding of high yield potential by pyramiding GNP1 and NAL1
+    + Pleiotropic Effect of GNP1 Underlying Grain Number per Panicle on Sink, Source and Flow in Rice
+    + Our previous study indicated that the gene GNP1 encoding gibberellin biosynthesis gene GA20ox1 affects grain number per panicle (GNP) in rice, thus resulting in increase of grain yield
+    + To clarify GNP1 effect on sink, source and flow in regulating rice grain yield, we compared Lemont, a japonica (geng) cultivar, with its near-isogenic line (NIL-GNP1 TQ) in Lemont background with introgression of the allele at GNP1 from Teqing, a high-yielding indica (xian) cultivar
+    + Our results indicated that significantly increased GNP from introgression of GNP1 TQ into Lemont did not highly significantly improve grain yield of NIL-GNP1 TQ as expected, due primarily to significant low sink activities in IS and possible insufficient source supply which didn't fully meet the increased sink capacity
 
 * **Connection**  
     + __OsGA20ox1~GNP1~SDSFL1__, __sd1~GA20ox2__, [A role of OsGA20ox1 , encoding an isoform of gibberellin 20-oxidase, for regulation of plant stature in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A role of OsGA20ox1 , encoding an isoform of gibberellin 20-oxidase, for regulation of plant stature in rice%5BTitle%5D), This result indicates that not only OsGA20ox2 but also OsGA20ox1 affects plant stature

@@ -15,6 +15,7 @@ tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, h
     + [OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice%5BTitle%5D), 2012, Planta.
     + [Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Aberrant spikelet and panicle1, encoding a TOPLESS-related transcriptional co-repressor, is involved in the regulation of meristem fate in rice%5BTitle%5D), 2012, Plant J.
     + [Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional corepressor ASP1 and CLV-like signaling regulate meristem maintenance in rice.%5BTitle%5D), 2019, Plant Physiol.
+    + [MORE FLORET 1 encodes a MYB transcription factor that regulates spikelet development in rice ](http://www.ncbi.nlm.nih.gov/pubmed?term=MORE FLORET 1 encodes a MYB transcription factor that regulates spikelet development in rice %5BTitle%5D), 2020, Plant Physiol.
 
 * **Genbank accession number**  
     + [AB638269](http://www.ncbi.nlm.nih.gov/nuccore/AB638269)
