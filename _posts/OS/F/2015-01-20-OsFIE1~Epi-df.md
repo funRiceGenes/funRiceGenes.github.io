@@ -15,6 +15,7 @@ tags: [floral, dwarf, endosperm, seed, development, transcription factor, seed d
     + [Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice%5BTitle%5D), 2012, Plant Cell.
     + [Expression, imprinting, and evolution of rice homologs of the polycomb group genes](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression, imprinting, and evolution of rice homologs of the polycomb group genes%5BTitle%5D), 2009, Mol Plant.
     + [Imprinted Gene OsFIE1 Modulates Rice Seed Development by Influencing the Nutrient Metabolism and Modifying Genome H3K27me3.](http://www.ncbi.nlm.nih.gov/pubmed?term=Imprinted Gene OsFIE1 Modulates Rice Seed Development by Influencing the Nutrient Metabolism and Modifying Genome H3K27me3.%5BTitle%5D), 2016, Plant J.
+    + [Allelic variation in rice Fertilization Independent Endosperm 1 contributes to grain width under high night temperature stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Allelic variation in rice Fertilization Independent Endosperm 1 contributes to grain width under high night temperature stress%5BTitle%5D), 2020, New Phytol.
 
 * **Genbank accession number**  
     + [AK242200](http://www.ncbi.nlm.nih.gov/nuccore/AK242200)

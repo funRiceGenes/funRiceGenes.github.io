@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ9,OsTIFY11a"
 description: ""
 category: genes
-tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin,  ga , GA, nitrogen, root, sugar, phytohormone, root growth]
+tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin,  ga , GA, nitrogen, root, sugar, phytohormone, root growth, potassium, architecture, homeostasis, jasmonic, jasmonic acid, root system architecture, JA signaling]
 ---
 
 * **Information**  
@@ -17,6 +17,7 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
     + [OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.%5BTitle%5D), 2014, Plant Sci.
     + [Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.%5BTitle%5D), 2018, Front Plant Sci.
     + [Transcriptome analysis of rice Oryza sativa L. in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptome analysis of rice Oryza sativa L. in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.%5BTitle%5D), 2020, J Plant Physiol.
+    + [OsJAZ9 overexpression modulates jasmonic acid biosynthesis and potassium deficiency responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 overexpression modulates jasmonic acid biosynthesis and potassium deficiency responses in rice%5BTitle%5D), 2020, Plant Mol Biol.
 
 * **Genbank accession number**  
     + [AK070649](http://www.ncbi.nlm.nih.gov/nuccore/AK070649)
@@ -35,6 +36,13 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
     + Transcriptome analysis of rice (Oryza sativa L.) in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.
     + The transcription factor OsJAZ9 was the most pronouncedly induced component under low NH4+ in roots, and a significant increase in root growth, NH4+ absorption, amino acid, and sugar metabolism in response to resupplied NH4+ following nitrogen starvation was identified in JAZ9ox (OsJAZ9-overexpressed) and coi1 (OsCOI1-RNAi)
     + Our data provide comprehensive insight into the whole-plant transcriptomic response in terms of metabolic processes and signaling transduction to a low-NH4+ signal, and identify the transcription factor OsJAZ9 and its involvement in the regulation of carbon/nitrogen metabolism as central to the response to low NH4+
+    + Furthermore, we established that OsJAZ9 overexpression and knockdown result in K deficiency tolerance and sensitivity, respectively, by modulating various K transporters and root system architecture
+    + Enhanced bioactive JA (JA-Ile) accumulation in OsJAZ9 overexpressing rice helps plants tolerate K deficiency
+    + Here, we integrated molecular, physiological and morphological studies to analyze the role of OsJAZ9 in JA homeostasis and K deficiency responses
+    + We raised OsJAZ9 over-expression, knockdown, transcriptional reporter, translational reporter and C-terminal deleted translational reporter lines in rice to establish the role of JA signaling in K ion homeostasis
+    + JA profiling revealed significantly increased JA-Ile levels in OsJAZ9 OE lines under K deficiency
+    + Our data provide evidence on the crucial roles of OsJAZ9 for improving K deficiency tolerance in rice by altering JA levels and JA responses
+    + OsJAZ9 overexpression modulates jasmonic acid biosynthesis and potassium deficiency responses in rice
 
 * **Connection**  
     + __OsCOI1~OsCOI1a__, __OsJAZ9~OsTIFY11a__, [OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.%5BTitle%5D), OsJAZ9 interacts with OsCOI1a, a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner, suggesting that OsJAZ9 is involved in the regulation of JA signaling

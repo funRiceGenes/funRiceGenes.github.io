@@ -15,6 +15,7 @@ tags: [shoot, grain, cytokinin, spikelet, root, development, starch, photosynthe
     + [Identification and characterization of cytokinin-signalling gene families in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of cytokinin-signalling gene families in rice%5BTitle%5D), 2006, Gene.
     + [Functional identification of OsHk6 as a homotypic cytokinin receptor in rice with preferential affinity for iP](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional identification of OsHk6 as a homotypic cytokinin receptor in rice with preferential affinity for iP%5BTitle%5D), 2012, Plant Cell Physiol.
     + [Isolation, Characterization and Transcriptome Analysis of a Cytokinin Receptor Mutant Osckt1 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation, Characterization and Transcriptome Analysis of a Cytokinin Receptor Mutant Osckt1 in Rice.%5BTitle%5D), 2017, Front Plant Sci.
+    + [The HK5 and HK6 cytokinin receptors mediate diverse developmental pathways in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The HK5 and HK6 cytokinin receptors mediate diverse developmental pathways in rice%5BTitle%5D), 2020, Development.
 
 * **Genbank accession number**  
     + [BR000247](http://www.ncbi.nlm.nih.gov/nuccore/BR000247)

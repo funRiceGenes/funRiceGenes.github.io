@@ -5,6 +5,325 @@ comments: no
 thread: 616
 ---
 
+* 2020/Dec/3 add new reference for OsCCT03
+* 2020/Dec/3 add new reference for OsCCT41
+* 2020/Dec/3 add new reference for OsCCT38
+* 2020/Dec/3 add new reference for OsCCT22
+* 2020/Dec/3 add new gene: OsCCT03
+* 2020/Dec/3 add new gene: OsCCT41
+* 2020/Dec/3 add new gene: OsCCT38
+* 2020/Dec/3 add new gene: OsCCT22
+* 2020/Dec/3 add new reference for OsNCED1
+* 2020/Dec/3 add new reference for MAL
+* 2020/Dec/3 OsHrd1 == MAL
+* 2020/Dec/3 add new reference for NBS8R
+* 2020/Dec/3 add new gene: NBS8R
+* 2020/Dec/3 add new connections between ZFP207 and SD1
+* 2020/Dec/3 add new connections between ZFP207 and SD1
+* 2020/Dec/3 add new connections between ZFP207 and SD1
+* 2020/Dec/3 add new reference for ZFP207
+* 2020/Dec/3 OsZFP7 == ZFP207
+* 2020/Dec/3 add new reference for OsCUC3
+* 2020/Dec/3 add new reference for OsCUC1
+* 2020/Dec/3 add new gene: osa-miR164
+* 2020/Dec/3 OsCUC1 == OMTN5
+* 2020/Dec/3 add new gene: OsCUC3
+* 2020/Dec/3 add new reference for DR
+* 2020/Dec/3 BS1 == DR
+* 2020/Dec/3 add new reference for OsSPL4
+* 2020/Dec/3 add new reference for OsCAO1
+* 2020/Dec/3 add new reference for SS1
+* 2020/Dec/3 add new gene: SS1
+* 2020/Dec/3 add new reference for OsExo70B1
+* 2020/Dec/3 add new gene: OsExo70B1
+* 2020/Dec/3 add new reference for OsGRDP1
+* 2020/Dec/3 add new gene: OsGRDP1
+* 2020/Dec/3 add new reference for OsHOX1
+* 2020/Dec/3 add new reference for OsHOX28
+* 2020/Dec/3 add new gene: OsHOX28
+* 2020/Dec/3 add new reference for OsLG2L
+* 2020/Dec/3 add new reference for OsLG2
+* 2020/Dec/3 add new reference for OsLG1
+* 2020/Dec/3 add new gene: OsLG2L
+* 2020/Dec/3 add new gene: OsLG2
+* 2020/Dec/3 add new reference for OsRbohB
+* 2020/Dec/3 add new reference for OsAGPL1
+* 2020/Dec/3 add new reference for OsAGPS1
+* 2020/Dec/3 add new reference for OsSBEIIb
+* 2020/Dec/3 OsBEIIb == OsSBEIIb
+* 2020/Dec/3 add new reference for OsAGO17
+* 2020/Dec/3 add new reference for WP2
+* 2020/Dec/3 OsTRXZ == WP2
+* 2020/Dec/3 add new reference for OsGRF4
+* 2020/Dec/3 add new reference for MYB61
+* 2020/Dec/3 add new reference for LA1
+* 2020/Dec/3 add new reference for BM1
+* 2020/Dec/3 OsMYB80 == BM1
+* 2020/Dec/3 add new reference for NRP1
+* 2020/Dec/3 add new gene: NRP1
+* 2020/Dec/3 add new reference for OsPYL9
+* 2020/Dec/3 add new gene: OsPYL9
+* 2020/Dec/3 add new reference for OsWUS
+* 2020/Dec/3 add new reference for OsSAUR27
+* 2020/Dec/3 add new gene: OsSAUR27
+* 2020/Dec/3 add new reference for OsKEAP1
+* 2020/Dec/3 add new gene: OsKEAP1
+* 2020/Dec/3 add new reference for DTH8
+* 2020/Dec/3 add new reference for NAL1
+* 2020/Dec/3 add new reference for OsWRKY114
+* 2020/Dec/3 add new gene: OsWRKY114
+* 2020/Dec/3 add new reference for SLG1
+* 2020/Dec/3 add new gene: SLG1
+* 2020/Dec/3 add new reference for OsmiR535
+* 2020/Dec/3 add new reference for OsMST
+* 2020/Dec/3 add new reference for OsUSP
+* 2020/Dec/3 add new reference for OsDi19-5
+* 2020/Dec/3 add new reference for OsClo5
+* 2020/Dec/3 add new reference for OsMST
+* 2020/Dec/3 add new gene: OsMST
+* 2020/Dec/3 add new gene: OsUSP
+* 2020/Dec/3 add new gene: OsDi19-5
+* 2020/Dec/3 EFA27 == OsClo5
+* 2020/Dec/3 add new reference for miR408
+* 2020/Dec/3 add new gene: miR408
+* 2020/Dec/3 add new reference for OsCM
+* 2020/Dec/3 add new gene: OsCM
+* 2020/Dec/3 add new reference for OsIMA2
+* 2020/Dec/3 add new gene: OsIMA2
+* 2020/Dec/3 add new gene: OsIMA1
+* 2020/Dec/3 add new reference for OsSAE1a
+* 2020/Dec/3 add new gene: OsSAE1a
+* 2020/Dec/3 add new reference for OsTIR1
+* 2020/Dec/3 add new reference for OsIAA11
+* 2020/Dec/3 add new reference for OsIAA1
+* 2020/Dec/3 add new reference for OsAFB3
+* 2020/Dec/3 add new reference for OsAFB4
+* 2020/Dec/3 FBL55 == OsAFB3
+* 2020/Dec/3 add new gene: OsAFB4
+* 2020/Dec/3 add new reference for OsRLCK241
+* 2020/Dec/3 add new gene: OsRLCK241
+* 2020/Dec/3 add new reference for OsNCED3
+* 2020/Dec/3 add new reference for Xa5
+* 2020/Dec/3 add new reference for DUA1
+* 2020/Dec/3 add new reference for OsChz1
+* 2020/Dec/3 add new gene: OsChz1
+* 2020/Dec/3 add new keywords for OsSYL2
+* 2020/Dec/3 add new reference for OsSYL2
+* 2020/Dec/3 add new gene: OsSYL2
+* 2020/Dec/3 add new reference for ZBED
+* 2020/Dec/3 add new gene: ZBED
+* 2020/Dec/3 add new reference for HTD12
+* 2020/Dec/3 add new gene: HTD12
+* 2020/Dec/3 add new reference for OsHk5
+* 2020/Dec/3 add new reference for OsHk6
+* 2020/Dec/3 add new connections between OsSPL12 and IPA1
+* 2020/Dec/3 add new reference for OsSPL12
+* 2020/Dec/3 add new gene: OsSPL12
+* 2020/Dec/3 add new connections between OsPP2C27 and OsMAPK3
+* 2020/Dec/3 add new connections between OsPP2C27 and OsbHLH002
+* 2020/Dec/3 add new connections between OsPP2C27 and OsbHLH002
+* 2020/Dec/3 add new reference for OsPP2C27
+* 2020/Dec/3 OsICE1 == OsbHLH002
+* 2020/Dec/3 add new gene: OsPP2C27
+* 2020/Dec/3 add new reference for EPAD1
+* 2020/Dec/3 add new gene: EPAD1
+* 2020/Dec/3 add new reference for OsCR4
+* 2020/Dec/3 add new connections between OsSIRP4 and OsPEX11-1
+* 2020/Dec/3 add new connections between OsSIRP4 and OsPEX11-1
+* 2020/Dec/3 add new reference for OsSIRP4
+* 2020/Dec/3 add new reference for OsPEX11-1
+* 2020/Dec/3 add new gene: OsPEX11-1
+* 2020/Dec/3 add new gene: OsSIRP4
+* 2020/Dec/3 add new reference for LRG1
+* 2020/Dec/3 NSG == NSG1 == LRG1
+* 2020/Dec/3 add new connections between OsGRXS15 and OsWRKY65
+* 2020/Dec/3 add new connections between OsGRXS15 and OsWRKY65
+* 2020/Dec/3 add new reference for OsWRKY65
+* 2020/Dec/3 add new reference for OsGRXS15
+* 2020/Dec/3 add new gene: OsWRKY65
+* 2020/Dec/3 add new gene: OsGRXS15
+* 2020/Dec/3 add new reference for ALK
+* 2020/Dec/3 add new reference for OsHMA3
+* 2020/Dec/3 add new reference for OsNRAMP5
+* 2020/Dec/3 add new reference for OsNRAMP1
+* 2020/Dec/3 add new reference for OsHOX24
+* 2020/Dec/3 add new reference for OsCAF1B
+* 2020/Dec/3 add new reference for OsDjA9
+* 2020/Dec/3 add new gene: OsDjA9
+* 2020/Dec/3 add new reference for OsRR22
+* 2020/Dec/3 add new connections between OsPrx30 and OsATH1
+* 2020/Dec/3 add new connections between OsPrx30 and OsATH1
+* 2020/Dec/3 add new connections between OsPrx30 and OsATH1
+* 2020/Dec/3 add new reference for OsATH1
+* 2020/Dec/3 add new reference for OsPrx30
+* 2020/Dec/3 add new gene: OsATH1
+* 2020/Dec/3 add new gene: OsPrx30
+* 2020/Dec/3 add new reference for Os6PGDH1
+* 2020/Dec/3 Os6PGDH == Os6PGDH1
+* 2020/Dec/3 add new reference for YPD1
+* 2020/Dec/3 add new gene: YPD1
+* 2020/Dec/3 add new reference for SR1
+* 2020/Dec/3 add new gene: SR1
+* 2020/Dec/3 add new reference for OsPAO5
+* 2020/Dec/3 add new gene: OsPAO5
+* 2020/Dec/3 add new reference for RGG1
+* 2020/Dec/3 add new reference for OsZIP4
+* 2020/Dec/3 add new reference for OsFKBP12
+* 2020/Dec/3 add new gene: OsFKBP12
+* 2020/Dec/2 add new reference for XA21
+* 2020/Dec/2 add new reference for GW2
+* 2020/Dec/2 add new reference for OsACBP5
+* 2020/Dec/2 add new reference for OsSh1
+* 2020/Dec/2 add new reference for OsC3H10
+* 2020/Dec/2 add new gene: OsC3H10
+* 2020/Dec/2 add new reference for OsACBP2
+* 2020/Dec/2 add new reference for OsMYB106
+* 2020/Dec/2 add new gene: OsMYB106
+* 2020/Dec/2 add new reference for OsSUVH7
+* 2020/Dec/2 add new gene: OsSUVH7
+* 2020/Dec/2 add new reference for PSL1
+* 2020/Dec/2 add new gene: PSL1
+* 2020/Dec/2 add new reference for OsIRO3
+* 2020/Dec/2 add new reference for OsSOS1
+* 2020/Dec/2 add new reference for OsDMI3
+* 2020/Dec/2 add new reference for OsA8
+* 2020/Dec/2 add new reference for OsA3
+* 2020/Dec/2 add new gene: OsA3
+* 2020/Dec/2 add new reference for OsFIE1
+* 2020/Dec/2 add new reference for OsSWEET13
+* 2020/Dec/2 add new reference for OsSWEET15
+* 2020/Dec/2 add new reference for Osr40c1
+* 2020/Dec/2 add new gene: Osr40c1
+* 2020/Dec/2 add new reference for OsLHT1
+* 2020/Dec/2 add new reference for OsNLP4
+* 2020/Dec/2 add new reference for OsProDH
+* 2020/Dec/2 OsIPK2 == IPK2 == IP6K == ES2
+* 2020/Dec/2 add new reference for OsGRP2
+* 2020/Dec/2 Osgrp-2 == OsGRP2
+* 2020/Dec/2 add new reference for OsATP4
+* 2020/Dec/2 OsPPR676 == OsATP4
+* 2020/Dec/2 add new reference for Pikp-2
+* 2020/Dec/2 add new reference for Pikp-1
+* 2020/Dec/2 add new reference for qSOR1
+* 2020/Dec/2 add new gene: qSOR1
+* 2020/Dec/2 add new reference for OsBHT
+* 2020/Dec/2 add new gene: OsBHT
+* 2020/Dec/2 add new reference for Os4BGlu14
+* 2020/Dec/2 add new gene: Os4BGlu14
+* 2020/Dec/1 add new reference for OsTIF1
+* 2020/Dec/1 add new gene: OsTIF1
+* 2020/Dec/1 add new reference for SGSD3
+* 2020/Dec/1 OsWRKY36 == SGSD3
+* 2020/Dec/1 add new reference for OsLFR
+* 2020/Dec/1 add new gene: OsLFR
+* 2020/Dec/1 add new reference for OsMADS13
+* 2020/Dec/1 add new reference for OsPsbP
+* 2020/Dec/1 add new gene: OsPsbP
+* 2020/Dec/1 add new reference for OsSWEET3a
+* 2020/Dec/1 add new gene: OsSWEET3a
+* 2020/Dec/1 add new reference for OsGCS1
+* 2020/Dec/1 add new gene: OsGCS1
+* 2020/Dec/1 add new reference for HPA1
+* 2020/Dec/1 add new gene: HPA1
+* 2020/Dec/1 add new reference for OsACBP6
+* 2020/Dec/1 add new reference for OsGPX3
+* 2020/Dec/1 add new reference for OsGPX3
+* 2020/Dec/1 add new reference for OsMYR1
+* 2020/Dec/1 add new gene: OsMYR1
+* 2020/Dec/1 add new reference for OsTrxh2
+* 2020/Dec/1 add new gene: OsTrxh2
+* 2020/Dec/1 add new reference for OsWRKY108
+* 2020/Dec/1 add new reference for OsWRKY21
+* 2020/Dec/1 add new gene: OsWRKY21
+* 2020/Dec/1 add new gene: OsWRKY108
+* 2020/Dec/1 add new reference for Wx
+* 2020/Dec/1 add new reference for Wx
+* 2020/Dec/1 add new reference for OsIAN1
+* 2020/Dec/1 add new gene: OsIAN1
+* 2020/Dec/1 add new reference for ELL1
+* 2020/Dec/1 OsSL == LLM1 == ELL1
+* 2020/Dec/1 add new reference for OsSPO11-2
+* 2020/Dec/1 TOP6A2 == OsTOP6A2 == OsSPO11-2
+* 2020/Dec/1 add new reference for FLR1
+* 2020/Dec/1 add new reference for OsYUCCA6
+* 2020/Dec/1 add new reference for OsPDR1
+* 2020/Dec/1 OsPDR1 == OsABCG45
+* 2020/Dec/1 add new gene: OsPDR1
+* 2020/Dec/1 add new reference for BC12
+* 2020/Dec/1 BC12 == GDD1 == YD1
+* 2020/Dec/1 add new reference for OsAUX1
+* 2020/Dec/1 add new reference for OsDOG1L-3
+* 2020/Dec/1 add new gene: OsDOG1L-3
+* 2020/Dec/1 add new reference for OsMT2c
+* 2020/Dec/1 OsMTI2B == OsMT2c
+* 2020/Dec/1 add new connections between Sub1A and AG1
+* 2020/Dec/1 add new connections between Sub1A and AG1
+* 2020/Dec/1 add new connections between Sub1A and AG1
+* 2020/Dec/1 add new reference for AG1
+* 2020/Dec/1 OsTPP7 == AG1
+* 2020/Dec/1 add new reference for OsPALE1
+* 2020/Dec/1 add new gene: OsPALE1
+* 2020/Dec/1 add new reference for OsCAF2
+* 2020/Dec/1 add new gene: OsCAF2
+* 2020/Dec/1 add new reference for RALF12
+* 2020/Dec/1 add new gene: RALF12
+* 2020/Dec/1 add new reference for OsBI-1
+* 2020/Nov/30 add new reference for OsLsi2
+* 2020/Nov/30 add new reference for OsLsi1
+* 2020/Nov/22 add new info for OsCCA1
+* 2020/Nov/22 OsLHY == OsCCA1
+* 2020/Nov/22 add new reference for OsDMT702
+* 2020/Nov/22 OsMet1-1 == OsMET1a == OsDMT702
+* 2020/Nov/22 add new reference for LTG5
+* 2020/Nov/22 add new gene: LTG5
+* 2020/Nov/20 OsIAAGLU == OsIAGT1
+* 2020/Nov/20 add new reference for OsPYL6
+* 2020/Nov/20 add new gene: OsPYL6
+* 2020/Nov/20 add new reference for LW5
+* 2020/Nov/20 D1 == RGA1 == LW5
+* 2020/Nov/20 add new reference for OsUBL5
+* 2020/Nov/20 add new gene: OsUBL5
+* 2020/Nov/20 add new reference for OsMYC2
+* 2020/Nov/20 add new reference for OsGSK2
+* 2020/Nov/20 add new reference for OsPIN9
+* 2020/Nov/20 add new gene: OsPIN9
+* 2020/Nov/20 add new reference for OsOPR7
+* 2020/Nov/20 add new reference for OscpSRP54b
+* 2020/Nov/20 add new gene: OscpSRP54b
+* 2020/Nov/20 add new reference for OscpSRP54a
+* 2020/Nov/20 YGL138(t) == OscpSRP54a
+* 2020/Nov/20 add new reference for OsRE1
+* 2020/Nov/20 OsbZIP01 == OsRE1
+* 2020/Nov/20 add new reference for BSR1
+* 2020/Nov/20 add new reference for CYP703A3
+* 2020/Aug/4 add new reference for OsFD4
+* 2020/Aug/4 add new gene: OsFD4
+* 2020/Aug/4 add new keywords for OsNF-YB9
+* 2020/Aug/4 add new keywords for OsNF-YB1
+* 2020/Aug/4 add new keywords for OsNF-YB1
+* 2020/Aug/4 add new keywords for OsNF-YB1
+* 2020/Aug/4 add new keywords for OsbZIP76
+* 2020/Aug/4 add new keywords for OsbZIP76
+* 2020/Aug/4 add new keywords for OsbZIP76
+* 2020/Aug/4 add new keywords for OsELP3
+* 2020/Aug/4 add new keywords for OsELP3
+* 2020/Aug/4 add new reference for OsD-LDH2
+* 2020/Aug/4 add new gene: OsD-LDH2
+* 2020/Aug/4 add new reference for OsRDR6
+* 2020/Aug/4 add new reference for OsSPL4
+* 2020/Aug/4 add new gene: OsSPL4
+* 2020/Aug/2 add new keywords for BZ1
+* 2020/Aug/2 add new keywords for BZ1
+* 2020/Aug/2 add new keywords for SRS5
+* 2020/Aug/2 add new keywords for SRS5
+* 2020/Aug/2 add new keywords for SRS5
+* 2020/Aug/2 add new keywords for OM64
+* 2020/Aug/2 add new keywords for OM64
+* 2020/Aug/2 add new keywords for OM64
+* 2020/Aug/2 add new keywords for OsWRKY29
+* 2020/Aug/2 add new keywords for OsWRKY29
+* 2020/Aug/2 add new keywords for OsWRKY29
+* 2020/Aug/2 add new keywords for OsWRKY29
 * 2020/Aug/1 add new reference for OsWRKY29
 * 2020/Aug/1 add new gene: OsWRKY29
 * 2020/Aug/1 add new reference for OM64

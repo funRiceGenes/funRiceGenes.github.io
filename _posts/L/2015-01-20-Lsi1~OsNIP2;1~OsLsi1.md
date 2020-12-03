@@ -3,7 +3,7 @@ layout: post
 title: "Lsi1,OsNIP2;1,OsLsi1"
 description: ""
 category: genes
-tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings, transcription factor, resistance, stress, chilling, transcriptional regulator, tolerance]
+tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings, transcription factor, resistance, stress, chilling, transcriptional regulator, tolerance, salt, salt stress]
 ---
 
 * **Information**  
@@ -27,6 +27,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + [Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.%5BTitle%5D), 2018, Plant Sci.
     + [Si permeability of a deficient Lsi1 aquaporin in tobacco can be enhanced through a conserved residue substitution.](http://www.ncbi.nlm.nih.gov/pubmed?term=Si permeability of a deficient Lsi1 aquaporin in tobacco can be enhanced through a conserved residue substitution.%5BTitle%5D), 2019, Plant Direct.
     + [Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.%5BTitle%5D), 2019, Plant Cell Physiol.
+    + [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D), 2020, Plant Physiol Biochem.
 
 * **Genbank accession number**  
     + [AB222272](http://www.ncbi.nlm.nih.gov/nuccore/AB222272)
@@ -68,6 +69,9 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + In rice, the accumulation of Si is controlled by the low silicon rice 1 (Lsi1) gene; overexpression of Lsi1 (Lsi1-OX) increases Si uptake and accumulation, while the reverse is observed in Lsi1-RNA interference (Lsi1-RNAi) transgenic rice
     + Furthermore, the cellular localization of OsLsi1 was altered; OsLsi1 localized at the root exodermis of the wild-type rice was changed to be localized to other cell layers of the mutant roots
     + The expression level of some transporter genes including OsLsi1 and OsLsi2 for Si uptake and OsNramp5 for Mn uptake was significantly decreased in the mutant compared with the wild-type rice
+    + Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice
+    + In summary, our results reveal that Si deposition at root endodermis and its resultant reduction of Na+ bypass flow is modulated by OsLsi1 and OsLsi2 and regulated by the expression of OsLsi1 and OsLsi2, implying that root Si deposition could be an active and physiologically-regulated process in rice
+    + In this study, we investigated the roles of OsLsi1 and OsLsi2 in Si-induced reduction of bypass flow and its resultant alleviation of salt stress by using lsi1 and lsi2 mutants (defective in OsLsi1 and OsLsi2, respectively) and their wild types (WTs)
 
 * **Connection**  
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [An efflux transporter of silicon in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=An efflux transporter of silicon in rice%5BTitle%5D), Here we describe a previously uncharacterized gene, low silicon rice 2 (Lsi2), which has no similarity to Lsi1
@@ -94,6 +98,10 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + __Lsi1~OsNIP2;1~OsLsi1__, __PAL~OsPAL4__, [Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Lsi1 modulates the antioxidant capacity of rice and protects against ultraviolet-B radiation.%5BTitle%5D),  A further comparison of the transcript levels of individual PAL genes revealed that the expression of PAL2-2 (Os02g0626400) was positively regulated by Lsi1
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.%5BTitle%5D),  The expression level of some transporter genes including OsLsi1 and OsLsi2 for Si uptake and OsNramp5 for Mn uptake was significantly decreased in the mutant compared with the wild-type rice
     + __Lsi1~OsNIP2;1~OsLsi1__, __OsNRAMP5__, [Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.%5BTitle%5D),  The expression level of some transporter genes including OsLsi1 and OsLsi2 for Si uptake and OsNramp5 for Mn uptake was significantly decreased in the mutant compared with the wild-type rice
+    + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D),  In this study, we investigated the roles of OsLsi1 and OsLsi2 in Si-induced reduction of bypass flow and its resultant alleviation of salt stress by using lsi1 and lsi2 mutants (defective in OsLsi1 and OsLsi2, respectively) and their wild types (WTs)
+    + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D), Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice
+    + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D),  Moreover, results obtained from root split experiment using lsi1 WT showed down-regulated expression of Si transport genes (OsLsi1 and OsLsi2) in root accelerated Si deposition at root endodermis
+    + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D),  In summary, our results reveal that Si deposition at root endodermis and its resultant reduction of Na+ bypass flow is modulated by OsLsi1 and OsLsi2 and regulated by the expression of OsLsi1 and OsLsi2, implying that root Si deposition could be an active and physiologically-regulated process in rice
 
 [//]: # * **Key figures**  
 

@@ -3,7 +3,7 @@ layout: post
 title: "OsYUCCA6,OsYUC6"
 description: ""
 category: genes
-tags: 
+tags: [auxin,  ga , auxin transport, GA, auxin biosynthesis]
 ---
 
 * **Information**  
@@ -13,10 +13,12 @@ tags:
 
 * **Publication**  
     + [Auxin biosynthesis by the YUCCA genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin biosynthesis by the YUCCA genes in rice%5BTitle%5D), 2007, Plant Physiol.
+    + [Gibberellins modulate local auxin biosynthesis and polar auxin transport by negatively affecting flavonoid biosynthesis in the root tips of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Gibberellins modulate local auxin biosynthesis and polar auxin transport by negatively affecting flavonoid biosynthesis in the root tips of rice%5BTitle%5D), 2020, Plant Science.
 
 * **Genbank accession number**  
 
 * **Key message**  
+    + Based on RNA-seq and qPCR analyses, we determined that GA regulates local auxin biosynthesis and polar auxin transport by modulating the expression of OsYUCCA6 and PIN
 
 * **Connection**  
     + __OsARID3__, __OsYUCCA6~OsYUC6__, [OsARID3, an AT-rich Interaction Domain-containing protein, is required for shoot  meristem development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsARID3, an AT-rich Interaction Domain-containing protein, is required for shoot  meristem development in rice%5BTitle%5D), Furthermore, our chromatin immunoprecipitation results demonstrate that OsARID3 binds directly to the KNOXI gene OSH71, the auxin biosynthetic genes OsYUC1 and OsYUC6, and the cytokinin biosynthetic genes OsIPT2 and OsIPT7.

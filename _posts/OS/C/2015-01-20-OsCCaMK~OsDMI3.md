@@ -3,7 +3,7 @@ layout: post
 title: "OsCCaMK,OsDMI3"
 description: ""
 category: genes
-tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
+tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, alkaline tolerance, alkaline stress, tolerance, root elongation, stress, Kinase, protein kinase, kinase]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
     + [Fungal symbiosis in rice requires an ortholog of a legume common symbiosis gene encoding a Ca2+/calmodulin-dependent protein kinase](http://www.ncbi.nlm.nih.gov/pubmed?term=Fungal symbiosis in rice requires an ortholog of a legume common symbiosis gene encoding a Ca2+/calmodulin-dependent protein kinase%5BTitle%5D), 2007, Plant Physiol.
     + [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), 2008, Proc Natl Acad Sci U S A.
     + [Abscisic Acid Inhibits Rice Protein Phosphatase PP45 via H2O2 and Relieves Repression of the Ca2+/CaM-Dependent Protein Kinase DMI3.](http://www.ncbi.nlm.nih.gov/pubmed?term=Abscisic Acid Inhibits Rice Protein Phosphatase PP45 via H2O2 and Relieves Repression of the Ca2+/CaM-Dependent Protein Kinase DMI3.%5BTitle%5D), 2018, Plant Cell.
+    + [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D), 2020, Plant Signal Behav.
 
 * **Genbank accession number**  
     + [AK070533](http://www.ncbi.nlm.nih.gov/nuccore/AK070533)
@@ -34,6 +35,11 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
     + Treatments with ABA, H(2)O(2), and polyethylene glycol (PEG) induced the expression of OsDMI3 and the activity of OsDMI3, and H(2)O(2) is required for the ABA-induced increases in the expression and the activity of OsDMI3 under water stress
     + Here, we report the effect of a Tos17-induced OsCCaMK mutant (NE1115) on CH4 flux in low-nitrogen (LN) and standard-nitrogen (SN) paddy fields compared with wild-type (WT) Nipponbare
     + Moreover, the analysis of the RNAi silencing of OsDMI3 in protoplasts and the mutant of OsDMI3 showed that higher levels of H(2)O(2) accumulation require OsDMI3 activation in ABA signaling, but the initial H(2)O(2) production induced by ABA is not dependent on the activation of OsDMI3 in leaves of rice plants
+    + This was consistent with the results of Na+ content and NMT that indicated OsDMI3 promoted root elongation under saline-alkaline stress by reducing root Na+ and H+ influx
+    + Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots
+    + Collectively, our results suggest that OsDMI3 could promote saline-alkaline tolerance in rice roots by modulating the Na+ and H+ influx
+    + Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
+    + We measured the OsDMI3 activity by an in-gel kinase assay, Na+ content by NaHCO3 treatment, and Na+ and H+ fluxes by noninvasive micro-test technology (NMT)
 
 * **Connection**  
     + __OsCCaMK~OsDMI3__, __OsMPK1~OsMAPK6~OsSIPK__, [OsDMI3-mediated activation of OsMPK1 regulates the activities of antioxidant enzymes in abscisic acid signalling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDMI3-mediated activation of OsMPK1 regulates the activities of antioxidant enzymes in abscisic acid signalling in rice%5BTitle%5D), In this study, the cross-talk between OsDMI3 and the major ABA-activated MAPK OsMPK1 in ABA-induced antioxidant defence was investigated
@@ -46,6 +52,9 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen]
     + __CYCLOPS~OsIPD3__, __OsCCaMK~OsDMI3__, [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), We observed colocalization and physical interaction between CCaMK and CYCLOPS in plant and yeast cell nuclei in the absence of symbiotic stimulation
     + __CYCLOPS~OsIPD3__, __OsCCaMK~OsDMI3__, [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), Importantly, CYCLOPS is a phosphorylation substrate of CCaMK in vitro
     + __CYCLOPS~OsIPD3__, __OsCCaMK~OsDMI3__, [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), Our results suggest that CYCLOPS forms an ancient, preassembled signal transduction complex with CCaMK that is specifically required for infection, whereas organogenesis likely requires additional yet-to-be identified CCaMK interactors or substrates
+    + __OsA3__, __OsCCaMK~OsDMI3__, [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D),  Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
+    + __OsA8__, __OsCCaMK~OsDMI3__, [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D),  Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
+    + __OsCCaMK~OsDMI3__, __OsNHA1~OsSOS1__, [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D),  Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
 
 [//]: # * **Key figures**  
 

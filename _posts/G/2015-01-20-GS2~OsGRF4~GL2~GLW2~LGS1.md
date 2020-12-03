@@ -20,6 +20,7 @@ tags: [grain size, grain yield, transcriptional regulator, transcription activat
     + [The OsmiR396c-OsGRF4-OsGIF1 regulatory module determines grain size and yield in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsmiR396c-OsGRF4-OsGIF1 regulatory module determines grain size and yield in Rice.%5BTitle%5D), 2016, Plant Biotechnol J.
     + [Modulating plant growth-metabolism coordination for sustainable agriculture.](http://www.ncbi.nlm.nih.gov/pubmed?term=Modulating plant growth-metabolism coordination for sustainable agriculture.%5BTitle%5D), 2018, Nature.
     + [A Missense Mutation in LGS1 Increases Grain Size and Enhances Cold Tolerance in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Missense Mutation in LGS1 Increases Grain Size and Enhances Cold Tolerance in Rice.%5BTitle%5D), 2019, J Exp Bot.
+    + [MYB61 is regulated by GRF4 and promotes nitrogen utilization and biomass production in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MYB61 is regulated by GRF4 and promotes nitrogen utilization and biomass production in rice%5BTitle%5D), 2020, Nat Commun.
 
 * **Genbank accession number**  
 

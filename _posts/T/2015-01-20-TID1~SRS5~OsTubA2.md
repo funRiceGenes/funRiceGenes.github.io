@@ -32,6 +32,9 @@ tags: [meristem, growth, root, brassinosteroid, stem, seed, lemma, cell elongati
     + In this study, we showed that overexpression of SRS5 can promote grain length and demonstrated that the overexpression of SRS5 in BR-related mutants rescued the shortened grain length, which is an unfavorable phenotype in the yield potential of BR-related mutants, while preserving the useful semi-dwarf and erect leaf phenotypes
     + Overexpression of SRS5 improves grain size of brassinosteroid-related dwarf mutants in rice (Oryza sativa L.).
     + Developing a novel artificial rice germplasm for dinitroaniline herbicide resistance by base editing of OsTubA2.
+    + Overexpression of SRS5 improves grain size of brassinosteroid-related dwarf mutants in rice ( Oryza sativa L.)
+    + Previously, we cloned SMALL AND ROUND SEED 5 (SRS5) gene (encoding alpha-tubulin) from a small and round seed mutant and revealed that this gene regulates grain length independently of the brassinosteroid (BR) signaling pathway, although BR-related mutants set small grain.
+    + Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice
 
 * **Connection**  
     + __D61~OsBRI1__, __TID1~SRS5~OsTubA2__, [Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice%5BTitle%5D), Seeds of the double mutant of Srs5 and d61-2 were smaller than those of Srs5 or d61-2
