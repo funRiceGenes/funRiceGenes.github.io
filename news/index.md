@@ -132,8 +132,8 @@ thread: 616
 * 2021/Jan/18 add new reference for CYP703A3
 * 2021/Jan/18 add new reference for OsCDPK14
 * 2021/Jan/18 add new reference for OsABI5
-* 2021/Jan/18 add new reference for OsDi19â€<U+393C><U+3E33>1
-* 2021/Jan/18 add new gene: OsDi19â€<U+393C><U+3E33>1
+* 2021/Jan/18 add new reference for OsDi19-1
+* 2021/Jan/18 add new gene: OsDi19-1
 * 2021/Jan/18 add new reference for CSA
 * 2021/Jan/18 add new reference for OsCIPK15
 * 2021/Jan/18 add new reference for OsTPP7
@@ -1131,10 +1131,10 @@ thread: 616
 * 2020/Jul/25 add new keywords for OsSBPase
 * 2020/Jul/25 add new reference for OsSBPase
 * 2020/Jul/25 add new gene: OsSBPase
-* 2020/Jun/15 add new reference for OsGT¦Ã-2
-* 2020/Jun/15 SAB18 == OsGT¦Ã-2
-* 2020/Jun/15 add new reference for OsCpn60¦Â1
-* 2020/Jun/15 add new gene: OsCpn60¦Â1
+* 2020/Jun/15 add new reference for OsGTgamma-2
+* 2020/Jun/15 SAB18 == OsGTgamma-2
+* 2020/Jun/15 add new reference for OsCpn60beta1
+* 2020/Jun/15 add new gene: OsCpn60beta1
 * 2020/Jun/15 add new reference for OsSGR
 * 2020/Jun/15 SGR == OsSGR
 * 2020/Jun/15 add new reference for OsAAP1
@@ -2375,9 +2375,9 @@ thread: 616
 * 2019/Aug/28 add new pub.
 * 2019/Aug/28 add new gene: ALEX1
 * 2019/Aug/28 add new pub.
-* 2019/Aug/28 add new info for gene: OsDGD2¦Â
+* 2019/Aug/28 add new info for gene: OsDGD2
 * 2019/Aug/28 add new pub.
-* 2019/Aug/28 add new gene: OsDGD2¦Â
+* 2019/Aug/28 add new gene: OsDGD2
 * 2019/Aug/28 add new pub.
 * 2019/Aug/28 add new info for gene: OsPIN1d
 * 2019/Aug/28 add new pub.
@@ -4101,9 +4101,9 @@ thread: 616
 * 2018/Jun/15 add new info for gene: ART2
 * 2018/Jun/15 add new pub.
 * 2018/Jun/15 add new gene: ART2
-* 2018/Jun/15 add new accessions for OsC3¨@H1
+* 2018/Jun/15 add new accessions for OsC3H1
 * 2018/Jun/15 add new pub.
-* 2018/Jun/15 add new gene: OsC3¨@H1
+* 2018/Jun/15 add new gene: OsC3H1
 * 2018/Jun/10 add new pub.
 * 2018/Jun/10 add new pub.
 * 2018/Jun/10 add new pub.
