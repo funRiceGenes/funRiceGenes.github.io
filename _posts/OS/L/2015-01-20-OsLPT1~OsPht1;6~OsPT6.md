@@ -18,6 +18,8 @@ tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root]
     + [Involvement of OsSPX1 in phosphate homeostasis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsSPX1 in phosphate homeostasis in rice%5BTitle%5D), 2009, Plant J.
     + [Rice phosphate transporters include an evolutionarily divergent gene specifically activated in arbuscular mycorrhizal symbiosis](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice phosphate transporters include an evolutionarily divergent gene specifically activated in arbuscular mycorrhizal symbiosis%5BTitle%5D), 2002, Proc Natl Acad Sci U S A.
     + [Cloning and characterization of cDNA for the Oryza sativa phosphate transporter](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and characterization of cDNA for the Oryza sativa phosphate transporter%5BTitle%5D), 2005, Cell Mol Biol Lett.
+    + [Modulation of nitrate-induced phosphate response by the MYB transcription factor RLI1/HINGE1 in the nucleus](http://www.ncbi.nlm.nih.gov/pubmed?term=Modulation of nitrate-induced phosphate response by the MYB transcription factor RLI1/HINGE1 in the nucleus%5BTitle%5D), 2020, Mol Plant.
+    + [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D), 2020, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AF536966](http://www.ncbi.nlm.nih.gov/nuccore/AF536966)

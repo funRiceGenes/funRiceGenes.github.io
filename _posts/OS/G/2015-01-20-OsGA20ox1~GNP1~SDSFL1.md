@@ -20,6 +20,7 @@ tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, 
     + [Rice SDSFL1 plays a critical role in the regulation of plant structure through the control of different phytohormones and altered cell structure.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice SDSFL1 plays a critical role in the regulation of plant structure through the control of different phytohormones and altered cell structure.%5BTitle%5D), 2018, J Plant Physiol.
     + [Natural Sequence Variations and Combinations of GNP1 and NAL1 Determine the Grain Number per Panicle in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Natural Sequence Variations and Combinations of GNP1 and NAL1 Determine the Grain Number per Panicle in Rice.%5BTitle%5D), 2020, Rice (N Y).
     + [Pleiotropic Effect of GNP1 Underlying Grain Number per Panicle on Sink, Source and Flow in Rice ](http://www.ncbi.nlm.nih.gov/pubmed?term=Pleiotropic Effect of GNP1 Underlying Grain Number per Panicle on Sink, Source and Flow in Rice %5BTitle%5D), 2020, Front Plant Sci.
+    + [Gene Expression Dynamics in Rice Peduncles at the Heading Stage](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene Expression Dynamics in Rice Peduncles at the Heading Stage%5BTitle%5D), 2020, Front Genet.
 
 * **Genbank accession number**  
     + [U50333](http://www.ncbi.nlm.nih.gov/nuccore/U50333)

@@ -17,6 +17,7 @@ tags: [root, flower, lateral root, leaf shape, spikelet, sheath, palea, grain, r
     + [A WUSCHEL-LIKE HOMEOBOX gene represses a YABBY gene expression required for rice leaf development](http://www.ncbi.nlm.nih.gov/pubmed?term=A WUSCHEL-LIKE HOMEOBOX gene represses a YABBY gene expression required for rice leaf development%5BTitle%5D), 2007, Plant Physiol.
     + [OsWOX3A is involved in negative feedback regulation of the gibberellic acid biosynthetic pathway in rice Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsWOX3A is involved in negative feedback regulation of the gibberellic acid biosynthetic pathway in rice Oryza sativa.%5BTitle%5D), 2016, J Exp Bot.
     + [Regulatory role of the OsWOX3A transcription factor in rice root development.](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory role of the OsWOX3A transcription factor in rice root development.%5BTitle%5D), 2016, Plant Signal Behav.
+    + [Characterization of dwarf and narrow leaf  dnl-4 mutant in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of dwarf and narrow leaf  dnl-4 mutant in rice%5BTitle%5D), 2020, Plant Signal Behav.
 
 * **Genbank accession number**  
     + [BAE48302](http://www.ncbi.nlm.nih.gov/nuccore/BAE48302)

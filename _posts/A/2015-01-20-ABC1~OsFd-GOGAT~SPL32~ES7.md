@@ -16,6 +16,7 @@ tags: [nitrogen, leaf, leaf senescence, transcription factor, early leaf senesce
     + [The ferredoxin-dependent glutamate synthase OsFd-GOGAT participates in leaf senescence and the nitrogen remobilization in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The ferredoxin-dependent glutamate synthase OsFd-GOGAT participates in leaf senescence and the nitrogen remobilization in rice.%5BTitle%5D), 2016, Mol Genet Genomics.
     + [Isolation and characterization of a spotted leaf 32 mutant with early leaf senescence and enhanced defense response in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a spotted leaf 32 mutant with early leaf senescence and enhanced defense response in rice.%5BTitle%5D), 2017, Sci Rep.
     + [ES7, encoding a ferredoxin-dependent glutamate synthase, functions in nitrogen metabolism and impacts leaf senescence in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=ES7, encoding a ferredoxin-dependent glutamate synthase, functions in nitrogen metabolism and impacts leaf senescence in rice%5BTitle%5D), 2017, Plant Science.
+    + [Nitrogen Mediates Flowering Time and Nitrogen Use Efficiency via Floral Regulators in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Nitrogen Mediates Flowering Time and Nitrogen Use Efficiency via Floral Regulators in Rice%5BTitle%5D), 2020, Curr Biol.
 
 * **Genbank accession number**  
 

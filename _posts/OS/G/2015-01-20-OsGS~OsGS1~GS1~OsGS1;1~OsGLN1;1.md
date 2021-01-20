@@ -23,6 +23,7 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + [Overexpression of the glutamine synthetase gene modulates oxidative stress response in rice after exposure to cadmium stress](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of the glutamine synthetase gene modulates oxidative stress response in rice after exposure to cadmium stress%5BTitle%5D), 2013, Plant Cell Rep.
     + [Concurrent Overexpression of OsGS1;1 and OsGS2 Genes in Transgenic Rice Oryza sativa L.: Impact on Tolerance to Abiotic Stresses.](http://www.ncbi.nlm.nih.gov/pubmed?term=Concurrent Overexpression of OsGS1;1 and OsGS2 Genes in Transgenic Rice Oryza sativa L.: Impact on Tolerance to Abiotic Stresses.%5BTitle%5D), 2018, Front Plant Sci.
     + [Cytosolic GLUTAMINE SYNTHETASE 1;1 modulates metabolism and chloroplast development in roots.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cytosolic GLUTAMINE SYNTHETASE 1;1 modulates metabolism and chloroplast development in roots.%5BTitle%5D), 2020, Plant Physiol.
+    + [The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants](http://www.ncbi.nlm.nih.gov/pubmed?term=The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants%5BTitle%5D), 2021, Rice (N Y).
 
 * **Genbank accession number**  
     + [NM_001054580.1](http://www.ncbi.nlm.nih.gov/nuccore/NM_001054580.1)

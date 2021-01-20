@@ -14,6 +14,7 @@ tags: [auxin,  ga , auxin transport, GA, auxin biosynthesis]
 * **Publication**  
     + [Auxin biosynthesis by the YUCCA genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin biosynthesis by the YUCCA genes in rice%5BTitle%5D), 2007, Plant Physiol.
     + [Gibberellins modulate local auxin biosynthesis and polar auxin transport by negatively affecting flavonoid biosynthesis in the root tips of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Gibberellins modulate local auxin biosynthesis and polar auxin transport by negatively affecting flavonoid biosynthesis in the root tips of rice%5BTitle%5D), 2020, Plant Science.
+    + [The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants](http://www.ncbi.nlm.nih.gov/pubmed?term=The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants%5BTitle%5D), 2021, Rice (N Y).
 
 * **Genbank accession number**  
 

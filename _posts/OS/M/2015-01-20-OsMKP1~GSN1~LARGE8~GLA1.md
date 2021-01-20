@@ -16,6 +16,7 @@ tags: [dwarf, brassinosteroid, gibberellin, panicle, grain, grain size, architec
     + [GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=GRAIN SIZE AND NUMBER1 Negatively Regulates the OsMKKK10-OsMKK4-OsMPK6 Cascade to Coordinate the Trade-off between Grain Number per Panicle and Grain Size in Rice.%5BTitle%5D), 2018, Plant Cell.
     + [A Mitogen-Activated Protein Kinase Phosphatase influences grain size and weight in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Mitogen-Activated Protein Kinase Phosphatase influences grain size and weight in rice.%5BTitle%5D), 2018, Plant J.
     + [GRAIN LENGTH AND AWN 1 negatively regulates grain size in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=GRAIN LENGTH AND AWN 1 negatively regulates grain size in rice.%5BTitle%5D), 2018, J Integr Plant Biol.
+    + [OrMKK3 Influences Morphology and Grain Size in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OrMKK3 Influences Morphology and Grain Size in Rice%5BTitle%5D), 2021, J Plant Biol.
 
 * **Genbank accession number**  
 

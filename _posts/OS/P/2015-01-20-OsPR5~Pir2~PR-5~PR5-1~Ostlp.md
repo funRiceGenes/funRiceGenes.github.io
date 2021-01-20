@@ -20,6 +20,7 @@ tags:
     + [Functional analysis and expressional characterization of rice ankyrin repeat-containing protein, OsPIANK1, in basal defense against Magnaporthe oryzae attack](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional analysis and expressional characterization of rice ankyrin repeat-containing protein, OsPIANK1, in basal defense against Magnaporthe oryzae attack%5BTitle%5D), 2013, PLoS One.
     + [Ultra low-dose radiation: stress responses and impacts using rice as a grass model](http://www.ncbi.nlm.nih.gov/pubmed?term=Ultra low-dose radiation: stress responses and impacts using rice as a grass model%5BTitle%5D), 2009, Int J Mol Sci.
     + [Overexpression of rice thaumatin-like protein Ostlp gene in transgenic cassava results in enhanced tolerance to Colletotrichum gloeosporioides f. sp. manihotis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of rice thaumatin-like protein Ostlp gene in transgenic cassava results in enhanced tolerance to Colletotrichum gloeosporioides f. sp. manihotis.%5BTitle%5D), 2018, J Genet Eng Biotechnol.
+    + [Magnaporthe oryzae systemic defense trigger 1 MoSDT1-mediated metabolites regulate defense response in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Magnaporthe oryzae systemic defense trigger 1 MoSDT1-mediated metabolites regulate defense response in Rice%5BTitle%5D), 2021, BMC Plant Biol.
 
 * **Genbank accession number**  
 

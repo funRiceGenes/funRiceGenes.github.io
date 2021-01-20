@@ -23,6 +23,7 @@ tags: [sheath, flower, seedling,  ga , phosphate, flowering time, ethylene, flor
     + [Distinct and cooperative functions of phytochromes A, B, and C in the control of deetiolation and flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Distinct and cooperative functions of phytochromes A, B, and C in the control of deetiolation and flowering in rice%5BTitle%5D), 2005, Plant Cell.
     + [Comprehensive metabolite profiling of phyA phyB phyC triple mutants to reveal their associated metabolic phenotype in rice leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Comprehensive metabolite profiling of phyA phyB phyC triple mutants to reveal their associated metabolic phenotype in rice leaves%5BTitle%5D), 2009, J Biosci Bioeng.
     + [OsPhyA modulates rice flowering time mainly through OsGI under short days and Ghd7 under long days in the absence of phytochrome B.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPhyA modulates rice flowering time mainly through OsGI under short days and Ghd7 under long days in the absence of phytochrome B.%5BTitle%5D), 2016, Plant Mol Biol.
+    + [Transcriptional and post-transcriptional regulation of heading date in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional and post-transcriptional regulation of heading date in rice%5BTitle%5D), 2020, New Phytol.
 
 * **Genbank accession number**  
     + [AB109891](http://www.ncbi.nlm.nih.gov/nuccore/AB109891)

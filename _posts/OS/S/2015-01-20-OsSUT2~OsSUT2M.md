@@ -17,6 +17,7 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
     + [The rice pentatricopeptide repeat protein RF5 restores fertility in Hong-Lian cytoplasmic male-sterile lines via a complex with the glycine-rich protein GRP162](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice pentatricopeptide repeat protein RF5 restores fertility in Hong-Lian cytoplasmic male-sterile lines via a complex with the glycine-rich protein GRP162%5BTitle%5D), 2012, Plant Cell.
     + [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), 2008, J Integr Plant Biol.
     + [The sucrose transporter gene family in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The sucrose transporter gene family in rice%5BTitle%5D), 2003, Plant Cell Physiol.
+    + [OsRRM, an RNA-Binding Protein, Modulates Sugar Transport in Rice  Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRRM, an RNA-Binding Protein, Modulates Sugar Transport in Rice  Oryza sativa L.%5BTitle%5D), 2020, Front Plant Sci.
 
 * **Genbank accession number**  
     + [DQ072592](http://www.ncbi.nlm.nih.gov/nuccore/DQ072592)

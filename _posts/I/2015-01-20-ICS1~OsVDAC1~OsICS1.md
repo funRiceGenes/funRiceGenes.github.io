@@ -19,6 +19,7 @@ tags: [defense, defense response,  sa , SA]
     + [A rice gene of de novo origin negatively regulates pathogen-induced defense response](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice gene of de novo origin negatively regulates pathogen-induced defense response%5BTitle%5D), 2009, PLoS One.
     + [Phytochromes regulate SA and JA signaling pathways in rice and are required for developmentally controlled resistance to Magnaporthe grisea](http://www.ncbi.nlm.nih.gov/pubmed?term=Phytochromes regulate SA and JA signaling pathways in rice and are required for developmentally controlled resistance to Magnaporthe grisea%5BTitle%5D), 2011, Mol Plant.
     + [Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of Oryza sativa WRKY6, which binds to W-box-like element 1 of the Oryza sativa pathogenesis-related PR 10a promoter and confers reduced susceptibility to pathogens.%5BTitle%5D), 2015, New Phytol.
+    + [Salicylic acid application alleviates cadmium accumulation in brown rice by modulating its shoot to grain translocation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Salicylic acid application alleviates cadmium accumulation in brown rice by modulating its shoot to grain translocation in rice%5BTitle%5D), 2021, Chemosphere.
 
 * **Genbank accession number**  
     + [Y18104](http://www.ncbi.nlm.nih.gov/nuccore/Y18104)

@@ -23,6 +23,7 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + [Control of grain size and weight by the OsMKKK10-OsMKK4-OsMAPK6 signaling pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Control of grain size and weight by the OsMKKK10-OsMKK4-OsMAPK6 signaling pathway in rice.%5BTitle%5D), 2018, Mol Plant.
     + [Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.](http://www.ncbi.nlm.nih.gov/pubmed?term=Differential Responses of OsMPKs in IR56 Rice to Two BPH Populations of Different Virulence Levels.%5BTitle%5D), 2018, Int J Mol Sci.
     + [Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.%5BTitle%5D), 2019, Biochem Biophys Res Commun.
+    + [OrMKK3 Influences Morphology and Grain Size in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OrMKK3 Influences Morphology and Grain Size in Rice%5BTitle%5D), 2021, J Plant Biol.
 
 * **Genbank accession number**  
     + [AB183398](http://www.ncbi.nlm.nih.gov/nuccore/AB183398)

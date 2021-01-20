@@ -3,7 +3,7 @@ layout: post
 title: "alphaAmy3,OsAmy3D,RAmy3D"
 description: ""
 category: genes
-tags: [seed]
+tags: [seed, growth]
 ---
 
 * **Information**  
@@ -21,6 +21,7 @@ tags: [seed]
     + [Signal peptide-dependent targeting of a rice alpha-amylase and cargo proteins to plastids and extracellular compartments of plant cells](http://www.ncbi.nlm.nih.gov/pubmed?term=Signal peptide-dependent targeting of a rice alpha-amylase and cargo proteins to plastids and extracellular compartments of plant cells%5BTitle%5D), 2004, Plant Physiol.
     + [Interaction between rice MYBGA and the gibberellin response element controls tissue-specific sugar sensitivity of alpha-amylase genes](http://www.ncbi.nlm.nih.gov/pubmed?term=Interaction between rice MYBGA and the gibberellin response element controls tissue-specific sugar sensitivity of alpha-amylase genes%5BTitle%5D), 2006, Plant Cell.
     + [Sugar sensing and alpha-amylase gene repression in rice embryos](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar sensing and alpha-amylase gene repression in rice embryos%5BTitle%5D), 1998, Planta.
+    + [A method to simplify bioreactor processing for recombinant protein production in rice cell suspension cultures](http://www.ncbi.nlm.nih.gov/pubmed?term=A method to simplify bioreactor processing for recombinant protein production in rice cell suspension cultures%5BTitle%5D), 2020, MethodsX.
 
 * **Genbank accession number**  
     + [M24287.1](http://www.ncbi.nlm.nih.gov/nuccore/M24287.1)
@@ -28,6 +29,7 @@ tags: [seed]
 * **Key message**  
     + RAmy1A and RAmy3E were expressed in all tissues while RAmy3D was expressed in all tissues except the immature seeds
     + RAmy1A transcript was most abundant in the germinating seeds, while RAmy3D and RAmy3E transcripts were most abundant in callus and immature seeds, respectively
+    + Using the RAmy3D promoter system in transgenic rice cell suspensions results in two phases of the culture, the growth phase and the induction phase
 
 * **Connection**  
     + __alphaAmy3~OsAmy3D~RAmy3D__, __OsMYBS1__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), SnRK1A accumulation was previously shown to be required for MYBS1 expression, which transactivates Amy3D by binding to a cis-acting element found in the proximal region of all Amy3 subfamily gene promoters (the TA box)

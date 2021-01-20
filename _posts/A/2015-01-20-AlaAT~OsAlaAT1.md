@@ -14,6 +14,7 @@ tags: [nitrogen, seed, starch]
 * **Publication**  
     + [Molecular characterization of a gene for alanine aminotransferase from rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of a gene for alanine aminotransferase from rice Oryza sativa%5BTitle%5D), 1999, Plant Mol Biol.
     + [Alanine aminotransferase 1 OsAlaAT1 plays an essential role in the regulation of starch storage in rice endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=Alanine aminotransferase 1 OsAlaAT1 plays an essential role in the regulation of starch storage in rice endosperm.%5BTitle%5D), 2015, Plant Sci.
+    + [Bin-based genome-wide association studies reveal superior alleles for improvement of appearance quality using a 4-way MAGIC population in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Bin-based genome-wide association studies reveal superior alleles for improvement of appearance quality using a 4-way MAGIC population in rice%5BTitle%5D), 2020, J Adv Res.
 
 * **Genbank accession number**  
     + [AB007404](http://www.ncbi.nlm.nih.gov/nuccore/AB007404)

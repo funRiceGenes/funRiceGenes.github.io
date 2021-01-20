@@ -16,6 +16,8 @@ tags: [stamen, flower, lemma, floral, leaf, palea]
     + [Functional conservation and diversification of class E floral homeotic genes in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional conservation and diversification of class E floral homeotic genes in rice Oryza sativa%5BTitle%5D), 2010, Plant J.
     + [Survey of rice proteins interacting with OsFCA and OsFY proteins which are homologous to the Arabidopsis flowering time proteins, FCA and FY](http://www.ncbi.nlm.nih.gov/pubmed?term=Survey of rice proteins interacting with OsFCA and OsFY proteins which are homologous to the Arabidopsis flowering time proteins, FCA and FY%5BTitle%5D), 2009, Plant Cell Physiol.
     + [Alteration of floral organ identity in rice through ectopic expression of OsMADS16](http://www.ncbi.nlm.nih.gov/pubmed?term=Alteration of floral organ identity in rice through ectopic expression of OsMADS16%5BTitle%5D), 2003, Planta.
+    + [Cloning of long sterile lemma lsl2, a single recessive gene that regulates spike germination in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning of long sterile lemma lsl2, a single recessive gene that regulates spike germination in rice Oryza sativa L.%5BTitle%5D), 2020, BMC Plant Biol.
+    + [OsMADS32 Regulates Rice Floral Patterning through Interactions with Multiple Floral Homeotic Genes](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMADS32 Regulates Rice Floral Patterning through Interactions with Multiple Floral Homeotic Genes%5BTitle%5D), 2020, J Exp Bot.
 
 * **Genbank accession number**  
     + [AK072867](http://www.ncbi.nlm.nih.gov/nuccore/AK072867)

@@ -14,6 +14,7 @@ tags: [cold stress, salt, photosynthesis, submergence, drought, gibberellin, lea
 * **Publication**  
     + [Cloning of a putative monogalactosyldiacylglycerol synthase gene from rice Oryza sativa L. plants and its expression in response to submergence and other stresses](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning of a putative monogalactosyldiacylglycerol synthase gene from rice Oryza sativa L. plants and its expression in response to submergence and other stresses%5BTitle%5D), 2004, Planta.
     + [Characterization and Mutational Analysis of a Monogalactosyldiacylglycerol Synthase Gene OsMGD2 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization and Mutational Analysis of a Monogalactosyldiacylglycerol Synthase Gene OsMGD2 in Rice.%5BTitle%5D), 2019, Front Plant Sci.
+    + [Gene Expression Dynamics in Rice Peduncles at the Heading Stage](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene Expression Dynamics in Rice Peduncles at the Heading Stage%5BTitle%5D), 2020, Front Genet.
 
 * **Genbank accession number**  
     + [AB112060](http://www.ncbi.nlm.nih.gov/nuccore/AB112060)

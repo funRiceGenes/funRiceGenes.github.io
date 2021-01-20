@@ -16,6 +16,7 @@ tags: [root hair, nitrate, transporter, root]
     + [Cloning and functional characterization of a constitutively expressed nitrate transporter gene, OsNRT1, from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and functional characterization of a constitutively expressed nitrate transporter gene, OsNRT1, from rice%5BTitle%5D), 2000, Plant Physiol.
     + [Comparison of ion balance and nitrogen metabolism in old and young leaves of alkali-stressed rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Comparison of ion balance and nitrogen metabolism in old and young leaves of alkali-stressed rice plants%5BTitle%5D), 2012, PLoS One.
     + [NRT1.1s in plants: functions beyond nitrate transport](http://www.ncbi.nlm.nih.gov/pubmed?term=NRT1.1s in plants: functions beyond nitrate transport%5BTitle%5D), 2020, J Exp Bot.
+    + [Modulation of nitrate-induced phosphate response by the MYB transcription factor RLI1/HINGE1 in the nucleus](http://www.ncbi.nlm.nih.gov/pubmed?term=Modulation of nitrate-induced phosphate response by the MYB transcription factor RLI1/HINGE1 in the nucleus%5BTitle%5D), 2020, Mol Plant.
 
 * **Genbank accession number**  
     + [AF140606](http://www.ncbi.nlm.nih.gov/nuccore/AF140606)

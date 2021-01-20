@@ -19,6 +19,7 @@ tags: [drought tolerance, salt stress, drought, chloroplast, salt, seedling, sal
     + [Three cDNA sequences coding for glutamine synthetase polypeptides in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Three cDNA sequences coding for glutamine synthetase polypeptides in Oryza sativa L%5BTitle%5D), 1989, Plant Mol Biol.
     + [Concurrent Overexpression of OsGS1;1 and OsGS2 Genes in Transgenic Rice Oryza sativa L.: Impact on Tolerance to Abiotic Stresses.](http://www.ncbi.nlm.nih.gov/pubmed?term=Concurrent Overexpression of OsGS1;1 and OsGS2 Genes in Transgenic Rice Oryza sativa L.: Impact on Tolerance to Abiotic Stresses.%5BTitle%5D), 2018, Front Plant Sci.
     + [Rice plants have three homologs of glutathione synthetase genes, one of which, OsGS2, codes for hydroxymethyl-glutathione synthetase.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice plants have three homologs of glutathione synthetase genes, one of which, OsGS2, codes for hydroxymethyl-glutathione synthetase.%5BTitle%5D), 2019, Plant Direct.
+    + [The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants](http://www.ncbi.nlm.nih.gov/pubmed?term=The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants%5BTitle%5D), 2021, Rice (N Y).
 
 * **Genbank accession number**  
     + [AK099252](http://www.ncbi.nlm.nih.gov/nuccore/AK099252)

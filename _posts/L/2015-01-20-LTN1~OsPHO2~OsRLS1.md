@@ -3,7 +3,7 @@ layout: post
 title: "LTN1,OsPHO2,OsRLS1"
 description: ""
 category: genes
-tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, adventitious root,  pi , leaf, phosphorus, phosphate, root architecture, nitrogen, development, homeostasis, flowering time, Pi, Pi homeostasis]
+tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, adventitious root,  pi , leaf, phosphorus, phosphate, root architecture, nitrogen, development, homeostasis, flowering time, Pi, Pi homeostasis, Pi signaling]
 ---
 
 * **Information**  
@@ -23,6 +23,7 @@ tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, a
     + [A constitutive expressed phosphate transporter, OsPht1;1, modulates phosphate uptake and translocation in phosphate-replete rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A constitutive expressed phosphate transporter, OsPht1;1, modulates phosphate uptake and translocation in phosphate-replete rice%5BTitle%5D), 2012, Plant Physiol.
     + [Molecular interaction between PHO2 and GI in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular interaction between PHO2 and GI in rice.%5BTitle%5D), 2017, Plant Cell Environ.
     + [Knocking Out the Gene RLS1 Induces Hypersensitivity to Oxidative Stress and Premature Leaf Senescence in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Knocking Out the Gene RLS1 Induces Hypersensitivity to Oxidative Stress and Premature Leaf Senescence in Rice.%5BTitle%5D), 2018, Int J Mol Sci.
+    + [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D), 2020, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AK241747](http://www.ncbi.nlm.nih.gov/nuccore/AK241747)
@@ -53,6 +54,7 @@ tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, a
     + The interaction between OsPHO2 and OsGI links high-level regulators of Pi homeostasis and development in rice
     + A yeast-two-hybrid screen using Oryza sativa (rice) PHO2 as bait, revealed an interaction between OsPHO2 and OsGIGANTEA, a key regulator of flowering time, which was confirmed using bimolecular flourescenec complementation (BiFC)
     + Pi analysis of individual leaves demonstrated that Osgi, similar to Ospho2 mutants, were impaired in Pi remobilization from old to young leaves, albeit to a lesser extent
+    + Finally, the dynamic transcriptional regulation of OsRNS genes by overexpression of OsPHR2, ospho2 mutant, and overexpression of OsPT1 lines involved in Pi signaling pathway suggests the molecular basis of OsRNS family in Pi recycling via RNA decay under Pi starvation
 
 * **Connection**  
     + __LTN1~OsPHO2~OsRLS1__, __OsPht1;2~OsPT2__, [Molecular mechanisms regulating Pi-signaling and Pi homeostasis under OsPHR2, a central Pi-signaling regulator, in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular mechanisms regulating Pi-signaling and Pi homeostasis under OsPHR2, a central Pi-signaling regulator, in rice%5BTitle%5D), OsPHR2 positively regulates the low-affinity Pi transporter OsPT2 through physical interaction and reciprocal regulation of OsPHO2 in roots
@@ -88,6 +90,8 @@ tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, a
     + __LTN1~OsPHO2~OsRLS1__, __OsGI__, [Molecular interaction between PHO2 and GI in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular interaction between PHO2 and GI in rice.%5BTitle%5D),  The interaction between OsPHO2 and OsGI links high-level regulators of Pi homeostasis and development in rice
     + __LTN1~OsPHO2~OsRLS1__, __Pho2__, [Molecular interaction between PHO2 and GI in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular interaction between PHO2 and GI in rice.%5BTitle%5D),  A yeast-two-hybrid screen using Oryza sativa (rice) PHO2 as bait, revealed an interaction between OsPHO2 and OsGIGANTEA, a key regulator of flowering time, which was confirmed using bimolecular flourescenec complementation (BiFC)
     + __LTN1~OsPHO2~OsRLS1__, __OsNLA1__, [Altered Expression of OsNLA1 Modulates Pi Accumulation in Rice Oryza sativa L. Plants.](http://www.ncbi.nlm.nih.gov/pubmed?term=Altered Expression of OsNLA1 Modulates Pi Accumulation in Rice Oryza sativa L. Plants.%5BTitle%5D),  Moreover, OsNLA1 was also found to interact with OsPHO2, a known regulator of Pi homeostasis, in a Yeast Two-Hybrid (Y2H) assay
+    + __LTN1~OsPHO2~OsRLS1__, __OsPHR2__, [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D),  Finally, the dynamic transcriptional regulation of OsRNS genes by overexpression of OsPHR2, ospho2 mutant, and overexpression of OsPT1 lines involved in Pi signaling pathway suggests the molecular basis of OsRNS family in Pi recycling via RNA decay under Pi starvation
+    + __LTN1~OsPHO2~OsRLS1__, __OsPht1;1~OsPT1__, [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D),  Finally, the dynamic transcriptional regulation of OsRNS genes by overexpression of OsPHR2, ospho2 mutant, and overexpression of OsPT1 lines involved in Pi signaling pathway suggests the molecular basis of OsRNS family in Pi recycling via RNA decay under Pi starvation
 
 [//]: # * **Key figures**  
 

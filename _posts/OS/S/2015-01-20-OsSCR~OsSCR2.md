@@ -15,6 +15,7 @@ tags: [leaf, root, stomatal, iaa, stomata]
     + [The SCARECROW gene's role in asymmetric cell divisions in rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=The SCARECROW gene's role in asymmetric cell divisions in rice plants%5BTitle%5D), 2003, The Plant Journal.
     + [A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos%5BTitle%5D), 2009, Plant J.
     + [Multiple transcriptional factors control stomata development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Multiple transcriptional factors control stomata development in rice.%5BTitle%5D), 2019, New Phytol.
+    + [RSD1 Is Essential for Stomatal Patterning and Files in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=RSD1 Is Essential for Stomatal Patterning and Files in Rice%5BTitle%5D), 2020, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AB180961](http://www.ncbi.nlm.nih.gov/nuccore/AB180961)

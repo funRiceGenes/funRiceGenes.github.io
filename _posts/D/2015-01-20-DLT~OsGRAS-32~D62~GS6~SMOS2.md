@@ -16,6 +16,7 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
     + [DWARF AND LOW-TILLERING acts as a direct downstream target of a GSK3/SHAGGY-like kinase to mediate brassinosteroid responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=DWARF AND LOW-TILLERING acts as a direct downstream target of a GSK3/SHAGGY-like kinase to mediate brassinosteroid responses in rice%5BTitle%5D), 2012, Plant Cell.
     + [DWARF AND LOW-TILLERING, a new member of the GRAS family, plays positive roles in brassinosteroid signaling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=DWARF AND LOW-TILLERING, a new member of the GRAS family, plays positive roles in brassinosteroid signaling in rice%5BTitle%5D), 2009, The Plant Journal.
     + [GS6, a member of the GRAS gene family, negatively regulates grain size in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=GS6, a member of the GRAS gene family, negatively regulates grain size in rice%5BTitle%5D), 2013, J Integr Plant Biol.
+    + [OrMKK3 Influences Morphology and Grain Size in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OrMKK3 Influences Morphology and Grain Size in Rice%5BTitle%5D), 2021, J Plant Biol.
 
 * **Genbank accession number**  
     + [AK106449](http://www.ncbi.nlm.nih.gov/nuccore/AK106449)

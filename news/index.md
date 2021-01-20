@@ -5,6 +5,761 @@ comments: no
 thread: 616
 ---
 
+* 2021/Jan/19 OsBRCA2
+* 2021/Jan/19 add new reference for OsbHLH35
+* 2021/Jan/19 OsbHLH035 == OsbHLH35
+* 2021/Jan/19 CKI == EL1 == Hd16
+* 2021/Jan/19 OsLKP2
+* 2021/Jan/19 OsLUX == OsPCL1
+* 2021/Jan/19 OsGI
+* 2021/Jan/19 OsLHY
+* 2021/Jan/19 OsCCA1
+* 2021/Jan/19 OsGI
+* 2021/Jan/19 OsLHY
+* 2021/Jan/19 add new reference for OsCCA1
+* 2021/Jan/19 add new gene: OsCCA1
+* 2021/Jan/19 OsHK1;5
+* 2021/Jan/19 add new reference for SERK2
+* 2021/Jan/19 add new reference for DNL-4
+* 2021/Jan/19 add new gene: DNL-4
+* 2021/Jan/18 CKI == EL1 == Hd16
+* 2021/Jan/18 ONAC045 == OsNAC45
+* 2021/Jan/18 ONAC045 == OsNAC45
+* 2021/Jan/18 OsACT1 == OsActin-1 == OsActin1
+* 2021/Jan/18 OsACT1 == OsActin-1 == OsActin1
+* 2021/Jan/18 DMC1A == DMC1 == OsDMC1A
+* 2021/Jan/18 DMC1A == DMC1 == OsDMC1A
+* 2021/Jan/18 OsDMC1 == DMC1B == OsDMC1B
+* 2021/Jan/18 OsDMC1 == DMC1B == OsDMC1B
+* 2021/Jan/18 REL2 == OsDLT10 == RSD1
+* 2021/Jan/18 REL2 == OsDLT10 == RSD1
+* 2021/Jan/18 OsCCT38 == OsPRR59
+* 2021/Jan/18 OsCCT38 == OsPRR59
+* 2021/Jan/18 OsCCT11 == OsPRR73
+* 2021/Jan/18 OsCCT11 == OsPRR73
+* 2021/Jan/18 OsHK1
+* 2021/Jan/18 LYP6 == OsLYP6 == ORF2
+* 2021/Jan/18 DEPG1 == OsRP1L1
+* 2021/Jan/18 DEPG1 == OsRP1L1
+* 2021/Jan/18 CYCLOPS == OsIPD3
+* 2021/Jan/18 OsPYL == RCAR5 == OsPYL5
+* 2021/Jan/18 OsPYL == RCAR5 == OsPYL5
+* 2021/Jan/18 BG3 == OsPUP4
+* 2021/Jan/18 BG3 == OsPUP4
+* 2021/Jan/18 rubq2 == Ubiqutin2
+* 2021/Jan/18 rubq2 == Ubiqutin2
+* 2021/Jan/18 RGAb
+* 2021/Jan/18 RGAa
+* 2021/Jan/18 RGAc
+* 2021/Jan/18 RGAd == PiPR1
+* 2021/Jan/18 RGAe == Hwc3
+* 2021/Jan/18 RGAe == Hwc3
+* 2021/Jan/18 RGAf
+* 2021/Jan/18 RGAg
+* 2021/Jan/18 SERK2 == OsSERK2
+* 2021/Jan/18 SERK2 == OsSERK2
+* 2021/Jan/18 add new reference for OsIPK1
+* 2021/Jan/18 add new reference for OsMre11
+* 2021/Jan/18 add new reference for OsSDH2-1
+* 2021/Jan/18 add new gene: OsSDH2-1
+* 2021/Jan/18 add new reference for OsPhyB
+* 2021/Jan/18 add new reference for OsELF3
+* 2021/Jan/18 add new reference for OsGI
+* 2021/Jan/18 add new reference for OsLHY
+* 2021/Jan/18 add new reference for OsLCT1
+* 2021/Jan/18 add new reference for OsHMA2
+* 2021/Jan/18 add new reference for OsSPL16
+* 2021/Jan/18 add new reference for OsAOX1c
+* 2021/Jan/18 add new reference for OsAOX1b
+* 2021/Jan/18 add new reference for OsAOX1a
+* 2021/Jan/18 add new reference for OsGAPDH
+* 2021/Jan/18 add new reference for OsGSTU17
+* 2021/Jan/18 add new reference for OsBZR1
+* 2021/Jan/18 add new reference for OsGLYII3
+* 2021/Jan/18 add new reference for OsICE1
+* 2021/Jan/18 add new reference for OsMYB2
+* 2021/Jan/18 add new reference for OsMYB3R-2
+* 2021/Jan/18 add new reference for Os9BGlu31
+* 2021/Jan/18 add new reference for OsMSR2
+* 2021/Jan/18 add new reference for Osg1
+* 2021/Jan/18 add new reference for OSINV4
+* 2021/Jan/18 add new reference for Xa21
+* 2021/Jan/18 add new reference for Xa10
+* 2021/Jan/18 add new reference for Xa4
+* 2021/Jan/18 add new reference for Xa3
+* 2021/Jan/18 add new reference for Xa1
+* 2021/Jan/18 add new reference for OsPP2C09
+* 2021/Jan/18 add new reference for OsPYL
+* 2021/Jan/18 add new reference for OsTCP19
+* 2021/Jan/18 add new reference for OsPIN2
+* 2021/Jan/18 add new reference for OsPIN1d
+* 2021/Jan/18 add new reference for OsPIN1c
+* 2021/Jan/18 add new reference for OsYUCCA6
+* 2021/Jan/18 add new reference for OsYUCCA7
+* 2021/Jan/18 add new reference for OsNPF7.2
+* 2021/Jan/18 add new reference for OsNPF8.20
+* 2021/Jan/18 add new reference for OsNRT2.3
+* 2021/Jan/18 add new reference for OsNPF7.3
+* 2021/Jan/18 add new reference for OsCKX4
+* 2021/Jan/18 add new reference for OsGS2
+* 2021/Jan/18 add new reference for OsGS1
+* 2021/Jan/18 add new reference for OsNPF7.7
+* 2021/Jan/18 add new reference for OsNPF6.5
+* 2021/Jan/18 add new reference for OsNPF2.4
+* 2021/Jan/18 add new reference for OsAAP1
+* 2021/Jan/18 add new reference for OsLHT1
+* 2021/Jan/18 add new reference for OsAAP5
+* 2021/Jan/18 add new reference for OsAAP3
+* 2021/Jan/18 add new reference for OsAAP6
+* 2021/Jan/18 add new reference for OsC6
+* 2021/Jan/18 add new reference for OsABCG26
+* 2021/Jan/18 add new reference for OsMYB80
+* 2021/Jan/18 add new reference for DPW3
+* 2021/Jan/18 add new reference for DPW2
+* 2021/Jan/18 add new reference for OsMS188
+* 2021/Jan/18 add new gene: OsMS188
+* 2021/Jan/18 add new reference for OsACOS12
+* 2021/Jan/18 add new reference for PTC1
+* 2021/Jan/18 add new reference for EAT1
+* 2021/Jan/18 add new reference for bHLH142
+* 2021/Jan/18 add new reference for TDR
+* 2021/Jan/18 add new reference for OsTDF1
+* 2021/Jan/18 add new reference for UDT1
+* 2021/Jan/18 add new reference for DPW
+* 2021/Jan/18 add new reference for OsPKS2
+* 2021/Jan/18 add new reference for OsPKS1
+* 2021/Jan/18 add new reference for CYP704B2
+* 2021/Jan/18 add new reference for CYP703A3
+* 2021/Jan/18 add new reference for OsCDPK14
+* 2021/Jan/18 add new reference for OsABI5
+* 2021/Jan/18 add new reference for OsDi19â€<U+393C><U+3E33>1
+* 2021/Jan/18 add new gene: OsDi19â€<U+393C><U+3E33>1
+* 2021/Jan/18 add new reference for CSA
+* 2021/Jan/18 add new reference for OsCIPK15
+* 2021/Jan/18 add new reference for OsTPP7
+* 2021/Jan/18 add new reference for OsDi19-1
+* 2021/Jan/18 add new gene: OsDi19-1
+* 2021/Jan/18 add new reference for OsGA2ox8
+* 2021/Jan/18 add new gene: OsGA2ox8
+* 2021/Jan/18 add new reference for OsVP1
+* 2021/Jan/18 add new reference for SPL5
+* 2021/Jan/18 add new reference for PSTOL1
+* 2021/Jan/18 add new reference for osbzip23
+* 2021/Jan/18 add new reference for OsbZIP46
+* 2021/Jan/18 add new reference for SAPK1
+* 2021/Jan/18 add new reference for OsMYBS2
+* 2021/Jan/18 add new reference for OsbZIP72
+* 2021/Jan/18 add new reference for OsBOR1
+* 2021/Jan/18 add new reference for SERK2
+* 2021/Jan/18 add new gene: SERK2
+* 2021/Jan/18 add new reference for OsBRI1
+* 2021/Jan/18 add new reference for OsBAK1
+* 2021/Jan/18 add new reference for OsSUT4
+* 2021/Jan/18 add new reference for OsMST8
+* 2021/Jan/18 add new reference for RFT1
+* 2021/Jan/18 add new reference for Hd3a
+* 2021/Jan/18 add new reference for Ehd1
+* 2021/Jan/18 add new reference for Ghd7
+* 2021/Jan/18 add new reference for Hd1
+* 2021/Jan/18 add new reference for OsGI
+* 2021/Jan/18 add new reference for OsTMT2
+* 2021/Jan/18 add new reference for OsTMT1
+* 2021/Jan/18 add new reference for OsSUT2
+* 2021/Jan/18 add new reference for OsRRMh
+* 2021/Jan/18 add new reference for OsSWEET14
+* 2021/Jan/18 add new reference for OsSWEET11
+* 2021/Jan/18 add new reference for OsDOF11
+* 2021/Jan/18 add new reference for OsMST6
+* 2021/Jan/18 add new reference for OsSUT1
+* 2021/Jan/18 add new reference for OsRRM
+* 2021/Jan/18 add new reference for OsWRKY45
+* 2021/Jan/18 add new reference for OsWRKY62
+* 2021/Jan/18 add new reference for OsWRKY76
+* 2021/Jan/18 add new reference for OsWRKY47
+* 2021/Jan/18 add new reference for OsWRKY13
+* 2021/Jan/18 add new reference for OsPR10
+* 2021/Jan/18 add new reference for OsPR1a
+* 2021/Jan/18 add new reference for OsRLR1
+* 2021/Jan/18 add new gene: OsRLR1
+* 2021/Jan/18 add new reference for OsWRKY72
+* 2021/Jan/18 add new reference for OsPR10
+* 2021/Jan/18 add new reference for SGR
+* 2021/Jan/18 add new reference for NYC3
+* 2021/Jan/18 add new reference for Xa1
+* 2021/Jan/18 add new reference for RGAg
+* 2021/Jan/18 add new gene: RGAg
+* 2021/Jan/18 add new reference for RGAf
+* 2021/Jan/18 add new gene: RGAf
+* 2021/Jan/18 add new reference for RGAe
+* 2021/Jan/18 add new gene: RGAe
+* 2021/Jan/18 add new reference for RGAd
+* 2021/Jan/18 add new gene: RGAd
+* 2021/Jan/18 add new reference for RGAc
+* 2021/Jan/18 RGAc
+* 2021/Jan/18 add new gene: RGAc
+* 2021/Jan/18 add new reference for RGAa
+* 2021/Jan/18 add new gene: RGAa
+* 2021/Jan/18 add new reference for RGAb
+* 2021/Jan/18 add new gene: RGAb
+* 2021/Jan/18 add new reference for Xa1
+* 2021/Jan/18 add new reference for OsHAK1
+* 2021/Jan/18 add new reference for OsPIN2
+* 2021/Jan/18 add new reference for OsAUX1
+* 2021/Jan/18 add new reference for OsHAK5
+* 2021/Jan/18 add new reference for DEC
+* 2021/Jan/18 add new reference for SG3
+* 2021/Jan/18 add new reference for TGW6
+* 2021/Jan/18 add new reference for OsLG3b
+* 2021/Jan/18 add new reference for OsLG3
+* 2021/Jan/18 add new reference for GS5
+* 2021/Jan/18 add new reference for GW8
+* 2021/Jan/18 add new reference for GS2
+* 2021/Jan/18 add new reference for WG7
+* 2021/Jan/18 add new reference for GW6a
+* 2021/Jan/18 add new reference for OsAlaAT1
+* 2021/Jan/18 add new reference for OsBT1
+* 2021/Jan/18 add new reference for GIF2
+* 2021/Jan/18 add new reference for GW7
+* 2021/Jan/18 add new reference for GW5
+* 2021/Jan/18 add new reference for GL3.1
+* 2021/Jan/18 add new reference for GS3
+* 2021/Jan/18 add new reference for Chalk5
+* 2021/Jan/17 add new reference for OsPUP4
+* 2021/Jan/17 add new reference for OsENT2
+* 2021/Jan/17 add new reference for OsABCG18
+* 2021/Jan/17 add new reference for OsCKX4
+* 2021/Jan/17 add new reference for OsCKX2
+* 2021/Jan/17 add new reference for OsPUP7
+* 2021/Jan/17 add new reference for Ubiqutin2
+* 2021/Jan/17 add new gene: Ubiqutin2
+* 2021/Jan/17 add new reference for OsRR4
+* 2021/Jan/17 add new reference for OsRR2
+* 2021/Jan/17 add new reference for OsRR1
+* 2021/Jan/17 add new reference for OsPUP4
+* 2021/Jan/17 add new gene: OsPUP4
+* 2021/Jan/17 add new reference for OsPUP1
+* 2021/Jan/17 add new gene: OsPUP1
+* 2021/Jan/17 add new reference for BG3
+* 2021/Jan/17 add new reference for HIS1
+* 2021/Jan/17 add new reference for Alk
+* 2021/Jan/17 add new reference for Wx
+* 2021/Jan/17 add new reference for OsAOS2
+* 2021/Jan/17 add new reference for OsEDS1
+* 2021/Jan/17 add new reference for LTP2
+* 2021/Jan/17 add new reference for OsNPF2.4
+* 2021/Jan/17 add new reference for OsMADS13
+* 2021/Jan/17 add new reference for OsITPK1
+* 2021/Jan/17 add new reference for OsITPK6
+* 2021/Jan/17 add new reference for OsPYL5
+* 2021/Jan/17 add new gene: OsPYL5
+* 2021/Jan/17 add new reference for OsIAA2
+* 2021/Jan/17 add new gene: OsIAA2
+* 2021/Jan/17 add new reference for OsPAL4
+* 2021/Jan/17 add new reference for OsCAD2
+* 2021/Jan/17 add new reference for NADP-ME2
+* 2021/Jan/17 add new reference for OsRBCS4
+* 2021/Jan/17 add new reference for OsRBCS3
+* 2021/Jan/17 add new reference for OsGH9A3
+* 2021/Jan/17 add new reference for OsCIN1
+* 2021/Jan/17 add new reference for MEG2
+* 2021/Jan/17 add new gene: MEG2
+* 2021/Jan/17 add new reference for MEG1
+* 2021/Jan/17 add new gene: MEG1
+* 2021/Jan/17 add new reference for OsPAL
+* 2021/Jan/17 add new reference for OsNHX1
+* 2021/Jan/17 add new reference for OsNHX2
+* 2021/Jan/17 add new reference for OsSIK1
+* 2021/Jan/17 add new reference for OsF3H
+* 2021/Jan/17 add new reference for OsGH3.8
+* 2021/Jan/17 add new reference for OsGSK5
+* 2021/Jan/17 add new reference for OsGH3.13
+* 2021/Jan/17 add new reference for PR1b
+* 2021/Jan/17 add new gene: PR1b
+* 2021/Jan/17 add new reference for OsNAC78
+* 2021/Jan/17 add new gene: OsNAC78
+* 2021/Jan/17 add new reference for OsPT1
+* 2021/Jan/17 add new reference for OsWRKY74
+* 2021/Jan/17 add new reference for OsPT6
+* 2021/Jan/17 add new reference for OsSQD2
+* 2021/Jan/17 add new reference for OsRNS6
+* 2021/Jan/17 add new gene: OsRNS6
+* 2021/Jan/17 add new reference for OsRNS3
+* 2021/Jan/17 add new gene: OsRNS3
+* 2021/Jan/17 add new reference for OsRNS2
+* 2021/Jan/17 add new gene: OsRNS2
+* 2021/Jan/17 add new reference for OsRNS4
+* 2021/Jan/17 add new reference for OsUbi5
+* 2021/Jan/17 add new reference for ospho2
+* 2021/Jan/17 add new reference for OsGSK3
+* 2021/Jan/17 add new reference for OsMKK4
+* 2021/Jan/17 add new reference for OsMAPK6
+* 2021/Jan/17 add new reference for DLT
+* 2021/Jan/17 add new reference for BU1
+* 2021/Jan/17 add new reference for OsBZR1
+* 2021/Jan/17 add new reference for OsGSK2
+* 2021/Jan/17 add new reference for OsBRI1
+* 2021/Jan/17 add new reference for DEP3
+* 2021/Jan/17 add new reference for OsMKK3
+* 2021/Jan/17 add new reference for OsMKKK10
+* 2021/Jan/17 add new reference for OsMPK6
+* 2021/Jan/17 add new reference for OsMKP1
+* 2021/Jan/17 add new reference for OsNPF7.2
+* 2021/Jan/17 add new reference for OsAAP5
+* 2021/Jan/17 add new reference for DTH8
+* 2021/Jan/17 add new reference for OsGA3ox2
+* 2021/Jan/17 add new reference for Ehd2
+* 2021/Jan/17 add new reference for ORF5
+* 2021/Jan/17 add new reference for ORF3
+* 2021/Jan/17 add new reference for OsNBL1
+* 2021/Jan/17 add new gene: OsNBL1
+* 2021/Jan/17 add new reference for OsNAC3
+* 2021/Jan/17 add new reference for OsWRKY45
+* 2021/Jan/17 add new reference for OsRPP8
+* 2021/Jan/17 add new gene: OsRPP8
+* 2021/Jan/17 add new reference for OsRPS2
+* 2021/Jan/17 add new gene: OsRPS2
+* 2021/Jan/17 add new reference for OsRP1L1
+* 2021/Jan/17 add new gene: OsRP1L1
+* 2021/Jan/17 add new reference for OsRPP13
+* 2021/Jan/17 add new gene: OsRPP13
+* 2021/Jan/17 add new reference for OsRPM1
+* 2021/Jan/17 add new gene: OsRPM1
+* 2021/Jan/17 add new reference for OsActin
+* 2021/Jan/17 add new reference for ORF9
+* 2021/Jan/17 add new gene: ORF9
+* 2021/Jan/17 add new reference for ORF7
+* 2021/Jan/17 add new gene: ORF7
+* 2021/Jan/17 add new reference for ORF11
+* 2021/Jan/17 add new gene: ORF11
+* 2021/Jan/17 add new reference for ORF5
+* 2021/Jan/17 add new gene: ORF5
+* 2021/Jan/17 add new reference for ORF3
+* 2021/Jan/17 add new gene: ORF3
+* 2021/Jan/17 add new reference for ORF2
+* 2021/Jan/17 add new gene: ORF2
+* 2021/Jan/17 add new reference for ORF1
+* 2021/Jan/17 add new gene: ORF1
+* 2021/Jan/17 add new reference for OsHAK21
+* 2021/Jan/17 add new reference for OsFAD2-3
+* 2021/Jan/17 add new gene: OsFAD2-3
+* 2021/Jan/17 add new reference for NBS-LRR
+* 2021/Jan/17 add new gene: NBS-LRR
+* 2021/Jan/17 add new reference for OsWRKY62
+* 2021/Jan/17 add new reference for OsPAL1
+* 2021/Jan/17 add new gene: OsPAL1
+* 2021/Jan/17 add new reference for OsPR1b
+* 2021/Jan/17 add new reference for OsRR9
+* 2021/Jan/17 add new reference for OsCYCLOPS
+* 2021/Jan/17 add new gene: OsCYCLOPS
+* 2021/Jan/17 add new reference for OsFWL2
+* 2021/Jan/17 add new gene: OsFWL2
+* 2021/Jan/17 add new reference for OsPR10b
+* 2021/Jan/17 add new reference for OsWAK74
+* 2021/Jan/17 add new gene: OsWAK74
+* 2021/Jan/17 add new reference for OsD305
+* 2021/Jan/17 add new gene: OsD305
+* 2021/Jan/17 add new reference for OsCyc1
+* 2021/Jan/17 add new reference for OsDTC2
+* 2021/Jan/17 add new reference for OsDXS3
+* 2021/Jan/17 add new reference for PPS1
+* 2021/Jan/17 add new reference for OsWRKY45
+* 2021/Jan/17 add new reference for OsMPK6
+* 2021/Jan/17 add new reference for OsVQ13
+* 2021/Jan/17 add new reference for OsJAZ9
+* 2021/Jan/17 add new reference for OsMYC2
+* 2021/Jan/17 add new reference for OsLOX3
+* 2021/Jan/17 add new reference for OsOPR7
+* 2021/Jan/17 add new reference for OsPR1a
+* 2021/Jan/17 add new reference for OsPR1b
+* 2021/Jan/17 add new reference for OsPR5
+* 2021/Jan/17 add new reference for OsPR10a
+* 2021/Jan/17 add new reference for OsGolS1
+* 2021/Jan/17 add new reference for OsbHLH35
+* 2021/Jan/17 add new reference for JiOsPR10
+* 2021/Jan/17 add new reference for OsPAD4
+* 2021/Jan/17 add new reference for OsEDS1
+* 2021/Jan/17 add new reference for OsJAZ1
+* 2021/Jan/17 add new reference for OsCOI1b
+* 2021/Jan/17 add new reference for OsHPL3
+* 2021/Jan/17 add new reference for OsOPR1
+* 2021/Jan/17 add new reference for OsLOX1
+* 2021/Jan/17 add new reference for Rc
+* 2021/Jan/17 add new reference for RAE2
+* 2021/Jan/17 add new reference for CYP81A6
+* 2021/Jan/16 add new reference for OsSFL1
+* 2021/Jan/16 add new reference for HDT701
+* 2021/Jan/16 add new reference for OsVIL2
+* 2021/Jan/16 add new reference for OsVIL3
+* 2021/Jan/16 add new reference for SDG718
+* 2021/Jan/16 add new reference for SDG711
+* 2021/Jan/16 add new reference for SDG725
+* 2021/Jan/16 add new reference for SDG724
+* 2021/Jan/16 add new reference for SDG708
+* 2021/Jan/16 add new reference for SDG701
+* 2021/Jan/16 add new reference for PhyB
+* 2021/Jan/16 add new reference for Hd16
+* 2021/Jan/16 add new reference for OsLHY
+* 2021/Jan/16 add new reference for OsK4
+* 2021/Jan/16 add new reference for Hd6
+* 2021/Jan/16 add new reference for OsGI
+* 2021/Jan/16 add new reference for OsRR1
+* 2021/Jan/16 add new reference for OsPhyA
+* 2021/Jan/16 add new reference for OsELF3
+* 2021/Jan/16 add new reference for OsHAL3
+* 2021/Jan/16 add new reference for HBF2
+* 2021/Jan/16 add new reference for RFT1
+* 2021/Jan/16 add new reference for OsFD1
+* 2021/Jan/16 add new reference for SIP1
+* 2021/Jan/16 add new reference for HBF1
+* 2021/Jan/16 add new reference for OsRE1
+* 2021/Jan/16 add new reference for RIP1
+* 2021/Jan/16 add new reference for HBF1
+* 2021/Jan/16 add new reference for OsABF1
+* 2021/Jan/16 add new reference for OsBBX14
+* 2021/Jan/16 add new reference for OsLFL1
+* 2021/Jan/16 add new reference for OsCOL10
+* 2021/Jan/16 add new reference for OsCOL4
+* 2021/Jan/16 add new reference for DTH7
+* 2021/Jan/16 add new reference for DTH8
+* 2021/Jan/16 add new reference for SDG723
+* 2021/Jan/16 add new reference for SIP1
+* 2021/Jan/16 add new reference for Ehd2
+* 2021/Jan/16 add new reference for OsMADS56
+* 2021/Jan/16 add new reference for OsMADS51
+* 2021/Jan/16 add new reference for DTH3
+* 2021/Jan/16 add new reference for DHD1
+* 2021/Jan/16 add new reference for OsHAPL1
+* 2021/Jan/16 add new reference for OsCOL10
+* 2021/Jan/16 add new reference for OsCOL10
+* 2021/Jan/16 add new reference for OsCOL4
+* 2021/Jan/16 add new reference for DTH8
+* 2021/Jan/16 add new reference for OsMADS51
+* 2021/Jan/16 add new reference for Ehd2
+* 2021/Jan/16 add new reference for Ehd3
+* 2021/Jan/16 add new reference for Ehd4
+* 2021/Jan/16 add new reference for OsSOC1
+* 2021/Jan/16 add new reference for Hd3a
+* 2021/Jan/16 add new reference for RFT1
+* 2021/Jan/16 add new reference for RID1
+* 2021/Jan/16 add new reference for Hd1
+* 2021/Jan/16 add new reference for Ghd7
+* 2021/Jan/16 add new reference for Ehd1
+* 2021/Jan/16 add new reference for OsGAPDH
+* 2021/Jan/16 add new reference for OsGME2
+* 2021/Jan/16 add new reference for OsGME1
+* 2021/Jan/16 add new reference for OsACT1
+* 2021/Jan/16 add new reference for OsGGP
+* 2021/Jan/16 add new reference for OsPK1
+* 2021/Jan/16 add new reference for CYP714B2
+* 2021/Jan/16 add new reference for CYP714B1
+* 2021/Jan/16 add new reference for OsEREBP1
+* 2021/Jan/16 add new reference for OsBC1
+* 2021/Jan/16 add new reference for OsCESA9
+* 2021/Jan/16 add new reference for OsCESA7
+* 2021/Jan/16 add new reference for OsCESA4
+* 2021/Jan/16 add new reference for OsBRL3
+* 2021/Jan/16 add new reference for OsGA3Ox2
+* 2021/Jan/16 add new reference for OsGA20Ox1
+* 2021/Jan/16 add new reference for OsARF19
+* 2021/Jan/16 add new reference for OsBRI1
+* 2021/Jan/16 add new reference for OsMST4
+* 2021/Jan/16 add new reference for OsGA3ox2
+* 2021/Jan/16 add new reference for DCW11
+* 2021/Jan/16 add new reference for EDT1
+* 2021/Jan/16 add new reference for OsABCG3
+* 2021/Jan/16 add new reference for OsGH3.8
+* 2021/Jan/16 add new reference for OsSPO11D
+* 2021/Jan/16 add new reference for OsUAM3
+* 2021/Jan/16 add new reference for OsUCL23
+* 2021/Jan/16 add new reference for OsSTRL2
+* 2021/Jan/16 add new reference for OsTUB8
+* 2021/Jan/16 add new reference for OsER2
+* 2021/Jan/16 add new reference for OsSWEET11
+* 2021/Jan/16 add new reference for OsMGD2
+* 2021/Jan/16 add new reference for OsSUT1
+* 2021/Jan/16 add new reference for OsMST6
+* 2021/Jan/16 add new reference for OsNHX1
+* 2021/Jan/16 add new reference for OsCIPK23
+* 2021/Jan/16 add new reference for OsLKP2
+* 2021/Jan/16 add new gene: OsLKP2
+* 2021/Jan/16 add new reference for OsELF3.1
+* 2021/Jan/16 add new reference for OsLUX
+* 2021/Jan/16 add new gene: OsLUX
+* 2021/Jan/16 add new reference for OsFKF1
+* 2021/Jan/16 add new reference for OsGI
+* 2021/Jan/16 add new reference for OsCCA1
+* 2021/Jan/16 add new reference for OsHK1;5
+* 2021/Jan/16 add new gene: OsHK1;5
+* 2021/Jan/16 add new reference for OsHKT2;1
+* 2021/Jan/16 add new reference for OsPRR95
+* 2021/Jan/16 add new gene: OsPRR95
+* 2021/Jan/16 add new reference for OsPRR73
+* 2021/Jan/16 add new gene: OsPRR73
+* 2021/Jan/16 add new reference for OsPRR59
+* 2021/Jan/16 add new gene: OsPRR59
+* 2021/Jan/16 add new reference for OsPRR37
+* 2021/Jan/16 add new reference for OsPRR1
+* 2021/Jan/16 add new reference for HDAC10
+* 2021/Jan/16 add new gene: HDAC10
+* 2021/Jan/16 add new reference for SDG704
+* 2021/Jan/16 add new gene: SDG704
+* 2021/Jan/16 add new reference for OsNAR2.1
+* 2021/Jan/16 add new reference for OsNRT2.1
+* 2021/Jan/16 add new reference for OsNRT2.2
+* 2021/Jan/16 add new reference for OsNRT2.3
+* 2021/Jan/16 add new reference for LAX1
+* 2021/Jan/16 add new reference for OSH1
+* 2021/Jan/16 add new reference for OsMADS15
+* 2021/Jan/16 add new reference for OsMADS14
+* 2021/Jan/16 add new reference for OsMADS16
+* 2021/Jan/16 add new reference for OsMADS4
+* 2021/Jan/16 add new reference for OsMADS2
+* 2021/Jan/16 add new reference for OsMADS34
+* 2021/Jan/16 add new reference for OsMADS8
+* 2021/Jan/16 add new reference for OsMADS7
+* 2021/Jan/16 add new reference for OsMADS5
+* 2021/Jan/16 add new reference for OsMADS3
+* 2021/Jan/16 add new reference for OsMADS13
+* 2021/Jan/16 add new reference for OsMADS58
+* 2021/Jan/16 add new reference for OsMADS1
+* 2021/Jan/16 add new reference for OsMADS6
+* 2021/Jan/16 add new reference for OsMADS32
+* 2021/Jan/16 add new reference for OsAP25
+* 2021/Jan/16 add new reference for OsISA2
+* 2021/Jan/16 add new reference for OsCKX4
+* 2021/Jan/16 add new reference for OsARF25
+* 2021/Jan/16 add new reference for OsRR3
+* 2021/Jan/16 add new reference for OsRR2
+* 2021/Jan/16 add new reference for Pi54
+* 2021/Jan/16 add new reference for xa5
+* 2021/Jan/16 add new reference for xa13
+* 2021/Jan/16 add new reference for Xa21
+* 2021/Jan/16 add new reference for OsSCR
+* 2021/Jan/16 add new reference for RSD1
+* 2021/Jan/16 add new gene: RSD1
+* 2021/Jan/16 add new reference for OsEPFL9
+* 2021/Jan/16 add new reference for OsEPF1
+* 2021/Jan/16 add new reference for OsFLP
+* 2021/Jan/16 add new reference for OsICE2
+* 2021/Jan/16 add new reference for OsICE1
+* 2021/Jan/16 add new reference for OsFAMA
+* 2021/Jan/16 add new reference for OsMUTE
+* 2021/Jan/16 add new reference for OsSPCH1
+* 2021/Jan/16 add new reference for OsTCP21
+* 2021/Jan/16 add new reference for OsMADS34
+* 2021/Jan/16 add new reference for OsMADS5
+* 2021/Jan/16 add new reference for OsMADS8
+* 2021/Jan/16 add new reference for OsMADS7
+* 2021/Jan/16 add new reference for OsNAR2.1
+* 2021/Jan/16 add new reference for OsNRT2.3
+* 2021/Jan/16 add new reference for OsPT6
+* 2021/Jan/16 add new reference for OsIPS1
+* 2021/Jan/16 add new reference for OsSPX4
+* 2021/Jan/16 add new reference for OsPHR2
+* 2021/Jan/16 add new reference for OsNRT1
+* 2021/Jan/16 add new reference for RLI1
+* 2021/Jan/16 add new reference for OsYUCCA7
+* 2021/Jan/16 add new reference for OsYUCCA3
+* 2021/Jan/16 add new reference for OsPIN1a
+* 2021/Jan/16 add new reference for OsPIN1c
+* 2021/Jan/16 add new reference for OsPIN1b
+* 2021/Jan/16 add new reference for OsCd1
+* 2021/Jan/16 add new reference for OsNramp1
+* 2021/Jan/16 add new reference for OsHMA3
+* 2021/Jan/16 add new reference for OsActin
+* 2021/Jan/16 add new reference for OsNAAT1
+* 2021/Jan/16 add new reference for OsIRT1
+* 2021/Jan/16 add new reference for CAL1
+* 2021/Jan/16 add new reference for OsNRAMP1
+* 2021/Jan/16 add new reference for OsNRAMP5
+* 2021/Jan/16 add new reference for OsActin
+* 2021/Jan/16 OsActin
+* 2021/Jan/16 add new reference for OsDMC1B
+* 2021/Jan/16 add new gene: OsDMC1B
+* 2021/Jan/16 add new reference for OsDMC1A
+* 2021/Jan/16 add new gene: OsDMC1A
+* 2021/Jan/16 add new reference for OsBRCA2
+* 2021/Jan/16 add new gene: OsBRCA2
+* 2021/Jan/16 add new reference for OsRAD51A2
+* 2021/Jan/16 add new reference for ZEP1
+* 2021/Jan/16 add new reference for PAIR3
+* 2021/Jan/16 add new reference for PAIR2
+* 2021/Jan/16 add new reference for DMC1
+* 2021/Jan/16 add new reference for RPA1c
+* 2021/Jan/16 add new reference for RPA2c
+* 2021/Jan/16 add new reference for RAD51C
+* 2021/Jan/16 add new reference for OsREC8
+* 2021/Jan/16 add new reference for OsDMC1
+* 2021/Jan/16 add new reference for OsRAD51
+* 2021/Jan/16 add new reference for CNGC
+* 2021/Jan/16 add new gene: CNGC
+* 2021/Jan/16 add new reference for OsPAL6
+* 2021/Jan/16 add new reference for OsCCS
+* 2021/Jan/16 add new gene: OsCCS
+* 2021/Jan/16 add new reference for OsFSD2
+* 2021/Jan/16 add new gene: OsFSD2
+* 2021/Jan/16 add new reference for OsFSD1
+* 2021/Jan/16 add new gene: OsFSD1
+* 2021/Jan/16 add new reference for OsCSD4
+* 2021/Jan/16 add new gene: OsCSD4
+* 2021/Jan/16 add new reference for OsCSD2
+* 2021/Jan/16 add new gene: OsCSD2
+* 2021/Jan/16 add new reference for OsCSD1
+* 2021/Jan/16 add new gene: OsCSD1
+* 2021/Jan/16 add new reference for OsCSD3
+* 2021/Jan/16 add new reference for OsHMA9
+* 2021/Jan/16 add new reference for OsHMA5
+* 2021/Jan/15 add new reference for OsMTP1
+* 2021/Jan/15 add new reference for OsCYP71Z30
+* 2021/Jan/15 add new reference for OsCYP71Z22
+* 2021/Jan/15 add new gene: OsCYP71Z22
+* 2021/Jan/15 add new reference for OsCYP71Z30
+* 2021/Jan/15 add new gene: OsCYP71Z30
+* 2021/Jan/15 add new reference for OsCYP71Z21
+* 2021/Jan/15 add new gene: OsCYP71Z21
+* 2021/Jan/15 add new reference for OsCYP71Z2
+* 2021/Jan/15 add new reference for OsTPS28
+* 2021/Jan/15 add new gene: OsTPS28
+* 2021/Jan/15 add new reference for Osdlt10
+* 2021/Jan/15 add new reference for Oschr4
+* 2021/Jan/15 add new reference for d53
+* 2021/Jan/15 add new reference for d27
+* 2021/Jan/15 add new reference for d10
+* 2021/Jan/15 add new reference for d10
+* 2021/Jan/15 add new reference for htd2
+* 2021/Jan/15 add new reference for htd1
+* 2021/Jan/15 add new reference for d2
+* 2021/Jan/15 add new reference for d6
+* 2021/Jan/15 add new reference for tdd1
+* 2021/Jan/15 add new reference for rl1
+* 2021/Jan/15 add new reference for nal3
+* 2021/Jan/15 add new reference for nal2
+* 2021/Jan/15 add new reference for OsActin1
+* 2021/Jan/15 add new gene: OsActin1
+* 2021/Jan/15 add new reference for OsFLN1
+* 2021/Jan/15 add new reference for OsFLN2
+* 2021/Jan/15 add new reference for NAL7
+* 2021/Jan/15 add new reference for NAL1
+* 2021/Jan/15 add new reference for dnl1
+* 2021/Jan/15 add new reference for OsIAA9
+* 2021/Jan/15 add new reference for OsYSL16
+* 2021/Jan/15 add new reference for OsYSL12
+* 2021/Jan/15 add new reference for OsYSL13
+* 2021/Jan/15 add new reference for OsYSL6
+* 2021/Jan/15 add new reference for OsYSL15
+* 2021/Jan/15 add new reference for OsVIT2
+* 2021/Jan/15 add new reference for OsMADS25
+* 2021/Jan/15 add new reference for OsLAC10
+* 2021/Jan/15 add new reference for OsMTP1
+* 2021/Jan/15 add new reference for OsHMA7
+* 2021/Jan/15 add new reference for OsHMA2
+* 2021/Jan/15 add new reference for OsZIP7
+* 2021/Jan/15 add new reference for OsZIP9
+* 2021/Jan/15 add new reference for OsZIP3
+* 2021/Jan/15 add new reference for OsbZIP48
+* 2021/Jan/15 add new reference for OsbZIP50
+* 2021/Jan/15 add new reference for OsZIP5
+* 2021/Jan/15 add new reference for OsZIP4
+* 2021/Jan/15 add new reference for OsNAAT1
+* 2021/Jan/15 add new reference for OsYSL9
+* 2021/Jan/15 add new reference for OsNRAMP3
+* 2021/Jan/15 add new reference for OsNRAMP1
+* 2021/Jan/15 add new reference for OsZIP8
+* 2021/Jan/15 add new reference for OsZIP4
+* 2021/Jan/15 add new reference for OsZIP1
+* 2021/Jan/15 add new reference for OsHMA3
+* 2021/Jan/15 add new reference for OsIRT2
+* 2021/Jan/15 add new reference for OsIRT1
+* 2021/Jan/15 add new reference for OsNAS3
+* 2021/Jan/15 add new reference for OsNAS2
+* 2021/Jan/15 add new reference for OsNAS1
+* 2021/Jan/15 add new reference for OsWRKY70
+* 2021/Jan/15 add new reference for OsWRKY45
+* 2021/Jan/15 add new reference for OsNPR1
+* 2021/Jan/15 add new reference for OsICS1
+* 2021/Jan/15 add new reference for OsPAL
+* 2021/Jan/15 add new reference for OsMTP1
+* 2021/Jan/15 add new reference for OsLCT1
+* 2021/Jan/15 add new reference for OsLCD
+* 2021/Jan/15 add new reference for OsLCT1
+* 2021/Jan/15 add new reference for OsCYP71Z2
+* 2021/Jan/15 add new reference for JMJ705
+* 2021/Jan/15 add new reference for RAmy3D
+* 2021/Jan/15 add new reference for OsNAC45
+* 2021/Jan/15 add new gene: OsNAC45
+* 2021/Jan/15 add new reference for OsSAMDC2
+* 2021/Jan/15 add new gene: OsSAMDC2
+* 2021/Jan/15 add new reference for OsERF104
+* 2021/Jan/15 add new gene: OsERF104
+* 2021/Jan/15 add new reference for OsCYP89G1
+* 2021/Jan/15 add new gene: OsCYP89G1
+* 2021/Jan/15 add new reference for OsLEA3
+* 2021/Jan/15 add new reference for OsNAC2
+* 2021/Jan/15 add new reference for OsbZIP62
+* 2021/Jan/15 add new reference for OsLEA3
+* 2021/Jan/15 add new reference for OsSIK1
+* 2021/Jan/15 add new reference for OsEREBP2
+* 2021/Jan/15 add new reference for OsDREB1F
+* 2021/Jan/15 add new reference for OsGRF3
+* 2021/Jan/15 add new reference for OsGRF4
+* 2021/Jan/15 add new reference for OsGRF11
+* 2021/Jan/15 add new gene: OsGRF11
+* 2021/Jan/15 add new reference for OsbHLH35
+* 2021/Jan/15 add new gene: OsbHLH35
+* 2021/Jan/15 add new reference for OsAUX1
+* 2021/Jan/15 add new reference for OsTB1
+* 2021/Jan/15 add new reference for OsMADS57
+* 2021/Jan/15 add new reference for OsLAC
+* 2021/Jan/15 add new reference for OsMADS50
+* 2021/Jan/15 add new reference for OsSPL10
+* 2021/Jan/15 add new reference for OsIPS1
+* 2021/Jan/15 add new reference for OsSPL14
+* 2021/Jan/15 add new reference for OsSPL16
+* 2021/Jan/15 OsMT1a == rgMT == OsMT1e
+* 2021/Jan/15 OsMT1a == rgMT == OsMT1e
+* 2021/Jan/15 add new reference for OsHDAC1
+* 2021/Jan/15 add new reference for OsNHX1
+* 2021/Jan/15 add new reference for OsbZIP72
+* 2021/Jan/15 add new reference for OsABI5
+* 2021/Jan/15 add new reference for OsLEA3
+* 2021/Jan/15 add new reference for HDA710
+* 2021/Jan/15 add new reference for OsMT1e
+* 2021/Jan/15 OsMT1a == rgMT
+* 2021/Jan/14 add new reference for GW2
+* 2021/Jan/14 add new reference for OsMADS3
+* 2021/Jan/14 OsMT1a == rgMT == OsMT1e
+* 2021/Jan/14 add new gene: OsMT1e
+* 2021/Jan/14 RFL == APO2 == SSC == LFY
+* 2021/Jan/14 add new reference for RFL
+* 2021/Jan/14 add new reference for OSH6
+* 2021/Jan/14 add new reference for QHB
+* 2021/Jan/14 add new reference for OsActin2
+* 2021/Jan/14 add new reference for OsPRR1
+* 2021/Jan/14 add new reference for OsSPL
+* 2021/Jan/14 add new reference for OsGI-Hd1-Hd3a
+* 2021/Jan/14 OsGI-Hd1-Hd3a == RFT1
+* 2021/Jan/14 add new reference for RFT1
+* 2021/Jan/14 add new reference for oscca1
+* 2021/Jan/14 add new reference for OsLHT1
+* 2021/Jan/14 add new reference for Hd1
+* 2021/Jan/14 add new reference for Ehd1
+* 2021/Jan/14 add new reference for Hd3a
+* 2021/Jan/14 add new reference for RFT1
+* 2021/Jan/14 add new reference for OsGI
+* 2021/Jan/14 add new reference for OsFd-GOGAT
+* 2021/Jan/14 add new reference for OsDREB1A
+* 2021/Jan/14 add new reference for OsSAPK8
+* 2021/Jan/14 add new reference for OsFTIP7
+* 2021/Jan/14 add new reference for OsERA1
+* 2021/Jan/14 add new gene: OsERA1
+* 2021/Jan/14 add new reference for OsARF16
+* 2021/Jan/14 add new reference for OsARF11
+* 2021/Jan/14 add new reference for OsARF12
+* 2021/Jan/14 add new reference for OsTIR1
+* 2021/Jan/14 add new reference for OsIAA10
+* 2021/Jan/14 add new reference for Rc
+* 2021/Jan/14 add new reference for OsC1
+* 2021/Jan/14 add new reference for OsVP1
 * 2020/Dec/3 add new reference for OsCCT03
 * 2020/Dec/3 add new reference for OsCCT41
 * 2020/Dec/3 add new reference for OsCCT38
@@ -376,10 +1131,10 @@ thread: 616
 * 2020/Jul/25 add new keywords for OsSBPase
 * 2020/Jul/25 add new reference for OsSBPase
 * 2020/Jul/25 add new gene: OsSBPase
-* 2020/Jun/15 add new reference for OsGTÎ³-2
-* 2020/Jun/15 SAB18 == OsGTÎ³-2
-* 2020/Jun/15 add new reference for OsCpn60Î²1
-* 2020/Jun/15 add new gene: OsCpn60Î²1
+* 2020/Jun/15 add new reference for OsGT¦Ã-2
+* 2020/Jun/15 SAB18 == OsGT¦Ã-2
+* 2020/Jun/15 add new reference for OsCpn60¦Â1
+* 2020/Jun/15 add new gene: OsCpn60¦Â1
 * 2020/Jun/15 add new reference for OsSGR
 * 2020/Jun/15 SGR == OsSGR
 * 2020/Jun/15 add new reference for OsAAP1
@@ -1620,9 +2375,9 @@ thread: 616
 * 2019/Aug/28 add new pub.
 * 2019/Aug/28 add new gene: ALEX1
 * 2019/Aug/28 add new pub.
-* 2019/Aug/28 add new info for gene: OsDGD2Î²
+* 2019/Aug/28 add new info for gene: OsDGD2¦Â
 * 2019/Aug/28 add new pub.
-* 2019/Aug/28 add new gene: OsDGD2Î²
+* 2019/Aug/28 add new gene: OsDGD2¦Â
 * 2019/Aug/28 add new pub.
 * 2019/Aug/28 add new info for gene: OsPIN1d
 * 2019/Aug/28 add new pub.
@@ -3346,9 +4101,9 @@ thread: 616
 * 2018/Jun/15 add new info for gene: ART2
 * 2018/Jun/15 add new pub.
 * 2018/Jun/15 add new gene: ART2
-* 2018/Jun/15 add new accessions for OsC3ËŠH1
+* 2018/Jun/15 add new accessions for OsC3¨@H1
 * 2018/Jun/15 add new pub.
-* 2018/Jun/15 add new gene: OsC3ËŠH1
+* 2018/Jun/15 add new gene: OsC3¨@H1
 * 2018/Jun/10 add new pub.
 * 2018/Jun/10 add new pub.
 * 2018/Jun/10 add new pub.

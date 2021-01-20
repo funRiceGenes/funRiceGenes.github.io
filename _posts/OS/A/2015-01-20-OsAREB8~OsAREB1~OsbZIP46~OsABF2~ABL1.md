@@ -21,6 +21,7 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + [Purification, crystallization and preliminary X-ray analysis of OsAREB8 from rice, a member of the AREB/ABF family of bZIP transcription factors, in complex with its cognate DNA](http://www.ncbi.nlm.nih.gov/pubmed?term=Purification, crystallization and preliminary X-ray analysis of OsAREB8 from rice, a member of the AREB/ABF family of bZIP transcription factors, in complex with its cognate DNA%5BTitle%5D), 2012, Acta Crystallogr Sect F Struct Biol Cryst Commun.
     + [The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages%5BTitle%5D), 2013, Plant Mol Biol.
     + [A novel nuclear protein phosphatase 2C negatively regulated by ABL1 is involved in abiotic stress and panicle development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel nuclear protein phosphatase 2C negatively regulated by ABL1 is involved in abiotic stress and panicle development in rice%5BTitle%5D), 2013, Mol Biotechnol.
+    + [The coordination of OsbZIP72 and OsMYBS2 with reverse roles regulates the transcription of OsPsbS1 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The coordination of OsbZIP72 and OsMYBS2 with reverse roles regulates the transcription of OsPsbS1 in rice%5BTitle%5D), 2021, New Phytol.
 
 * **Genbank accession number**  
     + [AK103188](http://www.ncbi.nlm.nih.gov/nuccore/AK103188)

@@ -14,6 +14,8 @@ tags: [stem, stomata, stomatal, leaf, oxidative, drought, spikelet, salt, salt s
 * **Publication**  
     + [Receptor-like kinase OsSIK1 improves drought and salt stress tolerance in rice Oryza sativa plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Receptor-like kinase OsSIK1 improves drought and salt stress tolerance in rice Oryza sativa plants%5BTitle%5D), 2010, Plant J.
     + [Phylogenetic and CRISPR/Cas9 Studies in Deciphering the Evolutionary Trajectory and Phenotypic Impacts of Rice ERECTA Genes.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phylogenetic and CRISPR/Cas9 Studies in Deciphering the Evolutionary Trajectory and Phenotypic Impacts of Rice ERECTA Genes.%5BTitle%5D), 2018, Front Plant Sci.
+    + [OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice%5BTitle%5D), 2020, Rice (N Y).
+    + [Genome-Wide Association Study GWAS to Identify Salt-Tolerance QTLs Carrying Novel Candidate Genes in Rice During Early Vegetative Stage](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-Wide Association Study GWAS to Identify Salt-Tolerance QTLs Carrying Novel Candidate Genes in Rice During Early Vegetative Stage%5BTitle%5D), 2021, Rice (N Y).
 
 * **Genbank accession number**  
     + [AK064052](http://www.ncbi.nlm.nih.gov/nuccore/AK064052)
@@ -27,6 +29,9 @@ tags: [stem, stomata, stomatal, leaf, oxidative, drought, spikelet, salt, salt s
     + Receptor-like kinase OsSIK1 improves drought and salt stress tolerance in rice (Oryza sativa) plants
 
 * **Connection**  
+    + __OsPM19L1~OsPM1__, __OsSIK1~OsERL__, [OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice%5BTitle%5D),  Quantitative real time RT-PCR suggested that seven genes may be regulated by OsNAC45 including OsCYP89G1, OsDREB1F, OsEREBP2, OsERF104, OsPM1, OsSAMDC2, and OsSIK1
+    + __OsDREB1F~RCBF2__, __OsSIK1~OsERL__, [OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice%5BTitle%5D),  Quantitative real time RT-PCR suggested that seven genes may be regulated by OsNAC45 including OsCYP89G1, OsDREB1F, OsEREBP2, OsERF104, OsPM1, OsSAMDC2, and OsSIK1
+    + __OsEREBP2~ERF99__, __OsSIK1~OsERL__, [OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice%5BTitle%5D),  Quantitative real time RT-PCR suggested that seven genes may be regulated by OsNAC45 including OsCYP89G1, OsDREB1F, OsEREBP2, OsERF104, OsPM1, OsSAMDC2, and OsSIK1
 
 [//]: # * **Key figures**  
 

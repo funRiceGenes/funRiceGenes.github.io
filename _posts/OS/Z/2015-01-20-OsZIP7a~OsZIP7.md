@@ -16,6 +16,7 @@ tags: [transporter, root, zinc, shoot, iron, plasma membrane, xylem, vascular bu
     + [Elemental Profiling of Rice FOX Lines Leads to Characterization of a New Zn Plasma Membrane Transporter, OsZIP7.](http://www.ncbi.nlm.nih.gov/pubmed?term=Elemental Profiling of Rice FOX Lines Leads to Characterization of a New Zn Plasma Membrane Transporter, OsZIP7.%5BTitle%5D), 2018, Front Plant Sci.
     + [OsZIP7 functions in xylem loading in roots and inter-vascular transfer in nodes to deliver Zn/Cd to grain in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsZIP7 functions in xylem loading in roots and inter-vascular transfer in nodes to deliver Zn/Cd to grain in rice.%5BTitle%5D), 2019, Biochem Biophys Res Commun.
     + [Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations ](http://www.ncbi.nlm.nih.gov/pubmed?term=Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations %5BTitle%5D), 2020, Physiol Mol Biol Plants.
+    + [Comparative transcriptome profile analysis of rice varieties with different tolerance to zinc deficiency](http://www.ncbi.nlm.nih.gov/pubmed?term=Comparative transcriptome profile analysis of rice varieties with different tolerance to zinc deficiency%5BTitle%5D), 2020, Plant Biol (Stuttg).
 
 * **Genbank accession number**  
 

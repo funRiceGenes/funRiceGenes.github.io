@@ -14,6 +14,7 @@ tags: [growth, nitrogen, transporter, plant growth, grain, grain yield]
 * **Publication**  
     + [Over-expression of OsPTR6 in rice increased plant growth at different nitrogen supplies but decreased nitrogen use efficiency at high ammonium supply.](http://www.ncbi.nlm.nih.gov/pubmed?term=Over-expression of OsPTR6 in rice increased plant growth at different nitrogen supplies but decreased nitrogen use efficiency at high ammonium supply.%5BTitle%5D), 2014, Plant Sci.
     + [The Rice Peptide Transporter OsNPF7.3 Is Induced by Organic Nitrogen, and Contributes to Nitrogen Allocation and Grain Yield.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice Peptide Transporter OsNPF7.3 Is Induced by Organic Nitrogen, and Contributes to Nitrogen Allocation and Grain Yield.%5BTitle%5D), 2017, Front Plant Sci.
+    + [The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants](http://www.ncbi.nlm.nih.gov/pubmed?term=The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants%5BTitle%5D), 2021, Rice (N Y).
 
 * **Genbank accession number**  
     + [AK101480](http://www.ncbi.nlm.nih.gov/nuccore/AK101480)

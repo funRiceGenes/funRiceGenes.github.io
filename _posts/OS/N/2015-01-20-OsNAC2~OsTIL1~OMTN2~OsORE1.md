@@ -20,6 +20,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
     + [OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 positively affects salt-induced cell death and binds to the OsAP37 and OsCOX11 promoters.%5BTitle%5D), 2018, Plant J.
     + [OsNAC2 integrates auxin and cytokinin pathways to modulate rice root development.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC2 integrates auxin and cytokinin pathways to modulate rice root development.%5BTitle%5D), 2019, Plant Biotechnol J.
     + [Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a microRNA-targeted NAC transcription factor improves drought and salt tolerance in Rice via ABA-mediated pathways.%5BTitle%5D), 2019, Rice (N Y).
+    + [OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC45 is Involved in ABA Response and Salt Tolerance in Rice%5BTitle%5D), 2020, Rice (N Y).
 
 * **Genbank accession number**  
 

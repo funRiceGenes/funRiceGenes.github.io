@@ -16,6 +16,7 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor , root, sh
     + [OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice%5BTitle%5D), 2011, Plant J.
     + [OsJAZ1 Attenuates Drought Resistance by Regulating JA and ABA Signaling in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ1 Attenuates Drought Resistance by Regulating JA and ABA Signaling in Rice.%5BTitle%5D), 2017, Front Plant Sci.
     + [The OsJAZ1 degron modulates jasmonate signaling sensitivity during rice development.](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsJAZ1 degron modulates jasmonate signaling sensitivity during rice development.%5BTitle%5D), 2019, Development.
+    + [Magnaporthe oryzae systemic defense trigger 1 MoSDT1-mediated metabolites regulate defense response in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Magnaporthe oryzae systemic defense trigger 1 MoSDT1-mediated metabolites regulate defense response in Rice%5BTitle%5D), 2021, BMC Plant Biol.
 
 * **Genbank accession number**  
 

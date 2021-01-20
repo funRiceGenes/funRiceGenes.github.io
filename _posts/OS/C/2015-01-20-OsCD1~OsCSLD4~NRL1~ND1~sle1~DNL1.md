@@ -19,6 +19,8 @@ tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, v
     + [Isolation and characterization of a rice mutant with narrow and rolled leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a rice mutant with narrow and rolled leaves%5BTitle%5D), 2010, Planta.
     + [Identification and characterization of NARROW AND ROLLED LEAF 1, a novel gene regulating leaf morphology and plant architecture in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of NARROW AND ROLLED LEAF 1, a novel gene regulating leaf morphology and plant architecture in rice%5BTitle%5D), 2010, Plant Mol Biol.
     + [DNL1, encodes cellulose synthase-like D4, is a major QTL for plant height and leaf width in rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=DNL1, encodes cellulose synthase-like D4, is a major QTL for plant height and leaf width in rice Oryza sativa L..%5BTitle%5D), 2014, Biochem Biophys Res Commun.
+    + [Characterization of dwarf and narrow leaf  dnl-4 mutant in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of dwarf and narrow leaf  dnl-4 mutant in rice%5BTitle%5D), 2020, Plant Signal Behav.
+    + [Cadmium inhibits lateral root emergence in rice by disrupting OsPIN-mediated auxin distribution and the protective effect of OsHMA3](http://www.ncbi.nlm.nih.gov/pubmed?term=Cadmium inhibits lateral root emergence in rice by disrupting OsPIN-mediated auxin distribution and the protective effect of OsHMA3%5BTitle%5D), 2020, Plant Cell Physiol.
 
 * **Genbank accession number**  
     + [AK242601](http://www.ncbi.nlm.nih.gov/nuccore/AK242601)
