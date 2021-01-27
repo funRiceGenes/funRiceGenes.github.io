@@ -24,7 +24,7 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 <table align="center">
 <tr>
 <th>
-<a href="http://funricegenes.ncpgr.cn" target="_blank"><img src="https://funricegenes.github.io/images/funShiny.png" alt="Dynamic query of this database" style="width: 300px;"/></a>
+<a href="http://venyao.xyz/RICENCODE/" target="_blank"><img src="https://funricegenes.github.io/images/funShiny.png" alt="Dynamic query of this database" style="width: 300px;"/></a>
 </th>
 <th></th><th></th>
 <th>
