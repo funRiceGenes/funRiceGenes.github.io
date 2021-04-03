@@ -3,7 +3,7 @@ layout: post
 title: "RFL,APO2,SSC,LFY"
 description: ""
 category: genes
-tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, growth, floral meristem, spikelet, root, axillary meristem, leaf, flowering time, floral, vegetative, tillering, tiller, stamen, branching, spikelet meristem, transcription factor, culm, auxin, transporter, strigolactone, auxin transport, development, floral organ, organ identity]
+tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, growth, floral meristem, spikelet, root, axillary meristem, leaf, flowering time, floral, vegetative, tillering, tiller, stamen, branching, spikelet meristem, transcription factor, culm, auxin, transporter, strigolactone, auxin transport, development, floral organ, organ identity, grain, grain number, panicle size]
 ---
 
 * **Information**  
@@ -21,6 +21,7 @@ tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, gro
     + [The far-upstream regulatory region of RFL is required for its precise spatial-temporal expression for floral development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The far-upstream regulatory region of RFL is required for its precise spatial-temporal expression for floral development in rice.%5BTitle%5D), 2016, Plant Mol Biol.
     + [Short and Solid Culm/RFL/APO2 for culm development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Short and Solid Culm/RFL/APO2 for culm development in rice.%5BTitle%5D), 2017, Plant J.
     + [Transcriptome comparison between pluripotent and non-pluripotent calli derived from mature rice seeds](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptome comparison between pluripotent and non-pluripotent calli derived from mature rice seeds%5BTitle%5D), 2020, Sci Rep.
+    + [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D), 2021, Plant Cell.
 
 * **Genbank accession number**  
     + [AB005620](http://www.ncbi.nlm.nih.gov/nuccore/AB005620)
@@ -64,6 +65,7 @@ tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, gro
     + Here, we describe a rice aberrant floral organ 1 (afo1) mutant that was produced by a T-DNA insertion at 6292-bp upstream of the start codon of RFL
     + This insertion altered the expression of RFL in floral meristem (FM) and floret
     + The altered pattern of RFL expression in afo1 resulted in enlarged FMs, more floral organs, aberrant floral organ identity, and loss of FM determinacy
+    + Genetic analyses support that LARGE2 functions with APO1 and APO2 in a common pathway to regulate panicle size and grain number
 
 * **Connection**  
     + __APO1~OsAPO1~SCM2__, __RFL~APO2~SSC~LFY__, [ABERRANT PANICLE ORGANIZATION 2/RFL, the rice ortholog of Arabidopsis LEAFY, suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1](http://www.ncbi.nlm.nih.gov/pubmed?term=ABERRANT PANICLE ORGANIZATION 2/RFL, the rice ortholog of Arabidopsis LEAFY, suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1%5BTitle%5D), Further analysis indicated that APO2/RFL and APO1, the rice ortholog of Arabidopsis UNUSUAL FLORAL ORGANS, act cooperatively to control inflorescence and flower development
@@ -76,6 +78,10 @@ tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, gro
     + __OsPIN1~REH1~PIN1b~OsPIN1b__, __RFL~APO2~SSC~LFY__, [Functions for rice RFL in vegetative axillary meristem specification and outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=Functions for rice RFL in vegetative axillary meristem specification and outgrowth.%5BTitle%5D), Further, we report reduced expression of auxin transporter genes OsPIN1 and OsPIN3 in the culm of RFL knockdown transgenic plants
     + __OsPIN1~REH1~PIN1b~OsPIN1b__, __RFL~APO2~SSC~LFY__, [Functions for rice RFL in vegetative axillary meristem specification and outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=Functions for rice RFL in vegetative axillary meristem specification and outgrowth.%5BTitle%5D), These modified forms of RFL had only indirect effects on OsPIN1
     + __FZP~BFL1~SGDP7__, __RFL~APO2~SSC~LFY__, [Regulatory role of FZP in the determination of panicle branching and spikelet formation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory role of FZP in the determination of panicle branching and spikelet formation in rice.%5BTitle%5D), FRIZZLE PANICLE (FZP) and RFL/ABERRANT PANICLE ORGANIZATION 2 (APO2) play important roles in regulating the ABCDE floral organ identity genes
+    + __LARGE2~OsUPL2__, __RFL~APO2~SSC~LFY__, [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D),  Biochemical analyses show that LARGE2 physically associates with ABERRANT PANICLE ORGANIZATION1 (APO1) and APO2, two positive regulators of panicle size and grain number, and modulates their stabilities
+    + __LARGE2~OsUPL2__, __RFL~APO2~SSC~LFY__, [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D),  Genetic analyses support that LARGE2 functions with APO1 and APO2 in a common pathway to regulate panicle size and grain number
+    + __APO1~OsAPO1~SCM2__, __RFL~APO2~SSC~LFY__, [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D),  Biochemical analyses show that LARGE2 physically associates with ABERRANT PANICLE ORGANIZATION1 (APO1) and APO2, two positive regulators of panicle size and grain number, and modulates their stabilities
+    + __APO1~OsAPO1~SCM2__, __RFL~APO2~SSC~LFY__, [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D),  Genetic analyses support that LARGE2 functions with APO1 and APO2 in a common pathway to regulate panicle size and grain number
 
 [//]: # * **Key figures**  
 

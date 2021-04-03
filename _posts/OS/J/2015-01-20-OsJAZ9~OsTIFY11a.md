@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ9,OsTIFY11a"
 description: ""
 category: genes
-tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin,  ga , GA, nitrogen, root, sugar, phytohormone, root growth, potassium, architecture, homeostasis, jasmonic, jasmonic acid, root system architecture, JA signaling]
+tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, tolerance, stress,  ja , JA, stress tolerance, Ubiquitin,  ga , GA, nitrogen, root, sugar, phytohormone, root growth, potassium, architecture, homeostasis, jasmonic, jasmonic acid, root system architecture, JA signaling, leaf,  ABA , stomatal, ABA, stomata]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
     + [Transcriptome analysis of rice Oryza sativa L. in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptome analysis of rice Oryza sativa L. in response to ammonium resupply reveals the involvement of phytohormone signaling and the transcription factor OsJAZ9 in reprogramming of nitrogen uptake and metabolism.%5BTitle%5D), 2020, J Plant Physiol.
     + [OsJAZ9 overexpression modulates jasmonic acid biosynthesis and potassium deficiency responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 overexpression modulates jasmonic acid biosynthesis and potassium deficiency responses in rice%5BTitle%5D), 2020, Plant Mol Biol.
     + [Magnaporthe oryzae systemic defense trigger 1 MoSDT1-mediated metabolites regulate defense response in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Magnaporthe oryzae systemic defense trigger 1 MoSDT1-mediated metabolites regulate defense response in Rice%5BTitle%5D), 2021, BMC Plant Biol.
+    + [OsJAZ9 is involved in water-deficit stress tolerance by regulating leaf width and stomatal density in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 is involved in water-deficit stress tolerance by regulating leaf width and stomatal density in rice%5BTitle%5D), 2021, Plant Physiol Biochem.
 
 * **Genbank accession number**  
     + [AK070649](http://www.ncbi.nlm.nih.gov/nuccore/AK070649)
@@ -44,6 +45,13 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
     + JA profiling revealed significantly increased JA-Ile levels in OsJAZ9 OE lines under K deficiency
     + Our data provide evidence on the crucial roles of OsJAZ9 for improving K deficiency tolerance in rice by altering JA levels and JA responses
     + OsJAZ9 overexpression modulates jasmonic acid biosynthesis and potassium deficiency responses in rice
+    + OsJAZ9 is involved in water-deficit stress tolerance by regulating leaf width and stomatal density in rice
+    + Further, OsJAZ9 overexpression reduces leaf width and stomata density, leading to lower leaf transpiration rates than WT
+    + Here we report that OsJAZ9 plays a critical role in rice water-deficit stress tolerance via influencing JA and ABA signalling
+    + Overexpression of OsJAZ9 led to the enhanced ABA and JA levels
+    + This reduced transpiration and higher K content as osmoticum improved the water-deficit stress tolerance in OsJAZ9 overexpression lines
+    + Our previous report demonstrated the role of OsJAZ9 in potassium homeostasis by modulating Jasmonic Acid (JA) signalling
+    + On the contrary, OsJAZ9 RNAi lines displayed enhanced sensitivity towards water-deficit stress
 
 * **Connection**  
     + __OsCOI1~OsCOI1a__, __OsJAZ9~OsTIFY11a__, [OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsJAZ9 acts as a transcriptional regulator in jasmonate signaling and modulates salt stress tolerance in rice.%5BTitle%5D), OsJAZ9 interacts with OsCOI1a, a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner, suggesting that OsJAZ9 is involved in the regulation of JA signaling

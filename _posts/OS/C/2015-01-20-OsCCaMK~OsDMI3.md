@@ -3,7 +3,7 @@ layout: post
 title: "OsCCaMK,OsDMI3"
 description: ""
 category: genes
-tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, alkaline tolerance, alkaline stress, tolerance, root elongation, stress, Kinase, protein kinase, kinase]
+tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, alkaline tolerance, alkaline stress, tolerance, root elongation, stress, Kinase, protein kinase, kinase, ABA]
 ---
 
 * **Information**  
@@ -19,6 +19,7 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, alkaline tolerance, 
     + [CYCLOPS, a mediator of symbiotic intracellular accommodation](http://www.ncbi.nlm.nih.gov/pubmed?term=CYCLOPS, a mediator of symbiotic intracellular accommodation%5BTitle%5D), 2008, Proc Natl Acad Sci U S A.
     + [Abscisic Acid Inhibits Rice Protein Phosphatase PP45 via H2O2 and Relieves Repression of the Ca2+/CaM-Dependent Protein Kinase DMI3.](http://www.ncbi.nlm.nih.gov/pubmed?term=Abscisic Acid Inhibits Rice Protein Phosphatase PP45 via H2O2 and Relieves Repression of the Ca2+/CaM-Dependent Protein Kinase DMI3.%5BTitle%5D), 2018, Plant Cell.
     + [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D), 2020, Plant Signal Behav.
+    + [Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses%5BTitle%5D), 2021, Plant Cell.
 
 * **Genbank accession number**  
     + [AK070533](http://www.ncbi.nlm.nih.gov/nuccore/AK070533)
@@ -40,6 +41,7 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, alkaline tolerance, 
     + Collectively, our results suggest that OsDMI3 could promote saline-alkaline tolerance in rice roots by modulating the Na+ and H+ influx
     + Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
     + We measured the OsDMI3 activity by an in-gel kinase assay, Na+ content by NaHCO3 treatment, and Na+ and H+ fluxes by noninvasive micro-test technology (NMT)
+    + OsDMI3 was found to directly phosphorylate Thr-25 in the N-terminus of OsMKK1, and this Thr-25 phosphorylation is OsDMI3-specific in ABA signaling
 
 * **Connection**  
     + __OsCCaMK~OsDMI3__, __OsMPK1~OsMAPK6~OsSIPK__, [OsDMI3-mediated activation of OsMPK1 regulates the activities of antioxidant enzymes in abscisic acid signalling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDMI3-mediated activation of OsMPK1 regulates the activities of antioxidant enzymes in abscisic acid signalling in rice%5BTitle%5D), In this study, the cross-talk between OsDMI3 and the major ABA-activated MAPK OsMPK1 in ABA-induced antioxidant defence was investigated
@@ -55,6 +57,9 @@ tags: [root, defense,  ABA , oxidative, ethylene, nitrogen, alkaline tolerance, 
     + __OsA3__, __OsCCaMK~OsDMI3__, [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D),  Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
     + __OsA8__, __OsCCaMK~OsDMI3__, [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D),  Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
     + __OsCCaMK~OsDMI3__, __OsNHA1~OsSOS1__, [Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots](http://www.ncbi.nlm.nih.gov/pubmed?term=Calcium/calmodulin-dependent protein kinase OsDMI3 positively regulates saline-alkaline tolerance in rice roots%5BTitle%5D),  Moreover, real-time RT-PCR analysis revealed that OsDMI3 up-regulated the transcript levels of OsSOS1 and PM-H+-ATPase genes OsA3 and OsA8 in saline-alkaline stressed rice plants
+    + __OsCCaMK~OsDMI3__, __OsMKK1__, [Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses%5BTitle%5D),  Here, we show that OsDMI3, a rice (Oryza sativa) CCaMK, directly interacts with and phosphorylates OsMKK1, a MAPK kinase (MKK) in rice, in vitro and in vivo
+    + __OsCCaMK~OsDMI3__, __OsMKK1__, [Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses%5BTitle%5D),  OsDMI3 was found to directly phosphorylate Thr-25 in the N-terminus of OsMKK1, and this Thr-25 phosphorylation is OsDMI3-specific in ABA signaling
+    + __OsCCaMK~OsDMI3__, __OsMKK1__, [Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice calcium/calmodulin-dependent protein kinase directly phosphorylates a mitogen-activated protein kinase kinase to regulate abscisic acid responses%5BTitle%5D),  Our results indicate that OsMKK1 is a direct target of OsDMI3, and OsDMI3-mediated phosphorylation of OsMKK1 plays an important role in activating the MAPK cascade and ABA signaling
 
 [//]: # * **Key figures**  
 

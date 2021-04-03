@@ -37,8 +37,8 @@ tags: [meristem, growth, root, brassinosteroid, stem, seed, lemma, cell elongati
     + Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice
 
 * **Connection**  
-    + __D61~OsBRI1__, __TID1~SRS5~OsTubA2__, [Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice%5BTitle%5D), Seeds of the double mutant of Srs5 and d61-2 were smaller than those of Srs5 or d61-2
-    + __D61~OsBRI1__, __TID1~SRS5~OsTubA2__, [Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice%5BTitle%5D), Furthermore, SRS5 and BRI1 genes were highly expressed in Srs5 and d61-2 mutants
+    + __D61~OsBRI1~OsBRKq1__, __TID1~SRS5~OsTubA2__, [Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice%5BTitle%5D), Seeds of the double mutant of Srs5 and d61-2 were smaller than those of Srs5 or d61-2
+    + __D61~OsBRI1~OsBRKq1__, __TID1~SRS5~OsTubA2__, [Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice%5BTitle%5D), Furthermore, SRS5 and BRI1 genes were highly expressed in Srs5 and d61-2 mutants
 
 [//]: # * **Key figures**  
 

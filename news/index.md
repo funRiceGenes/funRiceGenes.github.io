@@ -5,6 +5,169 @@ comments: no
 thread: 616
 ---
 
+* 2021/Mar/15 add new reference for Roc5
+* 2021/Mar/15 add new reference for OsCYP96B4
+* 2021/Mar/15 add new reference for OsMTD1
+* 2021/Mar/15 add new reference for Hd3a
+* 2021/Mar/15 add new reference for OsAOS2
+* 2021/Mar/15 add new reference for OsAOS1
+* 2021/Mar/15 add new reference for OsUPL2
+* 2021/Mar/15 LARGE2 == OsUPL2
+* 2021/Mar/15 add new reference for APO1
+* 2021/Mar/15 add new reference for APO2
+* 2021/Mar/15 add new reference for LARGE2
+* 2021/Mar/15 add new gene: LARGE2
+* 2021/Mar/15 add new reference for OsHOX24
+* 2021/Mar/15 add new reference for OsDi19-1
+* 2021/Mar/15 add new reference for OsIAA13
+* 2021/Mar/15 add new reference for OsBUL1
+* 2021/Mar/15 add new reference for OsHAK1
+* 2021/Mar/15 add new reference for OsSKOR
+* 2021/Mar/15 add new reference for OsPT8
+* 2021/Mar/15 add new reference for OsPT2
+* 2021/Mar/15 add new reference for DEP1
+* 2021/Mar/15 add new reference for OsGAMYB
+* 2021/Mar/15 add new reference for OsTPP1
+* 2021/Mar/15 add new reference for OsMKK1
+* 2021/Mar/15 add new reference for OsDMI3
+* 2021/Mar/15 add new reference for Hd1
+* 2021/Mar/15 add new reference for PhyB
+* 2021/Mar/15 add new reference for OsGI
+* 2021/Mar/15 add new reference for OsPRR37
+* 2021/Mar/15 add new reference for OsSUT1
+* 2021/Mar/15 add new reference for OsSUT5
+* 2021/Mar/15 add new reference for OsBZR1
+* 2021/Mar/15 add new reference for OsMET1-2
+* 2021/Mar/15 add new reference for OsmiR408
+* 2021/Mar/15 add new reference for OsmiR396
+* 2021/Mar/15 add new reference for OsSOS1
+* 2021/Mar/15 add new reference for OsHKT1;5
+* 2021/Mar/15 add new reference for OsHKT2;1
+* 2021/Mar/15 add new reference for OsGrx_C7
+* 2021/Mar/15 add new reference for OsCESA7
+* 2021/Mar/15 add new reference for OsCESA4
+* 2021/Mar/15 add new reference for OsCESA9
+* 2021/Mar/15 add new reference for Ehd1
+* 2021/Mar/15 add new reference for RFT1
+* 2021/Mar/15 add new reference for OsMBD707
+* 2021/Mar/15 add new gene: OsMBD707
+* 2021/Mar/15 add new reference for NYC1
+* 2021/Mar/15 add new reference for ONAC054
+* 2021/Mar/15 add new reference for OsPHO2
+* 2021/Mar/15 add new reference for OsPT8
+* 2021/Mar/15 add new reference for OsPT2
+* 2021/Mar/15 add new reference for OsPP95
+* 2021/Mar/15 add new gene: OsPP95
+* 2021/Mar/15 add new reference for NAL21
+* 2021/Mar/15 add new gene: NAL21
+* 2021/Mar/15 add new reference for OsARF16
+* 2021/Mar/15 add new reference for OsARF11
+* 2021/Mar/15 add new reference for OsWOX3A
+* 2021/Mar/12 add new reference for DRO1
+* 2021/Mar/12 add new reference for S22B_j
+* 2021/Mar/12 add new gene: S22B_j
+* 2021/Mar/12 add new reference for OsGH3-2
+* 2021/Mar/12 add new reference for OsCRP1
+* 2021/Mar/12 add new gene: OsCRP1
+* 2021/Mar/12 add new reference for OsTrxm
+* 2021/Mar/12 add new reference for OsNRAMP5
+* 2021/Mar/12 add new reference for OsHMA4
+* 2021/Mar/12 add new reference for OsSAUR33
+* 2021/Mar/12 add new gene: OsSAUR33
+* 2021/Mar/12 add new reference for OsVPE3
+* 2021/Mar/12 add new reference for OSH15
+* 2021/Mar/12 add new reference for OsCESA7
+* 2021/Mar/12 add new reference for OsCAD2
+* 2021/Mar/12 add new reference for OsFucT
+* 2021/Mar/12 add new reference for OsXylT
+* 2021/Mar/12 add new reference for OsHIPP19
+* 2021/Mar/12 add new gene: OsHIPP19
+* 2021/Mar/12 add new reference for OsMLH3
+* 2021/Mar/12 add new gene: OsMLH3
+* 2021/Mar/12 add new reference for OsMLH1
+* 2021/Mar/12 add new reference for OsASGR-BBML1
+* 2021/Mar/12 add new reference for OSA1
+* 2021/Mar/12 add new reference for nuRIP
+* 2021/Mar/12 nuRIP == OsjRIP11.2
+* 2021/Mar/12 add new gene: nuRIP
+* 2021/Mar/12 OsRIP1 == OsjRIP1.1
+* 2021/Mar/12 add new reference for OsRIP1
+* 2021/Mar/12 add new reference for OsGW2
+* 2021/Mar/12 GW2 == OsGW2
+* 2021/Mar/12 add new reference for OsEMF2a
+* 2021/Mar/12 add new reference for RGA1
+* 2021/Mar/12 add new reference for OsCIPK23
+* 2021/Mar/12 add new reference for OsCER1
+* 2021/Mar/12 add new reference for OsMADS32
+* 2021/Mar/12 add new reference for OsIG1
+* 2021/Mar/12 add new reference for OsMADS15
+* 2021/Mar/12 add new reference for OsMADS13
+* 2021/Mar/12 add new reference for OsMADS58
+* 2021/Mar/12 add new reference for OsMADS1
+* 2021/Mar/12 add new reference for OsVIT2
+* 2021/Mar/12 add new reference for OsSMF1
+* 2021/Mar/12 add new reference for OsWOX13
+* 2021/Mar/12 add new reference for OsEATB
+* 2021/Mar/12 add new reference for OsMSR2
+* 2021/Mar/12 add new reference for OsSWEET4
+* 2021/Mar/12 add new reference for OsMST6
+* 2021/Mar/12 add new reference for ONAC129
+* 2021/Mar/12 add new reference for ONAC127
+* 2021/Mar/12 add new reference for NY2
+* 2021/Mar/12 add new gene: NY2
+* 2021/Mar/12 add new reference for NY1
+* 2021/Mar/12 add new gene: NY1
+* 2021/Mar/11 add new reference for OsFIE2
+* 2021/Mar/11 add new reference for OsCIPK23
+* 2021/Mar/11 add new reference for OsHAK5
+* 2021/Mar/11 add new reference for OsAKT1
+* 2021/Mar/11 add new reference for OsYUC1
+* 2021/Mar/11 add new reference for OsNIT1
+* 2021/Mar/11 add new reference for OsRR6
+* 2021/Mar/11 miR408 == OsMIR408
+* 2021/Mar/11 add new reference for OsMIR408
+* 2021/Mar/11 add new gene: OsMIR408
+* 2021/Mar/11 add new reference for OsCPS2
+* 2021/Mar/11 add new reference for OsCPS4
+* 2021/Mar/11 add new reference for OsRAD23
+* 2021/Mar/11 add new reference for OsNUC1
+* 2021/Mar/11 add new reference for OsCKX11
+* 2021/Mar/11 add new gene: OsCKX11
+* 2021/Mar/11 add new reference for OsKOL4
+* 2021/Mar/11 add new reference for OsMPK6
+* 2021/Mar/11 add new reference for OsEDR1
+* 2021/Mar/11 add new reference for Chalk5
+* 2021/Mar/11 add new reference for GS3
+* 2021/Mar/11 add new reference for GW5
+* 2021/Mar/11 add new reference for GL3.1
+* 2021/Mar/11 add new reference for GW7
+* 2021/Mar/11 add new reference for OsCOX11
+* 2021/Mar/11 add new reference for OsUGP2
+* 2021/Mar/11 add new reference for OsDRAP1
+* 2021/Mar/11 add new reference for OsFRDL4
+* 2021/Mar/11 add new reference for OsBRKq1
+* 2021/Mar/11 D61 == OsBRI1 == OsBRKq1
+* 2021/Mar/11 add new reference for OsAMT2.3
+* 2021/Mar/11 OsAMT2;3 == OsAMT2.3
+* 2021/Mar/11 add new gene: OsGLU2
+* 2021/Mar/11 add new reference for OsNIA2
+* 2021/Mar/11 add new gene: OsNIA2
+* 2021/Mar/11 add new reference for OsAMT1.3
+* 2021/Mar/11 add new reference for OsGLU1
+* 2021/Mar/11 add new reference for OsNR2
+* 2021/Mar/11 add new reference for Osa-miR159a
+* 2021/Mar/11 add new gene: Osa-miR159a
+* 2021/Mar/11 add new reference for OsGAMYBL
+* 2021/Mar/11 add new gene: OsGAMYBL
+* 2021/Mar/11 add new reference for OsZF
+* 2021/Mar/11 add new gene: OsZF
+* 2021/Mar/11 add new reference for OsGAMYB
+* 2021/Mar/11 add new reference for OsRBCS4
+* 2021/Mar/11 add new reference for OsRBCS2
+* 2021/Mar/11 add new reference for OsTGW6
+* 2021/Mar/11 TGW6 == OsTGW6
+* 2021/Mar/11 add new reference for OsSTRL2
+* 2021/Mar/3 update info for OsCYP89G1
 * 2021/Jan/19 OsBRCA2
 * 2021/Jan/19 add new reference for OsbHLH35
 * 2021/Jan/19 OsbHLH035 == OsbHLH35

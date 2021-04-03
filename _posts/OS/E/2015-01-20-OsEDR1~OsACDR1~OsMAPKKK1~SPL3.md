@@ -3,7 +3,7 @@ layout: post
 title: "OsEDR1,OsACDR1,OsMAPKKK1,SPL3"
 description: ""
 category: genes
-tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, reproductive, ethylene, disease resistance, temperature, seedling, jasmonic, vegetative, leaf, root, growth, map-based cloning, senescence, abscisic acid, Kinase, leaf senescence, ABA, lesion]
+tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, reproductive, ethylene, disease resistance, temperature, seedling, jasmonic, vegetative, leaf, root, growth, map-based cloning, senescence, abscisic acid, Kinase, leaf senescence, ABA, lesion, resistance, kinase]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
     + [Rice OsACDR1 Oryza sativa accelerated cell death and resistance 1 is a potential positive regulator of fungal disease resistance](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice OsACDR1 Oryza sativa accelerated cell death and resistance 1 is a potential positive regulator of fungal disease resistance%5BTitle%5D), 2009, Mol Cells.
     + [Mutation of SPOTTED LEAF3 SPL3 impairs abscisic acid-responsive signalling and delays leaf senescence in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of SPOTTED LEAF3 SPL3 impairs abscisic acid-responsive signalling and delays leaf senescence in rice.%5BTitle%5D), 2015, J Exp Bot.
     + [Genetic analysis and identification of candidate genes for two spotted-leaf mutants spl101 and spl102 in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic analysis and identification of candidate genes for two spotted-leaf mutants spl101 and spl102 in rice.%5BTitle%5D), 2017, Yi Chuan.
+    + [Pathogen-inducible OsMPKK10.2-OsMPK6 cascade phosphorylates the Raf-like kinase OsEDR1 and inhibits its scaffold function to promote rice disease resistance](http://www.ncbi.nlm.nih.gov/pubmed?term=Pathogen-inducible OsMPKK10.2-OsMPK6 cascade phosphorylates the Raf-like kinase OsEDR1 and inhibits its scaffold function to promote rice disease resistance%5BTitle%5D), 2021, Mol Plant.
 
 * **Genbank accession number**  
     + [AY167575](http://www.ncbi.nlm.nih.gov/nuccore/AY167575)
@@ -46,8 +47,10 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
     + Furthermore, the spl3 mutant had lower transcript levels and activities of catalases, which scavenge hydrogen peroxide, probably due to impairment of ABA-responsive signalling
     + Finally, a possible molecular mechanism of lesion formation in the mature leaves of spl3 mutant is discussed
     + Here, two newly identified alleles of OsEDR1 will be benefit for further understanding the molecular mechanisms of the OsEDR1 gene in disease resistance, and will be helpful for enriching the rice germplasm resources
+    + Pathogen-inducible OsMPKK10.2-OsMPK6 cascade phosphorylates the Raf-like kinase OsEDR1 and inhibits its scaffold function to promote rice disease resistance
 
 * **Connection**  
+    + __OsEDR1~OsACDR1~OsMAPKKK1~SPL3__, __OsMPK6~OsMPK4__, [Pathogen-inducible OsMPKK10.2-OsMPK6 cascade phosphorylates the Raf-like kinase OsEDR1 and inhibits its scaffold function to promote rice disease resistance](http://www.ncbi.nlm.nih.gov/pubmed?term=Pathogen-inducible OsMPKK10.2-OsMPK6 cascade phosphorylates the Raf-like kinase OsEDR1 and inhibits its scaffold function to promote rice disease resistance%5BTitle%5D),  Interestingly, activated OsMPK6 phosphorylates OsEDR1 at S861, which destabilizes OsEDR1 and thus releases the inhibition of OsMPKK10
 
 [//]: # * **Key figures**  
 

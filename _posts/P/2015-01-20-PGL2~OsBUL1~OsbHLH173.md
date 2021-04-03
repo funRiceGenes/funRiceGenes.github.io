@@ -3,7 +3,7 @@ layout: post
 title: "PGL2,OsBUL1,OsbHLH173"
 description: ""
 category: genes
-tags: [grain length, palea, grain size, brassinosteroid, grain, lemma, leaf, cell elongation, height, plant height, transcriptional activator, architecture, iaa,  BR , IAA, plant architecture]
+tags: [grain length, palea, grain size, brassinosteroid, grain, lemma, leaf, cell elongation, height, plant height, transcriptional activator, architecture, iaa,  BR , IAA, plant architecture, leaf angle]
 ---
 
 * **Information**  
@@ -15,6 +15,7 @@ tags: [grain length, palea, grain size, brassinosteroid, grain, lemma, leaf, cel
     + [An atypical bHLH protein encoded by POSITIVE REGULATOR OF GRAIN LENGTH 2 is involved in controlling grain length and weight of rice through interaction with a typical bHLH protein APG](http://www.ncbi.nlm.nih.gov/pubmed?term=An atypical bHLH protein encoded by POSITIVE REGULATOR OF GRAIN LENGTH 2 is involved in controlling grain length and weight of rice through interaction with a typical bHLH protein APG%5BTitle%5D), 2012, Breed Sci.
     + [Rice leaf angle and grain size are affected by the OsBUL1 transcriptional activator complex](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice leaf angle and grain size are affected by the OsBUL1 transcriptional activator complex%5BTitle%5D), 2016, Plant Physiology.
     + [Genome-wide association studies reveal that members of bHLH subfamily 16 share a conserved function in regulating flag leaf angle in rice Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide association studies reveal that members of bHLH subfamily 16 share a conserved function in regulating flag leaf angle in rice Oryza sativa.%5BTitle%5D), 2018, PLoS Genet.
+    + [OsbHLH98 Regulates Leaf Angle in Rice Through Transcriptional Repression of OsBUL1](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH98 Regulates Leaf Angle in Rice Through Transcriptional Repression of OsBUL1%5BTitle%5D), 2021, New Phytol.
 
 * **Genbank accession number**  
     + [FP100305](http://www.ncbi.nlm.nih.gov/nuccore/FP100305)
@@ -32,6 +33,8 @@ tags: [grain length, palea, grain size, brassinosteroid, grain, lemma, leaf, cel
     + To understand the molecular network of OsBUL1 function in rice, we isolated a novel OsBUL1-interacting protein, LO9-177, an uncharacterized protein containing a KxDL motif and functionally studied it with respect to the laminar inclination and grain size of rice
     + OsBUL1 COMPLEX1 (OsBC1) is a basic HLH (bHLH) transcriptional activator that interacts with OsBUL1 only in the presence of LO9-177 forming a possible trimeric complex for cell elongation in the laminar joint of rice
     + Three candidates, OsbHLH153, OsbHLH173 and OsbHLH174, quickly responded to BR and IAA involved in plant architecture except for OsbHLH173, whose expression level was too low to be detected; their overexpression in plants increased rice leaf angle
+    + OsbHLH98 Regulates Leaf Angle in Rice Through Transcriptional Repression of OsBUL1
+    + Our results demonstrate that OsbHLH98 negatively regulates leaf angle by counteracting brassinosteroid-induced cell elongation via the repression of OsBUL1 transcription
 
 * **Connection**  
     + __APG~OsPIL16__, __PGL2~OsBUL1~OsbHLH173__, [An atypical bHLH protein encoded by POSITIVE REGULATOR OF GRAIN LENGTH 2 is involved in controlling grain length and weight of rice through interaction with a typical bHLH protein APG](http://www.ncbi.nlm.nih.gov/pubmed?term=An atypical bHLH protein encoded by POSITIVE REGULATOR OF GRAIN LENGTH 2 is involved in controlling grain length and weight of rice through interaction with a typical bHLH protein APG%5BTitle%5D), PGL2 interacts with a typical bHLH protein APG, a negative regulator of rice grain length and weight, in vitro and in vivo

@@ -14,6 +14,7 @@ tags: [meiosis, mitosis, development, cell division]
 * **Publication**  
     + [A male-expressed rice embryogenic trigger redirected for asexual propagation through seeds.](http://www.ncbi.nlm.nih.gov/pubmed?term=A male-expressed rice embryogenic trigger redirected for asexual propagation through seeds.%5BTitle%5D), 2018, Nature.
     + [Expression of genes from paternal alleles in rice zygotes and involvement of OsASGR-BBML1 in initiation of zygotic development.](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of genes from paternal alleles in rice zygotes and involvement of OsASGR-BBML1 in initiation of zygotic development.%5BTitle%5D), 2019, Plant Cell Physiol.
+    + [Effect of Paternal Genome Excess on the Developmental and Gene Expression Profiles of Polyspermic Zygotes in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Effect of Paternal Genome Excess on the Developmental and Gene Expression Profiles of Polyspermic Zygotes in Rice%5BTitle%5D), 2021, Plants (Basel).
 
 * **Genbank accession number**  
 

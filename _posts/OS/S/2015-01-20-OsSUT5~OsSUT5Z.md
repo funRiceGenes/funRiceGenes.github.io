@@ -3,7 +3,7 @@ layout: post
 title: "OsSUT5,OsSUT5Z"
 description: ""
 category: genes
-tags: [leaf, transporter, vegetative]
+tags: [leaf, transporter, vegetative, phloem]
 ---
 
 * **Information**  
@@ -15,6 +15,7 @@ tags: [leaf, transporter, vegetative]
     + [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), 2008, J Integr Plant Biol.
     + [The sucrose transporter gene family in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The sucrose transporter gene family in rice%5BTitle%5D), 2003, Plant Cell Physiol.
     + [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D), 2010, Plant Cell Physiol.
+    + [Phloem loading in rice leaves depends strongly on the apoplastic pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=Phloem loading in rice leaves depends strongly on the apoplastic pathway%5BTitle%5D), 2021, J Exp Bot.
 
 * **Genbank accession number**  
     + [AB091674](http://www.ncbi.nlm.nih.gov/nuccore/AB091674)
@@ -25,6 +26,7 @@ tags: [leaf, transporter, vegetative]
     + The TopPred program suggested that both sucrose transporter proteins, OsSUT2M and OsSUT5Z, consist of potentially 12 transmembrane domains
     + Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z
     + Transport activity of rice sucrose transporters OsSUT1 and OsSUT5
+    + Cross sections of the GUS transgenic plant showed that the signals of OsSUT1 and OsSUT5 occurred in the phloem companion cells
 
 * **Connection**  
     + __OsSUT2~OsSUT2M__, __OsSUT5~OsSUT5Z__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), Two sucrose transporter (SUT) cDNAs, OsSUT2M and OsSUT5Z, were isolated from rice (Oryza sativa L
@@ -35,6 +37,7 @@ tags: [leaf, transporter, vegetative]
     + __OsSUT1__, __OsSUT5~OsSUT5Z__, [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D), Expression of OsSUT1 and OsSUT5 resulted in sucrose-dependent currents that were analyzed by two-electrode voltage clamping
     + __OsSUT1__, __OsSUT5~OsSUT5Z__, [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D), In conclusion, differences in transport activity between OsSUT1 and OsSUT5 indicate that type II SUTs have a range of transport activities that are tuned to their function in the plant
     + __OsSUT1__, __OsSUT5~OsSUT5Z__, [Transport activity of rice sucrose transporters OsSUT1 and OsSUT5](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport activity of rice sucrose transporters OsSUT1 and OsSUT5%5BTitle%5D), Transport activity of rice sucrose transporters OsSUT1 and OsSUT5
+    + __OsSUT1__, __OsSUT5~OsSUT5Z__, [Phloem loading in rice leaves depends strongly on the apoplastic pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=Phloem loading in rice leaves depends strongly on the apoplastic pathway%5BTitle%5D),  Cross sections of the GUS transgenic plant showed that the signals of OsSUT1 and OsSUT5 occurred in the phloem companion cells
 
 [//]: # * **Key figures**  
 
