@@ -24,7 +24,7 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 - Warraich et al. [Rice GWAS reveals key genomic regions essential for salinity tolerance at reproductive stage](https://link.springer.com/article/10.1007/s11738-020-03123-y), 2020, Acta Physiologiae Plantarum
 - Deveshwar et al. [Analysis of rice nuclear-localized seed-expressed proteins and their database (RSNP-DB)](https://www.nature.com/articles/s41598-020-70713-8), 2020, Scientific Reports
 - Chandran et al. [Rice Male Gamete Expression Database (RMEDB): A Web Resource for Functional Genomic Studies of Rice Male Organ Development](https://link.springer.com/article/10.1007/s12374-020-09267-1), 2020, Journal of Plant Biology
-- Bhati et al. [Global Analysis of Cereal microProteins Suggests Diverse Roles in Crop Development and Environmental Adaptation](https://doi.org/10.1534/g3.120.400794), 2020, G3 Genes|Genomes|Genetics
+- Bhati et al. [Global Analysis of Cereal microProteins Suggests Diverse Roles in Crop Development and Environmental Adaptation](https://doi.org/10.1534/g3.120.400794), 2020, G3: Genes Genomes Genetics
 - Ren et al. [Transcriptome and genome sequencing elucidates the molecular basis for the high yield and good quality of the hybrid rice variety Chuanyou6203](https://www.nature.com/articles/s41598-020-76762-3), 2020, Scientific Reports
 - Kim et al. [Two nuclear effectors of the rice blast fungus modulate host immunity via transcriptional reprogramming](https://www.nature.com/articles/s41467-020-19624-w), 2020, Nature Communications
 - Hong et al. [CAFRI‐Rice: CRISPR applicable functional redundancy inspector to accelerate functional genomics in rice](https://doi.org/10.1111/tpj.14926), 2020, Plant Journal
