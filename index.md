@@ -19,17 +19,7 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: venyao at qq.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
-__Please cite <a href="https://doi.org/10.1093/gigascience/gix119" target="_blank">our paper published in GigaScience</a> if you use the funRiceGenes database in your study!__  
-
-<div id="blink">__Please cite <a href="https://doi.org/10.1093/gigascience/gix119" target="_blank">our paper published in GigaScience</a> if you use the funRiceGenes database in your study!__</div>
-<script language="javascript">
-function changeColor(){
-	var color="#f00|#0f0|#00f|#880|#808|#088|yellow|green|blue|gray";
-	color=color.split("|");
-	document.getElementById("blink").style.color=color[parseInt(Math.random() * color.length)];
-}
-setInterval("changeColor()",200);
-</script> 
+<font size="4">__Please cite <a href="https://doi.org/10.1093/gigascience/gix119" target="_blank">our paper published in GigaScience</a> if you use the funRiceGenes database in your study!__</font>  
 
 <table align="center">
 <tr>
