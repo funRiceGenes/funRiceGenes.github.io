@@ -10,6 +10,7 @@ tagline:
 
 __A comprehensive database of functionally characterized rice genes__
 
+<a href="https://doi.org/10.1093/gigascience/gix119" target="_blank"><img src="https://funricegenes.github.io/images/citation.png" style="width: 600px;"/></a>
 
 * 3600+ cloned rice genes [[Download↓]](https://funricegenes.github.io/geneInfo.table.txt)  
 * 5000+ gene family members [[Download↓]](https://funricegenes.github.io/famInfo.table.txt)  
@@ -18,8 +19,6 @@ __A comprehensive database of functionally characterized rice genes__
 * 200+ interaction networks [[Download↓]](https://funricegenes.github.io/net.pdf)  
 * Contact: venyao at qq.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
-
-<font size="4">__Please cite <a href="https://doi.org/10.1093/gigascience/gix119" target="_blank">our paper published in GigaScience</a> if you use the funRiceGenes database in your study!__</font>  
 
 <table align="center">
 <tr>
