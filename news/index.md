@@ -5,6 +5,69 @@ comments: no
 thread: 616
 ---
 
+* 2021/Jul/1 update new genes and information
+* 2021/May/30 add new reference for OsMPK6
+* 2021/May/30 add new reference for OsLHY
+* 2021/May/30 add new reference for OsEMF2a
+* 2021/May/30 add new reference for OsGA2ox1
+* 2021/May/30 add new reference for OsGRF6
+* 2021/May/30 add new reference for OsSWEET11
+* 2021/May/30 add new reference for OsSWEET14
+* 2021/May/30 add new reference for OsMYC2
+* 2021/May/30 add new reference for OsbZIP1
+* 2021/May/30 add new reference for OsYUC11
+* 2021/May/30 add new reference for SPL36
+* 2021/May/30 add new gene: SPL36
+* 2021/May/30 add new reference for OsFD1
+* 2021/May/30 add new reference for OsCERK1
+* 2021/May/30 add new reference for DRO1
+* 2021/May/30 add new reference for OsYUC11
+* 2021/May/30 add new reference for OsMED25
+* 2021/May/30 add new reference for OsMED16
+* 2021/May/30 OsSFR6 == OsMED16
+* 2021/May/30 add new reference for OsPG1
+* 2021/May/30 PSL1 == OsPG1
+* 2021/May/30 add new reference for OsWRKY55
+* 2021/May/30 add new reference for OsHMA2
+* 2021/May/30 add new reference for OsANTH3
+* 2021/May/30 add new gene: OsANTH3
+* 2021/May/30 add new reference for OsPHR2
+* 2021/May/30 add new reference for OsPEP1
+* 2021/May/30 add new gene: OsPEP1
+* 2021/May/30 add new reference for OsCOP1
+* 2021/May/30 COP1 == PPS == OsCOP1
+* 2021/May/30 add new reference for OsPHF5A2
+* 2021/May/30 add new gene: OsPHF5A2
+* 2021/May/30 add new reference for OsPHF5A1
+* 2021/May/30 add new gene: OsPHF5A1
+* 2021/May/30 add new reference for OsFTIP1
+* 2021/May/30 add new reference for OsMFT1
+* 2021/May/30 add new reference for OsMYB30
+* 2021/May/30 add new reference for OsSRFP1
+* 2021/May/30 add new reference for OsGATA16
+* 2021/May/30 add new gene: OsGATA16
+* 2021/May/30 add new reference for RAmy1A
+* 2021/May/30 add new reference for OsAKT2
+* 2021/May/30 add new reference for OsClpR1
+* 2021/May/30 add new gene: OsClpR1
+* 2021/May/30 add new reference for OsClp-T
+* 2021/May/30 add new gene: OsClp-T
+* 2021/May/30 add new reference for OsClpP5
+* 2021/May/30 add new reference for OsClpP4
+* 2021/May/30 CLPP4 == OsClpP4
+* 2021/May/30 add new reference for OsClpP3
+* 2021/May/30 add new reference for OsClpP2
+* 2021/May/30 add new gene: OsClpP2
+* 2021/May/30 add new reference for OsClpS1
+* 2021/May/30 add new gene: OsClpS1
+* 2021/May/30 add new reference for OsClp5
+* 2021/May/30 add new gene: OsClp5
+* 2021/May/30 add new reference for OsClpR2
+* 2021/May/30 add new gene: OsClpR2
+* 2021/May/30 add new reference for OsPAP90
+* 2021/May/30 add new gene: OsPAP90
+* 2021/May/29 add new reference for OsYUCCA5
+* 2021/May/29 add new reference for OsWOX3B
 * 2021/Mar/15 add new reference for Roc5
 * 2021/Mar/15 add new reference for OsCYP96B4
 * 2021/Mar/15 add new reference for OsMTD1

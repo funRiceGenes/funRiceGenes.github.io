@@ -20,6 +20,7 @@ tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc
     + [Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.](http://www.ncbi.nlm.nih.gov/pubmed?term=Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.%5BTitle%5D), 2018, J Exp Bot.
     + [Comparative transcriptome profile analysis of rice varieties with different tolerance to zinc deficiency](http://www.ncbi.nlm.nih.gov/pubmed?term=Comparative transcriptome profile analysis of rice varieties with different tolerance to zinc deficiency%5BTitle%5D), 2020, Plant Biol (Stuttg).
     + [Nanoparticle-based amelioration of drought stress and cadmium toxicity in rice via triggering the stress responsive genetic mechanisms and nutrient acquisition](http://www.ncbi.nlm.nih.gov/pubmed?term=Nanoparticle-based amelioration of drought stress and cadmium toxicity in rice via triggering the stress responsive genetic mechanisms and nutrient acquisition%5BTitle%5D), 2020, Ecotoxicol Environ Saf.
+    + [Analysis of Cadmium Root Retention for Two Contrasting Rice Accessions Suggests an Important Role for OsHMA2 ](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of Cadmium Root Retention for Two Contrasting Rice Accessions Suggests an Important Role for OsHMA2 %5BTitle%5D), 2021, Plants (Basel).
 
 * **Genbank accession number**  
     + [AK107235](http://www.ncbi.nlm.nih.gov/nuccore/AK107235)
@@ -48,6 +49,8 @@ tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc
     + Effective reduction of cadmium accumulation in rice grain by expressing OsHMA3 under the control of OsHMA2 promoter.
     + These results indicate that expression of OsHMA3 under the control of OsHMA2 promoter can effectively reduce Cd accumulation in rice grain through sequestering more Cd into the vacuoles of various tissues
     + The aim of this study is to manipulate both expression and tissue localization of OsHMA3, a tonoplast-localized Cd transporter in the roots by expressing it under the control of OsHMA2 promoter, which shows high expression in different organs including roots, nodes and shoots
+    + Analysis of Cadmium Root Retention for Two Contrasting Rice Accessions Suggests an Important Role for OsHMA2
+    + Interestingly, the relative transcript abundance of OsHMA2, a gene controlling root-to-shoot Cd/Zn translocation, was not influenced by Cd exposure in Capataz and progressively increased in Beirao with the external Cd concentration, suggesting that activity of the OsHMA2 transporter may differentially limit root-to-shoot Cd/Zn translocation in Capataz and Beirao
 
 * **Connection**  
     + __OsHMA2~OsHMA2v__, __OsNRAMP5__, [Silicon reduces cadmium accumulation by suppressing expression of transporter genes involved in cadmium uptake and translocation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Silicon reduces cadmium accumulation by suppressing expression of transporter genes involved in cadmium uptake and translocation in rice.%5BTitle%5D),  The expression level of OsNramp5 and OsHMA2 was down-regulated by Si in the WTs, but not in the mutants

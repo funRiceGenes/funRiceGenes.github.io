@@ -3,7 +3,7 @@ layout: post
 title: "OsMYBGA,OsGAMYB"
 description: ""
 category: genes
-tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endosperm, pollen, flower, shoot, vegetative, stamen, floral, seed, seed germination]
+tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endosperm, pollen, flower, shoot, vegetative, stamen, floral, seed, seed germination, tillering, development, grain, tiller, grain yield, yield, tiller number]
 ---
 
 * **Information**  
@@ -25,6 +25,7 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
     + [Interaction between rice MYBGA and the gibberellin response element controls tissue-specific sugar sensitivity of alpha-amylase genes](http://www.ncbi.nlm.nih.gov/pubmed?term=Interaction between rice MYBGA and the gibberellin response element controls tissue-specific sugar sensitivity of alpha-amylase genes%5BTitle%5D), 2006, Plant Cell.
     + [Fine-Tuning Roles of Osa-miR159a in Rice Immunity Against Magnaporthe oryzae and Development](http://www.ncbi.nlm.nih.gov/pubmed?term=Fine-Tuning Roles of Osa-miR159a in Rice Immunity Against Magnaporthe oryzae and Development%5BTitle%5D), 2021, Rice (N Y).
     + [OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice%5BTitle%5D), 2021, New Phytol.
+    + [MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice%5BTitle%5D), 2021, J Integr Plant Biol.
 
 * **Genbank accession number**  
     + [CAA67000](http://www.ncbi.nlm.nih.gov/nuccore/CAA67000)
@@ -38,6 +39,10 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
     + Thus, OsGAMYB and OsGAMYB-like genes are regulated by miR159 in flowers
     + Four copies of either GARE or CARE showed transactivation neither by OsGAMyb nor by GA induction
     + <U+2022> Further analysis showed that transcription factor of OsGAMYB was an activator of OsTPP1, and expression of OsGAMYB was decreased by both the exogenous and endogenous ABA, subsequently reduced the expression of OsTPP1, which suggested a new signaling pathway required for seed germination in rice
+    + MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice
+    + These data suggest that miR319 regulates rice tiller bud development and tillering through targeting OsTCP21 and OsGAmyb
+    + Notably, the tiller number and grain yield increased in STTM319 and overexpression lines of OsTCP21 and OsGAmyb but decreased in OE319a and knockout lines of OsTCP21 and OsGAmyb
+    + Moreover, OsTCP21 and OsGAmyb overexpression lines and STTM319 had increased tiller bud length and biomass, whereas both were decreased in OsTCP21 and OsGAmyb knockout lines and OE319a
 
 * **Connection**  
     + __OsMYBGA~OsGAMYB__, __RPBF~OsDof3__, [Functional dissections between GAMYB and Dof transcription factors suggest a role for protein-protein associations in the gibberellin-mediated expression of the RAmy1A gene in the rice aleurone](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional dissections between GAMYB and Dof transcription factors suggest a role for protein-protein associations in the gibberellin-mediated expression of the RAmy1A gene in the rice aleurone%5BTitle%5D), In this study, I have evaluated cooperative function of GAMYB and a pyrimidine box-binding protein OsDOF3 that influenced the promoter activity of the most predominant GA-responsive gene (RAmy1A) of rice (Oryza sativa)
@@ -62,7 +67,12 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
     + __OsGAMYBL__, __OsMYBGA~OsGAMYB__, [Fine-Tuning Roles of Osa-miR159a in Rice Immunity Against Magnaporthe oryzae and Development](http://www.ncbi.nlm.nih.gov/pubmed?term=Fine-Tuning Roles of Osa-miR159a in Rice Immunity Against Magnaporthe oryzae and Development%5BTitle%5D),  Knockout mutations of the target genes of Osa-miR159a, including OsGAMYB, OsGAMYBL, and OsZF, led to resistance to M
     + __Osa-miR159a__, __OsMYBGA~OsGAMYB__, [Fine-Tuning Roles of Osa-miR159a in Rice Immunity Against Magnaporthe oryzae and Development](http://www.ncbi.nlm.nih.gov/pubmed?term=Fine-Tuning Roles of Osa-miR159a in Rice Immunity Against Magnaporthe oryzae and Development%5BTitle%5D),  Knockout mutations of the target genes of Osa-miR159a, including OsGAMYB, OsGAMYBL, and OsZF, led to resistance to M
     + __OsMYBGA~OsGAMYB__, __OsTPP1__, [OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice%5BTitle%5D),  <U+2022> Further analysis showed that transcription factor of OsGAMYB was an activator of OsTPP1, and expression of OsGAMYB was decreased by both the exogenous and endogenous ABA, subsequently reduced the expression of OsTPP1, which suggested a new signaling pathway required for seed germination in rice
-    + __OsMYBGA~OsGAMYB__, __OsTPP1__, [OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice%5BTitle%5D),  <U+2022> Further analysis showed that transcription factor of OsGAMYB was an activator of OsTPP1, and expression of OsGAMYB was decreased by both the exogenous and endogenous ABA, subsequently reduced the expression of OsTPP1, which suggested a new signaling pathway required for seed germination in rice
+    + __OsMYBGA~OsGAMYB__, __OsTCP21__, [MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice%5BTitle%5D), MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice
+    + __OsMYBGA~OsGAMYB__, __OsTCP21__, [MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice%5BTitle%5D),  Through targets prediction, we identified OsTCP21 and OsGAmyb as downstream targets of miR319
+    + __OsMYBGA~OsGAMYB__, __OsTCP21__, [MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice%5BTitle%5D),  Moreover, OsTCP21 and OsGAmyb overexpression lines and STTM319 had increased tiller bud length and biomass, whereas both were decreased in OsTCP21 and OsGAmyb knockout lines and OE319a
+    + __OsMYBGA~OsGAMYB__, __OsTCP21__, [MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice%5BTitle%5D),  These data suggest that miR319 regulates rice tiller bud development and tillering through targeting OsTCP21 and OsGAmyb
+    + __OsMYBGA~OsGAMYB__, __OsTCP21__, [MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice%5BTitle%5D),  Notably, the tiller number and grain yield increased in STTM319 and overexpression lines of OsTCP21 and OsGAmyb but decreased in OE319a and knockout lines of OsTCP21 and OsGAmyb
+    + __OsMYBGA~OsGAMYB__, __OsTCP21__, [MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MiR319-targeted OsTCP21 and OsGAmyb regulate tillering and grain yield in rice%5BTitle%5D),  Taken together, our findings indicate that miR319s negatively affect tiller number and grain yield by targeting OsTCP21 and OsGAmyb, revealing a novel function for miR319 in rice
 
 [//]: # * **Key figures**  
 
