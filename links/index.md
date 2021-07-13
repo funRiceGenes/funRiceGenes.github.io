@@ -31,7 +31,7 @@ comments: yes
 - **funRiceGenes** 
 	- <a href="https://funricegenes.github.io/" target="_blank">https://funricegenes.github.io/</a>
 	- <a href="http://funricegenes.ncpgr.cn/" target="_blank">http://funricegenes.ncpgr.cn/</a>
-	- <a href="https://venyao.xyz/RICENCODE/" target="_blank">https://venyao.xyz/RICENCODE/</a>  
+	- <a href="https://venyao.xyz/funRiceGenes/" target="_blank">https://venyao.xyz/funRiceGenes/</a>  
 - **binQTL** 
 	- <a href="https://github.com/venyao/binQTL" target="_blank">https://github.com/venyao/binQTL</a>
 	- <a href="https://github.com/venyao/binQTL.shiny" target="_blank">https://github.com/venyao/binQTL.shiny</a>
