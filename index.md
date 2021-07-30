@@ -18,6 +18,9 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: venyao at qq.com   
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 
+<script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
+<div class="gcse-search"></div>
+
 <table align="center">
 <tr>
 <th>
