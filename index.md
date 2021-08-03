@@ -22,23 +22,6 @@ __A comprehensive database of functionally characterized rice genes__
 <script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
 <div class="gcse-search"></div>
 
-<h1>Bing Search</h1>
-	<form action="https://bing.com/search" id="searchForm">
-		<input type="text" name="q" value="" required>
-		<input type="hidden" name="site" value="www.ioio.pw">
-		<input type="submit" value="Search">
-	</form>
-<script>
-	var searchForm = document.getElementById('searchForm');
-	searchForm.onsubmit = function(){
-		var url = this.action;
-		var q = this.children['q'].value;
-		var site = this.children['site'].value;
-		var url = url + '?q='+q+' site:'+ site;
-		window.open(url);
-		return false;
-	};
-</script>
 
 <table align="center">
 <tr>
