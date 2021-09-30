@@ -5,6 +5,270 @@ comments: no
 thread: 616
 ---
 
+* 2021/Sep/30 add new family: cinnamyl alcohol dehydrogenase gene family
+* 2021/Sep/30 add new family: alog gene family
+* 2021/Sep/30 add new family: multiple organellar rna editing factors (morf) gene family
+* 2021/Sep/30 add new family: duf668 gene family
+* 2021/Sep/30 add new family: seed storage proteins
+* 2021/Sep/30 add new family: iq-motif containing gene family
+* 2021/Sep/30 add new connections between OsIAA20 and OsGH3-13
+* 2021/Sep/30 add new connections between OsIAA20 and OsGH3-2
+* 2021/Sep/30 add new connections between OsIAA20 and OsbZIP49
+* 2021/Sep/30 add new info for gene: OsIAA20
+* 2021/Sep/30 add new pub.
+* 2021/Sep/30 add new gene: OsIAA20
+* 2021/Sep/30 add new connections between OsGH3-13 and OsbZIP49
+* 2021/Sep/30 add new info for gene: OsGH3-13
+* 2021/Sep/30 add new pub.
+* 2021/Sep/30 OsGH3.13 == TLD1 == OsGH3-13
+* 2021/Sep/30 add new info for gene: OsbZIP49
+* 2021/Sep/30 add new pub.
+* 2021/Sep/30 add new gene: OsbZIP49
+* 2021/Sep/30 add new info for gene: OsNYC3
+* 2021/Sep/30 add new pub.
+* 2021/Sep/30 NYC3 == OsNYC3
+* 2021/Sep/30 add new pub.
+* 2021/Sep/30 add new gene: GW5.1
+* 2021/Sep/30 add new pub.
+* 2021/Sep/30 add new gene: OsGL1
+* 2021/Sep/30 add new pub.
+* 2021/Sep/29 add new info for gene: UGT74J1
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new gene: UGT74J1
+* 2021/Sep/29 add new keywords for Os12BGlu38
+* 2021/Sep/29 add new info for gene: Os12BGlu38
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new gene: Os12BGlu38
+* 2021/Sep/29 add new info for gene: OsDOF11
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new connections between OsAHP2 and OsPPKL1
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new gene: HRZ1
+* 2021/Sep/29 add new info for gene: OsMKKK70
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new gene: OsMKKK70
+* 2021/Sep/29 add new info for gene: OsMYBS2
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new info for gene: OsBIM1
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new gene: OsBIM1
+* 2021/Sep/29 add new info for gene: OsMIR168a
+* 2021/Sep/29 add new pub.
+* 2021/Sep/29 add new gene: OsMIR168a
+* 2021/Sep/26 add new family: cytochrome p450 monooxygenase superfamily
+* 2021/Sep/25 PNZIP == OsCRD1 == YL-1 == YGL8
+* 2021/Sep/25 add new info for gene: TMS5
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new info for gene: OsRAV12
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsRAV12
+* 2021/Sep/25 add new info for gene: OsRAV11
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsRAV11
+* 2021/Sep/25 add new connections between SDG705 and SDG721
+* 2021/Sep/25 add new info for gene: SDG721
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new info for gene: SDG705
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: SDG705
+* 2021/Sep/25 OsSDG721 == SDG721
+* 2021/Sep/25 add new reference for OsTRFL1
+* 2021/Sep/25 CTMyb1 == OsTRFL1
+* 2021/Sep/25 add new gene: OsTRFL1
+* 2021/Sep/25 add new info for gene: OsDUF810.7
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsDUF810.7
+* 2021/Sep/25 add new info for gene: miR394
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: miR394
+* 2021/Sep/25 add new info for gene: LC4
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: LC4
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsBSK4
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsBSK2
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsBSK1-1
+* 2021/Sep/25 add new keywords for OsWSL4
+* 2021/Sep/25 add new keywords for OsWSL4
+* 2021/Sep/25 add new keywords for OsWSL4
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsWSL4
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 OsMYB511 == OsMYBR1
+* 2021/Sep/25 add new info for gene: TOB1
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new info for gene: TOB3
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 OsYABBY3 == OsYAB4 == TOB3
+* 2021/Sep/25 OsYABBY4 == TOB2
+* 2021/Sep/25 add new info for gene: OsEXTL
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsEXTL
+* 2021/Sep/25 add new info for gene: OsMTI-1b
+* 2021/Sep/25 add new pub.
+* 2021/Sep/25 add new gene: OsMTI-1b
+* 2021/Sep/24 add new info for gene: OsINO80
+* 2021/Sep/24 add new pub.
+* 2021/Sep/24 add new gene: OsINO80
+* 2021/Sep/24 add new info for gene: OsZFP350
+* 2021/Sep/24 add new pub.
+* 2021/Sep/24 add new gene: OsZFP350
+* 2021/Sep/24 add new info for gene: OsPS1-F
+* 2021/Sep/24 add new pub.
+* 2021/Sep/24 add new gene: OsPS1-F
+* 2021/Sep/24 add new info for gene: OsMYB6
+* 2021/Sep/24 add new pub.
+* 2021/Sep/24 add new gene: OsMYB6
+* 2021/Sep/24 add new info for gene: OsWRKY30
+* 2021/Sep/24 add new pub.
+* 2021/Sep/24 add new pub.
+* 2021/Sep/23 add new info for gene: OsMYB305
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsMYB305
+* 2021/Sep/23 add new info for gene: OsACP1
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new info for gene: OsPSKR15
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsPSKR15
+* 2021/Sep/23 add new info for gene: OsS40-13
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsS40-13
+* 2021/Sep/23 add new info for gene: OsS40-7
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsS40-7
+* 2021/Sep/23 add new info for gene: OsS40-14
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsS40-14
+* 2021/Sep/23 add new info for gene: OsS40-12
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsS40-12
+* 2021/Sep/23 add new info for gene: OsS40-1
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsS40-1
+* 2021/Sep/23 add new info for gene: OsFBK1
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new info for gene: EP3
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new connections between OsABIL2 and HDA704
+* 2021/Sep/23 add new info for gene: HDA704
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: HDA704
+* 2021/Sep/23 add new info for gene: TSV2
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 LAS == TSV2
+* 2021/Sep/23 add new info for gene: OSK1
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OSK1
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new info for gene: OsJAZ6
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsJAZ6
+* 2021/Sep/23 add new info for gene: TGW6
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new accessions for OsERF106MZ
+* 2021/Sep/23 add new info for gene: OsERF106MZ
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsERF106MZ
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new family: genes for nitrogen uptake, transportation, assimilation, and remobilization
+* 2021/Sep/23 add new info for gene: OsCyb5
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new gene: OsCyb5
+* 2021/Sep/23 add new info for gene: OsRacB
+* 2021/Sep/23 add new pub.
+* 2021/Sep/23 add new info for gene: OsWRKY108
+* 2021/Sep/23 add new pub.
+* 2021/Sep/14 add new reference for V14
+* 2021/Sep/14 add new gene: V14
+* 2021/Sep/14 add new reference for RGA1
+* 2021/Sep/14 add new reference for JMJ705
+* 2021/Sep/14 add new reference for OsSnRK1D
+* 2021/Sep/14 add new reference for OsSnRK1C
+* 2021/Sep/14 add new reference for OsSnRK1A2
+* 2021/Sep/14 add new gene: OsSnRK1D
+* 2021/Sep/14 add new gene: OsSnRK1C
+* 2021/Sep/14 add new gene: OsSnRK1A2
+* 2021/Sep/14 add new reference for OsSnRK1A1
+* 2021/Sep/14 add new gene: OsSnRK1A1
+* 2021/Sep/14 add new reference for Ghd7
+* 2021/Sep/14 add new connections between OsATL38 and OsGF14d
+* 2021/Sep/14 add new reference for OsATL38
+* 2021/Sep/14 OsRING-1 == OsATL38
+* 2021/Sep/14 add new reference for OsGF14d
+* 2021/Sep/14 add new gene: OsGF14d
+* 2021/Sep/14 add new reference for OsWRKY50
+* 2021/Sep/14 add new gene: OsWRKY50
+* 2021/Sep/14 add new reference for RGN1
+* 2021/Sep/14 add new gene: RGN1
+* 2021/Sep/14 add new reference for OsSWEET14
+* 2021/Sep/14 add new reference for OsR3L1
+* 2021/Sep/14 add new gene: OsR3L1
+* 2021/Sep/14 add new reference for OsGA2ox8
+* 2021/Sep/14 add new reference for OsHXK1
+* 2021/Sep/14 add new reference for OsRDR3
+* 2021/Sep/14 add new gene: OsRDR3
+* 2021/Sep/14 add new reference for ROC5
+* 2021/Sep/14 add new reference for Roc8
+* 2021/Sep/14 add new reference for OsEDM2L
+* 2021/Sep/14 OsELP3 == OsEDM2L
+* 2021/Sep/14 add new reference for OsPIP2;2
+* 2021/Sep/14 add new gene: OsPIP2;2
+* 2021/Sep/14 add new reference for OsHOL1
+* 2021/Sep/14 add new reference for Osj10gBTF3
+* 2021/Sep/14 add new reference for OsHMGB707
+* 2021/Sep/14 add new gene: OsHMGB707
+* 2021/Sep/14 add new reference for OsbZIP62
+* 2021/Sep/14 OsbZIP62 == OsFD7
+* 2021/Sep/14 add new reference for UCIP2
+* 2021/Sep/14 add new gene: UCIP2
+* 2021/Sep/14 add new reference for OsUBC26
+* 2021/Sep/14 add new gene: OsUBC26
+* 2021/Sep/14 add new reference for OsMEK2
+* 2021/Sep/14 OsMKK1 == OsMEK2
+* 2021/Sep/14 add new reference for ASP-LSL
+* 2021/Sep/14 OsTPL == ASP1 == OsLIS-L1 == ASP-LSL
+* 2021/Sep/14 add new reference for OsFLZ18
+* 2021/Sep/14 add new gene: OsFLZ18
+* 2021/Sep/14 add new reference for OsHAK8
+* 2021/Sep/14 add new gene: OsHAK8
+* 2021/Sep/14 add new reference for GWD1
+* 2021/Sep/14 OsGWD1 == GWD1
+* 2021/Sep/14 add new reference for OsSDG721
+* 2021/Sep/14 add new gene: OsSDG721
+* 2021/Sep/14 add new reference for OsELF3-2
+* 2021/Sep/14 add new reference for OsGI
+* 2021/Sep/14 add new reference for OsLUX
+* 2021/Sep/14 add new reference for OsELF3-1
+* 2021/Sep/14 add new reference for OsELF4c
+* 2021/Sep/14 add new reference for OsELF4b
+* 2021/Sep/14 add new reference for OsELF4a
+* 2021/Sep/14 add new gene: OsELF4c
+* 2021/Sep/14 add new gene: OsELF4b
+* 2021/Sep/14 add new gene: OsELF4a
+* 2021/Sep/14 add new reference for Gns6
+* 2021/Sep/14 add new gene: Gns6
+* 2021/Sep/14 add new reference for MSP1
+* 2021/Sep/14 add new reference for LEPTO1
+* 2021/Sep/14 OsMSP1 == MSP1
+* 2021/Sep/14 add new reference for OsBC1L8
+* 2021/Sep/14 add new gene: OsBC1L8
+* 2021/Sep/14 add new reference for OsBC1L1
+* 2021/Sep/14 add new gene: OsBC1L1
+* 2021/Sep/10 add new reference for OsAMT1;3
+* 2021/Sep/10 add new reference for OsAMT1;2
+* 2021/Sep/10 add new reference for OsAMT1;1
+* 2021/Aug/19 OsGPT == OsGPT1
+* 2021/Aug/19 osa-miR5506
+* 2021/Aug/18 add new genes CDE4, OsOPR4, and OsLAC17
 * 2021/Jul/1 update new genes and information
 * 2021/May/30 add new reference for OsMPK6
 * 2021/May/30 add new reference for OsLHY

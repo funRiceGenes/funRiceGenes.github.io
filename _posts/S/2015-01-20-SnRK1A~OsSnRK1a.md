@@ -3,48 +3,21 @@ layout: post
 title: "SnRK1A,OsSnRK1a"
 description: ""
 category: genes
-tags: [growth, seedling, seed, seed germination, resistance, development, defense, defense response, disease, salicylic acid, blast, disease resistance, immunity, broad-spectrum disease resistance]
+tags: 
 ---
 
 * **Information**  
     + Symbol: SnRK1A,OsSnRK1a  
-    + MSU: [LOC_Os05g45420](http://rice.plantbiology.msu.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g45420)  
+    + MSU: [LOC_Os05g45420](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g45420)  
     + RAPdb: [Os05g0530500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0530500)  
 
 * **Publication**  
-    + [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), 2010, J Exp Bot.
-    + [The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice%5BTitle%5D), 2007, Plant Cell.
-    + [Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding](http://www.ncbi.nlm.nih.gov/pubmed?term=Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding%5BTitle%5D), 2009, Sci Signal.
-    + [The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.%5BTitle%5D), 2018, Sci Rep.
-    + [The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination%5BTitle%5D), 2021, Int J Mol Sci.
 
 * **Genbank accession number**  
-    + [AB101655](http://www.ncbi.nlm.nih.gov/nuccore/AB101655)
-    + [AK067158](http://www.ncbi.nlm.nih.gov/nuccore/AK067158)
-    + [AB101655](http://www.ncbi.nlm.nih.gov/nuccore/AB101655)
-    + [AK067158](http://www.ncbi.nlm.nih.gov/nuccore/AK067158)
 
 * **Key message**  
-    + CIPK15 regulates the plant global energy and stress sensor SnRK1A (Snf1-related protein kinase 1) and links O(2)-deficiency signals to the SnRK1-dependent sugar-sensing cascade to regulate sugar and energy production and to enable rice growth under floodwater
-    + Our studies demonstrated that SnRK1A is an important intermediate in the sugar signaling cascade, functioning upstream from the interaction between MYBS1 and alphaAmy3 SRC and playing a key role in regulating seed germination and seedling growth in rice
-    + The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice
-    + OsSnRK1a overexpression interfered with normal growth and development and increased resistance against both (hemi)biotrophic and necrotrophic pathogens, while OsSnRK1a silencing in RNAi lines increased susceptibility
-    + The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
-    + OsSnRK1a overexpression positively affected the salicylic acid pathway and boosted the jasmonate-mediated defense response after inoculation with the blast fungus Pyricularia oryzae
-    + Together these findings strongly suggest OsSnRK1a to be involved in plant basal immunity and favor a model whereby OsSnRK1a acts as a master switch that regulates growth-immunity trade-offs
 
 * **Connection**  
-    + __alphaAmy3~OsAmy3D~RAmy3D__, __SnRK1A~OsSnRK1a__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), Treatment with a respiratory inhibitor or anoxia also relieved the sugar repression of the rice CIPK15 gene, a main upstream positive regulator of SnRK1A that is critical for Amy3D expression in response to sugar starvation
-    + __alphaAmy3~OsAmy3D~RAmy3D__, __SnRK1A~OsSnRK1a__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), SnRK1A accumulation was previously shown to be required for MYBS1 expression, which transactivates Amy3D by binding to a cis-acting element found in the proximal region of all Amy3 subfamily gene promoters (the TA box)
-    + __OsMYBS1__, __SnRK1A~OsSnRK1a__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), SnRK1A accumulation was previously shown to be required for MYBS1 expression, which transactivates Amy3D by binding to a cis-acting element found in the proximal region of all Amy3 subfamily gene promoters (the TA box)
-    + __OsCIPK15__, __SnRK1A~OsSnRK1a__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), Treatment with a respiratory inhibitor or anoxia also relieved the sugar repression of the rice CIPK15 gene, a main upstream positive regulator of SnRK1A that is critical for Amy3D expression in response to sugar starvation
-    + __OsMYBS1__, __SnRK1A~OsSnRK1a__, [The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice%5BTitle%5D), Rice embryo transient expression assays indicated that SnRK1A and SnRK1B act upstream and relieve glucose repression of MYBS1 and alphaAmy3 SRC promoters
-    + __OsMYBS1__, __SnRK1A~OsSnRK1a__, [The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice%5BTitle%5D), A transgenic RNA interference approach indicated that SnRK1A is also necessary for the activation of MYBS1 and alphaAmy3 expression under glucose starvation
-    + __OsMYBS1__, __SnRK1A~OsSnRK1a__, [The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice%5BTitle%5D), Our studies demonstrated that SnRK1A is an important intermediate in the sugar signaling cascade, functioning upstream from the interaction between MYBS1 and alphaAmy3 SRC and playing a key role in regulating seed germination and seedling growth in rice
-    + __SnRK1A~OsSnRK1a__, __SnRK1B~OsK4__, [The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice%5BTitle%5D), Rice embryo transient expression assays indicated that SnRK1A and SnRK1B act upstream and relieve glucose repression of MYBS1 and alphaAmy3 SRC promoters
-    + __SnRK1A~OsSnRK1a__, __SnRK1B~OsK4__, [The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice%5BTitle%5D), Two mutants of SnRK1s, snrk1a and snrk1b, were obtained, and the functions of both SnRK1s were further studied
-    + __OsCIPK15__, __SnRK1A~OsSnRK1a__, [Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding](http://www.ncbi.nlm.nih.gov/pubmed?term=Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding%5BTitle%5D), CIPK15 regulates the plant global energy and stress sensor SnRK1A (Snf1-related protein kinase 1) and links O(2)-deficiency signals to the SnRK1-dependent sugar-sensing cascade to regulate sugar and energy production and to enable rice growth under floodwater
-    + __OsSAUR33__, __SnRK1A~OsSnRK1a__, [The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination%5BTitle%5D),  OsSAUR33 interacted with the sucrose non-fermenting-1-related protein kinase OsSnRK1A, a regulator of the sugar signaling pathway, which influences the expression of sugar signaling-related genes during germination
 
 [//]: # * **Key figures**  
 
