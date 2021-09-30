@@ -12,8 +12,11 @@ tags:
     + RAPdb: [Os01g0328400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0328400)  
 
 * **Publication**  
+    + [Validation of housekeeping genes as internal control for studying gene expression in rice by quantitative real-time PCR](http://www.ncbi.nlm.nih.gov/pubmed?term=Validation of housekeeping genes as internal control for studying gene expression in rice by quantitative real-time PCR%5BTitle%5D), 2006, Biochem Biophys Res Commun.
+    + [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D), 2020, Front Plant Sci.
 
 * **Genbank accession number**  
+    + [AK061988](http://www.ncbi.nlm.nih.gov/nuccore/AK061988)
 
 * **Key message**  
 
