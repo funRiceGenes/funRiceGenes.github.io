@@ -22,8 +22,6 @@ __A comprehensive database of functionally characterized rice genes__
 <script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
 <div class="gcse-search"></div>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ydy9wmznml&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
-
 <table align="center">
 <tr>
 <th>
@@ -53,3 +51,5 @@ __If you find any error information in our database or any functionally characte
 <button type="submit" class="button">Send</button>
 </label>
 </form>
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ydy9wmznml&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
