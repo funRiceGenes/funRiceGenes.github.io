@@ -20,7 +20,8 @@ __A comprehensive database of functionally characterized rice genes__
 * Interactive application of funRiceGenes: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
 * Citation: [Yao et al. 2018 GigaScience](https://doi.org/10.1093/gigascience/gix119)  
 
-* Search this site using Google:
+<br>
+__Search this site using Google:__
 <script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
 <div class="gcse-search"></div>
 
