@@ -3,7 +3,7 @@ layout: post
 title: "OsCD1,OsCSLD4,NRL1,ND1,sle1,DNL1"
 description: ""
 category: genes
-tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, vegetative, pollen, growth, culm, stem, stomata, height, architecture, cell division, anther]
+tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, vegetative, pollen, growth, culm, stem, stomata, height, architecture, cell division, anther, grain, salt, tolerance,  ABA , salt tolerance, salt stress, stress, ABA, grain width, stress tolerance, stress response, ABA biosynthesis, osmotic stress]
 ---
 
 * **Information**  
@@ -21,6 +21,8 @@ tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, v
     + [DNL1, encodes cellulose synthase-like D4, is a major QTL for plant height and leaf width in rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=DNL1, encodes cellulose synthase-like D4, is a major QTL for plant height and leaf width in rice Oryza sativa L..%5BTitle%5D), 2014, Biochem Biophys Res Commun.
     + [Characterization of dwarf and narrow leaf  dnl-4 mutant in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of dwarf and narrow leaf  dnl-4 mutant in rice%5BTitle%5D), 2020, Plant Signal Behav.
     + [Cadmium inhibits lateral root emergence in rice by disrupting OsPIN-mediated auxin distribution and the protective effect of OsHMA3](http://www.ncbi.nlm.nih.gov/pubmed?term=Cadmium inhibits lateral root emergence in rice by disrupting OsPIN-mediated auxin distribution and the protective effect of OsHMA3%5BTitle%5D), 2020, Plant Cell Physiol.
+    + [Cellulose Synthase-Like Protein OsCSLD4 Plays an Important Role in the Response of Rice to Salt Stress by Mediating ABA Biosynthesis to Regulate Osmotic Stress Tolerance ](http://www.ncbi.nlm.nih.gov/pubmed?term=Cellulose Synthase-Like Protein OsCSLD4 Plays an Important Role in the Response of Rice to Salt Stress by Mediating ABA Biosynthesis to Regulate Osmotic Stress Tolerance %5BTitle%5D), 2021, Plant Biotechnol J.
+    + [Variation of a major facilitator superfamily gene contributes to differential cadmium accumulation between rice subspecies.](http://www.ncbi.nlm.nih.gov/pubmed?term=Variation of a major facilitator superfamily gene contributes to differential cadmium accumulation between rice subspecies.%5BTitle%5D), 2019, Nat Commun.
 
 * **Genbank accession number**  
     + [AK242601](http://www.ncbi.nlm.nih.gov/nuccore/AK242601)
@@ -50,6 +52,12 @@ tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, v
     + Further study of OsCSLD4 is expected to yield new insight into the role of hemicelluloses in plant development
     + 08% phenotypic variation for plant height and leaf width, respectively, were located on the same interval of chromosome 12 flanking SSR markers RM519 and RM1103, and was named DNL1 (Dwarf and Narrowed Leaf 1)
     + The results of ORF analysis in target region and nucleotide sequence alignment indicated that DNL1 encodes cellulose synthase-like D4 protein, and a single nucleotide substitution (C2488T) in dnl1 result in decrease in plant height and leaf width
+    + Intriguingly, the disruption of OsCSLD4 function decreased grain width and weight, while overexpression of OsCSLD4 increased grain width and weight
+    + Cellulose Synthase-Like Protein OsCSLD4 Plays an Important Role in the Response of Rice to Salt Stress by Mediating ABA Biosynthesis to Regulate Osmotic Stress Tolerance
+    + This study demonstrated that the OsCSLD4 function-disrupted mutant nd1 was sensitive to salt stress, but insensitive to ABA
+    + Moreover, overexpression of OsCSLD4 can enhance rice ABA synthesis gene expression, increase ABA content, and improve rice salt tolerance, thus implying that OsCSLD4-regulated rice salt stress tolerance is mediated by ABA synthesis
+    + The results from the transcriptome analysis showed that more osmotic stress responsive genes were impaired in nd1 than salt stress responsive genes, thus indicating that OsCSLD4 is involved in rice salt stress response through an ABA-induced osmotic response pathway
+    + Natural variation in OsCd1 with a missense mutation Val449Asp is responsible for the divergence of rice grain Cd accumulation between indica and japonica
 
 * **Connection**  
     + __OsCD1~OsCSLD4~NRL1~ND1~sle1~DNL1__, __RL9~SLL1~AH2~OsADD1__, [Isolation and characterization of a rice mutant with narrow and rolled leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a rice mutant with narrow and rolled leaves%5BTitle%5D), NAL7 and SLL1 were found to be upregulated, whereas OsAGO7 were downregulated in the nrl1 mutant

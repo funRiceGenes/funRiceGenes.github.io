@@ -15,6 +15,7 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
     + [Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles%5BTitle%5D), 2002, The Plant Journal.
     + [Gene for proliferating-cell nuclear antigen DNA polymerase 6 auxiliary protein is present in both mammalian and higher plant genomes](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene for proliferating-cell nuclear antigen DNA polymerase 6 auxiliary protein is present in both mammalian and higher plant genomes%5BTitle%5D), 1989, Proc Natl Acad Sci U S A.
     + [The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5'-flap endonuclease activity](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5'-flap endonuclease activity%5BTitle%5D), 2012, J Biochem.
+    + [Interactional similarities and differences in the protein complex of PCNA and DNA replication factor C between rice and Arabidopsis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Interactional similarities and differences in the protein complex of PCNA and DNA replication factor C between rice and Arabidopsis.%5BTitle%5D), 2019, BMC Plant Biol.
 
 * **Genbank accession number**  
     + [AK071591](http://www.ncbi.nlm.nih.gov/nuccore/AK071591)
@@ -29,6 +30,7 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
     + Immunoblot analysis of the soluble extract of soybean root tips with monospecific anti-PCNA/cyclin identified an immunoreactive protein with an apparent Mr of 34,000
 
 * **Connection**  
+    + __OsPARP3__, __OsPCNA~PCNA__, [Linear Energy Transfer-Dependent Change in Rice Gene Expression Profile after Heavy-Ion Beam Irradiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Linear Energy Transfer-Dependent Change in Rice Gene Expression Profile after Heavy-Ion Beam Irradiation.%5BTitle%5D),  Of the LET-dependent up-regulated genes, OsPARP3 and OsPCNA were identified, which are involved in DNA repair pathways
 
 [//]: # * **Key figures**  
 
