@@ -21,12 +21,11 @@ __A comprehensive database of functionally characterized rice genes__
 * Citation: [Yao et al. 2018 GigaScience](https://doi.org/10.1093/gigascience/gix119)  
 
 <br>
-__Search this site using Google:__
+* __Search this site using Google:__
 <script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
 <div class="gcse-search"></div>
 
-<br>
-__Search this site using Bing:__
+* __Search this site using Bing:__
 <div id="customSearch">
 <script type="text/javascript" 
     id="bcs_js_snippet"
