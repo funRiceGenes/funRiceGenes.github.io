@@ -27,11 +27,12 @@ __Search this site using Google:__
 
 <br>
 __Search this site using Bing:__
+<div id="customSearch">
 <script type="text/javascript" 
     id="bcs_js_snippet"
     src="https://ui.customsearch.ai/api/ux/rendering-js?customConfig=0f6eb78d-01ff-4f89-853a-b0cb64bcfa27&market=zh-CN&version=latest&q=">
 </script>
-
+</div>
   
 <br>
 __If you find any error information in our database or any functionally characterized rice genes missing from our database, please leave us a message.__
