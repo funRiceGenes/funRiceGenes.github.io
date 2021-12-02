@@ -8,54 +8,62 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 
 **Publications that cite the funRiceGenes database:**  
 
-- Jia et al. [Rice bioinformatics in the genomic era: Status and perspectives](https://doi.org/10.1016/j.cj.2021.03.003), 2021, The Crop Journal
-- Gottin et al. [A new comprehensive annotation of leucine-rich repeat-containing receptors in rice](https://doi.org/10.1111/tpj.15456), 2021, The Plant Journal
-- Hosni et al. [Redox-related gene expression and sugar accumulation patterns are altered in the edible inflorescence produced by the cultivated form of pacaya palm (Chamaedorea tepejilote)](https://doi.org/10.1093/aob/mcab060), 2021, Annals of Botany
-- Abbas et al. [Isolation and evaluation of the biocontrol potential of Talaromyces spp. against rice sheath blight guided by soil microbiome](https://doi.org/10.1111/1462-2920.15596), 2021, Environmental Microbiology
-- Ouyang et al. [Decoding the plant genome: From epigenome to 3D organization](https://doi.org/10.1016/j.jgg.2020.06.007), 2021, Journal of Genetics and Genomics
-- Hong et al. [CAFRI-Rice: CRISPR applicable functional redundancy inspector to accelerate functional genomics in rice](https://doi.org/10.1111/tpj.14926), 2021, The Plant Journal
-- Chen et al. [Genomic atlases of introgression and differentiation reveal breeding footprints in Chinese cultivated rice](https://doi.org/10.1016/j.jgg.2020.10.006), 2020, Journal of Genetics and Genomics
-- Wittern et al. [Wheat EARLY FLOWERING3 is a dawn-expressed circadian oscillator component that regulates heading date](https://doi.org/10.1101/2021.09.03.458922), 2021, bioRxiv
-- Bohra et al. [Integrating Phenomics with Breeding for Climate-Smart Agriculture](https://doi.org/10.1007/978-981-16-2956-3_1), 2021, Omics Technologies for Sustainable Agriculture and Global Food Security (Vol II)
-- Dash et al. [Perspectives and Challenges of Phenotyping in Rice Research](https://doi.org/10.1007/978-981-16-3997-5_9), 2021, Applications of Bioinformatics in Rice Research
-- Yang et al. [High-Throughput Phenotyping (HTP) and Genetic Analysis Technologies Reveal the Genetic Architecture of Grain Crops](https://doi.org/10.1007/978-3-030-73734-4_6), 2021, High-Throughput Crop Phenotyping
-- Gouda et al. [Introduction of the Databases of Rice](https://doi.org/10.1007/978-981-16-3993-7_3), 2021, Bioinformatics in Rice Research
-- Do et al. [PyRice: a Python package for querying Oryza sativa databases](https://doi.org/10.1093/bioinformatics/btaa694), 2021, Bioinformatics
-- P.Panibe et al. [Chromosomal-level genome assembly of the semi-dwarf rice Taichung Native 1, an initiator of Green Revolution](https://doi.org/10.1016/j.ygeno.2021.06.006), 2021, Genomics
-- Hernández-Soto et al. [Rice breeding in the new era: Comparison of useful agronomic traits](https://doi.org/10.1016/j.cpb.2021.100211), 2021, Current Plant Biology
-- Zhang et al. [High-quality genome assembly of Huazhan and Tianfeng, the parents of an elite rice hybrid Tian-you-hua-zhan](https://doi.org/10.1007/s11427-020-1940-9), 2021, Science China Life Sciences
-- Qin et al. [Comparative population genomic analysis provides insights into breeding of modern indica rice in China](https://doi.org/10.1016/j.gene.2020.145303), 2020, Gene
-- Gupta et al. [Using Network-Based Machine Learning to Predict Transcription Factors Involved in Drought Resistance](https://dx.doi.org/10.3389%2Ffgene.2021.652189), 2021, Frontiers in Genetics
-- Taagen et al. [Positional-based cloning ‘fail-safe’ approach is overpowered by wheat chromosome structural variation](https://doi.org/10.1002/tpg2.20106), 2021, The Plant Genome
-- Sandhu et al. [Endoplasmic reticulum stress pathway mediates the early heat stress response of developing rice seeds](https://doi.org/10.1111/pce.14103), 2021, Plant, Cell & Environment
-- Feng et al. [Mapping causal genes and genetic interactions for agronomic traits using a large F2 population in rice](https://doi.org/10.1093/g3journal/jkab318), 2021, G3 Genes|Genomes|Genetics
-- Zhang et al. [Reciprocal adaptation of rice and Xanthomonas oryzae pv. oryzae: cross-species 2D GWAS reveals the underlying genetics](https://doi.org/10.1093/plcell/koab146), 2021, Plant Cell
-- Qin et al. [Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations](https://doi.org/10.1016/j.cell.2021.04.046), 2021, Cell
-- Vasumathy et al. [SSR Marker Based Genetic Diversity Analysis and SNP Haplotyping of Genes Associating Abiotic and Biotic Stress Tolerance, Rice Growth and Development and Yield Across 93 Rice Landraces](https://assets.researchsquare.com/files/rs-466659/v1/89c14fc1-de4c-489e-a6e2-554fe0aaec23.pdf), 2021, Research Square
-- Muvunyi et al. [Identification of potential Zinc deficiency responsive genes and regulatory pathways in rice genotypes by Weighted Gene Co-expression Network Analysis](https://assets.researchsquare.com/files/rs-442740/v1/aca02bc0-1edf-4d6e-a802-cd09ca3c74fa.pdf), 2021, Research Square
-- Singh et al. [Rice Adaptation to Climate Change: Opportunities and Priorities in Molecular Breeding](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119633174.ch1), 2021
-- Khahani et al. [Meta-QTL and ortho-MQTL analyses identified genomic regions controlling rice yield, yield-related traits and root architecture under water deficit conditions](https://www.nature.com/articles/s41598-021-86259-2), 2021, Scientific Reports
-- Wang et al. [Identification of QTL for barley grain size](https://peerj.com/articles/11287/), 2021, PeerJ
-- Li et al. [A high-quality genome assembly highlights rye genomic characteristics and agronomically important genes](https://www.nature.com/articles/s41588-021-00808-z), 2021, Nature Genetics
-- Jiang et al. [Genome-wide association mapping for resistance to bacterial blight and bacterial leaf streak in rice](https://link.springer.com/article/10.1007/s00425-021-03612-5), 2021, Planta
-- Frontini et al. [Genome-wide association of rice response to blast fungus identifies loci for robust resistance under high nitrogen](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-02864-3), 2021, BMC Plant Biology
-- Hua et al. [The bundle sheath of rice is conditioned to play an active role in water transport as well as sulfur assimilation and jasmonic acid synthesis](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15292), 2021, Plant Journal
-- Zhang et al. [The landscape of gene–CDS–haplotype diversity in rice: Properties, population organization, footprints of domestication and breeding, and implications for genetic improvement](https://www.sciencedirect.com/science/article/abs/pii/S1674205221000496), 2021, Molecular Plant
-- Cai et al. [Temporal correlations robustly reveal regulatory coherence upon environmental perturbation](https://doi.org/10.1101/2021.04.08.438389), 2021, bioRxiv
-- Bheemanahalli et al. [Genome-wide association study and gene network analyses reveal potential candidate genes for high night temperature tolerance in rice](https://www.nature.com/articles/s41598-021-85921-z), 2021, Scientific Reports
-- Song et al. [High-throughput phenotyping: breaking through the bottleneck in future crop breeding](https://www.sciencedirect.com/science/article/pii/S2214514121000829), 2021, The Crop Journal
-- Warraich et al. [Rice GWAS reveals key genomic regions essential for salinity tolerance at reproductive stage](https://link.springer.com/article/10.1007/s11738-020-03123-y), 2020, Acta Physiologiae Plantarum
-- Deveshwar et al. [Analysis of rice nuclear-localized seed-expressed proteins and their database (RSNP-DB)](https://www.nature.com/articles/s41598-020-70713-8), 2020, Scientific Reports
-- Chandran et al. [Rice Male Gamete Expression Database (RMEDB): A Web Resource for Functional Genomic Studies of Rice Male Organ Development](https://link.springer.com/article/10.1007/s12374-020-09267-1), 2020, Journal of Plant Biology
-- Bhati et al. [Global Analysis of Cereal microProteins Suggests Diverse Roles in Crop Development and Environmental Adaptation](https://doi.org/10.1534/g3.120.400794), 2020, G3: Genes Genomes Genetics
-- Ren et al. [Transcriptome and genome sequencing elucidates the molecular basis for the high yield and good quality of the hybrid rice variety Chuanyou6203](https://www.nature.com/articles/s41598-020-76762-3), 2020, Scientific Reports
-- Kim et al. [Two nuclear effectors of the rice blast fungus modulate host immunity via transcriptional reprogramming](https://www.nature.com/articles/s41467-020-19624-w), 2020, Nature Communications
-- Hong et al. [CAFRI‐Rice: CRISPR applicable functional redundancy inspector to accelerate functional genomics in rice](https://doi.org/10.1111/tpj.14926), 2020, Plant Journal
-- Pang et al. [High-Resolution Genome-wide Association Study Identifies Genomic Regions and Candidate Genes for Important Agronomic Traits in Wheat](https://doi.org/10.1016/j.molp.2020.07.008), 2020, Molecular Plant
-- Ye et al. [Orphan Crops and their Wild Relatives in the Genomic Era](https://doi.org/10.1016/j.molp.2020.12.013), 2020, Molecular Plant
-- Mathew et al. [SUPER STARCHY1/ONAC025 participates in rice grain filling](https://doi.org/10.1002/pld3.249), 2020, Plant Direct
-- Paul et al. [Sequencing the Rice Genome: Gateway to Agricultural Development](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_6), 2020, Springer
-- Kandpal et al. [Gene Expression Dynamics in Rice Peduncles at the Heading Stage](https://doi.org/10.3389/fgene.2020.584678), 2020, Frontiers in Genetics
+- Daryani et al. [Identification and classification of the WRKY transcription factors family in Japonica rice](https://ocam.journals.pnu.ac.ir/article_7919_9e81bd91e4446583d3d62ca1c4ba75c8.pdf?lang=en), 2021, Crop Biotech.
+- Jing et al. [Phenotype and Genome Variation Analysis of Ion-beam Induced Mutant Rice JD-1](http://dx.doi.org/10.13430/j.cnki.jpgr.2020210219001), 2021, Journal of Plant Genetic Resources.
+- Cross et al. [Grain Dispersal Mechanism In Cereals Arose From a Genome Duplication Followed By Changes in Spatial Expression of Genes Involved In Pollen Development](https://doi.org/10.21203/rs.3.rs-947707/v1), 2021, Research Square.
+- Kumari et al. [Meta-Analysis of Yield-Related and N-Responsive Genes Reveals Chromosomal Hotspots, Key Processes and Candidate Genes for Nitrogen-Use Efficiency in Rice](https://doi.org/10.3389/fpls.2021.627955), 2021, Frontiers in plant science.
+- Achary et al. [CRISPR-Cas9 mediated mutation in GRAIN WIDTH and WEIGHT2 (GW2) locus improves aleurone layer and grain nutritional quality in rice](https://doi.org/10.1038/s41598-021-00828-z), 2021, Scientific Reports.
+- Chen et al. [A FLASH pipeline for arrayed CRISPR library construction and the gene function discovery of rice receptor-like kinases](https://doi.org/10.1016/j.molp.2021.09.015), 2021, Molecular Plant.
+- Siekmann et al. [A Genome-Wide Association Study Pinpoints Quantitative Trait Genes for Plant Height, Heading Date, Grain Quality, and Yield in Rye (Secale cereale L.)](https://doi.org/10.3389/fpls.2021.718081), 2021, Frontiers in plant science.
+- Phan et al. [Low Temperature Antioxidant Activity QTL Associate with Genomic Regions Involved in Physiological Cold Stress Tolerance Responses in Rice (Oryza sativa L.)](https://doi.org/10.3390/genes12111700), 2021, Genes.
+- Jia et al. [Rice bioinformatics in the genomic era: Status and perspectives](https://doi.org/10.1016/j.cj.2021.03.003), 2021, The Crop Journal.
+- Gottin et al. [A new comprehensive annotation of leucine-rich repeat-containing receptors in rice](https://doi.org/10.1111/tpj.15456), 2021, The Plant Journal.
+- Hosni et al. [Redox-related gene expression and sugar accumulation patterns are altered in the edible inflorescence produced by the cultivated form of pacaya palm (Chamaedorea tepejilote)](https://doi.org/10.1093/aob/mcab060), 2021, Annals of Botany.
+- Abbas et al. [Isolation and evaluation of the biocontrol potential of Talaromyces spp. against rice sheath blight guided by soil microbiome](https://doi.org/10.1111/1462-2920.15596), 2021, Environmental Microbiology.
+- Ouyang et al. [Decoding the plant genome: From epigenome to 3D organization](https://doi.org/10.1016/j.jgg.2020.06.007), 2021, Journal of Genetics and Genomics.
+- Hong et al. [CAFRI-Rice: CRISPR applicable functional redundancy inspector to accelerate functional genomics in rice](https://doi.org/10.1111/tpj.14926), 2021, The Plant Journal.
+- Chen et al. [Genomic atlases of introgression and differentiation reveal breeding footprints in Chinese cultivated rice](https://doi.org/10.1016/j.jgg.2020.10.006), 2020, Journal of Genetics and Genomics.
+- Wittern et al. [Wheat EARLY FLOWERING3 is a dawn-expressed circadian oscillator component that regulates heading date](https://doi.org/10.1101/2021.09.03.458922), 2021, bioRxiv.
+- Bohra et al. [Integrating Phenomics with Breeding for Climate-Smart Agriculture](https://doi.org/10.1007/978-981-16-2956-3_1), 2021, Omics Technologies for Sustainable Agriculture and Global Food Security (Vol II).
+- Dash et al. [Perspectives and Challenges of Phenotyping in Rice Research](https://doi.org/10.1007/978-981-16-3997-5_9), 2021, Applications of Bioinformatics in Rice Research.
+- Yang et al. [High-Throughput Phenotyping (HTP) and Genetic Analysis Technologies Reveal the Genetic Architecture of Grain Crops](https://doi.org/10.1007/978-3-030-73734-4_6), 2021, High-Throughput Crop Phenotyping.
+- Gouda et al. [Introduction of the Databases of Rice](https://doi.org/10.1007/978-981-16-3993-7_3), 2021, Bioinformatics in Rice Research.
+- Do et al. [PyRice: a Python package for querying Oryza sativa databases](https://doi.org/10.1093/bioinformatics/btaa694), 2021, Bioinformatics.
+- P.Panibe et al. [Chromosomal-level genome assembly of the semi-dwarf rice Taichung Native 1, an initiator of Green Revolution](https://doi.org/10.1016/j.ygeno.2021.06.006), 2021, Genomics.
+- Hernández-Soto et al. [Rice breeding in the new era: Comparison of useful agronomic traits](https://doi.org/10.1016/j.cpb.2021.100211), 2021, Current Plant Biology.
+- Zhang et al. [High-quality genome assembly of Huazhan and Tianfeng, the parents of an elite rice hybrid Tian-you-hua-zhan](https://doi.org/10.1007/s11427-020-1940-9), 2021, Science China Life Sciences.
+- Qin et al. [Comparative population genomic analysis provides insights into breeding of modern indica rice in China](https://doi.org/10.1016/j.gene.2020.145303), 2020, Gene.
+- Gupta et al. [Using Network-Based Machine Learning to Predict Transcription Factors Involved in Drought Resistance](https://dx.doi.org/10.3389%2Ffgene.2021.652189), 2021, Frontiers in Genetics.
+- Taagen et al. [Positional-based cloning ‘fail-safe’ approach is overpowered by wheat chromosome structural variation](https://doi.org/10.1002/tpg2.20106), 2021, The Plant Genome.
+- Sandhu et al. [Endoplasmic reticulum stress pathway mediates the early heat stress response of developing rice seeds](https://doi.org/10.1111/pce.14103), 2021, Plant, Cell & Environment.
+- Feng et al. [Mapping causal genes and genetic interactions for agronomic traits using a large F2 population in rice](https://doi.org/10.1093/g3journal/jkab318), 2021, G3 Genes|Genomes|Genetics.
+- Zhang et al. [Reciprocal adaptation of rice and Xanthomonas oryzae pv. oryzae: cross-species 2D GWAS reveals the underlying genetics](https://doi.org/10.1093/plcell/koab146), 2021, Plant Cell.
+- Qin et al. [Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations](https://doi.org/10.1016/j.cell.2021.04.046), 2021, Cell.
+- Vasumathy et al. [SSR Marker Based Genetic Diversity Analysis and SNP Haplotyping of Genes Associating Abiotic and Biotic Stress Tolerance, Rice Growth and Development and Yield Across 93 Rice Landraces](https://assets.researchsquare.com/files/rs-466659/v1/89c14fc1-de4c-489e-a6e2-554fe0aaec23.pdf), 2021, Research Square.
+- Muvunyi et al. [Identification of potential Zinc deficiency responsive genes and regulatory pathways in rice genotypes by Weighted Gene Co-expression Network Analysis](https://assets.researchsquare.com/files/rs-442740/v1/aca02bc0-1edf-4d6e-a802-cd09ca3c74fa.pdf), 2021, Research Square.
+- Singh et al. [Rice Adaptation to Climate Change: Opportunities and Priorities in Molecular Breeding](https://doi.org/10.1002/9781119633174.ch1), 2021, John Wiley & Sons, Ltd.
+- Khahani et al. [Meta-QTL and ortho-MQTL analyses identified genomic regions controlling rice yield, yield-related traits and root architecture under water deficit conditions](https://www.nature.com/articles/s41598-021-86259-2), 2021, Scientific Reports.
+- Wang et al. [Identification of QTL for barley grain size](https://peerj.com/articles/11287/), 2021, PeerJ.
+- Li et al. [A high-quality genome assembly highlights rye genomic characteristics and agronomically important genes](https://www.nature.com/articles/s41588-021-00808-z), 2021, Nature Genetics.
+- Jiang et al. [Genome-wide association mapping for resistance to bacterial blight and bacterial leaf streak in rice](https://link.springer.com/article/10.1007/s00425-021-03612-5), 2021, Planta.
+- Frontini et al. [Genome-wide association of rice response to blast fungus identifies loci for robust resistance under high nitrogen](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-02864-3), 2021, BMC Plant Biology.
+- Hua et al. [The bundle sheath of rice is conditioned to play an active role in water transport as well as sulfur assimilation and jasmonic acid synthesis](https://onlinelibrary.wiley.com/doi/abs/10.1111/tpj.15292), 2021, Plant Journal.
+- Zhang et al. [The landscape of gene–CDS–haplotype diversity in rice: Properties, population organization, footprints of domestication and breeding, and implications for genetic improvement](https://www.sciencedirect.com/science/article/abs/pii/S1674205221000496), 2021, Molecular Plant.
+- Cai et al. [Temporal correlations robustly reveal regulatory coherence upon environmental perturbation](https://doi.org/10.1101/2021.04.08.438389), 2021, bioRxiv.
+- Bheemanahalli et al. [Genome-wide association study and gene network analyses reveal potential candidate genes for high night temperature tolerance in rice](https://www.nature.com/articles/s41598-021-85921-z), 2021, Scientific Reports.
+- Song et al. [High-throughput phenotyping: breaking through the bottleneck in future crop breeding](https://www.sciencedirect.com/science/article/pii/S2214514121000829), 2021, The Crop Journal.
+- Warraich et al. [Rice GWAS reveals key genomic regions essential for salinity tolerance at reproductive stage](https://link.springer.com/article/10.1007/s11738-020-03123-y), 2020, Acta Physiologiae Plantarum.
+- Deveshwar et al. [Analysis of rice nuclear-localized seed-expressed proteins and their database (RSNP-DB)](https://www.nature.com/articles/s41598-020-70713-8), 2020, Scientific Reports.
+- Chandran et al. [Rice Male Gamete Expression Database (RMEDB): A Web Resource for Functional Genomic Studies of Rice Male Organ Development](https://link.springer.com/article/10.1007/s12374-020-09267-1), 2020, Journal of Plant Biology.
+- Bhati et al. [Global Analysis of Cereal microProteins Suggests Diverse Roles in Crop Development and Environmental Adaptation](https://doi.org/10.1534/g3.120.400794), 2020, G3: Genes Genomes Genetics.
+- Ren et al. [Transcriptome and genome sequencing elucidates the molecular basis for the high yield and good quality of the hybrid rice variety Chuanyou6203](https://www.nature.com/articles/s41598-020-76762-3), 2020, Scientific Reports.
+- Kim et al. [Two nuclear effectors of the rice blast fungus modulate host immunity via transcriptional reprogramming](https://www.nature.com/articles/s41467-020-19624-w), 2020, Nature Communications.
+- Hong et al. [CAFRI‐Rice: CRISPR applicable functional redundancy inspector to accelerate functional genomics in rice](https://doi.org/10.1111/tpj.14926), 2020, Plant Journal.
+- Pang et al. [High-Resolution Genome-wide Association Study Identifies Genomic Regions and Candidate Genes for Important Agronomic Traits in Wheat](https://doi.org/10.1016/j.molp.2020.07.008), 2020, Molecular Plant.
+- Ye et al. [Orphan Crops and their Wild Relatives in the Genomic Era](https://doi.org/10.1016/j.molp.2020.12.013), 2020, Molecular Plant.
+- Mathew et al. [SUPER STARCHY1/ONAC025 participates in rice grain filling](https://doi.org/10.1002/pld3.249), 2020, Plant Direct.
+- Paul et al. [Sequencing the Rice Genome: Gateway to Agricultural Development](https://link.springer.com/chapter/10.1007/978-981-15-4120-9_6), 2020, Springer.
+- Kandpal et al. [Gene Expression Dynamics in Rice Peduncles at the Heading Stage](https://doi.org/10.3389/fgene.2020.584678), 2020, Frontiers in Genetics.
 - Gupta et al. [Prediction and characterization of transcription factors involved in drought stress response](https://www.biorxiv.org/content/10.1101/2020.04.29.068379v1.full), 2020, BioRxiv.
 - Kumar et al. [CRISPR-Cas9 mediated genome editing of drought and salt tolerance (OsDST) gene in indica mega rice cultivar MTU1010](http://link.springer.com/10.1007/s12298-020-00819-w), 2020, Physiology and Molecular Biology of Plants.
 - Yang et al. [A lamin‐like protein OsNMCP1 regulates drought resistance and root growth through chromatin accessibility modulation by interacting with a chromatin remodeller OsSWI3C in rice](https://doi.org/10.1111/nph.16518), 2020, New Phytologist.
@@ -69,7 +77,7 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 - Jia et al. [Pleiotropic changes revealed by in situ recovery of the semi-dwarf gene sd1 in rice](https://doi.org/10.1016/j.jplph.2020.153141), 2020, Journal of Plant Physiology.
 - Lu et al. [A direct PCR–based SNP marker–assisted selection system (D-MAS) for different crops](https://link.springer.com/article/10.1007/s11032-019-1091-3), 2020, Molecular Breeding.
 - Cubry et al. [Genome wide association study pinpoints key agronomic QTLs in African rice Oryza glaberrima](https://www.biorxiv.org/content/10.1101/2020.01.07.897298v1.full), 2020, BioRxiv.
-- Rice, A. D. [QTL Mapping of Panicle Architecture and Yield-Related Traits Between Two U.S. Rice Cultivars 'LaGrue' and 'Lemont'](https://scholarworks.uark.edu/etd/3533), 2019, Theses and Dissertations Retrieved from University of Arkansas, Fayetteville
+- Rice, A. D. [QTL Mapping of Panicle Architecture and Yield-Related Traits Between Two U.S. Rice Cultivars 'LaGrue' and 'Lemont'](https://scholarworks.uark.edu/etd/3533), 2019, Theses and Dissertations Retrieved from University of Arkansas, Fayetteville.
 - Hong et al. [Infrastructures of systems biology that facilitate functional genomic study in rice](https://link.springer.com/article/10.1186/s12284-019-0276-z), 2019, Rice.
 - Borrill et al. [Identification of transcription factors regulating senescence in wheat through gene regulatory network modelling](http://www.plantphysiol.org/content/early/2019/05/07/pp.19.00380.abstract), 2019, Plant physiology.
 - Yoo et al. [A Systematic View Exploring the Role of Chloroplasts in Plant Abiotic Stress Responses](https://www.hindawi.com/journals/bmri/2019/6534745/), 2019, BioMed Research International.
