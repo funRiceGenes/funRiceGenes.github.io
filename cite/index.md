@@ -36,7 +36,7 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 - Gupta et al. [Using Network-Based Machine Learning to Predict Transcription Factors Involved in Drought Resistance](https://dx.doi.org/10.3389%2Ffgene.2021.652189), 2021, Frontiers in Genetics.
 - Taagen et al. [Positional-based cloning ‘fail-safe’ approach is overpowered by wheat chromosome structural variation](https://doi.org/10.1002/tpg2.20106), 2021, The Plant Genome.
 - Sandhu et al. [Endoplasmic reticulum stress pathway mediates the early heat stress response of developing rice seeds](https://doi.org/10.1111/pce.14103), 2021, Plant, Cell & Environment.
-- Feng et al. [Mapping causal genes and genetic interactions for agronomic traits using a large F2 population in rice](https://doi.org/10.1093/g3journal/jkab318), 2021, G3 Genes|Genomes|Genetics.
+- Feng et al. [Mapping causal genes and genetic interactions for agronomic traits using a large F2 population in rice](https://doi.org/10.1093/g3journal/jkab318), 2021, G3 Genes Genomes Genetics.
 - Zhang et al. [Reciprocal adaptation of rice and Xanthomonas oryzae pv. oryzae: cross-species 2D GWAS reveals the underlying genetics](https://doi.org/10.1093/plcell/koab146), 2021, Plant Cell.
 - Qin et al. [Pan-genome analysis of 33 genetically diverse rice accessions reveals hidden genomic variations](https://doi.org/10.1016/j.cell.2021.04.046), 2021, Cell.
 - Vasumathy et al. [SSR Marker Based Genetic Diversity Analysis and SNP Haplotyping of Genes Associating Abiotic and Biotic Stress Tolerance, Rice Growth and Development and Yield Across 93 Rice Landraces](https://assets.researchsquare.com/files/rs-466659/v1/89c14fc1-de4c-489e-a6e2-554fe0aaec23.pdf), 2021, Research Square.
