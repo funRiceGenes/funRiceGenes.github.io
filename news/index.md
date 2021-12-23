@@ -5,6 +5,174 @@ comments: no
 thread: 616
 ---
 
+* 2021/Dec/9 add function allow search by genomic region
+* 2021/Dec/3 add BLAST database
+* 2021/Dec/3 add keyword cloud functionality
+* 2021/Dec/3 add new info for gene: OsIMA1
+* 2021/Dec/3 add new pub.
+* 2021/Nov/19 add BLAST function
+* 2021/Nov/17 Update Keyword.trait
+* 2021/Nov/12 add new keywords for OsImpβ1
+* 2021/Nov/12 OsImpbeta1 == OsImpβ1
+* 2021/Nov/12 add new keywords for CMYB1
+* 2021/Nov/12 add new keywords for CMYB1
+* 2021/Nov/12 add new keywords for OsNPF6.1
+* 2021/Nov/12 add new keywords for OsNPF7.7
+* 2021/Nov/12 add new keywords for OsNRT1.1A
+* 2021/Nov/12 add new keywords for OsNRT1.1A
+* 2021/Nov/12 add new keywords for OsOXO2
+* 2021/Nov/12 add new keywords for OsRopGEF6
+* 2021/Nov/12 add new keywords for OsSFL1
+* 2021/Nov/12 add new keywords for OsSG1
+* 2021/Nov/12 add new keywords for OsSLRL2
+* 2021/Nov/12 add new keywords for OsSPCH1
+* 2021/Nov/12 add new keywords for OsSPCH2
+* 2021/Nov/12 add new keywords for OsSPCH2
+* 2021/Nov/12 add new keywords for OsPSS
+* 2021/Nov/12 add new keywords for OsPSS
+* 2021/Nov/11 add new keywords for OsTMK
+* 2021/Nov/11 add new keywords for OsTubA1
+* 2021/Nov/11 add new keywords for OsUbDKγ4
+* 2021/Nov/11 OsUbDKgamma4 == OsUbDKγ4
+* 2021/Nov/11 add new keywords for PRPL12
+* 2021/Nov/11 add new keywords for Roc1
+* 2021/Nov/11 add new keywords for RPP10
+* 2021/Nov/11 add new keywords for RPP31
+* 2021/Nov/11 add new keywords for OsSET9
+* 2021/Nov/11 add new keywords for SKIN1
+* 2021/Nov/11 add new keywords for SKIN2
+* 2021/Nov/11 SLG7-L1 == SLG7-like1
+* 2021/Nov/11 SLG7-L2 == SLG7-like2
+* 2021/Nov/11 add new keywords for Snl6
+* 2021/Nov/11 add new keywords for Snl6
+* 2021/Nov/11 add new keywords for SODX
+* 2021/Nov/11 add new keywords for sped1-D
+* 2021/Nov/10 add new keywords for SRWD2
+* 2021/Nov/10 add new keywords for SRWD3
+* 2021/Nov/10 add new keywords for SRWD3
+* 2021/Nov/10 add new keywords for SRWD3
+* 2021/Nov/10 add new keywords for SRWD3
+* 2021/Nov/10 add new keywords for SRWD3
+* 2021/Nov/10 add new keywords for SRWD4
+* 2021/Nov/10 add new keywords for SRWD4
+* 2021/Nov/10 add new keywords for SRWD5
+* 2021/Nov/10 add new keywords for ONAC025
+* 2021/Nov/10 add new keywords for ONAC025
+* 2021/Nov/10 add new keywords for ONAC025
+* 2021/Nov/10 add new keywords for ONAC025
+* 2021/Nov/10 add new keywords for ONAC025
+* 2021/Nov/10 SS1 == ONAC025
+* 2021/Nov/10 add new keywords for ST01
+* 2021/Nov/10 add new keywords for Sub1B
+* 2021/Nov/10 add new keywords for SUI3
+* 2021/Nov/10 add new keywords for SUI3
+* 2021/Nov/10 add new keywords for SUI3
+* 2021/Nov/10 add new keywords for SYMRK
+* 2021/Nov/10 add new keywords for SYMRK
+* 2021/Nov/9 add new keywords for UbL404
+* 2021/Nov/9 add new keywords for Xa46(t)
+* 2021/Nov/9 add new keywords for XBOS252
+* 2021/Nov/9 add new keywords for YDA1
+* 2021/Nov/9 add new keywords for Os4BGlu10
+* 2021/Nov/9 add new keywords for Os4BGlu10
+* 2021/Nov/9 add new keywords for Os4BGlu10
+* 2021/Nov/9 add new keywords for Os3BGlu7
+* 2021/Nov/9 add new keywords for Os3BGlu7
+* 2021/Nov/9 add new keywords for Os3BGlu7
+* 2021/Nov/9 RGA4
+* 2021/Nov/9 add new keywords for Os_Smk1
+* 2021/Nov/9 add new keywords for Os_Smk1
+* 2021/Nov/8 add new keywords for Os-POLLUX
+* 2021/Nov/8 add new keywords for Os-CASTOR
+* 2021/Nov/8 add new keywords for Os-CASTOR
+* 2021/Nov/8 add new keywords for Orysa;NAP1;3
+* 2021/Nov/8 add new keywords for Orysa;NAP1;3
+* 2021/Nov/8 add new keywords for Orysa;NAP1;2
+* 2021/Nov/8 add new keywords for Orysa;NAP1;1
+* 2021/Nov/8 add new keywords for Orysa;NAP1;1
+* 2021/Nov/8 add new keywords for Orysa;NAP1;1
+* 2021/Nov/8 add new keywords for EL2
+* 2021/Nov/8 add new keywords for EL2
+* 2021/Nov/8 add new keywords for Orys1
+* 2021/Nov/8 add new keywords for Orys1
+* 2021/Nov/8 add new keywords for ORF5
+* 2021/Nov/8 add new keywords for ORF1
+* 2021/Nov/8 add new keywords for ORF1
+* 2021/Nov/8 add new keywords for OMTN1
+* 2021/Nov/8 OLE4 == OsOLE4
+* 2021/Nov/8 add new keywords for OLE18
+* 2021/Nov/8 add new keywords for OLE16
+* 2021/Nov/8 add new keywords for OsAHP2
+* 2021/Nov/8 add new keywords for OsAHP1
+* 2021/Nov/8 add new keywords for OHK4
+* 2021/Nov/8 add new keywords for OHK1
+* 2021/Nov/8 add new keywords for OASA2
+* 2021/Nov/8 add new keywords for OASA2
+* 2021/Nov/8 add new keywords for nuRIP
+* 2021/Nov/8 add new keywords for nuRIP
+* 2021/Nov/8 add new keywords for nuRIP
+* 2021/Nov/8 add new keywords for nuRIP
+* 2021/Nov/8 add new keywords for nuRIP
+* 2021/Nov/8 add new keywords for nuRIP
+* 2021/Nov/8 add new keywords for nuRIP
+* 2021/Nov/8 add new keywords for NOL
+* 2021/Nov/8 NEF == Fes1-like
+* 2021/Nov/8 add new keywords for NBIP1
+* 2021/Nov/8 add new keywords for mtRPL27a
+* 2021/Nov/8 add new keywords for MTD1
+* 2021/Nov/7 add new keywords for MSH2
+* 2021/Nov/7 add new keywords for MS5
+* 2021/Nov/7 add new keywords for MetRS
+* 2021/Nov/7 add new keywords for MetRS
+* 2021/Nov/7 add new keywords for MEG2
+* 2021/Nov/7 add new keywords for MEG1
+* 2021/Nov/7 add new keywords for OsMAS
+* 2021/Nov/7 MAS == OsMAS
+* 2021/Nov/6 add new keywords for COPT5
+* 2021/Nov/6 add new keywords for COPT1
+* 2021/Nov/6 add new keywords for COPT1
+* 2021/Nov/6 add new keywords for COPT1
+* 2021/Nov/6 add new keywords for COPT1
+* 2021/Nov/6 add new keywords for CNGC
+* 2021/Nov/6 add new keywords for CLSY1
+* 2021/Nov/6 add new keywords for CLSY1
+* 2021/Nov/6 add new keywords for CLSY1
+* 2021/Nov/6 add new keywords for CLSY1
+* 2021/Nov/6 CLPR4 == OsClpR4
+* 2021/Nov/6 add new keywords for OsClpP4
+* 2021/Nov/6 add new keywords for OsClpP4
+* 2021/Nov/6 CK2beta3 == CK2β3
+* 2021/Nov/6 CK2beta1 == CK2β1
+* 2021/Nov/6 CK2alpha3 == CK2α3
+* 2021/Nov/6 CK2alpha2 == CK2α2
+* 2021/Nov/6 add new keywords for CIGR1
+* 2021/Nov/6 add new keywords for CIGR2
+* 2021/Nov/6 add new keywords for CIGR2
+* 2021/Nov/6 add new keywords for CIGR1
+* 2021/Nov/6 add new keywords for OsCHI11
+* 2021/Nov/6 chi11 == OsCHI11
+* 2021/Nov/4 CAB2R == OsLhcp
+* 2021/Nov/4 add new keywords for BSR-K1
+* 2021/Nov/4 add new keywords for BSR-K1
+* 2021/Nov/4 add new keywords for BSR-K1
+* 2021/Nov/4 BOR2 == OsBOR2
+* 2021/Nov/4 add new keywords for OsLCY
+* 2021/Nov/4 beta-OsLCY == OsLCY
+* 2021/Nov/4 add new keywords for BK-PP2A
+* 2021/Nov/4 add new keywords for BK-PP2A
+* 2021/Nov/3 OsATG6c
+* 2021/Nov/3 ATG6B == OsATG6b
+* 2021/Nov/3 add new keywords for Asr1
+* 2021/Nov/3 add new keywords for OsTRP1
+* 2021/Nov/3 add new keywords for AKR4C14
+* 2021/Nov/3 add new keywords for AKR4C14
+* 2021/Nov/3 add new keywords for AKR4C14
+* 2021/Nov/2 add new pub.
+* 2021/Nov/2 OsAOS2 == AOS
+* 2021/Nov/2 add new keywords for akin-β
+* 2021/Nov/2 akin-b == akin-beta == akin-β
+* 2021/Nov/2 add new keywords for Adk-a
+* 2021/Nov/2 add new keywords for Adk-b
 * 2021/Nov/2 add new pub.
 * 2021/Nov/2 add new gene: MAK11
 * 2021/Nov/2 add new info for gene: OsUEV1B

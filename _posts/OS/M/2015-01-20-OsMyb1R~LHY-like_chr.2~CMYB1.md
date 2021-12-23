@@ -3,7 +3,7 @@ layout: post
 title: "OsMyb1R,LHY-like_chr.2,CMYB1"
 description: ""
 category: genes
-tags: 
+tags: [stem, transcription activator]
 ---
 
 * **Information**  
@@ -17,6 +17,8 @@ tags:
 * **Genbank accession number**  
 
 * **Key message**  
+    + Therefore, CMYB1 probably also plays a role in modulating cell cycle in rice stem and node and involves the internodes elongation.
+    + Based on the subcellular localization and transcription activation activity, it could be confirmed that CMYB1 functions as a transcription activator in rice cells.
 
 * **Connection**  
 

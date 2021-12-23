@@ -3,7 +3,7 @@ layout: post
 title: "akin-b,akin-beta"
 description: ""
 category: genes
-tags: 
+tags: [Down-regulated genes]
 ---
 
 * **Information**  
@@ -17,6 +17,7 @@ tags:
 * **Genbank accession number**  
 
 * **Key message**  
+    + Down-regulated genes with U-rich sequences in their 3¡ä untranslated region (UTR) were selected from the microarray analysis of OsTZF1-OX. Two such genes were akin-¦Â and AOS.
 
 * **Connection**  
 

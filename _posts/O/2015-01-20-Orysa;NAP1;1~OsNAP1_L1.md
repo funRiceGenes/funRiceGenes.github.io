@@ -3,7 +3,7 @@ layout: post
 title: "Orysa;NAP1;1,OsNAP1_L1"
 description: ""
 category: genes
-tags: 
+tags: [cytoplasm, nucleus, nucleocytoplasmic shuttling protein]
 ---
 
 * **Information**  
@@ -18,6 +18,8 @@ tags:
     + [AJ438611](http://www.ncbi.nlm.nih.gov/nuccore/AJ438611)
 
 * **Key message**  
+    + Through treatment of tobacco cells with leptomycin B and mutagenesis of nuclear export signal, we demonstrated that Nicta;NAP1;1 and Orysa;NAP1;1 shuttle between the cytoplasm and the nucleus.
+    + Together, our results clearly show that Orysa;NAP1;1 is a nucleocytoplasmic shuttling protein.
 
 * **Connection**  
 

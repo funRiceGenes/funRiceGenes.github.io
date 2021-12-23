@@ -3,7 +3,7 @@ layout: post
 title: "Orysa;NAP1;3,OsNAP1_L3"
 description: ""
 category: genes
-tags: 
+tags: [cytoplasm, nucleus]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags:
     + [AY830122](http://www.ncbi.nlm.nih.gov/nuccore/AY830122)
 
 * **Key message**  
+    + Moreover, Orysa;NAP1;3 that lacks a typical nuclear localization signal sequence was localized in both the cytoplasm and the nucleus.
 
 * **Connection**  
 

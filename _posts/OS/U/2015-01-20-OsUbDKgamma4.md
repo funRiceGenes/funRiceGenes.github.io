@@ -3,7 +3,7 @@ layout: post
 title: "OsUbDKgamma4"
 description: ""
 category: genes
-tags: 
+tags: [flowering time]
 ---
 
 * **Information**  
@@ -17,9 +17,10 @@ tags:
 * **Genbank accession number**  
 
 * **Key message**  
+    + This result, together with the observations on the interaction between OsUbDK¦Ã4 and OsFTIP1 (Figure 5), suggests that OsUbDK¦Ã4 exerts its function in controlling flowering time via OsFTIP1.
 
 * **Connection**  
-    + __OsFTIP1__, __OsUbDKgamma4__, [OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKÎ³4.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKÎ³4.%5BTitle%5D), OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKÎ³4.
+    + __OsFTIP1__, __OsUbDKgamma4~OsUbDK¦Ã4__, [OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKÎ³4.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKÎ³4.%5BTitle%5D), OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKÎ³4.
 
 [//]: # * **Key figures**  
 

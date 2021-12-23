@@ -3,7 +3,7 @@ layout: post
 title: "Orysa;NAP1;2,OsNAP1_L2"
 description: ""
 category: genes
-tags: 
+tags: [cytoplasm]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags:
     + [AJ438612](http://www.ncbi.nlm.nih.gov/nuccore/AJ438612)
 
 * **Key message**  
+    + Interestingly, in spite of their high homology with the above NAP1 proteins, the other three tobacco proteins and Orysa;NAP1;2 did not show nucleocytoplasmic shuttling and were localized only in the cytoplasm.
 
 * **Connection**  
 

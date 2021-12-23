@@ -3,7 +3,7 @@ layout: post
 title: "Os_SMK1,Os_Smk1,SMK1"
 description: ""
 category: genes
-tags: 
+tags: [seed phenotype, seed development]
 ---
 
 * **Information**  
@@ -17,6 +17,8 @@ tags:
 * **Genbank accession number**  
 
 * **Key message**  
+    + This result indicates that the loss of Os_Smk1 function in rice causes a chalky and shrunken seed phenotype, similar to the small kernel phenotype in smk1 mutants in maize.
+    + The mutant phenotypic analysis indicates that Os_Smk1 is required for seed development in rice.
 
 * **Connection**  
 
