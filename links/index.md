@@ -48,3 +48,6 @@ comments: yes
 - **LIRBase** 
 	- <a href="https://github.com/venyao/LIRBase" target="_blank">https://github.com/venyao/LIRBase</a>
 	- <a href="https://venyao.xyz/lirbase/" target="_blank">https://venyao.xyz/lirbase/</a>  
+- **SoybeanGDB** 
+	- <a href="https://github.com/venyao/SoybeanGDB" target="_blank">https://github.com/venyao/SoybeanGDB</a>
+	- <a href="https://venyao.xyz/soybeangdb/" target="_blank">https://venyao.xyz/soybeangdb/</a>  
