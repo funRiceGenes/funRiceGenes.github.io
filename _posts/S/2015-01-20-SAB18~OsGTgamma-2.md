@@ -13,7 +13,7 @@ tags: [transcription factor, growth, seedling, seed, oxidative stress, salinity,
 
 * **Publication**  
     + [Towards establishment of a rice stress response interactome.](http://www.ncbi.nlm.nih.gov/pubmed?term=Towards establishment of a rice stress response interactome.%5BTitle%5D), 2011, PLoS Genet.
-    + [The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.%5BTitle%5D), 2020, Plant Mol Biol..
+    + [The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.%5BTitle%5D), 2020, Plant Mol Biol..
 
 * **Genbank accession number**  
 
@@ -26,9 +26,9 @@ tags: [transcription factor, growth, seedling, seed, oxidative stress, salinity,
     + The molecular mechanism of OsGTgamma-2 in rice salt adaptation was also investigated
 
 * **Connection**  
-    + __OsNHX1__, __SAB18~OsGTgamma-2__, [The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.%5BTitle%5D),  Several major genes responsible for ion transporting, such as the OsHKT2; 1, OsHKT1; 3 and OsNHX1 were transcriptionally regulated by OsGT¦Ã-2
-    + __OsNHX1__, __SAB18~OsGTgamma-2__, [The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.%5BTitle%5D),  A subsequent yeast one-hybrid assay and EMSA indicated that OsGT¦Ã-2 directly interacted with the promoters of OsHKT2; 1, OsNHX1 and OsHKT1; 3
-    + __OsRAV2__, __SAB18~OsGTgamma-2__, [The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGT¦Ã-2 is involved adaption to salt stress in rice.%5BTitle%5D),  Here, we identified a rice OsGT¦Ã family member, OsGT¦Ã-2, which directly interacted with the GT-1 element in the OsRAV2 promoter
+    + __OsNHX1__, __SAB18~OsGTgamma-2__, [The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.%5BTitle%5D),  Several major genes responsible for ion transporting, such as the OsHKT2; 1, OsHKT1; 3 and OsNHX1 were transcriptionally regulated by OsGTÎ³-2
+    + __OsNHX1__, __SAB18~OsGTgamma-2__, [The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.%5BTitle%5D),  A subsequent yeast one-hybrid assay and EMSA indicated that OsGTÎ³-2 directly interacted with the promoters of OsHKT2; 1, OsNHX1 and OsHKT1; 3
+    + __OsRAV2__, __SAB18~OsGTgamma-2__, [The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The trihelix transcription factor OsGTÎ³-2 is involved adaption to salt stress in rice.%5BTitle%5D),  Here, we identified a rice OsGTÎ³ family member, OsGTÎ³-2, which directly interacted with the GT-1 element in the OsRAV2 promoter
 
 [//]: # * **Key figures**  
 

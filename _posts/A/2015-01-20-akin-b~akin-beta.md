@@ -17,7 +17,7 @@ tags: [Down-regulated genes]
 * **Genbank accession number**  
 
 * **Key message**  
-    + Down-regulated genes with U-rich sequences in their 3¡ä untranslated region (UTR) were selected from the microarray analysis of OsTZF1-OX. Two such genes were akin-¦Â and AOS.
+    + Down-regulated genes with U-rich sequences in their 3 untranslated region (UTR) were selected from the microarray analysis of OsTZF1-OX. Two such genes were akin and AOS.
 
 * **Connection**  
 
