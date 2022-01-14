@@ -8,6 +8,11 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 
 **Publications that cite the funRiceGenes database:**  
 
+- Yu et al. [From Green Super Rice to green agriculture: Reaping the promise of functional genomics research](https://doi.org/10.1016/j.molp.2021.12.001), 2022, Molecular Plant.
+- Kim et al. [Transcriptome Analysis of Triple Mutant for OsMADS62, OsMADS63, and OsMADS68 Reveals the Downstream Regulatory Mechanism for Pollen Germination in Rice (Oryza sativa)](https://doi.org/10.3390/ijms23010239), 2022, Int. J. Mol. Sci..
+- Yang et al. [Integration of Genomics with Crop Modeling for Predicting Rice Days to Flowering: A Multi-Model Analysis](https://doi.org/10.1016/j.fcr.2021.108394), 2022, Field Crops Research.
+- Cai et al. [Revisiting regulatory decoherence: Accounting for temporal bias in a co-expression analysis reveals novel candidates controlling environmental response](https://doi.org/10.21203/rs.3.rs-1220378/v1), 2022, Research Square.
+- Hong et al. [Transcriptome Analysis of Anther Wall Reveals Novel Insights Into the Regulatory Mechanisms Underlying Anther Wall Development in Rice](https://doi.org/10.21203/rs.3.rs-1154274/v1), 2021, Research Square.
 - Daryani et al. [Identification and classification of the WRKY transcription factors family in Japonica rice](https://ocam.journals.pnu.ac.ir/article_7919_9e81bd91e4446583d3d62ca1c4ba75c8.pdf?lang=en), 2021, Crop Biotech.
 - Jing et al. [Phenotype and Genome Variation Analysis of Ion-beam Induced Mutant Rice JD-1](http://dx.doi.org/10.13430/j.cnki.jpgr.2020210219001), 2021, Journal of Plant Genetic Resources.
 - Cross et al. [Grain Dispersal Mechanism In Cereals Arose From a Genome Duplication Followed By Changes in Spatial Expression of Genes Involved In Pollen Development](https://doi.org/10.21203/rs.3.rs-947707/v1), 2021, Research Square.
