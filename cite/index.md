@@ -8,6 +8,8 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 
 **Publications that cite the funRiceGenes database:**  
 
+- Habila et al. [Salt stress responses and SNP-based phylogenetic analysis of Thai rice cultivars](https://doi.org/10.1002/tpg2.20189), 2022, The Plant Genome.
+- Shen et al. [Assembly of yield heterosis of an elite rice hybrid is promising by manipulating dominant QTLs](https://doi.org/10.1111/jipb.13220), 2022, Journal of Integrative Plant Biology.
 - Yu et al. [From Green Super Rice to green agriculture: Reaping the promise of functional genomics research](https://doi.org/10.1016/j.molp.2021.12.001), 2022, Molecular Plant.
 - Kim et al. [Transcriptome Analysis of Triple Mutant for OsMADS62, OsMADS63, and OsMADS68 Reveals the Downstream Regulatory Mechanism for Pollen Germination in Rice (Oryza sativa)](https://doi.org/10.3390/ijms23010239), 2022, Int. J. Mol. Sci..
 - Yang et al. [Integration of Genomics with Crop Modeling for Predicting Rice Days to Flowering: A Multi-Model Analysis](https://doi.org/10.1016/j.fcr.2021.108394), 2022, Field Crops Research.
