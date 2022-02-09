@@ -27,6 +27,8 @@ tags: [growth, pollen, seed, development, tolerance, fertility, stress, plasma m
     + The plasma membrane NADPH oxidase OsRbohA plays a crucial role in developmental regulation and drought-stress response in rice.
 
 * **Connection**  
+    + __OsCBM1__, __OsrbohA~Osrboh2__, [Rice Carbohydrate-Binding Malectin-Like Protein, OsCBM1, Contributes to Drought-Stress Tolerance by Participating in NADPH Oxidase-Mediated ROS Production.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Carbohydrate-Binding Malectin-Like Protein, OsCBM1, Contributes to Drought-Stress Tolerance by Participating in NADPH Oxidase-Mediated ROS Production.%5BTitle%5D),  OsCBM1 physically interacts with OsRbohA, a NADPH oxidase, and the expression of OsCBM1 in osrbohA, an OsRbohA-knockout mutant, is significantly downregulated under both normal growth and drought stress conditions
+    + __OsCBM1__, __OsrbohA~Osrboh2__, [Rice Carbohydrate-Binding Malectin-Like Protein, OsCBM1, Contributes to Drought-Stress Tolerance by Participating in NADPH Oxidase-Mediated ROS Production.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Carbohydrate-Binding Malectin-Like Protein, OsCBM1, Contributes to Drought-Stress Tolerance by Participating in NADPH Oxidase-Mediated ROS Production.%5BTitle%5D),  All these results suggest that OsCBM1 participates in NADPH oxidase-mediated ROS production by interacting with OsRbohA and OsRacGEF1, contributing to drought stress tolerance of rice
 
 [//]: # * **Key figures**  
 

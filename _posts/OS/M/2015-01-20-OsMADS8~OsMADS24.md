@@ -3,7 +3,7 @@ layout: post
 title: "OsMADS8,OsMADS24"
 description: ""
 category: genes
-tags: [stamen, flower, lemma, floral, leaf, palea]
+tags: [stamen, flower, lemma, floral, leaf, palea, seed, seed germination, ABA, floral organ,  ABA ]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [stamen, flower, lemma, floral, leaf, palea]
     + [Alteration of floral organ identity in rice through ectopic expression of OsMADS16](http://www.ncbi.nlm.nih.gov/pubmed?term=Alteration of floral organ identity in rice through ectopic expression of OsMADS16%5BTitle%5D), 2003, Planta.
     + [Cloning of long sterile lemma lsl2, a single recessive gene that regulates spike germination in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning of long sterile lemma lsl2, a single recessive gene that regulates spike germination in rice Oryza sativa L.%5BTitle%5D), 2020, BMC Plant Biol.
     + [OsMADS32 Regulates Rice Floral Patterning through Interactions with Multiple Floral Homeotic Genes](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMADS32 Regulates Rice Floral Patterning through Interactions with Multiple Floral Homeotic Genes%5BTitle%5D), 2020, J Exp Bot.
+    + [A Novel Embryo Phenotype Associated With Interspecific Hybrid Weakness in Rice Is Controlled by the MADS-Domain Transcription Factor OsMADS8.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Novel Embryo Phenotype Associated With Interspecific Hybrid Weakness in Rice Is Controlled by the MADS-Domain Transcription Factor OsMADS8.%5BTitle%5D), 2022, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AK072867](http://www.ncbi.nlm.nih.gov/nuccore/AK072867)
@@ -25,6 +26,8 @@ tags: [stamen, flower, lemma, floral, leaf, palea]
 * **Key message**  
     + Plants affected in both OsMADS7 and OsMADS8 show severe phenotypes including late flowering, homeotic changes of lodicules, stamens and carpels into palea/lemma-like organs, and a loss of floral determinacy
     + Simultaneous knockdown of the four rice SEP-like genes OsMADS1, OsMADS5, OsMADS7 and OsMADS8, leads to homeotic transformation of all floral organs except the lemma into leaf-like organs
+    + Our results suggest that OsMADS8 is critical for floral organ determination and seed germination and that these effects are the result of regulation of the expression of OsEMF2b and its role in ABA signaling and catabolism
+    + Overexpression of OsMADS8 led to decreased expression of OsEMF2b and ABA signaling-related genes including OsVP1/ABI3
 
 * **Connection**  
     + __OsMADS6~MFO1~AFG1__, __OsMADS8~OsMADS24__, [Alteration of floral organ identity in rice through ectopic expression of OsMADS16](http://www.ncbi.nlm.nih.gov/pubmed?term=Alteration of floral organ identity in rice through ectopic expression of OsMADS16%5BTitle%5D), OsMADS16 also interacted with OsMADS6 and OSMADS8, both of which are homologous to SEPALLATA proteins required for the proper function of class-B and class-C genes in Arabidopsis
@@ -38,6 +41,8 @@ tags: [stamen, flower, lemma, floral, leaf, palea]
     + __FZP~BFL1~SGDP7__, __OsMADS8~OsMADS24__, [Regulatory role of FZP in the determination of panicle branching and spikelet formation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulatory role of FZP in the determination of panicle branching and spikelet formation in rice.%5BTitle%5D), FZP overexpression positively regulates the expression of a subset of the class B genes, AGL6 genes (OsMADS6 and OsMADS17) as well as class E genes (OsMADS1, OsMADS7 and OsMADS8) in floral meristem (FM)
     + __OsMADS8~OsMADS24__, __OsTGA10__, [Transcription factor OsTGA10 is a target of the MADS protein OsMADS8 and is required for tapetum development.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcription factor OsTGA10 is a target of the MADS protein OsMADS8 and is required for tapetum development.%5BTitle%5D), Transcription factor OsTGA10 is a target of the MADS protein OsMADS8 and is required for tapetum development.
     + __OsMADS8~OsMADS24__, __OsTGA10__, [Transcription factor OsTGA10 is a target of the MADS protein OsMADS8 and is required for tapetum development.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcription factor OsTGA10 is a target of the MADS protein OsMADS8 and is required for tapetum development.%5BTitle%5D),  Using the ChIP-seq technique, we identified OsTGA10, encoding a bZIP transcription factor, as a target of the MADS box protein OsMADS8, which is annotated as an E-class organ identity protein
+    + __OsEMF2b__, __OsMADS8~OsMADS24__, [A Novel Embryo Phenotype Associated With Interspecific Hybrid Weakness in Rice Is Controlled by the MADS-Domain Transcription Factor OsMADS8.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Novel Embryo Phenotype Associated With Interspecific Hybrid Weakness in Rice Is Controlled by the MADS-Domain Transcription Factor OsMADS8.%5BTitle%5D),  Overexpression of OsMADS8 led to decreased expression of OsEMF2b and ABA signaling-related genes including OsVP1/ABI3
+    + __OsEMF2b__, __OsMADS8~OsMADS24__, [A Novel Embryo Phenotype Associated With Interspecific Hybrid Weakness in Rice Is Controlled by the MADS-Domain Transcription Factor OsMADS8.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Novel Embryo Phenotype Associated With Interspecific Hybrid Weakness in Rice Is Controlled by the MADS-Domain Transcription Factor OsMADS8.%5BTitle%5D),  Our results suggest that OsMADS8 is critical for floral organ determination and seed germination and that these effects are the result of regulation of the expression of OsEMF2b and its role in ABA signaling and catabolism
 
 [//]: # * **Key figures**  
 

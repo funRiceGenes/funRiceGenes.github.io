@@ -3,7 +3,7 @@ layout: post
 title: "OsAREB8,OsAREB1,OsbZIP46,OsABF2,ABL1"
 description: ""
 category: genes
-tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drought, panicle, flowering time, salt, transcription factor, oxidative, drought resistance, cold stress]
+tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drought, panicle, flowering time, salt, transcription factor, oxidative, drought resistance, cold stress, ABA, abscisic acid, signal transduction]
 ---
 
 * **Information**  
@@ -22,6 +22,7 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + [The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice OsDIL gene plays a role in drought tolerance at vegetative and reproductive stages%5BTitle%5D), 2013, Plant Mol Biol.
     + [A novel nuclear protein phosphatase 2C negatively regulated by ABL1 is involved in abiotic stress and panicle development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel nuclear protein phosphatase 2C negatively regulated by ABL1 is involved in abiotic stress and panicle development in rice%5BTitle%5D), 2013, Mol Biotechnol.
     + [The coordination of OsbZIP72 and OsMYBS2 with reverse roles regulates the transcription of OsPsbS1 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The coordination of OsbZIP72 and OsMYBS2 with reverse roles regulates the transcription of OsPsbS1 in rice%5BTitle%5D), 2021, New Phytol.
+    + [SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.](http://www.ncbi.nlm.nih.gov/pubmed?term=SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.%5BTitle%5D), 2022, Int J Mol Sci.
 
 * **Genbank accession number**  
     + [AK103188](http://www.ncbi.nlm.nih.gov/nuccore/AK103188)
@@ -59,6 +60,7 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + First, OsAREB1 transgenic plants had higher resistance to drought and heat, and OsAREB1 up-regulated the ABA/stress related gene such as RD29A and RD29B
     + In addition, this Osabf2 mutant showed a significantly decreased sensitivity to high levels of ABA at germination and post-germination
     + OsbZIP46 is one member of the third subfamily of bZIP transcription factors in rice (Oryza sativa)
+    + SiMYB19 overexpression promotes abscisic acid (ABA) accumulation in transgenic rice and upregulates the ABA synthesis gene OsNCED3 and the ABA signal transduction pathway-related genes OsPK1 and OsABF2
 
 * **Connection**  
     + __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, __OsbZIP23__, [Constitutive activation of transcription factor OsbZIP46 improves drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Constitutive activation of transcription factor OsbZIP46 improves drought tolerance in rice%5BTitle%5D), The stress-related genes activated by OsbZIP46CA1 are largely different from those activated by the other rice ABF/AREB homologs (such as OsbZIP23), further implying the value of OsbZIP46CA1 in genetic engineering of drought tolerance
@@ -82,6 +84,8 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, __OsPM19L1~OsPM1__, [The AWPM-19 Family Protein OsPM1 Mediates Abscisic Acid Influx and Drought Response in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The AWPM-19 Family Protein OsPM1 Mediates Abscisic Acid Influx and Drought Response in Rice.%5BTitle%5D),  Further investigation revealed that OsPM1 expression is regulated by the AREB/ABF family transcription factor OsbZIP46
     + __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, __OsOTLD1__, [Reversible Histone H2B Monoubiquitination Fine-tunes Abscisic Acid Signaling and Drought Response in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Reversible Histone H2B Monoubiquitination Fine-tunes Abscisic Acid Signaling and Drought Response in Rice.%5BTitle%5D),  Interestingly, MODD, a reported suppressor of ABA signaling and drought resistance through mediation of OsbZIP46 deactivation and degradation, can repress the H2Bub1 level in the OsbZIP46 target genes by recruiting a putative deubiquitinase OsOTLD1
     + __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, __OsOTLD1__, [Reversible Histone H2B Monoubiquitination Fine-tunes Abscisic Acid Signaling and Drought Response in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Reversible Histone H2B Monoubiquitination Fine-tunes Abscisic Acid Signaling and Drought Response in Rice.%5BTitle%5D),  Suppression of OsOTLD1 in vivo resulted in increased H2Bub1 levels and expression of OsbZIP46 target genes
+    + __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, __OsNCED3__, [SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.](http://www.ncbi.nlm.nih.gov/pubmed?term=SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.%5BTitle%5D),  SiMYB19 overexpression promotes abscisic acid (ABA) accumulation in transgenic rice and upregulates the ABA synthesis gene OsNCED3 and the ABA signal transduction pathway-related genes OsPK1 and OsABF2
+    + __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, __OsPK1__, [SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.](http://www.ncbi.nlm.nih.gov/pubmed?term=SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.%5BTitle%5D),  SiMYB19 overexpression promotes abscisic acid (ABA) accumulation in transgenic rice and upregulates the ABA synthesis gene OsNCED3 and the ABA signal transduction pathway-related genes OsPK1 and OsABF2
 
 [//]: # * **Key figures**  
 

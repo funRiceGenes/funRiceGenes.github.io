@@ -3,7 +3,7 @@ layout: post
 title: "OsABF1,OsABI5,OREB1,OsbZIP10"
 description: ""
 category: genes
-tags: [transcription factor, salinity, drought, growth, seed germination,  ABA , panicle, salt, seed, salt stress, fertility, abiotic stress, seedling, reproductive, heading date, tolerance, drought tolerance, transcriptional activator, abscisic acid, protein phosphatase]
+tags: [transcription factor, salinity, drought, growth, seed germination,  ABA , panicle, salt, seed, salt stress, fertility, abiotic stress, seedling, reproductive, heading date, tolerance, drought tolerance, transcriptional activator, abscisic acid, protein phosphatase, gibberellin, homeostasis, ga, height, plant height, Gibberellin, GA,  ga , GA biosynthesis, gibberellin biosynthesis, drought stress]
 ---
 
 * **Information**  
@@ -26,6 +26,8 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
     + [Histone deacetylase HDA710 controls salt tolerance by regulating ABA signaling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Histone deacetylase HDA710 controls salt tolerance by regulating ABA signaling in rice%5BTitle%5D), 2020, J Integr Plant Biol.
     + [Transcriptional and post-transcriptional regulation of heading date in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptional and post-transcriptional regulation of heading date in rice%5BTitle%5D), 2020, New Phytol.
     + [Dynamic genome-wide association analysis and identification of candidate genes involved in anaerobic germination tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Dynamic genome-wide association analysis and identification of candidate genes involved in anaerobic germination tolerance in rice%5BTitle%5D), 2021, Rice (N Y).
+    + [OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..%5BTitle%5D), 2021, Int J Mol Sci.
+    + [Melatonin Promotes SGT1-Involved Signals to Ameliorate Drought Stress Adaption in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Melatonin Promotes SGT1-Involved Signals to Ameliorate Drought Stress Adaption in Rice.%5BTitle%5D), 2022, Int J Mol Sci.
 
 * **Genbank accession number**  
     + [EF199631](http://www.ncbi.nlm.nih.gov/nuccore/EF199631)
@@ -61,6 +63,14 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
     + In this study, we show that when overexpressed in transgenic rice (Oryza sativa), the bZIP transcription factor OsABF1 confers distinctly different drought-tolerance phenotypes when tethered to the transcriptional activator VP16 versus the transcriptional repressor EAR
     + Analysis of the overlap between the RNA-sequencing and chromatin immunoprecipitation-sequencing data identified 242 OsABF1 target genes involved in multiple aspects of the drought response
     + In addition, OsABF1 directly regulates the expression of the protein phosphatase 2C (OsPP48 and OsPP108) and bZIP (OsbZIP23, OsbZIP46, and OsbZIP72) genes, thus forming a complex feedback circuit in the drought/abscisic acid signaling pathway
+    + It is suggested that OsABF1 recruits RRC2-mediated H3K27me3 deposition on the SD1 promoter, thus epigenetically silencing SD1 to maintain the GA homeostasis for growth and seed germination
+    + OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice (Oryza sativa L.).
+    + Here, we report the functional characterization of a GA-inducible OsABF1 in GA biosynthesis underpinning plant height and seed germination
+    + Overexpression of OsABF1 produced a typical GA-deficient phenotype with semi-dwarf and retarded seed germination
+    + Meanwhile, the phenotypes could be rescued by exogenous GA(3), suggesting that OsABF1 is a key regulator of GA homeostasis
+    + These findings shed new insight into the functions of OsABF1 and regulatory mechanism underlying GA homeostasis in rice
+    + OsABF1 could directly suppress the transcription of green revolution gene SD1, thus reducing the endogenous GA level in rice
+    + Furthermore, the upregulated expression of OsABI5 was detected in wild type (WT) under drought stress, irrespective of MT treatment, whereas OsABI5 was significantly downregulated in sgt1 and sgt1abi5 mutants
 
 * **Connection**  
     + __OsABF1~OsABI5~OREB1~OsbZIP10__, __SAPK6~OSRK1__, [A rice dehydration-inducible SNF1-related protein kinase 2 phosphorylates an abscisic acid responsive element-binding factor and associates with ABA signaling](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice dehydration-inducible SNF1-related protein kinase 2 phosphorylates an abscisic acid responsive element-binding factor and associates with ABA signaling%5BTitle%5D), A rice family of abscisic acid-responsive element (ABRE) binding factor, OREB1 was phosphorylated in vitro by OSRK1 at multiple sites of different functional domains
@@ -94,6 +104,10 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
     + __NYC1__, __OsABF1~OsABI5~OREB1~OsbZIP10__, [Multilayered Regulation of Membrane-Bound ONAC054 Is Essential for Abscisic Acid-Induced Leaf Senescence in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Multilayered Regulation of Membrane-Bound ONAC054 Is Essential for Abscisic Acid-Induced Leaf Senescence in Rice%5BTitle%5D),  Genome-wide microarray analysis showed that ABA signaling-associated genes, including ABA INSENSITIVE5 (OsABI5) and senescence-associated genes, including STAY-GREEN and NON-YELLOW COLORING1 (NYC1), were significantly down-regulated in onac054 mutants
     + __NYC1__, __OsABF1~OsABI5~OREB1~OsbZIP10__, [Multilayered Regulation of Membrane-Bound ONAC054 Is Essential for Abscisic Acid-Induced Leaf Senescence in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Multilayered Regulation of Membrane-Bound ONAC054 Is Essential for Abscisic Acid-Induced Leaf Senescence in Rice%5BTitle%5D),  Chromatin immunoprecipitation and protoplast transient assays showed that ONAC054 directly activates OsABI5 and NYC1 by binding to the mitochondrial dysfunction motif in their promoters
     + __OsABF1~OsABI5~OREB1~OsbZIP10__, __OsTPP1__, [OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTPP1 regulates seed germination through the crosstalk with abscisic acid in rice%5BTitle%5D),  In addition, ABA responsive genes, especially OsABI5, were invoved in OsTPP1 mediated seed germination
+    + __OsABF1~OsABI5~OREB1~OsbZIP10__, __OsEMF2b__, [OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..%5BTitle%5D),  Moreover, OsABF1 interacts with and transcriptionally antagonizes to the polycomb repression complex component OsEMF2b, whose mutant showed as similar but more severe phenotype to OsABF1 overexpression lines
+    + __OsABF1~OsABI5~OREB1~OsbZIP10__, __sd1~GA20ox2~OsGA20ox2__, [OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..%5BTitle%5D),  OsABF1 could directly suppress the transcription of green revolution gene SD1, thus reducing the endogenous GA level in rice
+    + __OsABF1~OsABI5~OREB1~OsbZIP10__, __sd1~GA20ox2~OsGA20ox2__, [OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice Oryza sativa L..%5BTitle%5D),  It is suggested that OsABF1 recruits RRC2-mediated H3K27me3 deposition on the SD1 promoter, thus epigenetically silencing SD1 to maintain the GA homeostasis for growth and seed germination
+    + __OsABF1~OsABI5~OREB1~OsbZIP10__, __OsEMF2b__, [OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice  Oryza sativa L. ](http://www.ncbi.nlm.nih.gov/pubmed?term=OsABF1 Represses Gibberellin Biosynthesis to Regulate Plant Height and Seed Germination in Rice  Oryza sativa L. %5BTitle%5D),  Moreover, OsABF1 interacts with and transcriptionally antagonizes to the polycomb repression complex component OsEMF2b, whose mutant showed as similar but more severe phenotype to OsABF1 overexpression lines
 
 [//]: # * **Key figures**  
 

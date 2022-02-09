@@ -28,6 +28,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + [Si permeability of a deficient Lsi1 aquaporin in tobacco can be enhanced through a conserved residue substitution.](http://www.ncbi.nlm.nih.gov/pubmed?term=Si permeability of a deficient Lsi1 aquaporin in tobacco can be enhanced through a conserved residue substitution.%5BTitle%5D), 2019, Plant Direct.
     + [Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.%5BTitle%5D), 2019, Plant Cell Physiol.
     + [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D), 2020, Plant Physiol Biochem.
+    + [Structural basis for high selectivity of a rice silicon channel Lsi1.](http://www.ncbi.nlm.nih.gov/pubmed?term=Structural basis for high selectivity of a rice silicon channel Lsi1.%5BTitle%5D), 2021, Nat Commun.
 
 * **Genbank accession number**  
     + [AB222272](http://www.ncbi.nlm.nih.gov/nuccore/AB222272)

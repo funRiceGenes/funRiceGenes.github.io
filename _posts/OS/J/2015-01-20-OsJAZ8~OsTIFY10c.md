@@ -3,7 +3,7 @@ layout: post
 title: "OsJAZ8,OsTIFY10c"
 description: ""
 category: genes
-tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, seedlings, salt, tolerance, salt tolerance, salt stress, stress, stress tolerance]
+tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, seedlings, salt, tolerance, salt tolerance, salt stress, stress, stress tolerance, brassinosteroid, BR, Brassinosteroid, BR signaling]
 ---
 
 * **Information**  
@@ -15,6 +15,7 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, seedlings, sal
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.
     + [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), 2012, Plant Cell Physiol.
     + [Salt-inducible expression of OsJAZ8 improves resilience against salt-stress.](http://www.ncbi.nlm.nih.gov/pubmed?term=Salt-inducible expression of OsJAZ8 improves resilience against salt-stress.%5BTitle%5D), 2018, BMC Plant Biol.
+    + [GLUTAMATE RECEPTOR-like gene OsGLR3.4 is required for plant growth and systemic wound signaling in rice Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=GLUTAMATE RECEPTOR-like gene OsGLR3.4 is required for plant growth and systemic wound signaling in rice Oryza sativa.%5BTitle%5D), 2021, New Phytol.
 
 * **Genbank accession number**  
     + [AK108738](http://www.ncbi.nlm.nih.gov/nuccore/AK108738)
@@ -29,13 +30,14 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, seedlings, sal
     + The result concluded that, more efficient activation of OsJAZ8 was accompanied by improved salt tolerance of the transgenic seedlings and demonstrates the impact of temporal signatures of jasmonate signalling for stress tolerance
     + In the case of transgenic rice, the steady-state levels of OsJAZ8 transcripts were more efficiently induced under salt stress compared to the wild type, this induction was more pronounced in the dominant-negative OsJAZ8 variant
     + To modulate the time course of jasmonate signalling, either a full-length or a dominant negative C-terminally truncated version of OsJAZ8 driven by the ZOS3-11 promoter were expressed in a stable manner either in tobacco BY-2 cells, or in japonica rice
+    + Brassinosteroid treatment enhanced SWPs and OsJAZ8 expression in root-wounded plants, suggesting that BR signaling synergistically regulates the OsGLR3
 
 * **Connection**  
     + __OsCOI1~OsCOI1a__, __OsJAZ8~OsTIFY10c__, [Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsJAZ8 in jasmonate-induced resistance to bacterial blight in rice%5BTitle%5D), OsJAZ8 interacted with a putative OsCOI1, which is a component of the SCF(COI1) E3 ubiquitin ligase complex, in a coronatine-dependent manner
     + __OsJAZ8~OsTIFY10c__, __OsMYC2__, [Overexpression of OsMYC2 Results in the Up-Regulation of Early JA-Rresponsive Genes and Bacterial Blight Resistance in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsMYC2 Results in the Up-Regulation of Early JA-Rresponsive Genes and Bacterial Blight Resistance in Rice.%5BTitle%5D), The up-regulation of OsMYC2 in response to JA was regulated by OsJAZ8
     + __OsJAZ8~OsTIFY10c__, __OsJAZ9~OsTIFY11a__, [Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.%5BTitle%5D),  Analysis of protein-protein interactions showed that OsJAZ8 and OsJAZ9 interact with SLR1; OsJAZ9 also interacted with the SLR1-LIKE (SLRL) protein SLRL2
     + __OsJAZ8~OsTIFY10c__, __OsJAZ9~OsTIFY11a__, [Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.%5BTitle%5D), Analysis of protein-protein interactions showed that OsJAZ8 and OsJAZ9 interact with SLR1; OsJAZ9 also interacted with the SLR1-LIKE (SLRL) protein SLRL2.
-    + __OsJAZ8~OsTIFY10c__, __SLR1~OsGAI__, [Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.%5BTitle%5D), Analysis of protein-protein interactions showed that OsJAZ8 and OsJAZ9 interact with SLR1; OsJAZ9 also interacted with the SLR1-LIKE (SLRL) protein SLRL2.
+    + __OsJAZ8~OsTIFY10c__, __SLR1~OsGAI~OsSLR1__, [Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Jasmonate Zim-Domain Protein 9 Interacts With Slender Rice 1 to Mediate the Antagonistic Interaction Between Jasmonic and Gibberellic Acid Signals in Rice.%5BTitle%5D), Analysis of protein-protein interactions showed that OsJAZ8 and OsJAZ9 interact with SLR1; OsJAZ9 also interacted with the SLR1-LIKE (SLRL) protein SLRL2.
 
 [//]: # * **Key figures**  
 

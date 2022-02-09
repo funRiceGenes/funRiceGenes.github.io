@@ -17,6 +17,7 @@ tags: [starch, branching, endosperm]
     + [OsbZIP58, a basic leucine zipper transcription factor, regulates starch biosynthesis in rice endosperm](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbZIP58, a basic leucine zipper transcription factor, regulates starch biosynthesis in rice endosperm%5BTitle%5D), 2013, J Exp Bot.
     + [MutMapPlus identified novel mutant alleles of a rice starch branching enzyme IIb gene for fine-tuning of cooked rice texture.](http://www.ncbi.nlm.nih.gov/pubmed?term=MutMapPlus identified novel mutant alleles of a rice starch branching enzyme IIb gene for fine-tuning of cooked rice texture.%5BTitle%5D), 2017, Plant Biotechnol J.
     + [Inactivation of rice starch branching enzyme IIb triggers broad and unexpected changes in metabolism by transcriptional reprogramming](http://www.ncbi.nlm.nih.gov/pubmed?term=Inactivation of rice starch branching enzyme IIb triggers broad and unexpected changes in metabolism by transcriptional reprogramming%5BTitle%5D), 2020, Proc Natl Acad Sci U S A.
+    + [Relative importance of branching enzyme isoforms in determining starch fine structure and physicochemical properties of indica rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Relative importance of branching enzyme isoforms in determining starch fine structure and physicochemical properties of indica rice.%5BTitle%5D), 2021, Plant Mol Biol.
 
 * **Genbank accession number**  
     + [D16201](http://www.ncbi.nlm.nih.gov/nuccore/D16201)

@@ -13,6 +13,7 @@ tags: [starch, endosperm, starch biosynthesis]
 
 * **Publication**  
     + [Sugary Endosperm is Modulated by Starch Branching Enzyme IIa in Rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugary Endosperm is Modulated by Starch Branching Enzyme IIa in Rice Oryza sativa L..%5BTitle%5D), 2017, Rice (N Y).
+    + [Relative importance of branching enzyme isoforms in determining starch fine structure and physicochemical properties of indica rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Relative importance of branching enzyme isoforms in determining starch fine structure and physicochemical properties of indica rice.%5BTitle%5D), 2021, Plant Mol Biol.
 
 * **Genbank accession number**  
 

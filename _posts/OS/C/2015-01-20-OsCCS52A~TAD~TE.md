@@ -35,6 +35,7 @@ tags: [seedling, grain, flower, cell cycle, cell elongation, vegetative, endospe
 * **Connection**  
     + __OsCCS52A~TAD~TE__, __OsCDC27__, [The SnRK2-APC/CTE regulatory module mediates the antagonistic action of gibberellic acid and abscisic acid pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK2-APC/CTE regulatory module mediates the antagonistic action of gibberellic acid and abscisic acid pathways%5BTitle%5D), Yeast two-hybrid assay showing that TE interacts with MOC1 and OsCDC27, but not with MOC1d and MOC1-m
     + __MOC1__, __OsCCS52A~TAD~TE__, [Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice APC/CTE controls tillering by mediating the degradation of MONOCULM 1%5BTitle%5D), TE physically interacts with MOC1 and OsCDC27
+    + __OsCCS52A~TAD~TE__, __OSH1~Oskn1__, [Rice RS2-9, which is bound by transcription factor OSH1, blocks enhancer-promoter interactions in plants.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice RS2-9, which is bound by transcription factor OSH1, blocks enhancer-promoter interactions in plants.%5BTitle%5D),  We also demonstrated that OSH1 binding sites were associated with 72% of the boundaries of topologically associated domains (TADs) identified in the rice genome, which is comparable to the 77% of TAD boundaries bound by the insulator CCCTC-binding factor (CTCF) in mammals
 
 [//]: # * **Key figures**  
 

@@ -34,7 +34,7 @@ tags: [seed, development, map-based cloning, tolerance, cold tolerance, plant de
     + Therefore, it appears that the antioxidant potential of transgenic oil-producing plants such as soybean, sunflower, and corn may be enhanced by overexpressing OsHGGT during seed germination
 
 * **Connection**  
-    + __OsHGGT~HGGT~SGD1~RTD1__, __SLR1~OsGAI__, [Rice tocopherol deficiency 1 encodes a homogentisate phytyltransferase essential for tocopherol biosynthesis and plant development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice tocopherol deficiency 1 encodes a homogentisate phytyltransferase essential for tocopherol biosynthesis and plant development in rice.%5BTitle%5D), The transcript and protein levels of DELLA protein-coding gene SLENDER RICE 1 (SLR1) in rice was increased in rtd1
+    + __OsHGGT~HGGT~SGD1~RTD1__, __SLR1~OsGAI~OsSLR1__, [Rice tocopherol deficiency 1 encodes a homogentisate phytyltransferase essential for tocopherol biosynthesis and plant development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice tocopherol deficiency 1 encodes a homogentisate phytyltransferase essential for tocopherol biosynthesis and plant development in rice.%5BTitle%5D), The transcript and protein levels of DELLA protein-coding gene SLENDER RICE 1 (SLR1) in rice was increased in rtd1
 
 [//]: # * **Key figures**  
 

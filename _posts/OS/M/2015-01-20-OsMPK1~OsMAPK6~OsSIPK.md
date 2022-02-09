@@ -3,7 +3,7 @@ layout: post
 title: "OsMPK1,OsMAPK6,OsSIPK"
 description: ""
 category: genes
-tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, temperature, drought, seedling,  ja , wounding response, abiotic stress, biotic stress, grain size, protein kinase, biomass production, biomass, cell proliferation, BR signaling, BR homeostasis, grain, abscisic acid, transcription factor, disease, blast, magnaporthe oryzae, cell death, cytoplasm, Kinase, kinase, blast disease]
+tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, temperature, drought, seedling,  ja , wounding response, abiotic stress, biotic stress, grain size, protein kinase, biomass production, biomass, cell proliferation, BR signaling, BR homeostasis, grain, abscisic acid, transcription factor, disease, blast, magnaporthe oryzae, cell death, cytoplasm, Kinase, kinase, blast disease, ABA, ABA biosynthesis, dehydrogenase, abscisic acid biosynthesis]
 ---
 
 * **Information**  
@@ -25,6 +25,7 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + [Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of bip130 by OsMPK1 regulates abscisic acid-induced antioxidant defense in rice.%5BTitle%5D), 2019, Biochem Biophys Res Commun.
     + [OrMKK3 Influences Morphology and Grain Size in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OrMKK3 Influences Morphology and Grain Size in Rice%5BTitle%5D), 2021, J Plant Biol.
     + [Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions](http://www.ncbi.nlm.nih.gov/pubmed?term=Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions%5BTitle%5D), 2021, Front Plant Sci.
+    + [Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.%5BTitle%5D), 2021, Biochem Biophys Res Commun.
 
 * **Genbank accession number**  
     + [AB183398](http://www.ncbi.nlm.nih.gov/nuccore/AB183398)
@@ -54,6 +55,12 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + The OsMPK1:GFP and OsWRKY90:GFP transcription factor were localized to the nuclei, suggesting that OsMPK1 in the cytoplasm moves into the nuclei to interact with the WRKY90
     + These combined results suggest that OsMEK2 and OsMPK1 expression positively regulates iron- and ROS-dependent ferroptotic cell death, and blast disease (susceptibility)-related cell death was ROS-dependent but iron-independent in rice-M
     + Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions
+    + The mitogen-activated protein kinase OsMPK1 is involved in abscisic acid (ABA) biosynthesis in rice (Oryza sativa L
+    + We also found that OsABA2 has feedback regulation on OsMPK1 kinase activity
+    + However, the underlying molecular mechanisms of OsMPK1 in regulating ABA biosynthesis are poorly understood
+    + Further research reveals that OsMPK1 and OsABA2 coordinately regulate the biosynthesis of ABA, and phosphorylation of OsABA2 at Ser197 by OsMPK1 plays a crucial role in regulating the biosynthesis of ABA
+    + Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.
+    + Here, by using yeast two-hybrid assay and firefly luciferase complementary imaging assay, we show that OsMPK1 physically interact with a short-chain dehydrogenase protein OsABA2
 
 * **Connection**  
     + __OsMPK1~OsMAPK6~OsSIPK__, __ZFP182~ZOS3-21__, [The C2H2-type zinc finger protein ZFP182 is involved in abscisic acid-induced antioxidant defense in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The C2H2-type zinc finger protein ZFP182 is involved in abscisic acid-induced antioxidant defense in rice%5BTitle%5D), Nipponbare) C(2) H(2) -type ZFP ZFP182 in ABA-induced antioxidant defense and the relationship between ZFP182 and two rice MAPKs, OsMPK1 and OsMPK5 in ABA signaling were investigated
@@ -97,6 +104,12 @@ tags: [ ABA , defense, cold stress, jasmonic acid, jasmonic, salicylic acid, tem
     + __OsMPK1~OsMAPK6~OsSIPK__, __OsrbohB~Osrboh7__, [Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions](http://www.ncbi.nlm.nih.gov/pubmed?term=Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions%5BTitle%5D),  oryzae infection in ΔOsmek2 knock-out plants did not trigger iron and ROS accumulation and lipid peroxidation, and also downregulated OsMPK1, OsWRKY90, OsRbohB, and OsPR-1b expression
     + __OsMKKK70__, __OsMPK1~OsMAPK6~OsSIPK__, [OsMKKK70 regulates grain size and leaf angle in rice through the OsMKK4-OsMAPK6-OsWRKY53 signaling pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMKKK70 regulates grain size and leaf angle in rice through the OsMKK4-OsMAPK6-OsWRKY53 signaling pathway.%5BTitle%5D),  Biochemical analysis demonstrated that OsMKKK70 is an active kinase and that OsMKKK70 interacts with OsMKK4 and promotes OsMAPK6 phosphorylation
     + __OsMKKK70__, __OsMPK1~OsMAPK6~OsSIPK__, [OsMKKK70 regulates grain size and leaf angle in rice through the OsMKK4-OsMAPK6-OsWRKY53 signaling pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMKKK70 regulates grain size and leaf angle in rice through the OsMKK4-OsMAPK6-OsWRKY53 signaling pathway.%5BTitle%5D),  Taken together, these findings suggest that OsMKKK70 might regulates grain size and leaf angle in rice by activating OsMAPK6 and that OsMKKK70, OsMKK4, OsMAPK6, and OsWRKY53 function in a common signaling pathway that controls grain shape and leaf angle
+    + __OsABA2__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.%5BTitle%5D), Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.
+    + __OsABA2__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.%5BTitle%5D),  Here, by using yeast two-hybrid assay and firefly luciferase complementary imaging assay, we show that OsMPK1 physically interact with a short-chain dehydrogenase protein OsABA2
+    + __OsABA2__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.%5BTitle%5D),  However, OsMPK5, a homolog of OsMPK1, does not interact with OsABA2
+    + __OsABA2__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.%5BTitle%5D),  We also found that OsABA2 has feedback regulation on OsMPK1 kinase activity
+    + __OsABA2__, __OsMPK1~OsMAPK6~OsSIPK__, [Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.%5BTitle%5D),  Further research reveals that OsMPK1 and OsABA2 coordinately regulate the biosynthesis of ABA, and phosphorylation of OsABA2 at Ser197 by OsMPK1 plays a crucial role in regulating the biosynthesis of ABA
+    + __OsMPK1~OsMAPK6~OsSIPK__, __OsMSRMK2~OsMAP1~OsMPK5~OsMAPK2~OsMAPK5~OsBIMK1~OsMPK3__, [Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsABA2 at Ser197 by OsMPK1 regulates abscisic acid biosynthesis in rice.%5BTitle%5D),  However, OsMPK5, a homolog of OsMPK1, does not interact with OsABA2
 
 [//]: # * **Key figures**  
 
