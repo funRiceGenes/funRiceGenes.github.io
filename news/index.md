@@ -1374,7 +1374,6 @@ thread: 616
 * 2021/Oct/31 add new gene: IWS1
 * 2021/Oct/31 add new pub.
 * 2021/Oct/31 add new gene: MAK1
-* 2021/Oct/31 PHO1;1 == CIS-NAT == OsPHO1;1 == cis-NAT
 * 2021/Oct/31 add new pub.
 * 2021/Oct/31 add new gene: PHO1;1
 * 2021/Oct/29 add RevolverMaps
