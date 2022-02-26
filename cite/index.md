@@ -8,10 +8,16 @@ __Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_
 
 **Publications that cite the funRiceGenes database:**  
 
+- Cross et al. [Grain dispersal mechanism in cereals arose from a genome duplication followed by changes in spatial expression of genes involved in pollen development](https://doi.org/10.1007/s00122-022-04029-8), 2022, Theoretical and Applied Genetics.
+- Chen et al. [The T. ispahanicum elongated glume locus P2 maps to chromosome 6A and is associated with the ectopic expression of SVP-A1](https://doi.org/10.1101/2022.01.27.478079), 2022, bioRxiv.
+- Yu et al. [Genome-wide Association Study and Genomic Prediction for Yield and Grain Quality Traits of Hybrid Rice](https://doi.org/10.21203/rs.3.rs-1355596/v1), 2022, Research Square.
+- Zhou et al. [Identification and Validation of Quantitative Trait Loci Mapping for Spike-Layer Uniformity in Wheat](https://doi.org/10.3390/ijms23031052), 2022, International Journal of Molecular Sciences.
+- Tan et al. [An Efficient Marker Gene Excision Strategy Based on CRISPR/Cas9-Mediated Homology-Directed Repair in Rice](https://doi.org/10.3390/ijms23031588), 2022, International Journal of Molecular Sciences.
+- Yang et al. [The genome of the rice variety LTH provides insight into its universal susceptibility mechanism to worldwide rice blast fungal strains](https://doi.org/10.1016/j.csbj.2022.01.030), 2022, Computational and Structural Biotechnology Journal.
 - Habila et al. [Salt stress responses and SNP-based phylogenetic analysis of Thai rice cultivars](https://doi.org/10.1002/tpg2.20189), 2022, The Plant Genome.
 - Shen et al. [Assembly of yield heterosis of an elite rice hybrid is promising by manipulating dominant QTLs](https://doi.org/10.1111/jipb.13220), 2022, Journal of Integrative Plant Biology.
 - Yu et al. [From Green Super Rice to green agriculture: Reaping the promise of functional genomics research](https://doi.org/10.1016/j.molp.2021.12.001), 2022, Molecular Plant.
-- Kim et al. [Transcriptome Analysis of Triple Mutant for OsMADS62, OsMADS63, and OsMADS68 Reveals the Downstream Regulatory Mechanism for Pollen Germination in Rice (Oryza sativa)](https://doi.org/10.3390/ijms23010239), 2022, Int. J. Mol. Sci..
+- Kim et al. [Transcriptome Analysis of Triple Mutant for OsMADS62, OsMADS63, and OsMADS68 Reveals the Downstream Regulatory Mechanism for Pollen Germination in Rice (Oryza sativa)](https://doi.org/10.3390/ijms23010239), 2022, International Journal of Molecular Sciences.
 - Yang et al. [Integration of Genomics with Crop Modeling for Predicting Rice Days to Flowering: A Multi-Model Analysis](https://doi.org/10.1016/j.fcr.2021.108394), 2022, Field Crops Research.
 - Cai et al. [Revisiting regulatory decoherence: Accounting for temporal bias in a co-expression analysis reveals novel candidates controlling environmental response](https://doi.org/10.21203/rs.3.rs-1220378/v1), 2022, Research Square.
 - Hong et al. [Transcriptome Analysis of Anther Wall Reveals Novel Insights Into the Regulatory Mechanisms Underlying Anther Wall Development in Rice](https://doi.org/10.21203/rs.3.rs-1154274/v1), 2021, Research Square.
