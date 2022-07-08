@@ -16,6 +16,7 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
     + [Gene for proliferating-cell nuclear antigen DNA polymerase 6 auxiliary protein is present in both mammalian and higher plant genomes](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene for proliferating-cell nuclear antigen DNA polymerase 6 auxiliary protein is present in both mammalian and higher plant genomes%5BTitle%5D), 1989, Proc Natl Acad Sci U S A.
     + [The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5'-flap endonuclease activity](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5'-flap endonuclease activity%5BTitle%5D), 2012, J Biochem.
     + [Interactional similarities and differences in the protein complex of PCNA and DNA replication factor C between rice and Arabidopsis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Interactional similarities and differences in the protein complex of PCNA and DNA replication factor C between rice and Arabidopsis.%5BTitle%5D), 2019, BMC Plant Biol.
+    + [Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.%5BTitle%5D), 2022, BMC Plant Biol.
 
 * **Genbank accession number**  
     + [AK071591](http://www.ncbi.nlm.nih.gov/nuccore/AK071591)
@@ -31,6 +32,10 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
 
 * **Connection**  
     + __OsPARP3__, __OsPCNA~PCNA__, [Linear Energy Transfer-Dependent Change in Rice Gene Expression Profile after Heavy-Ion Beam Irradiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Linear Energy Transfer-Dependent Change in Rice Gene Expression Profile after Heavy-Ion Beam Irradiation.%5BTitle%5D),  Of the LET-dependent up-regulated genes, OsPARP3 and OsPCNA were identified, which are involved in DNA repair pathways
+    + __CHR721__, __OsPCNA~PCNA__, [Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.%5BTitle%5D), Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.
+    + __CHR721__, __OsPCNA~PCNA__, [Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.%5BTitle%5D),  RESULTS: Here we discovered the C terminal of a chromatin-remodeling factor CHR721 with non-canonical PIP-box was essential for interacting with OsPCNA in rice
+    + __CHR721__, __OsPCNA~PCNA__, [Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.%5BTitle%5D),  Both OsPCNA and CHR721 were localized in the nuclei and function in response to DNA damages
+    + __CHR721__, __OsPCNA~PCNA__, [Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Chromatin-remodeling factor CHR721 with non-canonical PIP-box interacts with OsPCNA in Rice.%5BTitle%5D),  CONCLUSIONS: Based on the results and previous work, we proposed a working model that CHR721 with non-canonical PIP-box interacted with OsPCNA and both of them probably participate in the DNA damage repair process
 
 [//]: # * **Key figures**  
 

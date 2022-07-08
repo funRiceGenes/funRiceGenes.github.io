@@ -3,7 +3,7 @@ layout: post
 title: "AlaAT,OsAlaAT1"
 description: ""
 category: genes
-tags: [nitrogen, seed, starch]
+tags: [nitrogen, seed, starch, nitrogen utilization, grain yield, grain quality]
 ---
 
 * **Information**  
@@ -24,6 +24,7 @@ tags: [nitrogen, seed, starch]
     + A cDNA clone encoding alanine aminotransferase (AlaAT) has isolated from randomly sequenced clones derived from a cDNA library of maturing rice seeds by comparison to previously identified genes
     + OsAlaAT1 is predominantly expressed in developing seeds during active starch synthesis
     + Thus, our observations suggest that OsAlaAT1 plays an essential role in starch synthesis in developing seeds that are exposed to low concentrations of oxygen
+    + Alanine aminotransferase (OsAlaAT1) modulates nitrogen utilization, grain yield, and quality in rice
 
 * **Connection**  
 

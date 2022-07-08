@@ -3,7 +3,7 @@ layout: post
 title: "BRD2,DIM,DWF1,LHDD10,LTBSG1"
 description: ""
 category: genes
-tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, height, heading date, Brassinosteroid, plant height, nucleus, seedlings, panicle, grain, development, grain size, cell elongation]
+tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, height, heading date, Brassinosteroid, plant height, nucleus, seedlings, panicle, grain, development, grain size, cell elongation, growth, quality, grain shape]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, hei
     + [Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..%5BTitle%5D), 2015, Plant Cell Rep.
     + [OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice.%5BTitle%5D), 2009, Plant J.
     + [LTBSG1, a New Allele of BRD2, Regulates Panicle and Grain Development in Rice by Brassinosteroid Biosynthetic Pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=LTBSG1, a New Allele of BRD2, Regulates Panicle and Grain Development in Rice by Brassinosteroid Biosynthetic Pathway.%5BTitle%5D), 2018, Genes (Basel).
+    + [Natural variation of the BRD2 allele affects plant height and grain size in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Natural variation of the BRD2 allele affects plant height and grain size in rice.%5BTitle%5D), 2022, Planta.
 
 * **Genbank accession number**  
 
@@ -36,6 +37,11 @@ tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, hei
     + The LTBSG1 knock-out lines showed similar phenotype defects as mutant ltbsg1, which confirmed that LTBSG1 was responsible for top branch elongation and grain size reduction
     + LTBSG1 was constitutively expressed and the protein was widely localized in chloroplast, nucleus and cytomembrane
     + The ltbsg1 gene in mutant revealed a single nucleotide substitution (G-A) in the exon 2 of LOC_Os10g25780, causing an amino acid variation (Glycine-Arginine) in the FAD (Flavin-adenine dinucleotide)-binding domain of delta (24)-sterol reductase, which was involved in the brassinosteroid (BR) biosynthesis
+    + In summary, the current study has identified a new BRD2 allele, which facilitated the further research on the molecular mechanism of this gene on regulating growth and development
+    + Natural variation of the BRD2 allele affects plant height and grain size in rice.
+    + The zqdm1 identified from a rice mutant is a novel allele of BRD2 and is responsible for regulating rice plant height, grain size and appearance, which has possibilities on improving rice quality
+    + Complementation tests have confirmed that 369-bp insertion in BRD2 was responsible for the plant height and grain size changing in the zqdm1 mutant
+    + Over-expression of BRD2 driven by different promoters into indica rice variety Jiafuzhan (JFZ) results in slender grains, suggesting its function on regulating grain shape
 
 * **Connection**  
     + __BRD2~DIM~DWF1~LHDD10~LTBSG1__, __OsMADS50~OsSOC1~DTH3__, [Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Brassinosteroid BR biosynthetic gene lhdd10 controls late heading and plant height in rice Oryza sativa L..%5BTitle%5D), Our data showed that lhdd10 influences heading date by controlling the expression of heading date regulators, such as OsMADS50 in both LD and SD conditions

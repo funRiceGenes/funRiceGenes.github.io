@@ -28,7 +28,7 @@ tags: [growth, plant development, seed, drought, salt, seed germination, toleran
 
 * **Connection**  
     + __OsrbohB~Osrboh7__, __SDS2__, [The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.%5BTitle%5D),  In addition, SDS2 interacts with related receptor-like cytoplasmic kinases, OsRLCK118/176, that positively regulate immunity by phosphorylating the NADPH oxidase OsRbohB to stimulate ROS production
-    + __OsMPK1~OsMAPK6~OsSIPK__, __OsrbohB~Osrboh7__, [Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions](http://www.ncbi.nlm.nih.gov/pubmed?term=Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions%5BTitle%5D),  oryzae infection in Î”Osmek2 knock-out plants did not trigger iron and ROS accumulation and lipid peroxidation, and also downregulated OsMPK1, OsWRKY90, OsRbohB, and OsPR-1b expression
+    + __OsMPK1~OsMAPK6~OsSIPK__, __OsrbohB~Osrboh7__, [Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions](http://www.ncbi.nlm.nih.gov/pubmed?term=Mitogen-Activated Protein Kinase OsMEK2 and OsMPK1 Signaling Is Required for Ferroptotic Cell Death in Rice- Magnaporthe oryzae Interactions%5BTitle%5D),  oryzae infection in ¦¤Osmek2 knock-out plants did not trigger iron and ROS accumulation and lipid peroxidation, and also downregulated OsMPK1, OsWRKY90, OsRbohB, and OsPR-1b expression
 
 [//]: # * **Key figures**  
 

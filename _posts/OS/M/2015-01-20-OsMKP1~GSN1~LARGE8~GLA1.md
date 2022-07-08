@@ -17,6 +17,7 @@ tags: [dwarf, brassinosteroid, gibberellin, panicle, grain, grain size, architec
     + [A Mitogen-Activated Protein Kinase Phosphatase influences grain size and weight in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Mitogen-Activated Protein Kinase Phosphatase influences grain size and weight in rice.%5BTitle%5D), 2018, Plant J.
     + [GRAIN LENGTH AND AWN 1 negatively regulates grain size in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=GRAIN LENGTH AND AWN 1 negatively regulates grain size in rice.%5BTitle%5D), 2018, J Integr Plant Biol.
     + [OrMKK3 Influences Morphology and Grain Size in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OrMKK3 Influences Morphology and Grain Size in Rice%5BTitle%5D), 2021, J Plant Biol.
+    + [An MKP-MAPK protein phosphorylation cascade controls vascular immunity in plants.](http://www.ncbi.nlm.nih.gov/pubmed?term=An MKP-MAPK protein phosphorylation cascade controls vascular immunity in plants.%5BTitle%5D), 2022, Sci Adv.
 
 * **Genbank accession number**  
 

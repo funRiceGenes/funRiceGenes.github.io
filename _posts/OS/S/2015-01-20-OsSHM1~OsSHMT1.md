@@ -15,6 +15,7 @@ tags: [growth, mitochondria, oxidative stress, oxidative, stress]
     + [Stable mitotic inheritance of rice minichromosomes in cell suspension cultures.](http://www.ncbi.nlm.nih.gov/pubmed?term=Stable mitotic inheritance of rice minichromosomes in cell suspension cultures.%5BTitle%5D), 2015, Plant Cell Rep.
     + [The molecular cloning and clarification of a photorespiratory mutant, oscdm1, using enhancer trapping.](http://www.ncbi.nlm.nih.gov/pubmed?term=The molecular cloning and clarification of a photorespiratory mutant, oscdm1, using enhancer trapping.%5BTitle%5D), 2015, Front Genet.
     + [Characterization and molecular cloning of a serine hydroxymethyltransferase 1 OsSHM1 in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization and molecular cloning of a serine hydroxymethyltransferase 1 OsSHM1 in rice.%5BTitle%5D), 2015, J Integr Plant Biol.
+    + [An evolutionarily conserved C4HC3-type E3 ligase regulates plant broad-spectrum resistance against pathogens.](http://www.ncbi.nlm.nih.gov/pubmed?term=An evolutionarily conserved C4HC3-type E3 ligase regulates plant broad-spectrum resistance against pathogens.%5BTitle%5D), 2021, Plant Cell.
 
 * **Genbank accession number**  
 

@@ -204,7 +204,7 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall, development, 
     + Moreover, the cell wall was much thicker in the infection sites of the GIF1-OE plants when compared with the wild-type plants
     + We previously showed that upregulation of OsGIF1 expression improves rice grain size
     + Overexpression and functional knock-out via a CRISPR/Cas9 strategy revealed that OsGIF1 not only positively regulates the sizes of rice leaf, stem, and grain but also influences rice reproduction
-    + Expression profiles based on both qRT-PCR and GUS (Î²-glucuronidase) histochemical staining suggested that OsGIF1 is differentially expressed across various rice tissues, consistent with its roles in regulating the development of multiple rice organs
+    + Expression profiles based on both qRT-PCR and GUS (¦Â-glucuronidase) histochemical staining suggested that OsGIF1 is differentially expressed across various rice tissues, consistent with its roles in regulating the development of multiple rice organs
     + Our results suggest that OsGIF1 plays important roles in vegetative and reproductive developmental processes, with important implications for rice breeding
     + Here, we report pleiotropic effects of OsGIF1 on rice organ size regulation
     + Further histological analysis suggested that OsGIF1 affected rice organ size possibly by regulating cell size

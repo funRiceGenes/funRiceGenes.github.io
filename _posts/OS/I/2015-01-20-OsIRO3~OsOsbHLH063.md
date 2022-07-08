@@ -3,7 +3,7 @@ layout: post
 title: "OsIRO3,OsOsbHLH063"
 description: ""
 category: genes
-tags: [root, transcription factor, homeostasis, shoot, leaf, growth, development, vegetative, root development, iron, Fe, iron homeostasis]
+tags: [root, transcription factor, homeostasis, shoot, leaf, growth, development, vegetative, root development, iron, Fe, iron homeostasis, Fe homeostasis]
 ---
 
 * **Information**  
@@ -14,6 +14,8 @@ tags: [root, transcription factor, homeostasis, shoot, leaf, growth, development
 * **Publication**  
     + [Identification of a novel iron regulated basic helix-loop-helix protein involved in Fe homeostasis in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of a novel iron regulated basic helix-loop-helix protein involved in Fe homeostasis in Oryza sativa%5BTitle%5D), 2010, BMC Plant Biol.
     + [OsIRO3 Plays an Essential Role in Iron Deficiency Responses and Regulates Iron Homeostasis in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 Plays an Essential Role in Iron Deficiency Responses and Regulates Iron Homeostasis in Rice%5BTitle%5D), 2020, Plants (Basel).
+    + [A Model to Incorporate the bHLH Transcription Factor OsIRO3 within the Rice Iron Homeostasis Regulatory Network.](http://www.ncbi.nlm.nih.gov/pubmed?term=A Model to Incorporate the bHLH Transcription Factor OsIRO3 within the Rice Iron Homeostasis Regulatory Network.%5BTitle%5D), 2022, Int J Mol Sci.
+    + [OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.%5BTitle%5D), 2022, Plant J.
 
 * **Genbank accession number**  
 
@@ -27,6 +29,14 @@ tags: [root, transcription factor, homeostasis, shoot, leaf, growth, development
     + However, the molecular mechanisms by which OsIRO3 regulate Fe homeostasis is unclear
     + Here, we report that OsIRO3 is essential for responding to Fe deficiency and maintaining Fe homeostasis in rice
     + Thus, we conclude that OsIRO3 plays a key role in responding to Fe deficiency and regulates NA levels by directly, negatively regulating the OsNAS3 expression
+    + A Model to Incorporate the bHLH Transcription Factor OsIRO3 within the Rice Iron Homeostasis Regulatory Network.
+    + We place our results in the context of the existing literature and generate a model describing the role of OsIRO3 in rice Fe homeostasis and reinforce the essential function of OsIRO3 in the rice Fe deficiency response
+    + Further analysis revealed that OsIRO3 directly regulated the expression of IRON-RELATED BHLH TRANSCRIPTION FACTOR 2 (OsIRO2), which encodes a positive regulator of the Fe uptake system
+    + Loss-of-function of OsIRO3 caused upregulation of Fe deficiency-associated genes in the root
+    + OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.
+    + Further investigation demonstrated that OsIRO3 interacted with POSITIVE REGULATOR OF IRON HOMEOSTASIS 1(OsPRI1) and OsPRI2, and
+    + This work sheds light on the molecular mechanism by which OsIRO3 modulates Fe homeostasis in rice
+    + OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2
 
 * **Connection**  
     + __OsIRO3~OsOsbHLH063__, __OsPRI1~OsbHLH115__, [POSITIVE REGULATOR OF IRON HOMEOSTASIS 1 OsPRI1 positively regulates iron homeostasis in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=POSITIVE REGULATOR OF IRON HOMEOSTASIS 1 OsPRI1 positively regulates iron homeostasis in rice.%5BTitle%5D),  Yeast one-hybrid and electrophoretic mobility shift assay results suggested that OsPRI1 binds to the OsIRO2 and OsIRO3 promoters
@@ -34,6 +44,10 @@ tags: [root, transcription factor, homeostasis, shoot, leaf, growth, development
     + __OsbHLH59~OsbHLH059~OsPRI3__, __OsIRO3~OsOsbHLH063__, [Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa POSITIVE REGULATOR OF IRON DEFICIENCY RESPONSE 2 OsPRI2 and OsPRI3 are involved in the maintenance of Fe homeostasis.%5BTitle%5D),  We also provide evidence that OsPRI2 and OsPRI3 bind to the promoters of OsIRO2 and OsIRO3, two key regulators of Fe homeostasis
     + __OsIRO3~OsOsbHLH063__, __OsNAS3__, [OsIRO3 Plays an Essential Role in Iron Deficiency Responses and Regulates Iron Homeostasis in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 Plays an Essential Role in Iron Deficiency Responses and Regulates Iron Homeostasis in Rice%5BTitle%5D),  Further analysis indicated that OsIRO3 can directly bind to the E-box in the promoter of OsNAS3
     + __OsIRO3~OsOsbHLH063__, __OsNAS3__, [OsIRO3 Plays an Essential Role in Iron Deficiency Responses and Regulates Iron Homeostasis in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 Plays an Essential Role in Iron Deficiency Responses and Regulates Iron Homeostasis in Rice%5BTitle%5D),  Thus, we conclude that OsIRO3 plays a key role in responding to Fe deficiency and regulates NA levels by directly, negatively regulating the OsNAS3 expression
+    + __OsIRO2~OsbHLH056__, __OsIRO3~OsOsbHLH063__, [OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.%5BTitle%5D), OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.
+    + __OsIRO2~OsbHLH056__, __OsIRO3~OsOsbHLH063__, [OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.%5BTitle%5D),  Further analysis revealed that OsIRO3 directly regulated the expression of IRON-RELATED BHLH TRANSCRIPTION FACTOR 2 (OsIRO2), which encodes a positive regulator of the Fe uptake system
+    + __OsIRO2~OsbHLH056__, __OsIRO3~OsOsbHLH063__, [OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.%5BTitle%5D),  OsIRO3 repressed their transcription activation towards OsIRO2
+    + __OsbHLH058~OsPRI2__, __OsIRO3~OsOsbHLH063__, [OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIRO3 negatively regulates Fe homeostasis by repressing the expression of OsIRO2.%5BTitle%5D),  Further investigation demonstrated that OsIRO3 interacted with POSITIVE REGULATOR OF IRON HOMEOSTASIS 1(OsPRI1) and OsPRI2, and
 
 [//]: # * **Key figures**  
 

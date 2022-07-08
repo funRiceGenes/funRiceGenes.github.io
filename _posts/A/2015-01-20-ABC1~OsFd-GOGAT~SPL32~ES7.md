@@ -33,6 +33,8 @@ tags: [nitrogen, leaf, leaf senescence, transcription factor, early leaf senesce
     + The leaves of the es7 mutant begin to senesce at the tillering stage about 60 day after sowing, and become increasingly senescent as the plants develop at the heading stage
 
 * **Connection**  
+    + __ABC1~OsFd-GOGAT~SPL32~ES7__, __ARE2__, [Regulation of nitrogen starvation responses by the alarmone pppGpp in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of nitrogen starvation responses by the alarmone pppGpp in rice.%5BTitle%5D),  Here, we show that ARE2 (for ABC1 REPRESSOR2) is a key regulator of nitrogen starvation responses in rice
+    + __ABC1~OsFd-GOGAT~SPL32~ES7__, __ARE2__, [Regulation of nitrogen starvation responses by the alarmone pppGpp in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of nitrogen starvation responses by the alarmone pppGpp in rice.%5BTitle%5D),  The are2 mutations partially rescue the nitrogen-deficient phenotype of abc1 and the are2 mutants show enhanced tolerance to nitrogen deficiency, suggesting that ARE2 genetically interacts with ABC1/Fd-GOGAT
 
 [//]: # * **Key figures**  
 

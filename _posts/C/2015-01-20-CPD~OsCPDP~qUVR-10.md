@@ -45,6 +45,7 @@ tags: [growth, resistant, breeding, mitochondria, chloroplast]
 
 * **Connection**  
     + __CPD~OsCPDP~qUVR-10__, __OsMeCP__, [Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.](http://www.ncbi.nlm.nih.gov/pubmed?term=Methyl-CpG binding domain protein acts to regulate the repair of cyclobutane pyrimidine dimers on rice DNA.%5BTitle%5D), Overexpression of OsMeCP led to lower Os10g0167600 transcript levels and a higher CPD content than in the WT, but the reverse was true in the OsMeCP-RNAi line
+    + __CPD~OsCPDP~qUVR-10__, __OsSLA1__, [OsSLA1 functions in leaf angle regulation by enhancing the interaction between OsBRI1 and OsBAK1 in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSLA1 functions in leaf angle regulation by enhancing the interaction between OsBRI1 and OsBAK1 in rice.%5BTitle%5D),  The OsSLA1 mutant plants were insensitive to exogenous epibrassinolide (eBL) and showed upregulated expression of DWARF and CPD, but downregulated expression of BU1, BUL1, and ILI1, indicating that brassinosteroid (BR) signal transduction was blocked
 
 [//]: # * **Key figures**  
 

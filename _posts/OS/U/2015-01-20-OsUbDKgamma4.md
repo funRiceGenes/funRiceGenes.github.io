@@ -12,15 +12,15 @@ tags: [flowering time]
     + RAPdb: [Os02g0290500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0290500)  
 
 * **Publication**  
-    + [OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDK纬4.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDK纬4.%5BTitle%5D), 2017, Plant Cell.
+    + [OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.%5BTitle%5D), 2017, Plant Cell.
 
 * **Genbank accession number**  
 
 * **Key message**  
-    + This result, together with the observations on the interaction between OsUbDKγ4 and OsFTIP1 (Figure 5), suggests that OsUbDKγ4 exerts its function in controlling flowering time via OsFTIP1.
+    + This result, together with the observations on the interaction between OsUbDK��4 and OsFTIP1 (Figure 5), suggests that OsUbDK��4 exerts its function in controlling flowering time via OsFTIP1.
 
 * **Connection**  
-    + __OsFTIP1__, __OsUbDKgamma4~OsUbDKγ4__, [OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDK纬4.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDK纬4.%5BTitle%5D), OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDK纬4.
+    + __OsFTIP1__, __OsUbDKgamma4~OsUbDK��4__, [OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.%5BTitle%5D), OsFTIP1-Mediated Regulation of Florigen Transport in Rice Is Negatively Regulated by a Ubiquitin-like Domain Kinase OsUbDKγ4.
 
 [//]: # * **Key figures**  
 
