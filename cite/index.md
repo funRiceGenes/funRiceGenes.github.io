@@ -4,10 +4,32 @@ title: Citations
 group: navigation
 ---
 
-__Please cite our <a href="https://doi.org/10.1093/gigascience/gix119" target="_blank">paper</a> if you use the funRiceGenes dataset in your study!__  
+__Please cite our <a href="https://doi.org/10.1186/s12284-022-00569-1" target="_blank">paper</a> if you use the funRiceGenes dataset in your study!__  
 
 **Publications that cite the funRiceGenes database:**  
 
+- Zhang et al. [The genetic basis for panicle trait variation in switchgrass (Panicum virgatum)](https://doi.org/10.1007/s00122-022-04096-x), 2022, Theoretical and Applied Genetics.
+- Kingsley et al. [Genetic Improvement of Minor Crop Legumes: Prospects of De Novo Domestication](https://www.intechopen.com/online-first/80717), 2022, Legumes Research - Volume 1.
+- Aglyamova et al. [Growing Maize Root: Lectins Involved in Consecutive Stages of Cell Development](https://doi.org/10.3390/plants11141799), 2022, Plants.
+- Fu et al. [Transcriptome profiling of two super hybrid rice provides insights into the genetic basis of heterosis](http://dx.doi.org/10.1186/s12870-022-03697-4), 2022, BMC Plant Biology.
+- Chen et al. [The T. ispahanicum elongated glume locus P2 maps to chromosome 6A and is associated with the ectopic expression of SVP-A1](http://dx.doi.org/10.1007/s00122-022-04114-y), 2022, Theoretical and Applied Genetics.
+- Huang et al. [Genetic Analysis of a Collection of Rice Germplasm (Oryza sativa L.) through High-Density SNP Array Provides Useful Information for Further Breeding Practices](http://dx.doi.org/10.3390/genes13050830), 2022, Genes.
+- Hong et al. [Comparative transcriptome analysis of pollen and anther wall reveals novel insights into the regulatory mechanisms underlying anther wall development and its dehiscence in rice](http://dx.doi.org/10.1007/s00299-022-02852-3), 2022, Plant Cell Reports.
+- Pinit et al. [Hyperspectral and genome-wide association analyses of leaf phosphorus status in local Thai indica rice](http://dx.doi.org/10.1371/journal.pone.0267304), 2022, PLoS ONE.
+- Mei et al. [Combining Genome-Wide Association Study and Gene-Based Haplotype Analysis to Identify Candidate Genes for Alkali Tolerance at the Germination Stage in Rice](http://dx.doi.org/10.3389/fpls.2022.887239), 2022, Frontiers in Plant Science.
+- Yu et al. [Genome-wide Association Study and Genomic Prediction for Yield and Grain Quality Traits of Hybrid Rice](https://doi.org/10.1007/s11032-022-01289-6), 2022, Molecular Breeding.
+- Rana et al. [Deciphering Haplotypic Variation and Gene Expression Dynamics Associated with Nutritional and Cooking Quality in Rice](https://doi.org/10.3390/cells11071144), 2022, Cells.
+- Waseem et al. [Advances in Integrated High-Throughput and Phenomics Application in Plants and Agriculture](https://doi.org/10.1007/978-3-030-96925-7_10), 2022, Principles and Practices of OMICS and Genome Editing for Crop Improvement.
+- Wittern et al. [Overexpression of the WAPO-A1 gene increases the number of spikelets per spike in bread wheat](https://doi.org/10.1101/2022.04.01.486512), 2022, bioRxiv.
+- Liu et al. [CG and CHG Methylation Contribute to the Transcriptional Control of OsPRR37-Output Genes in Rice](http://dx.doi.org/10.3389/fpls.2022.887239), 2022, Frontiers in Plant Science.
+- Soto et al. [Rice agronomic traits and variability induced by mutagenesis](https://doi.org/10.21203/rs.3.rs-513976/v1), 2022, Research Square.
+- Wang et al. [Sympatric genetic divergence between early- and late-season weedy rice populations](https://doi.org/10.1111/nph.18288), 2022, New Phytologist.
+- Yang et al. [Coordinating High Yield and Superior Eating Quality of Rice: A Case Study of Hybrid Varieties Derived from Longke638S and Jing4155S](https://doi.org/10.3390/agronomy12071628), 2022, Agronomy.
+- Abdirad et al. [Genome-Wide Expression Analysis of Root Tips in Contrasting Rice Genotypes Revealed Novel Candidate Genes for Water Stress Adaptation](https://doi.org/10.3389/fpls.2022.792079), 2022, Frontiers in Plant Science.
+- Taagen et al. [Counting on Crossovers: Insights into Gene Mapping and Controlled Recombination for Allopolyploid Plant Breeding](https://www.proquest.com/openview/337b384ea2876304b12e933e24934735/1?pq-origsite=gscholar&cbl=18750&diss=y), 2022, Cornell University.
+- Vasumathy et al. [SSR Marker Based Genetic Diversity Analysis and SNP Haplotyping of Genes Associating Abiotic and Biotic Stress Tolerance, Rice Growth and Development and Yield Across 93 Rice Landraces](https://doi.org/10.1007/s11033-021-06595-4), 2021, Molecular Biology Reports.
+- Zhang et al. [A Graph-based Approach for Integrating Biological Heterogeneous Data Based on Connecting Ontology](https://ieeexplore.ieee.org/abstract/document/9669700), 2021, 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM).
+- Cai et al. [Revisiting regulatory decoherence and phenotypic integration: accounting for temporal bias in co-expression analyses](https://doi.org/10.1101/2021.04.08.438389), 2022, bioRxiv.
 - Cross et al. [Grain dispersal mechanism in cereals arose from a genome duplication followed by changes in spatial expression of genes involved in pollen development](https://doi.org/10.1007/s00122-022-04029-8), 2022, Theoretical and Applied Genetics.
 - Chen et al. [The T. ispahanicum elongated glume locus P2 maps to chromosome 6A and is associated with the ectopic expression of SVP-A1](https://doi.org/10.1101/2022.01.27.478079), 2022, bioRxiv.
 - Yu et al. [Genome-wide Association Study and Genomic Prediction for Yield and Grain Quality Traits of Hybrid Rice](https://doi.org/10.21203/rs.3.rs-1355596/v1), 2022, Research Square.
