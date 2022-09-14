@@ -32,7 +32,7 @@ tags: [flower, iaa, tiller, leaf, gravitropic response, root, shoot, panicle, ar
     + Overexpression of OsIAAGLU reveals a role for IAA-glucose conjugation in modulating rice plant architecture.
     + Consistently, ectopic expression of OsIAGT1 leads to declined endogenous IAA content, as well as upregulated auxin synthesis genes and reduced expression of auxin-responsive genes, which likely leads to the reduced plant stature and root length in OsIAGT1 overexpression lines
     + Our result indicated that OsIAGT1 plays an important role in mediating auxin homeostasis by catalyzing auxin glucosylation, and by which OsIAGT1 regulates growth and development in rice
-    + In vitro enzymatic analysis showed that recombinant OsIAGT1 was capable of catalyzing glucosylation of IAA, IBA and other auxin analogs, and that OsIAGT1 is quite tolerant to a broad range of reaction conditions with peak activity at 30 �㧳 and pH<U+2009>8
+    + In vitro enzymatic analysis showed that recombinant OsIAGT1 was capable of catalyzing glucosylation of IAA, IBA and other auxin analogs, and that OsIAGT1 is quite tolerant to a broad range of reaction conditions with peak activity at 30 <a1>㧳 and pH<U+2009>8
     + Further study indicated that expression of OsIAGT1 can be upregulated by auxin in rice, and with OsIAGT1 overexpressing lines we confirmed that OsIAGT1 is indeed able to glucosylate IAA in vivo
     + Indole-3-acetate beta-glucosyltransferase OsIAGLU regulates seed vigor through mediating crosstalk between auxin and abscisic acid in rice.
     + In this study, indole-3-acetate beta-glucosyltransferase OsIAGLU was cloned in rice, and its roles on seed vigor were mainly investigated

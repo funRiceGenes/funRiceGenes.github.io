@@ -15,6 +15,7 @@ tags: [grain, grain size, cytoplasm, nucleus, transcription factor, tiller, grai
     + [WIDE AND THICK GRAIN 1, which encodes an otubain-like protease with deubiquitination activity, influences grain size and shape in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=WIDE AND THICK GRAIN 1, which encodes an otubain-like protease with deubiquitination activity, influences grain size and shape in rice.%5BTitle%5D), 2017, Plant J.
     + [Non-canonical regulation of SPL transcription factors by a human OTUB1-like deubiquitinase defines a new plant type rice associated with higher grain yield.](http://www.ncbi.nlm.nih.gov/pubmed?term=Non-canonical regulation of SPL transcription factors by a human OTUB1-like deubiquitinase defines a new plant type rice associated with higher grain yield.%5BTitle%5D), 2017, Cell Res.
     + [GWC1 is essential for high grain quality in rice ](http://www.ncbi.nlm.nih.gov/pubmed?term=GWC1 is essential for high grain quality in rice %5BTitle%5D), 2020, Plant Sci ..
+    + [Met1-specific motifs conserved in OTUB subfamily of green plants enable rice OTUB1 to hydrolyse Met1 ubiquitin chains.](http://www.ncbi.nlm.nih.gov/pubmed?term=Met1-specific motifs conserved in OTUB subfamily of green plants enable rice OTUB1 to hydrolyse Met1 ubiquitin chains.%5BTitle%5D), 2022, Nat Commun.
 
 * **Genbank accession number**  
 

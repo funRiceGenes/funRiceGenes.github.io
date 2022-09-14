@@ -24,7 +24,7 @@ tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake, bl
 * **Key message**  
     + CAL1 is expressed preferentially in root exodermis and xylem parenchyma cells
     + We provide evidence that CAL1 acts by chelating Cd in the cytosol and facilitating Cd secretion to extracellular spaces, hence lowering cytosolic Cd concentration while driving long-distance Cd transport via xylem vessels
-    + OsAFP1 exerted fungicidal activity against Candida albicans, the most common pathogenic fungus in humans, at 4<U+2009>¦ÌM concentration, but it did not inhibit the growth of human pathogenic bacteria
+    + OsAFP1 exerted fungicidal activity against Candida albicans, the most common pathogenic fungus in humans, at 4<U+2009><a6><cc>M concentration, but it did not inhibit the growth of human pathogenic bacteria
     + Immunohistochemistry showed that the OsAFP1 target molecule was located in the cell wall
     + Further, PI uptake and apoptosis assays suggested that OsAFP1 exerts its antifungal activity by inducing apoptosis of target cells
     + Partial peptides from rice defensin OsAFP1 exhibited antifungal activity against the rice blast pathogen Pyricularia oryzae.

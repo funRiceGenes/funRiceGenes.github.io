@@ -3,7 +3,7 @@ layout: post
 title: "OsNCED1,OsCCD4a"
 description: ""
 category: genes
-tags: [seed]
+tags: [seed, tolerance, stress, stress tolerance, flowering, heat stress, Heat Stress, heat tolerance]
 ---
 
 * **Information**  
@@ -19,12 +19,16 @@ tags: [seed]
     + [RNAi-mediated Suppression of Three Rice Carotenoid Cleavage Dioxygenase Genes, OsCCD1, 4a, and 4b, Increases Carotenoid Content of Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=RNAi-mediated Suppression of Three Rice Carotenoid Cleavage Dioxygenase Genes, OsCCD1, 4a, and 4b, Increases Carotenoid Content of Rice.%5BTitle%5D), 2018, J Exp Bot.
     + [Developmental analysis of the early steps in strigolactone-mediated axillary bud dormancy in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Developmental analysis of the early steps in strigolactone-mediated axillary bud dormancy in rice.%5BTitle%5D), 2019, Plant J.
     + [¦Æ-Carotene Isomerase Suppresses Tillering in Rice through the Coordinated Biosynthesis of Strigolactone and Abscisic Acid](http://www.ncbi.nlm.nih.gov/pubmed?term=¦Æ-Carotene Isomerase Suppresses Tillering in Rice through the Coordinated Biosynthesis of Strigolactone and Abscisic Acid%5BTitle%5D), 2020, Mol Plant.
+    + [Comparative Analysis of Heat-Tolerant and Heat-Susceptible Rice Highlights the Role of OsNCED1 Gene in Heat Stress Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=Comparative Analysis of Heat-Tolerant and Heat-Susceptible Rice Highlights the Role of OsNCED1 Gene in Heat Stress Tolerance.%5BTitle%5D), 2022, Plants (Basel).
 
 * **Genbank accession number**  
     + [AY838897](http://www.ncbi.nlm.nih.gov/nuccore/AY838897)
 
 * **Key message**  
     + Collectively, the blocking of OsCCD4a activity might have potential as a practical tool for enhancing the carotenoid level of the carotenoid-accumulating seed endosperms as well as leaves of rice plants
+    + Overexpression of OsNCED1 improved the HS tolerance of rice at the heading and flowering stage
+    + These results suggested that OsNCED1 overexpression can improve the heat tolerance of rice by enhancing the antioxidant capacity
+    + Comparative Analysis of Heat-Tolerant and Heat-Susceptible Rice Highlights the Role of OsNCED1 Gene in Heat Stress Tolerance.
 
 * **Connection**  
     + __OsABA8ox1__, __OsNCED1~OsCCD4a__, [Phosphorylation of D-allose by hexokinase involved in regulation of OsABF1 expression for growth inhibition in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of D-allose by hexokinase involved in regulation of OsABF1 expression for growth inhibition in Oryza sativa L%5BTitle%5D), In this study, we discovered that D-allose induced expression of ABA-related genes including OsNCED1-3 and OsABA8ox1-3 in rice

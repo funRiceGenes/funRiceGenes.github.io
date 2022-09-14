@@ -3,7 +3,7 @@ layout: post
 title: "OsGS,OsGS1,GS1,OsGS1;1,OsGLN1;1"
 description: ""
 category: genes
-tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheath, chloroplast, grain filling, drought tolerance, cadmium, oxidative, seedling, salinity, tolerance, abiotic stress, stress, Al tolerance, biotic stress, salinity stress, transcription factor, development, photosynthesis, homeostasis, chloroplast development, sugar]
+tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheath, chloroplast, grain filling, drought tolerance, cadmium, oxidative, seedling, salinity, tolerance, abiotic stress, stress, Al tolerance, biotic stress, salinity stress, transcription factor, development, photosynthesis, homeostasis, chloroplast development, sugar, amylose content]
 ---
 
 * **Information**  
@@ -24,6 +24,7 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + [Concurrent Overexpression of OsGS1;1 and OsGS2 Genes in Transgenic Rice Oryza sativa L.: Impact on Tolerance to Abiotic Stresses.](http://www.ncbi.nlm.nih.gov/pubmed?term=Concurrent Overexpression of OsGS1;1 and OsGS2 Genes in Transgenic Rice Oryza sativa L.: Impact on Tolerance to Abiotic Stresses.%5BTitle%5D), 2018, Front Plant Sci.
     + [Cytosolic GLUTAMINE SYNTHETASE 1;1 modulates metabolism and chloroplast development in roots.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cytosolic GLUTAMINE SYNTHETASE 1;1 modulates metabolism and chloroplast development in roots.%5BTitle%5D), 2020, Plant Physiol.
     + [The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants](http://www.ncbi.nlm.nih.gov/pubmed?term=The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants%5BTitle%5D), 2021, Rice (N Y).
+    + [Alternative splicing of OsGS1;1 affects nitrogen-use efficiency, grain development, and amylose content in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Alternative splicing of OsGS1;1 affects nitrogen-use efficiency, grain development, and amylose content in rice.%5BTitle%5D), 2022, Plant J.
 
 * **Genbank accession number**  
     + [NM_001054580.1](http://www.ncbi.nlm.nih.gov/nuccore/NM_001054580.1)
@@ -68,6 +69,8 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
     + Thus, organic N assimilated by OsGS1;1 affects a broad range of metabolites and transcripts involved in maintaining metabolic homeostasis and plastid development in rice roots, whereas OsGS1;2 has a more specific role, affecting mainly amino acid homeostasis but not C metabolism
     + We observed (i) abnormal sugar and organic N accumulation and (ii) significant upregulation of genes associated with photosynthesis and chlorophyll biosynthesis in the roots of Osgs1;1 but not Osgs1;2 knockout mutants
     + Network analysis of the Osgs1;1 mutant suggested that metabolism of glutamine was coordinated with the metabolic modules of sugar metabolism, tricarboxylic acid cycle, and carbon (C) fixation
+    + Alternative splicing of OsGS1;1 affects nitrogen-use efficiency, grain development, and amylose content in rice.
+    + The elite haplotype of OsGS1;1 showed high OsGS1;1b activity, which improved NUE, affected grain development, and reduced amylose content
 
 * **Connection**  
     + __OsGS~OsGS1~GS1~OsGS1;1~OsGLN1;1__, __OsGS2~lambdaGS31__, [Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions%5BTitle%5D), OsGS1;1 and OsGS2 were differentially regulated in IR-64 (drought-sensitive) and Khitish (drought-tolerant) cultivars of rice

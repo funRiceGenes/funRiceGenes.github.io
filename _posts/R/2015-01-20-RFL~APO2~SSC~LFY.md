@@ -3,7 +3,7 @@ layout: post
 title: "RFL,APO2,SSC,LFY"
 description: ""
 category: genes
-tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, growth, floral meristem, spikelet, root, axillary meristem, leaf, flowering time, floral, vegetative, tillering, tiller, stamen, branching, spikelet meristem, transcription factor, culm, auxin, transporter, strigolactone, auxin transport, development, floral organ, organ identity, grain, grain number, panicle size]
+tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, growth, floral meristem, spikelet, root, axillary meristem, leaf, flowering time, floral, vegetative, tillering, tiller, stamen, branching, spikelet meristem, transcription factor, culm, auxin, transporter, strigolactone, auxin transport, development, floral organ, organ identity, grain, grain number, panicle size, cell proliferation, panicle development]
 ---
 
 * **Information**  
@@ -22,6 +22,7 @@ tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, gro
     + [Short and Solid Culm/RFL/APO2 for culm development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Short and Solid Culm/RFL/APO2 for culm development in rice.%5BTitle%5D), 2017, Plant J.
     + [Transcriptome comparison between pluripotent and non-pluripotent calli derived from mature rice seeds](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcriptome comparison between pluripotent and non-pluripotent calli derived from mature rice seeds%5BTitle%5D), 2020, Sci Rep.
     + [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D), 2021, Plant Cell.
+    + [ABERRANT PANICLE ORGANIZATION2 controls multiple steps in panicle formation through common direct-target genes.](http://www.ncbi.nlm.nih.gov/pubmed?term=ABERRANT PANICLE ORGANIZATION2 controls multiple steps in panicle formation through common direct-target genes.%5BTitle%5D), 2022, Plant Physiol.
 
 * **Genbank accession number**  
     + [AB005620](http://www.ncbi.nlm.nih.gov/nuccore/AB005620)
@@ -66,6 +67,11 @@ tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, gro
     + This insertion altered the expression of RFL in floral meristem (FM) and floret
     + The altered pattern of RFL expression in afo1 resulted in enlarged FMs, more floral organs, aberrant floral organ identity, and loss of FM determinacy
     + Genetic analyses support that LARGE2 functions with APO1 and APO2 in a common pathway to regulate panicle size and grain number
+    + Our findings indicate that APO2 acts as a master regulator of rice panicle development by regulating multiple steps in the reproductive transition through directly controlling a set of genes
+    + APO2 is a positive regulator of panicle branch formation
+    + These analyses showed that APO2 directly controls known regulators of panicle development, including SQUAMOSA PROMOTER BINDING PROTEIN LIKE14 and NECK LEAF1
+    + Furthermore, we revealed that a set of genes act as downstream regulators of APO2 in controlling meristem cell proliferation during reproductive transition, bract suppression, and panicle branch formation
+    + Here, we show that APO2 is also required to increase the meristem size of the IM and suppress bract outgrowth
 
 * **Connection**  
     + __APO1~OsAPO1~SCM2__, __RFL~APO2~SSC~LFY__, [ABERRANT PANICLE ORGANIZATION 2/RFL, the rice ortholog of Arabidopsis LEAFY, suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1](http://www.ncbi.nlm.nih.gov/pubmed?term=ABERRANT PANICLE ORGANIZATION 2/RFL, the rice ortholog of Arabidopsis LEAFY, suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1%5BTitle%5D), Further analysis indicated that APO2/RFL and APO1, the rice ortholog of Arabidopsis UNUSUAL FLORAL ORGANS, act cooperatively to control inflorescence and flower development
@@ -83,6 +89,8 @@ tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, gro
     + __APO1~OsAPO1~SCM2__, __RFL~APO2~SSC~LFY__, [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D),  Biochemical analyses show that LARGE2 physically associates with ABERRANT PANICLE ORGANIZATION1 (APO1) and APO2, two positive regulators of panicle size and grain number, and modulates their stabilities
     + __APO1~OsAPO1~SCM2__, __RFL~APO2~SSC~LFY__, [The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The LARGE2-APO1/APO2 regulatory module controls panicle size and grain number in rice%5BTitle%5D),  Genetic analyses support that LARGE2 functions with APO1 and APO2 in a common pathway to regulate panicle size and grain number
     + __OsBRM__, __RFL~APO2~SSC~LFY__, [SWI2/SNF2 chromatin remodeling ATPases SPLAYED and BRAHMA control embryo development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=SWI2/SNF2 chromatin remodeling ATPases SPLAYED and BRAHMA control embryo development in rice.%5BTitle%5D),  OsSYD protein interacts with RFL, but OsBRM does not
+    + __OsbZIP47__, __RFL~APO2~SSC~LFY__, [OsbZIP47 Is an Integrator for Meristem Regulators During Rice Plant Growth and Development.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbZIP47 Is an Integrator for Meristem Regulators During Rice Plant Growth and Development.%5BTitle%5D),  Protein interaction assays showed OsbZIP47 partnerships with RICE HOMEOBOX1 (OSH1), RICE FLORICULA/LEAFY (RFL), and OsMADS1 transcription factors
+    + __OsbZIP47__, __RFL~APO2~SSC~LFY__, [OsbZIP47 Is an Integrator for Meristem Regulators During Rice Plant Growth and Development.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbZIP47 Is an Integrator for Meristem Regulators During Rice Plant Growth and Development.%5BTitle%5D),  The meta-analysis of KD panicle transcriptomes in OsbZIP47KD, OsMADS1KD, and RFLKD transgenics, combined with global OSH1 binding sites divulge potential targets coregulated by OsbZIP47, OsMADS1, OSH1, and RFL
 
 [//]: # * **Key figures**  
 

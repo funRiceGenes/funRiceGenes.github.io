@@ -21,7 +21,7 @@ tags: [seedling, temperature, growth, oxidative stress, oxidative, stress]
 * **Key message**  
     + The mRNA level of DHAR1, the protein level of Dhar1p and the DHAR activity in rice seedlings were elevated by high temperature, suggesting the protection role of DHAR at high temperature
     + OsDHAR expression increased the growth of S
-    + japonica DHAR (OsDHAR) gene controlled by an isopropyl ¦Â-D-1-thiogalactopyranoside (IPTG)-inducible promoter (Ptrc) into the cyanobacterium to study the functional activities of OsDHAR under oxidative stress caused by hydrogen peroxide exposure
+    + japonica DHAR (OsDHAR) gene controlled by an isopropyl <a6><c2>-D-1-thiogalactopyranoside (IPTG)-inducible promoter (Ptrc) into the cyanobacterium to study the functional activities of OsDHAR under oxidative stress caused by hydrogen peroxide exposure
 
 * **Connection**  
 

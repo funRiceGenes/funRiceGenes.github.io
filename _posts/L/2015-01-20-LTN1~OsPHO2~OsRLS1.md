@@ -3,7 +3,7 @@ layout: post
 title: "LTN1,OsPHO2,OsRLS1"
 description: ""
 category: genes
-tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, adventitious root,  pi , leaf, phosphorus, phosphate, root architecture, nitrogen, development, homeostasis, flowering time, Pi, Pi homeostasis, Pi signaling]
+tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, adventitious root,  pi , leaf, phosphorus, phosphate, root architecture, nitrogen, development, homeostasis, flowering time, Pi, Pi homeostasis, Pi signaling, xylem, seed, pi]
 ---
 
 * **Information**  
@@ -25,6 +25,7 @@ tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, a
     + [Knocking Out the Gene RLS1 Induces Hypersensitivity to Oxidative Stress and Premature Leaf Senescence in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Knocking Out the Gene RLS1 Induces Hypersensitivity to Oxidative Stress and Premature Leaf Senescence in Rice.%5BTitle%5D), 2018, Int J Mol Sci.
     + [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D), 2020, Front Plant Sci.
     + [PROTEIN PHOSPHATASE95 Regulates Phosphate Homeostasis by Affecting Phosphate Transporter Trafficking in Rice[OPEN]](http://www.ncbi.nlm.nih.gov/pubmed?term=PROTEIN PHOSPHATASE95 Regulates Phosphate Homeostasis by Affecting Phosphate Transporter Trafficking in Rice[OPEN]%5BTitle%5D), 2021, Plant Cell.
+    + [Distribution of phenanthrene in the ospho2 reveals the involvement of phosphate on phenanthrene translocation and accumulation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Distribution of phenanthrene in the ospho2 reveals the involvement of phosphate on phenanthrene translocation and accumulation in rice.%5BTitle%5D), 2022, Ecotoxicol Environ Saf.
 
 * **Genbank accession number**  
     + [AK241747](http://www.ncbi.nlm.nih.gov/nuccore/AK241747)
@@ -56,6 +57,11 @@ tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, a
     + A yeast-two-hybrid screen using Oryza sativa (rice) PHO2 as bait, revealed an interaction between OsPHO2 and OsGIGANTEA, a key regulator of flowering time, which was confirmed using bimolecular flourescenec complementation (BiFC)
     + Pi analysis of individual leaves demonstrated that Osgi, similar to Ospho2 mutants, were impaired in Pi remobilization from old to young leaves, albeit to a lesser extent
     + Finally, the dynamic transcriptional regulation of OsRNS genes by overexpression of OsPHR2, ospho2 mutant, and overexpression of OsPT1 lines involved in Pi signaling pathway suggests the molecular basis of OsRNS family in Pi recycling via RNA decay under Pi starvation
+    + The sap experiment clearly showed the significant increases in levels of Phe in the xylem sap of ospho2 than the WT grown hydroponically with Phe and +Pi
+    + However, the concentrations of Phe in the seeds were comparable in the WT and mutants, suggesting a pivotal of OsPHO2 in attenuating Phe toxicity in the seed
+    + Distribution of phenanthrene in the ospho2 reveals the involvement of phosphate on phenanthrene translocation and accumulation in rice.
+    + In the present study, the role of OsPHO2 in regulating the translocation and accumulation of phenanthrene (Phe) and the involvement of Pi in this process were investigated
+    + In +Phe WT, the relative expression level of OsPHO2 in the shoots was significantly lower, while those of Pi transporters (PTs) OsPT4 and OsPT8 were significantly higher in the roots compared with -Phe
 
 * **Connection**  
     + __LTN1~OsPHO2~OsRLS1__, __OsPht1;2~OsPT2__, [Molecular mechanisms regulating Pi-signaling and Pi homeostasis under OsPHR2, a central Pi-signaling regulator, in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular mechanisms regulating Pi-signaling and Pi homeostasis under OsPHR2, a central Pi-signaling regulator, in rice%5BTitle%5D), OsPHR2 positively regulates the low-affinity Pi transporter OsPT2 through physical interaction and reciprocal regulation of OsPHO2 in roots
@@ -95,6 +101,8 @@ tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, a
     + __LTN1~OsPHO2~OsRLS1__, __OsPht1;1~OsPT1__, [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D),  Finally, the dynamic transcriptional regulation of OsRNS genes by overexpression of OsPHR2, ospho2 mutant, and overexpression of OsPT1 lines involved in Pi signaling pathway suggests the molecular basis of OsRNS family in Pi recycling via RNA decay under Pi starvation
     + __LTN1~OsPHO2~OsRLS1__, __OsPP95__, [PROTEIN PHOSPHATASE95 Regulates Phosphate Homeostasis by Affecting Phosphate Transporter Trafficking in Rice[OPEN]](http://www.ncbi.nlm.nih.gov/pubmed?term=PROTEIN PHOSPHATASE95 Regulates Phosphate Homeostasis by Affecting Phosphate Transporter Trafficking in Rice[OPEN]%5BTitle%5D),  We show that OsPHO2 interacts with and induces the degradation of OsPP95
     + __LTN1~OsPHO2~OsRLS1__, __OsPP95__, [PROTEIN PHOSPHATASE95 Regulates Phosphate Homeostasis by Affecting Phosphate Transporter Trafficking in Rice[OPEN]](http://www.ncbi.nlm.nih.gov/pubmed?term=PROTEIN PHOSPHATASE95 Regulates Phosphate Homeostasis by Affecting Phosphate Transporter Trafficking in Rice[OPEN]%5BTitle%5D),  We conclude that OsPP95, a protein phosphatase negatively regulated by OsPHO2, positively regulates Pi homeostasis and remobilization by dephosphorylating PTs and affecting their trafficking to the PM, a reversible process required for adaptation to variable Pi conditions
+    + __LTN1~OsPHO2~OsRLS1__, __OsPht1;4~OsPT4__, [Distribution of phenanthrene in the ospho2 reveals the involvement of phosphate on phenanthrene translocation and accumulation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Distribution of phenanthrene in the ospho2 reveals the involvement of phosphate on phenanthrene translocation and accumulation in rice.%5BTitle%5D),  In +Phe WT, the relative expression level of OsPHO2 in the shoots was significantly lower, while those of Pi transporters (PTs) OsPT4 and OsPT8 were significantly higher in the roots compared with -Phe
+    + __LTN1~OsPHO2~OsRLS1__, __OsPht1;8~OsPT8__, [Distribution of phenanthrene in the ospho2 reveals the involvement of phosphate on phenanthrene translocation and accumulation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Distribution of phenanthrene in the ospho2 reveals the involvement of phosphate on phenanthrene translocation and accumulation in rice.%5BTitle%5D),  In +Phe WT, the relative expression level of OsPHO2 in the shoots was significantly lower, while those of Pi transporters (PTs) OsPT4 and OsPT8 were significantly higher in the roots compared with -Phe
 
 [//]: # * **Key figures**  
 

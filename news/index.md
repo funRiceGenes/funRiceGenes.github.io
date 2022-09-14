@@ -5,6 +5,592 @@ comments: no
 thread: 616
 ---
 
+* 2022/Sep/14 add new info for gene: OsELP3
+* 2022/Sep/14 add new pub.
+* 2022/Sep/14 add new gene: OsELP3
+* 2022/Aug/30 add new info for gene: OsVQ25
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: OsVQ25
+* 2022/Aug/30 add new info for gene: BC16
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: BC16
+* 2022/Aug/30 add new keywords for OsMLH1
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 OsMLH1 == PSSR1
+* 2022/Aug/30 add new info for gene: WAL3
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: WAL3
+* 2022/Aug/30 add new info for gene: OsWRI1a
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: OsWRI1a
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: OsWRI1b
+* 2022/Aug/30 add new info for gene: OsMPK17
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new info for gene: OsCYP51H3
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: OsCYP51H3
+* 2022/Aug/30 add new info for gene: OsWRKY63
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: OsWRKY63
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new info for gene: OsABA8ox1
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new info for gene: OsABA8ox3
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new info for gene: OsCPK18
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: OsCPK18
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new keywords for SNG1
+* 2022/Aug/30 add new keywords for SNG1
+* 2022/Aug/30 SNG1 == OsHXK3
+* 2022/Aug/30 add new info for gene: SNG1
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new gene: SNG1
+* 2022/Aug/30 add new info for gene: OsELF3-1
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new pub.
+* 2022/Aug/30 add new pub.
+* 2022/Aug/18 add new info for gene: WOX11
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: OsYUC8
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 OsFMO == OsCOW1 == NAL7 == OsYUC8
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: OsPGL1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: SG2
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 TAC4 == SG2
+* 2022/Aug/18 add new info for gene: AMD1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: AMD1
+* 2022/Aug/18 add new info for gene: OsUBC18
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: OsUBC18
+* 2022/Aug/18 add new info for gene: OsUBR7
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: OsUBR7
+* 2022/Aug/18 add new info for gene: TSYL1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 YGL138(t) == OscpSRP54a == TSYL1
+* 2022/Aug/18 add new info for gene: OsGT1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: OsHyPRP16
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: OsHyPRP16
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: OsSAPK6
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 SAPK6 == OSRK1 == OsSAPK6
+* 2022/Aug/18 add new info for gene: GS3
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 DST == WL1
+* 2022/Aug/18 add new info for gene: OsOPL1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: OsOPL1
+* 2022/Aug/18 add new info for gene: RIFLA
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: RIFLA
+* 2022/Aug/18 add new info for gene: OsABCG43
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: OsMPK6
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: RLI1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: GORI
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: GORI
+* 2022/Aug/18 add new info for gene: TOM1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: OsVAMP7112
+* 2022/Aug/18 add new info for gene: OsTUB1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: OsTUB1
+* 2022/Aug/18 add new reference for DFOT1
+* 2022/Aug/18 DFOT1 == EMF1
+* 2022/Aug/18 add new info for gene: OsRBAP1
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: OsRBAP1
+* 2022/Aug/18 add new info for gene: NRPD2
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new gene: NRPD2
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 add new info for gene: OsTGA5
+* 2022/Aug/18 add new pub.
+* 2022/Aug/18 OsHBP1b == OsTGA5
+* 2022/Jul/14 add new keywords for TT3.1
+* 2022/Jul/14 add new keywords for TT3.2
+* 2022/Jul/14 add new keywords for TT3.2
+* 2022/Jul/14 add new keywords for TT3.1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: TT3.2
+* 2022/Jul/14 OsRHC1 == LE == TT3.1
+* 2022/Jul/14 add new info for gene: OsAO4
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsAO4
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 OsNAC78 == OsNTL6
+* 2022/Jul/14 add new info for gene: OsHLP1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsHLP1
+* 2022/Jul/14 add new info for gene: ArPK
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: ArPK
+* 2022/Jul/14 add new info for gene: RGA5
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsBSK2
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsBR6ox
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 OsDWARF == OsBRD1 == OsBR6ox
+* 2022/Jul/14 add new info for gene: OsLEA9
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsLEA9
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: RLM1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: RLM1
+* 2022/Jul/14 add new info for gene: OsTPR075
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsTPR075
+* 2022/Jul/14 add new info for gene: OsFTIP9
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsFTIP9
+* 2022/Jul/14 add new info for gene: OsAPL
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsAPL
+* 2022/Jul/14 add new info for gene: WOX11
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: PILS6b
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: PILS6b
+* 2022/Jul/14 add new keywords for OsGluTR
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsGluTR
+* 2022/Jul/14 add new info for gene: OsPP65
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsPP65
+* 2022/Jul/14 add new info for gene: OsWSS1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsWSS1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsHDA701
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsHDA701
+* 2022/Jul/14 add new connections between Du13 and Wx
+* 2022/Jul/14 add new info for gene: Du13
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: Du13
+* 2022/Jul/14 add new info for gene: OsAtg8
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new connections between OsPIP2;1 and OsRINGzf1
+* 2022/Jul/14 add new info for gene: OsPIP2;1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsPIP2;1
+* 2022/Jul/14 add new info for gene: OsRINGzf1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsRINGzf1
+* 2022/Jul/14 add new info for gene: OsLEC1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 OsHAP3E == LEC1 == OsLEC1
+* 2022/Jul/14 add new info for gene: LPA1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsUGE3
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsUGE3
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsSCL30
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsSCL30
+* 2022/Jul/14 add new info for gene: SMG3
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 Osmyb3 == SG3 == SMG3
+* 2022/Jul/14 add new info for gene: LMPA
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 OSA7 == osAHA7 == AHA7 == LMPA
+* 2022/Jul/14 add new info for gene: APO2
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsGLYI3
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsGLYI3
+* 2022/Jul/14 add new info for gene: miR166
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: miR166
+* 2022/Jul/14 add new info for gene: RDD1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsQHB
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 QHB == OsQHB
+* 2022/Jul/14 add new info for gene: OsCIPK18
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsCIPK18
+* 2022/Jul/14 add new info for gene: OsHSD2
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsHSD2
+* 2022/Jul/14 add new info for gene: OsMGD3
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsMGD3
+* 2022/Jul/14 add new info for gene: OsFLA6
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 LIC == OsLIC1 == OsLIC == OsFLA6
+* 2022/Jul/14 add new info for gene: OsFLA2
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsFLA2
+* 2022/Jul/14 add new keywords for OsFPN1
+* 2022/Jul/14 add new keywords for OsFPN1
+* 2022/Jul/14 add new info for gene: OsFPN1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsFPN1
+* 2022/Jul/14 add new info for gene: TAC1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsbHLH024
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsbHLH024
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsCERK1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsMADS29
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: TGW2
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new keywords for OsLP1
+* 2022/Jul/14 add new keywords for OsLP1
+* 2022/Jul/14 add new info for gene: OsLP1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsLP1
+* 2022/Jul/14 add new keywords for OsPDX1.1
+* 2022/Jul/14 add new keywords for OsPDX1.2
+* 2022/Jul/14 add new keywords for OsPDX1.3
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsPDX1.3
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsPDX1.1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsPDX1.2
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsHB86
+* 2022/Jul/14 add new connections between PACP and OsEMF2b
+* 2022/Jul/14 add new info for gene: PACP
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: PACP
+* 2022/Jul/14 add new connections between PBI1 and OsPUB44
+* 2022/Jul/14 add new keywords for PBI1
+* 2022/Jul/14 add new info for gene: PBI1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: PBI1
+* 2022/Jul/14 add new keywords for HTH5
+* 2022/Jul/14 add new info for gene: HTH5
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: HTH5
+* 2022/Jul/14 add new connections between OsMYB36b and OsCASP1
+* 2022/Jul/14 add new connections between OsMYB36a and OsCASP1
+* 2022/Jul/14 add new connections between OsMYB36c and OsCASP1
+* 2022/Jul/14 add new keywords for OsMYB36c
+* 2022/Jul/14 add new keywords for OsMYB36a
+* 2022/Jul/14 add new keywords for OsMYB36b
+* 2022/Jul/14 add new keywords for OsMYB36b
+* 2022/Jul/14 add new keywords for OsMYB36c
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsMYB36c
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsMYB36b
+* 2022/Jul/14 add new keywords for OsMYB36a
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsMYB36a
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 Wx == qFC6
+* 2022/Jul/14 add new info for gene: OsZIP11
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsZIP11
+* 2022/Jul/14 add new info for gene: OsPDT1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsPDT1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new connections between Nhd1 and OsNRT2.4
+* 2022/Jul/14 add new info for gene: Nhd1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 OsCCA1 == Nhd1
+* 2022/Jul/14 add new info for gene: OsJAZ11
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsJAZ11
+* 2022/Jul/14 add new info for gene: OsWAK11
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsWAK11
+* 2022/Jul/14 add new info for gene: OsTH1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsTH1
+* 2022/Jul/14 add new info for gene: OsRNS1
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: OsRNS1
+* 2022/Jul/14 add new info for gene: LFS
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new gene: LFS
+* 2022/Jul/14 add new info for gene: OsCPK29
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 OsMADS68 == MADS68
+* 2022/Jul/14 OSIPK == OsCPK29
+* 2022/Jul/14 add new info for gene: OsMYBc
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new info for gene: OsMSRFP
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 SDEL1 == OsMSRFP
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/14 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsERF115
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsDHHC30
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsDHHC30
+* 2022/Jul/13 add new connections between OsGRX9 and OsbZIP83
+* 2022/Jul/13 add new info for gene: OsGRX9
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 OsGrx_C2.1 == OsGRX9
+* 2022/Jul/13 add new info for gene: OsbZIP83
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 OsTGA912 == OsbZIP83
+* 2022/Jul/13 add new keywords for LM7
+* 2022/Jul/13 LM7 == OsHSP40
+* 2022/Jul/13 add new info for gene: OsHSP40
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsHSP40
+* 2022/Jul/13 add new info for gene: OsCATC
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsGS1;1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsbZIP47
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsbZIP47
+* 2022/Jul/13 add new keywords for OsIspH1
+* 2022/Jul/13 add new keywords for OsIspH1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 OsHDR == OsHMBPP == OsIspH1
+* 2022/Jul/13 add new info for gene: OsGH3.2
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsDDM1b
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsLUX
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsELF4a
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: DEAP1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: DEAP1
+* 2022/Jul/13 add new info for gene: OsMS1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: CYP716A16
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: CYP716A16
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsKRN2
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsKRN2
+* 2022/Jul/13 add new info for gene: OsFl3
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsFl3
+* 2022/Jul/13 add new info for gene: RGA5
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new keywords for OsPTB2
+* 2022/Jul/13 add new keywords for OsPTB1
+* 2022/Jul/13 add new info for gene: OsPTB2
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsPTB2
+* 2022/Jul/13 add new info for gene: OsPTB1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsPTB1
+* 2022/Jul/13 OsNIN-like4 == OsNLP5
+* 2022/Jul/13 add new info for gene: OsNLP2
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 OsNIN-like2 == OsNLP2
+* 2022/Jul/13 add new keywords for OsNR1
+* 2022/Jul/13 add new keywords for OsNR1
+* 2022/Jul/13 add new info for gene: OsNR1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsNR1
+* 2022/Jul/13 add new keywords for OsbZIP18
+* 2022/Jul/13 add new keywords for OsbZIP18
+* 2022/Jul/13 add new info for gene: OsbZIP18
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsK5.2
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsLTP47
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsLTP47
+* 2022/Jul/13 add new info for gene: CF1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 OsYSL2 == CF1
+* 2022/Jul/13 add new connections between OsSCR1 and OsMUTE
+* 2022/Jul/13 add new connections between OsSCR2 and OsMUTE
+* 2022/Jul/13 add new keywords for OsSCR2
+* 2022/Jul/13 add new keywords for OsSCR2
+* 2022/Jul/13 add new keywords for OsSCR1
+* 2022/Jul/13 add new keywords for OsSCR1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsWRKY30
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsRAM2A
+* 2022/Jul/13 alphaAmy3 == OsAmy3D == RAmy3D == OsRAM3D
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsSAE1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsSAE1
+* 2022/Jul/13 add new keywords for OsHIPL1
+* 2022/Jul/13 add new info for gene: OsHIPL1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsHIPL1
+* 2022/Jul/13 add new keywords for CYP76C6
+* 2022/Jul/13 add new keywords for CYP76C6
+* 2022/Jul/13 add new info for gene: CYP76C6
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: CYP76C6
+* 2022/Jul/13 add new info for gene: OsAPX1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: GS3
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new keywords for OsNAC23
+* 2022/Jul/13 add new keywords for OsNAC23
+* 2022/Jul/13 add new info for gene: OsNAC23
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 ONAC023 == OsNAC23
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 OsAOC == OsAOC1
+* 2022/Jul/13 add new info for gene: OsMYB22
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsMYB22
+* 2022/Jul/13 add new connections between OsFIE2 and PANDA
+* 2022/Jul/13 add new connections between OsMSI1 and PANDA
+* 2022/Jul/13 add new info for gene: PANDA
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: PANDA
+* 2022/Jul/13 add new keywords for OsDjC46
+* 2022/Jul/13 add new info for gene: OsDjC46
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsDjC46
+* 2022/Jul/13 add new keywords for OsGS1;3
+* 2022/Jul/13 add new keywords for OsGS1;3
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsIAA17q5
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsIAA17q5
+* 2022/Jul/13 add new info for gene: OsPUB43
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsPUB43
+* 2022/Jul/13 add new keywords for OsSWEET11b
+* 2022/Jul/13 add new keywords for OsSWEET11b
+* 2022/Jul/13 add new info for gene: OsSWEET11b
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsSWEET11b
+* 2022/Jul/13 add new info for gene: OsTZF7
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsTZF7
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsbHLH057
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsbHLH057
+* 2022/Jul/13 add new info for gene: miR444
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: miR444
+* 2022/Jul/13 add new info for gene: OsMADS27
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new connections between JMJ710 and OsMYB48-1
+* 2022/Jul/13 add new info for gene: JMJ710
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: JMJ710
+* 2022/Jul/13 add new info for gene: OsbHLH061
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsbHLH061
+* 2022/Jul/13 add new info for gene: OsWRKY115
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new gene: OsWRKY115
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsLsi2
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new info for gene: OsLsi1
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
+* 2022/Jul/13 add new pub.
 * 2022/Jul/8 add new info for gene: OsHAK5
 * 2022/Jul/8 add new pub.
 * 2022/Jul/8 add new info for gene: OsHAK1

@@ -3,7 +3,7 @@ layout: post
 title: "OsSCR,OsSCR2"
 description: ""
 category: genes
-tags: [leaf, root, stomatal, iaa, stomata]
+tags: [leaf, root, stomatal, iaa, stomata, stomatal development, leaf development]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [leaf, root, stomatal, iaa, stomata]
     + [A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos%5BTitle%5D), 2009, Plant J.
     + [Multiple transcriptional factors control stomata development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Multiple transcriptional factors control stomata development in rice.%5BTitle%5D), 2019, New Phytol.
     + [RSD1 Is Essential for Stomatal Patterning and Files in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=RSD1 Is Essential for Stomatal Patterning and Files in Rice%5BTitle%5D), 2020, Front Plant Sci.
+    + [SCARECROW is deployed in distinct contexts during rice and maize leaf development.](http://www.ncbi.nlm.nih.gov/pubmed?term=SCARECROW is deployed in distinct contexts during rice and maize leaf development.%5BTitle%5D), 2022, Development.
 
 * **Genbank accession number**  
     + [AB180961](http://www.ncbi.nlm.nih.gov/nuccore/AB180961)
@@ -26,11 +27,13 @@ tags: [leaf, root, stomatal, iaa, stomata]
     + In stomatal development, OsSCR was specifically expressed in the stomatal cell files before formation of guard mother cells (GMCs), and then, its expression was localized in GMCs, when the first asymmetric division occurred to generate the GMCs
     + In tdd1 embryos, the expression patterns of OSH1 and OsSCR, which mark the presumptive apical region and the L2 layer, respectively, are identical to those in WT, suggesting a possibility either that different IAA levels are required for basic pattern formation than for organ formation or that an orthologous gene compensates for TDD1 deficiency during pattern formation
     + Based on these observations, we proposed that OsSCR is involved not only in the asymmetric division of the cortex/endodermis progenitor cell but also during stomata and ligule formation by establishing the polarization of cytoplasm
+    + The stomatal regulator OsMUTE is downregulated in Osscr1;Osscr2 mutants, indicating that OsSCR acts early in stomatal development.
 
 * **Connection**  
     + __OSH1~Oskn1__, __OsSCR~OsSCR2__, [A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos%5BTitle%5D), In tdd1 embryos, the expression patterns of OSH1 and OsSCR, which mark the presumptive apical region and the L2 layer, respectively, are identical to those in WT, suggesting a possibility either that different IAA levels are required for basic pattern formation than for organ formation or that an orthologous gene compensates for TDD1 deficiency during pattern formation
     + __OsSCR~OsSCR2__, __TDD1~OASB1__, [A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice tryptophan deficient dwarf mutant, tdd1, contains a reduced level of indole acetic acid and develops abnormal flowers and organless embryos%5BTitle%5D), In tdd1 embryos, the expression patterns of OSH1 and OsSCR, which mark the presumptive apical region and the L2 layer, respectively, are identical to those in WT, suggesting a possibility either that different IAA levels are required for basic pattern formation than for organ formation or that an orthologous gene compensates for TDD1 deficiency during pattern formation
     + __OsMUTE__, __OsSCR~OsSCR2__, [Multiple transcriptional factors control stomata development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Multiple transcriptional factors control stomata development in rice.%5BTitle%5D),  More importantly, we found that OsSCR/OsSHR controls the initiation of stomatal lineage cells and the formation of subsidiary cells, and the transcription of OsSCR is activated by OsSPCH and OsMUTE
+    + __OsMUTE__, __OsSCR~OsSCR2__, [SCARECROW is deployed in distinct contexts during rice and maize leaf development](http://www.ncbi.nlm.nih.gov/pubmed?term=SCARECROW is deployed in distinct contexts during rice and maize leaf development%5BTitle%5D), The stomatal regulator OsMUTE is downregulated in Osscr1;Osscr2 mutants, indicating that OsSCR acts early in stomatal development.
 
 [//]: # * **Key figures**  
 

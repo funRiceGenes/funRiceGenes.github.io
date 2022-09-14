@@ -3,7 +3,7 @@ layout: post
 title: "SnRK1A,OsSnRK1a,OsSnRK1A1"
 description: ""
 category: genes
-tags: [growth, seedling, seed, seed germination, resistance, development, defense, defense response, disease, salicylic acid, blast, disease resistance, immunity, broad-spectrum disease resistance]
+tags: [growth, seedling, seed, seed germination, resistance, development, defense, defense response, disease, salicylic acid, blast, disease resistance, immunity, broad-spectrum disease resistance, sheath, sucrose]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [growth, seedling, seed, seed germination, resistance, development, defens
     + [The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.%5BTitle%5D), 2018, Sci Rep.
     + [The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination%5BTitle%5D), 2021, Int J Mol Sci.
     + [SnRK1 stimulates the histone H3K27me3 demethylase JMJ705 to regulate a transcriptional switch to control energy homeostasis](http://www.ncbi.nlm.nih.gov/pubmed?term=SnRK1 stimulates the histone H3K27me3 demethylase JMJ705 to regulate a transcriptional switch to control energy homeostasis%5BTitle%5D), 2021, Plant Cell.
+    + [Sucrose nonfermenting-1-related protein kinase 1 regulates sheath-to-panicle transport of nonstructural carbohydrates during rice grain filling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Sucrose nonfermenting-1-related protein kinase 1 regulates sheath-to-panicle transport of nonstructural carbohydrates during rice grain filling.%5BTitle%5D), 2022, Plant Physiol.
 
 * **Genbank accession number**  
     + [AB101655](http://www.ncbi.nlm.nih.gov/nuccore/AB101655)
@@ -33,6 +34,8 @@ tags: [growth, seedling, seed, seed germination, resistance, development, defens
     + The energy sensor OsSnRK1a confers broad-spectrum disease resistance in rice.
     + OsSnRK1a overexpression positively affected the salicylic acid pathway and boosted the jasmonate-mediated defense response after inoculation with the blast fungus Pyricularia oryzae
     + Together these findings strongly suggest OsSnRK1a to be involved in plant basal immunity and favor a model whereby OsSnRK1a acts as a master switch that regulates growth-immunity trade-offs
+    + Accelerated NSC transport was accompanied by increased levels of OsSnRK1a mRNA expression, SnRK1a protein expression, catalytic subunit phosphorylation of SnRK1, and SnRK1 activity, indicating that SnRK1 activity plays an important role in sheath NSC transport
+    + Since SnRK1 activity is mostly regulated by OsSnRK1a transcription in response to low sucrose content, we constructed an snrk1a mutant to verify the function of SnRK1 in NSC transport
 
 * **Connection**  
     + __alphaAmy3~OsAmy3D~RAmy3D__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), Treatment with a respiratory inhibitor or anoxia also relieved the sugar repression of the rice CIPK15 gene, a main upstream positive regulator of SnRK1A that is critical for Amy3D expression in response to sugar starvation
@@ -47,6 +50,8 @@ tags: [growth, seedling, seed, seed germination, resistance, development, defens
     + __OsCIPK15__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding](http://www.ncbi.nlm.nih.gov/pubmed?term=Coordinated responses to oxygen and sugar deficiency allow rice seedlings to tolerate flooding%5BTitle%5D), CIPK15 regulates the plant global energy and stress sensor SnRK1A (Snf1-related protein kinase 1) and links O(2)-deficiency signals to the SnRK1-dependent sugar-sensing cascade to regulate sugar and energy production and to enable rice growth under floodwater
     + __OsSAUR33__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice Small Auxin-Up RNA Gene OsSAUR33 Regulates Seed Vigor via Sugar Pathway during Early Seed Germination%5BTitle%5D),  OsSAUR33 interacted with the sucrose non-fermenting-1-related protein kinase OsSnRK1A, a regulator of the sugar signaling pathway, which influences the expression of sugar signaling-related genes during germination
     + __OsFLZ18__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [Genome-Wide Identification, Expression and Functional Analysis Reveal the Involvement of FCS-Like Zinc Finger Gene Family in Submergence Response in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-Wide Identification, Expression and Functional Analysis Reveal the Involvement of FCS-Like Zinc Finger Gene Family in Submergence Response in Rice%5BTitle%5D),  As a case study, we demonstrated that OsFLZ18 interacted with SnRK1A and inhibited the transcriptional activation activity of SnRK1A in modulating the expression of its target gene ¦ÁAmy3, a positive regulator in rice flooding tolerance
+    + __ONAC023~OsNAC23__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [The OsNAC23-Tre6P-SnRK1a feed-forward loop regulates sugar homeostasis and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsNAC23-Tre6P-SnRK1a feed-forward loop regulates sugar homeostasis and grain yield in rice.%5BTitle%5D),  Meanwhile, OsNAC23 and Tre6P suppress the transcription and enzyme activity of SnRK1a, a low-carbon sensor and antagonist of OsNAC23, to prevent the SnRK1a-mediated phosphorylation and degradation of OsNAC23
+    + __ONAC023~OsNAC23__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [The OsNAC23-Tre6P-SnRK1a feed-forward loop regulates sugar homeostasis and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsNAC23-Tre6P-SnRK1a feed-forward loop regulates sugar homeostasis and grain yield in rice.%5BTitle%5D),  Thus, OsNAC23, Tre6P, and SnRK1a formÂ a feed-forward loop to sense sugar and maintain sugar homeostasis by transporting sugars to sink organs
 
 [//]: # * **Key figures**  
 

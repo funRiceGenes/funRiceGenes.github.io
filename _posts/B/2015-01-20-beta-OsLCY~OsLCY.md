@@ -17,7 +17,7 @@ tags: [photoinhibition]
 * **Genbank accession number**  
 
 * **Key message**  
-    + The decreased Fv/Fm indicated that photoinhibition occurred in the ¦Â-OsLCY RNAi plants and Oscrtiso mutants under normal conditions.
+    + The decreased Fv/Fm indicated that photoinhibition occurred in the <a6><c2>-OsLCY RNAi plants and Oscrtiso mutants under normal conditions.
 
 * **Connection**  
 

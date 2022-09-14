@@ -3,7 +3,7 @@ layout: post
 title: "Lsi1,OsNIP2;1,OsLsi1"
 description: ""
 category: genes
-tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings, transcription factor, resistance, stress, chilling, transcriptional regulator, tolerance, salt, salt stress]
+tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, xylem, seedlings, transcription factor, resistance, stress, chilling, transcriptional regulator, tolerance, salt, salt stress, leaf, R protein, dwarf, phloem, node, xylem parenchyma]
 ---
 
 * **Information**  
@@ -29,6 +29,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + [Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Altered root structure affects both expression and cellular localization of transporters for mineral element uptake in rice.%5BTitle%5D), 2019, Plant Cell Physiol.
     + [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D), 2020, Plant Physiol Biochem.
     + [Structural basis for high selectivity of a rice silicon channel Lsi1.](http://www.ncbi.nlm.nih.gov/pubmed?term=Structural basis for high selectivity of a rice silicon channel Lsi1.%5BTitle%5D), 2021, Nat Commun.
+    + [Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.%5BTitle%5D), 2022, Plant Cell Physiol.
 
 * **Genbank accession number**  
     + [AB222272](http://www.ncbi.nlm.nih.gov/nuccore/AB222272)
@@ -73,6 +74,9 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice
     + In summary, our results reveal that Si deposition at root endodermis and its resultant reduction of Na+ bypass flow is modulated by OsLsi1 and OsLsi2 and regulated by the expression of OsLsi1 and OsLsi2, implying that root Si deposition could be an active and physiologically-regulated process in rice
     + In this study, we investigated the roles of OsLsi1 and OsLsi2 in Si-induced reduction of bypass flow and its resultant alleviation of salt stress by using lsi1 and lsi2 mutants (defective in OsLsi1 and OsLsi2, respectively) and their wild types (WTs)
+    + When OsLsi1 was ectopically expressed in the shoots, it showed polar localization at the xylem parenchyma cells of the basal node and leaf sheath, but not at the phloem companion cells
+    + The polar localization of both OsLsi1 and OsLsi2 was not altered by Si supply, but their protein abundance was reduced
+    + The polar localization of OsLsi1 and OsLsi2 was not altered by inhibition of clathrin-mediated endocytosis (CME) by dominant-negative induction of dynamin-related protein1A and knockout of mu subunit of adaptor protein 2 complex, although the knockout mutants of OsAP2M gene showed dwarf phenotype
 
 * **Connection**  
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [An efflux transporter of silicon in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=An efflux transporter of silicon in rice%5BTitle%5D), Here we describe a previously uncharacterized gene, low silicon rice 2 (Lsi2), which has no similarity to Lsi1
@@ -103,6 +107,9 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D), Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D),  Moreover, results obtained from root split experiment using lsi1 WT showed down-regulated expression of Si transport genes (OsLsi1 and OsLsi2) in root accelerated Si deposition at root endodermis
     + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Root silicon deposition and its resultant reduction of sodium bypass flow is modulated by OsLsi1 and OsLsi2 in rice%5BTitle%5D),  In summary, our results reveal that Si deposition at root endodermis and its resultant reduction of Na+ bypass flow is modulated by OsLsi1 and OsLsi2 and regulated by the expression of OsLsi1 and OsLsi2, implying that root Si deposition could be an active and physiologically-regulated process in rice
+    + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.%5BTitle%5D),  The polar localization of both OsLsi1 and OsLsi2 was not altered by Si supply, but their protein abundance was reduced
+    + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.%5BTitle%5D),  Double immunostaining showed that localization of OsLsi1 and OsLsi2 was separated at the edge of the lateral polar domain by Casparian strips in the endodermis, whereas they were slightly overlapped at the transversal side of the exodermis
+    + __Lsi1~OsNIP2;1~OsLsi1__, __Lsi2~OsLsi2__, [Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cell-Type-Dependent but CME-Independent Polar Localization of Silicon Transporters in Rice.%5BTitle%5D),  The polar localization of OsLsi1 and OsLsi2 was not altered by inhibition of clathrin-mediated endocytosis (CME) by dominant-negative induction of dynamin-related protein1A and knockout of mu subunit of adaptor protein 2 complex, although the knockout mutants of OsAP2M gene showed dwarf phenotype
 
 [//]: # * **Key figures**  
 
