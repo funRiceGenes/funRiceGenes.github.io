@@ -15,7 +15,7 @@ __A comprehensive database of functionally characterized rice genes__
 * 590+ keywords [[Download↓]](https://funricegenes.github.io/geneKeyword.table.txt)  
 * 7900+ literatures [[Download↓]](https://funricegenes.github.io/reference.table.txt)  
 * 200+ interaction networks [[Download↓]](https://funricegenes.github.io/net.pdf)  
-* Contact: venyao at qq.com   
+* Contact: venyao@qq.com or yaowen@henau.edu.cn  
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 * Interactive application of funRiceGenes: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
 * Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1)  
@@ -33,21 +33,5 @@ __A comprehensive database of functionally characterized rice genes__
 </script>
 </div>
   
-<br>
-__If you find any error information in our database or any functionally characterized rice genes missing from our database, please leave us a message.__
-<form action="http://formspree.io/venyao@qq.com" method="POST" class="dark-matter">
-<label>
-<span>Your Email :</span>
-<input id="email" type="email" name="email" placeholder="Valid Email Address" />
-</label>
-<label>
-<span>Message :</span>
-<textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
-</label>
-<label>
-<span>&nbsp;</span>
-<button type="submit" class="button">Send</button>
-</label>
-</form>
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ydy9wmznml&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
