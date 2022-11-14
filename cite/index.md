@@ -8,6 +8,10 @@ __Please cite our <a href="https://doi.org/10.1186/s12284-022-00569-1" target="_
 
 **Publications that cite the funRiceGenes database:**  
 
+- Beye et al. [Traces of introgression from cAus into tropical Japonica observed in African upland rice varieties](https://www.researchsquare.com/article/rs-2160064/v1), 2022, Research Square.
+- Ahmad et al. [Genomics and transcriptomics to protect rice (Oryza sativa. L.) from abiotic stressors: -pathways to achieving zero hunger](https://doi.org/10.3389/fpls.2022.1002596), 2022, Frontiers in Plant Science.
+- Muvunyi et al. [Identification of Potential Zinc Deficiency Responsive Genes and Regulatory Pathways in Rice by Weighted Gene Co-expression Network Analysis](https://doi.org/10.1016/j.rsci.2022.04.002), 2022, Rice Science.
+- Hackauf et al. [Improving Yield and Yield Stability in Winter Rye by Hybrid Breeding](https://doi.org/10.3390/plants11192666), 2022, Plants.
 - Zhang et al. [The genetic basis for panicle trait variation in switchgrass (Panicum virgatum)](https://doi.org/10.1007/s00122-022-04096-x), 2022, Theoretical and Applied Genetics.
 - Kingsley et al. [Genetic Improvement of Minor Crop Legumes: Prospects of De Novo Domestication](https://www.intechopen.com/online-first/80717), 2022, Legumes Research - Volume 1.
 - Aglyamova et al. [Growing Maize Root: Lectins Involved in Consecutive Stages of Cell Development](https://doi.org/10.3390/plants11141799), 2022, Plants.
