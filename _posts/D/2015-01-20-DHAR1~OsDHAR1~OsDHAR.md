@@ -15,6 +15,7 @@ tags: [seedling, temperature, growth, oxidative stress, oxidative, stress]
     + [Comprehensive expression analysis suggests overlapping and specific roles of rice glutathione S-transferase genes during development and stress responses](http://www.ncbi.nlm.nih.gov/pubmed?term=Comprehensive expression analysis suggests overlapping and specific roles of rice glutathione S-transferase genes during development and stress responses%5BTitle%5D), 2010, BMC Genomics.
     + [Molecular cloning and characterization of a rice dehydroascorbate reductase](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular cloning and characterization of a rice dehydroascorbate reductase%5BTitle%5D), 2000, FEBS Lett.
     + [Expression of Heterologous OsDHAR Gene Improves Glutathione GSH-Dependent Antioxidant System and Maintenance of Cellular Redox Status in Synechococcus elongatus PCC 7942.](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of Heterologous OsDHAR Gene Improves Glutathione GSH-Dependent Antioxidant System and Maintenance of Cellular Redox Status in Synechococcus elongatus PCC 7942.%5BTitle%5D), 2020, Front Plant Sci.
+    + [Over-Expression of Dehydroascorbate Reductase Improves Salt Tolerance, Environmental Adaptability and Productivity in Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=Over-Expression of Dehydroascorbate Reductase Improves Salt Tolerance, Environmental Adaptability and Productivity in Oryza sativa.%5BTitle%5D), 2022, Antioxidants (Basel).
 
 * **Genbank accession number**  
 

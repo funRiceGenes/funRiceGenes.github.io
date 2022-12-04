@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "COMT,OsCOMT,OsCAldOMT1"
+title: "COMT,OsCOMT,OsCAldOMT1,ROMT9"
 description: ""
 category: genes
 tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis, methyltransferase, cell wall, leaf, leaf senescence, senescence, vascular bundle, development, grain, photosynthesis, grain filling, grain yield, yield, vascular development, chlorophyll]
 ---
 
 * **Information**  
-    + Symbol: COMT,OsCOMT,OsCAldOMT1  
+    + Symbol: COMT,OsCOMT,OsCAldOMT1,ROMT9  
     + MSU: [LOC_Os08g06100](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g06100)  
     + RAPdb: [Os08g0157500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0157500)  
 
@@ -18,6 +18,7 @@ tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis
     + [Melatonin biosynthesis requires N-acetylserotonin methyltransferase activity of caffeic acid O-methyltransferase in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Melatonin biosynthesis requires N-acetylserotonin methyltransferase activity of caffeic acid O-methyltransferase in rice.%5BTitle%5D), 2015, J Exp Bot.
     + [OsCAldOMT1 is a bifunctional O-methyltransferase involved in the biosynthesis of tricin-lignins in rice cell walls.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCAldOMT1 is a bifunctional O-methyltransferase involved in the biosynthesis of tricin-lignins in rice cell walls.%5BTitle%5D), 2019, Sci Rep.
     + [OsCOMT, encoding a caffeic acid O-methyltransferase in melatonin biosynthesis, increases rice grain yield through dual regulation of leaf senescence and vascular development.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCOMT, encoding a caffeic acid O-methyltransferase in melatonin biosynthesis, increases rice grain yield through dual regulation of leaf senescence and vascular development.%5BTitle%5D), 2022, Plant Biotechnol J.
+    + [Genetic modification of flavone biosynthesis in rice enhances biofilm formation of soil diazotrophic bacteria and biological nitrogen fixation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic modification of flavone biosynthesis in rice enhances biofilm formation of soil diazotrophic bacteria and biological nitrogen fixation.%5BTitle%5D), 2022, Plant Biotechnol J.
 
 * **Genbank accession number**  
     + [AK064768](http://www.ncbi.nlm.nih.gov/nuccore/AK064768)

@@ -3,7 +3,7 @@ layout: post
 title: "OsGA20ox1,GNP1,SDSFL1"
 description: ""
 category: genes
-tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, cytokinin, inflorescence, GA, leaf, tiller, photosynthesis, stomatal, breeding, height, plant height, tiller number, grain yield, Gibberellin, gibberellin biosynthesis, GA inactivation]
+tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, cytokinin, inflorescence, GA, leaf, tiller, photosynthesis, stomatal, breeding, height, plant height, tiller number, grain yield, Gibberellin, gibberellin biosynthesis, GA inactivation, chilling]
 ---
 
 * **Information**  
@@ -22,6 +22,7 @@ tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, 
     + [Pleiotropic Effect of GNP1 Underlying Grain Number per Panicle on Sink, Source and Flow in Rice ](http://www.ncbi.nlm.nih.gov/pubmed?term=Pleiotropic Effect of GNP1 Underlying Grain Number per Panicle on Sink, Source and Flow in Rice %5BTitle%5D), 2020, Front Plant Sci.
     + [Gene Expression Dynamics in Rice Peduncles at the Heading Stage](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene Expression Dynamics in Rice Peduncles at the Heading Stage%5BTitle%5D), 2020, Front Genet.
     + [IPA1 Negatively Regulates Early Rice Seedling Development by Interfering with Starch Metabolism via the GA and WRKY Pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=IPA1 Negatively Regulates Early Rice Seedling Development by Interfering with Starch Metabolism via the GA and WRKY Pathways%5BTitle%5D), 2021, Int J Mol Sci.
+    + [Time-ordering japonica/geng genomes analysis indicates the importance of large structural variants in rice breeding.](http://www.ncbi.nlm.nih.gov/pubmed?term=Time-ordering japonica/geng genomes analysis indicates the importance of large structural variants in rice breeding.%5BTitle%5D), 2022, Plant Biotechnol J.
 
 * **Genbank accession number**  
     + [U50333](http://www.ncbi.nlm.nih.gov/nuccore/U50333)
@@ -48,6 +49,7 @@ tags: [ ga , gibberellin, dwarf, seedling, panicle, grain, grain number, yield, 
     + To clarify GNP1 effect on sink, source and flow in regulating rice grain yield, we compared Lemont, a japonica (geng) cultivar, with its near-isogenic line (NIL-GNP1 TQ) in Lemont background with introgression of the allele at GNP1 from Teqing, a high-yielding indica (xian) cultivar
     + Our results indicated that significantly increased GNP from introgression of GNP1 TQ into Lemont did not highly significantly improve grain yield of NIL-GNP1 TQ as expected, due primarily to significant low sink activities in IS and possible insufficient source supply which didn't fully meet the increased sink capacity
     + Meanwhile, the expression of GA synthesis-related gene OsGA20ox1 was downregulated, whereas the expression of GA inactivation-related genes was upregulated in ipa1-NIL seeds
+    + Further, the results demonstrated genomic and genetic evidence that the SV in the promoter of LTG1 is accounting for chilling sensitivity, and the increased copy numbers of GNP1 were associated with positive effects on grain number
 
 * **Connection**  
     + __OsGA20ox1~GNP1~SDSFL1__, __sd1~GA20ox2__, [A role of OsGA20ox1 , encoding an isoform of gibberellin 20-oxidase, for regulation of plant stature in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A role of OsGA20ox1 , encoding an isoform of gibberellin 20-oxidase, for regulation of plant stature in rice%5BTitle%5D), This result indicates that not only OsGA20ox2 but also OsGA20ox1 affects plant stature

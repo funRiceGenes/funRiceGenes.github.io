@@ -13,7 +13,7 @@ tags: [grain, seed, starch, map-based cloning, yield, endosperm, grain filling, 
 
 * **Publication**  
     + [OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.%5BTitle%5D), 2018, Plant Biotechnol J.
-    + [OsPKp¦Á1 encodes a plastidic pyruvate kinase that affects starch biosynthesis in the rice endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPKp¦Á1 encodes a plastidic pyruvate kinase that affects starch biosynthesis in the rice endosperm.%5BTitle%5D), 2018, J Integr Plant Biol.
+    + [OsPKpÎ±1 encodes a plastidic pyruvate kinase that affects starch biosynthesis in the rice endosperm.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPKpÎ±1 encodes a plastidic pyruvate kinase that affects starch biosynthesis in the rice endosperm.%5BTitle%5D), 2018, J Integr Plant Biol.
 
 * **Genbank accession number**  
 

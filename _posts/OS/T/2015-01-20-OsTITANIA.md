@@ -18,7 +18,7 @@ tags: [growth, metal transport, transcription factor]
 
 * **Key message**  
     + A rice PHD-finger protein OsTITANIA, is a growth regulator that functions through elevating expression of transporter genes for multiple metals.
-    + OsTTA is required for the maintenance of metal transport©\associated gene expression
+    + OsTTA is required for the maintenance of metal transport‚Äêassociated gene expression
     + These findings establish that OsTTA is a transcription factor that supports basic metal supply to the growing portions of plants and is part of an environmental response mechanism.
 
 * **Connection**  
