@@ -3,7 +3,7 @@ layout: post
 title: "OsRMC,OsRLK"
 description: ""
 category: genes
-tags: [root development, salinity, seed,  ja , transcription factor, root, growth, biomass, salt stress, shoot, seedling, seed germination, salt]
+tags: [root development, salinity, seed,  ja , transcription factor, root, growth, biomass, salt stress, shoot, seedling, seed germination, salt, defense, blast, magnaporthe oryzae, pathogen, cell wall]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [root development, salinity, seed,  ja , transcription factor, root, growt
     + [RNAi knockdown of Oryza sativa root meander curling gene led to altered root development and coiling which were mediated by jasmonic acid signalling in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=RNAi knockdown of Oryza sativa root meander curling gene led to altered root development and coiling which were mediated by jasmonic acid signalling in rice%5BTitle%5D), 2007, Plant Cell Environ.
     + [A receptor-like protein RMC is involved in regulation of iron acquisition in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A receptor-like protein RMC is involved in regulation of iron acquisition in rice%5BTitle%5D), 2013, J Exp Bot.
     + [Identification of an apoplastic protein involved in the initial phase of salt stress response in rice root by two-dimensional electrophoresis](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of an apoplastic protein involved in the initial phase of salt stress response in rice root by two-dimensional electrophoresis%5BTitle%5D), 2009, Plant Physiol.
+    + [Rice apoplastic CBM1-interacting protein counters blast pathogen invasion by binding conserved carbohydrate binding module 1 motif of fungal proteins.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice apoplastic CBM1-interacting protein counters blast pathogen invasion by binding conserved carbohydrate binding module 1 motif of fungal proteins.%5BTitle%5D), 2022, PLoS Pathog.
 
 * **Genbank accession number**  
     + [AK111969](http://www.ncbi.nlm.nih.gov/nuccore/AK111969)
@@ -37,6 +38,9 @@ tags: [root development, salinity, seed,  ja , transcription factor, root, growt
     + These novel findings highlight an important role of OsRMC played in mediation of Fe acquisition and root growth in rice, particularly under Fe-deficient conditions
     + Moreover, overexpression of OsRMC conferred greater accumulation of Fe in mature seeds under Fe-sufficient conditions
     + OsRMC encodes a receptor-like kinase described as a negative regulator of salt stress responses in rice
+    + Remarkably, knockdown and overexpression of OsRMC reduced and enhanced rice defense against M
+    + oryzae, respectively, demonstrating that inhibition of CBM1-containing fungal enzymes by OsRMC is crucial for rice defense
+    + Here, we show that the rice cysteine-rich repeat secretion protein OsRMC binds to and inhibits xylanase MoCel10A of the blast fungus pathogen Magnaporthe oryzae, interfering with its access to the rice cell wall and degradation of rice xylan
 
 * **Connection**  
     + __OsIRO2~OsbHLH056__, __OsRMC~OsRLK__, [A receptor-like protein RMC is involved in regulation of iron acquisition in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A receptor-like protein RMC is involved in regulation of iron acquisition in rice%5BTitle%5D), Several Fe deficiency-responsive genes including OsDMAS1, OsNAS1, OsNAS2, OsNAAT1, OsIRT1, OsYSL15, and OsIRO2 were up- and downregulated in OsRMC-overexpressing and RNAi plants compared with WT rice plants

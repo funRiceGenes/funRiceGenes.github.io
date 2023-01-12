@@ -5,6 +5,651 @@ comments: no
 thread: 616
 ---
 
+* 2023/Jan/12 add new info for gene: OsSWEET14
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsSAC3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 OsXDH == OsSAC3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsCDPK1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsFBX257
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 OsMsr9 == OsFBX257
+* 2023/Jan/12 add new info for gene: OsPP2C08
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsPP2C08
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsMYB3R2-L
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsMYB3R1-L
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsMYB3R1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsMAP65-3.2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsMAP65-3.1
+* 2023/Jan/12 add new info for gene: SAPK9
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsAOC
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsMADS23
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsMADS23
+* 2023/Jan/12 add new info for gene: OsPUB16
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 OsPIE3 == OsPUB16
+* 2023/Jan/12 add new info for gene: DLT
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: WG3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 OsGRAS19 == OsSCL7 == WG3
+* 2023/Jan/12 add new info for gene: OsABI5
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsPRR95
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: Xa47
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: Xa47
+* 2023/Jan/12 add new info for gene: OsPIE3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsPIE3
+* 2023/Jan/12 add new info for gene: OsDIAT
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsDIAT
+* 2023/Jan/12 add new info for gene: OsACE1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsACE1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsDREB2B
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsAP2-39
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsHAL3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: STH1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: STH1
+* 2023/Jan/12 add new info for gene: OsCESA9
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 OsSCD2 == OsCEF3
+* 2023/Jan/12 add new info for gene: OsPKS2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsROS1a
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 ROS1a == OsROS1a
+* 2023/Jan/12 add new info for gene: OsDRB2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsDRB2
+* 2023/Jan/12 add new info for gene: OsZIP10
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsZIP10
+* 2023/Jan/12 add new info for gene: OsZIP7
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsNAC15
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsNAC15
+* 2023/Jan/12 add new info for gene: OsHKT1;5
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsNHX4
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsWRKY54
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsWRKY54
+* 2023/Jan/12 add new info for gene: OsCYP2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsCML4
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsCML4
+* 2023/Jan/12 add new info for gene: miR2275
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: miR2275
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsAGO1d
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: NOG1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsEIL2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsEBF1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsUBP2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 OsLMP1 == OsUBP2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsMKKK62
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsMKKK55
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 OsMAPKKK55 == OsMKKK55
+* 2023/Jan/12 OsNPK1-PK == OsMAPKKK62 == OsMKKK62
+* 2023/Jan/12 add new info for gene: OsSLR1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsMKKK70
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsCG5
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsCG5
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsCBL8
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsPP2C77
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsSPL26
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsSPL26
+* 2023/Jan/12 add new info for gene: OsNYC3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsMADS58
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsMOS1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsMOS1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsNIA2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsNIA1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: RHS1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: RHS1
+* 2023/Jan/12 add new info for gene: OsLCD
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsZAS2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsZAS2
+* 2023/Jan/12 add new info for gene: OsZAS1c
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsZAS1c
+* 2023/Jan/12 add new info for gene: OsZAS1b
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsZAS1b
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsNAC4
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsKS4
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: YLC3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: YLC3
+* 2023/Jan/12 add new info for gene: OsRSL3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsRSL3
+* 2023/Jan/12 add new info for gene: OsLHY
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsCBL8
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsCIPK7
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsCIPK7
+* 2023/Jan/12 add new info for gene: OsCRT3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsCRT3
+* 2023/Jan/12 add new info for gene: OsVIT2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsMPK1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsRbohB
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsFER2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsRACK1A
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsrbohB
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsRIP1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: Os4CL3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsSWN1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: Hd3a
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsHAP5C
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: Ghd8
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsTPS1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsEIL1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsEBF1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsEBF2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsEBF2
+* 2023/Jan/12 add new keywords for OsSOAR1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new gene: OsSOAR1
+* 2023/Jan/12 add new info for gene: OsMET1-2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsPT2
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: FLR1
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsCSLD4
+* 2023/Jan/12 add new pub.
+* 2023/Jan/12 add new info for gene: OsNCED3
+* 2023/Jan/12 add new pub.
+* 2023/Jan/11 add new info for gene: OsHKT1;5
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsBAG4
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsMYB106
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsHKT2;1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsHKT1;1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsbZIP05
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsDREB1B
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsAP37
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsCOX11
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsPHT1;2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsWRKY10
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsGID1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: SLR1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsBRI1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsBSK1-1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsGSK2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: UGT2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: UGT2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsPBZ1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsPBZ1
+* 2023/Jan/11 add new info for gene: OsNLP2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsNUDX2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsNUDX2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsPYL10
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsNCED3
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsABT
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 GORI == OsABT
+* 2023/Jan/11 add new keywords for OsTBP2.1
+* 2023/Jan/11 add new keywords for OsTBP2.1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsTBP2.1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsHsfB4b
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsHsfB4d
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsSPL12
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: Os4CL4
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: Os4CL3
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsCPS1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsZHD1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsZHD2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 TCD3 == OsPUS1
+* 2023/Jan/11 add new info for gene: OsGER4
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsGER4
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsLFNR1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsTROL1
+* 2023/Jan/11 add new info for gene: TWINKLE
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: TWINKLE
+* 2023/Jan/11 add new info for gene: RECA3
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: RECA3
+* 2023/Jan/11 add new info for gene: TA1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: TA1
+* 2023/Jan/11 add new info for gene: OsPHS1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsPHS1
+* 2023/Jan/11 add new info for gene: OsINH2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsINH2
+* 2023/Jan/11 add new info for gene: OsINH3
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsINH3
+* 2023/Jan/11 add new info for gene: OsNIP1;2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsNIP1;2
+* 2023/Jan/11 add new info for gene: OsRMC
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsEIL1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsEIN2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsHOX3
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 SGD2 == OsHOX3
+* 2023/Jan/11 add new info for gene: OsGF14h
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsGF14h
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: BZR1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: PHYB
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: CAD8B
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: CAD8B
+* 2023/Jan/11 add new info for gene: NAC028
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: NAC028
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: Sec23c
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: Sec23c
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: SD6
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: SD6
+* 2023/Jan/11 add new info for gene: OsbHLH048
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsbHLH048
+* 2023/Jan/11 add new info for gene: OsPIN1b
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: PAA7
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 FZP == BFL1 == SGDP7 == PAA7
+* 2023/Jan/11 add new keywords for OsLPAT2
+* 2023/Jan/11 add new keywords for OsLPAT2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsLPAT2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsDMC1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsRAD51
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsCKX3
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsCKX3
+* 2023/Jan/11 add new keywords for OsACCase
+* 2023/Jan/11 add new keywords for OsACCase
+* 2023/Jan/11 add new keywords for OsACCase
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsACCase
+* 2023/Jan/11 add new info for gene: OsSKL2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsSKL2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new keywords for OsARF2
+* 2023/Jan/11 add new keywords for OsARF2
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsARF2
+* 2023/Jan/11 add new info for gene: OsTTG1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new gene: OsTTG1
+* 2023/Jan/11 add new info for gene: OsEPF1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: TL1
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 Du13 == TL1
+* 2023/Jan/11 add new info for gene: DL
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new pub.
+* 2023/Jan/11 add new info for gene: OsERF101
+* 2023/Jan/11 add new pub.
+* 2023/Jan/10 add new info for gene: OsNRAMP5
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsPUB3
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsALMT7
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: TAP
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: TAP
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsSOG1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: OsSOG1
+* 2023/Jan/10 add new info for gene: OsGSL5
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: HDA703
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: HDA703
+* 2023/Jan/10 add new keywords for OsMUS81
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsSUT2
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsSWEET4
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: GFD1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 GS3.1 == DG1 == GFD1
+* 2023/Jan/10 add new info for gene: OsCOI1b
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsCOI1a
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsCOI2
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsJAZ2
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: OsJAZ2
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 OsARF18 == RST1
+* 2023/Jan/10 add new info for gene: OsDWD1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: OsDWD1
+* 2023/Jan/10 add new info for gene: GSK2
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: TUD1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsGLK1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 OsbHLH061 == OsbHLHq11
+* 2023/Jan/10 add new info for gene: WRKY45
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: ARF8
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: Osa-miR160a
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: Osa-miR160a
+* 2023/Jan/10 add new info for gene: OsPRR95
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsPRR59
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: PWA1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 AMD1 == PWA1
+* 2023/Jan/10 add new info for gene: OsCAldOMT1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsCAD2
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: OsbHLH044
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: LGW
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 BC12 == GDD1 == YD1 == LGW
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 NAL1 == qFLW4 == LVPA4
+* 2023/Jan/10 add new info for gene: OsGH3-8
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 MEG1 == OsIKU2
+* 2023/Jan/10 add new info for gene: OsDML4
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: OsDML4
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new info for gene: qHD5
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 RSR1 == qHD5
+* 2023/Jan/10 add new info for gene: OsHIPP16
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: OsHIPP16
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: OsVDE
+* 2023/Jan/10 add new info for gene: OsZEP
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 ZEP1 == OsZEP
+* 2023/Jan/10 add new info for gene: TMS5
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 add new gene: OsNF-YC8
+* 2023/Jan/10 add new info for gene: OsRACK1B
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 RACK1B == OsWD40-122 == OsRACK1B
+* 2023/Jan/10 add new info for gene: LTR1
+* 2023/Jan/10 add new pub.
+* 2023/Jan/10 OsCER1 == OsGL1-4 == LTR1
+* 2023/Jan/9 add new info for gene: OsWRKY114
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: OsDDB1
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: OsDET1
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: OsCOP10
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: OsCOP10
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: OsXAXT1
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 OsGRDP1 == LSL1
+* 2023/Jan/9 add new info for gene: SG5
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 sh4 == SHA1 == SG5
+* 2023/Jan/9 add new info for gene: TDR
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: Udt1
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: SLR1
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 FIB == TSG1 == OsFIB == MHZ10 == OsTAR2
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: OsIAA1
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: OsIAA31
+* 2023/Jan/9 add new info for gene: OsIAA21
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: OsIAA21
+* 2023/Jan/9 add new info for gene: OsDOF27
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: OsDOF27
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: OsAT10
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: OsRLK10
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: OsRLK10
+* 2023/Jan/9 add new keywords for OsbHLH057
+* 2023/Jan/9 add new keywords for OsbHLH057
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: OsAGO2
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new info for gene: miR1875
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: miR1875
+* 2023/Jan/9 add new info for gene: OsPRMT5
+* 2023/Jan/9 add new pub.
+* 2023/Jan/9 add new gene: OsPRMT5
+* 2022/Dec/4 add new keywords for miR167d
+* 2022/Dec/4 add new keywords for OsARF12
+* 2022/Dec/4 add new keywords for OsARF17
+* 2022/Dec/4 add new keywords for OsARF25
+* 2022/Dec/4 add new keywords for OsARF25
+* 2022/Dec/4 add new keywords for OsARF17
+* 2022/Dec/4 add new keywords for OsARF12
+* 2022/Dec/4 add new keywords for miR167d
+* 2022/Dec/4 add new info for gene: miR167d
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new gene: miR167d
+* 2022/Dec/4 add new keywords for ARF6
+* 2022/Dec/4 add new keywords for ARF6
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new gene: ARF6
+* 2022/Dec/4 add new info for gene: OsZAS
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new gene: OsZAS
+* 2022/Dec/4 add new info for gene: OsGLK1
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new info for gene: OsNAC17
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new gene: OsNAC17
+* 2022/Dec/4 add new info for gene: STRIPE3
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 WFSL1 == STRIPE3
+* 2022/Dec/4 add new info for gene: OsVP1
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new info for gene: OsTZF1
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 add new info for gene: OsSPL88
+* 2022/Dec/4 add new pub.
+* 2022/Dec/4 OsCUL3a == OsSPL88
+* 2022/Dec/4 add new info for gene: OsWRKY114
+* 2022/Dec/4 add new pub.
 * 2022/Nov/19 add new info for gene: OsDREB1C
 * 2022/Nov/19 add new pub.
 * 2022/Nov/19 add new gene: OsDREB1C

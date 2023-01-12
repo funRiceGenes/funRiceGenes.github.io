@@ -3,7 +3,7 @@ layout: post
 title: "OsCYP2,OsCyp2-P,LRT2"
 description: ""
 category: genes
-tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic stress, growth, root, shoot, homeostasis, tolerance, stress, development, root development, iaa, zinc, R protein, nucleus, IAA, root initiation]
+tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic stress, growth, root, shoot, homeostasis, tolerance, stress, development, root development, iaa, zinc, R protein, nucleus, IAA, root initiation, transcription factor]
 ---
 
 * **Information**  
@@ -20,6 +20,7 @@ tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic st
     + [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D), 2015, Nat Commun.
     + [A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=A zinc finger protein, interacted with cyclophilin, affects root development via IAA pathway in rice.%5BTitle%5D), 2017, J Integr Plant Biol.
     + [Quantification of reaction cycle parameters for an essential molecular switch in an auxin-responsive transcription circuit in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Quantification of reaction cycle parameters for an essential molecular switch in an auxin-responsive transcription circuit in rice.%5BTitle%5D), 2019, Proc Natl Acad Sci U S A.
+    + [Binding of the transcription factor MYC2-like to the ABRE of the OsCYP2 promoter enhances salt tolerance in Oryza sativa.](http://www.ncbi.nlm.nih.gov/pubmed?term=Binding of the transcription factor MYC2-like to the ABRE of the OsCYP2 promoter enhances salt tolerance in Oryza sativa.%5BTitle%5D), 2022, PLoS One.
 
 * **Genbank accession number**  
     + [AK061894](http://www.ncbi.nlm.nih.gov/nuccore/AK061894)
@@ -44,6 +45,7 @@ tags: [lateral root, seedling, salt, salt tolerance, salinity, auxin, abiotic st
     + Yeast two-hybrid and glutathione S-transferase pull-down results confirmed that OsCYP2 interacted with a C2HC-type zinc finger protein (OsZFP, Os01g0252900) which is located in the rice nucleus
     + In rice, a tryptophan-proline (W-P) cis-trans switch in transcription repressor protein OsIAA11 along with its associated cyclophilin LRT2 are essential components in a negative feedback gene regulation circuit that controls lateral root initiation in response to the plant hormone auxin
     + Here we present NMR studies that determine and independently validate these parameters for LRT2 catalysis of the W-P motif in OsIAA11, providing predictive power for understanding the role of this switch in the auxin-responsive circuit and the resulting lateral rootless phenotype in rice
+    + Binding of the transcription factor MYC2-like to the ABRE of the OsCYP2 promoter enhances salt tolerance in Oryza sativa.
 
 * **Connection**  
     + __OsCYP2~OsCyp2-P~LRT2__, __OsIAA11__, [Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Peptidyl-prolyl isomerization targets rice Aux/IAAs for proteasomal degradation during auxin signalling.%5BTitle%5D), Here we show that peptidyl-prolyl isomerization of rice OsIAA11 catalysed by LATERAL ROOTLESS2 (LRT2), a cyclophilin-type peptidyl-prolyl cis/trans isomerase, directly regulates the stability of OsIAA11

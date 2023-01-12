@@ -3,7 +3,7 @@ layout: post
 title: "OsSUT2,OsSUT2M"
 description: ""
 category: genes
-tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, vegetative, flower, tiller number, lateral root, grain weight, seed development, height, pollen]
+tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, vegetative, flower, tiller number, lateral root, grain weight, seed development, height, pollen, grain size, grain number, sugar, plasma membrane, grain-filling, sugar transport]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
     + [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), 2008, J Integr Plant Biol.
     + [The sucrose transporter gene family in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The sucrose transporter gene family in rice%5BTitle%5D), 2003, Plant Cell Physiol.
     + [OsRRM, an RNA-Binding Protein, Modulates Sugar Transport in Rice  Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRRM, an RNA-Binding Protein, Modulates Sugar Transport in Rice  Oryza sativa L.%5BTitle%5D), 2020, Front Plant Sci.
+    + [MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.%5BTitle%5D), 2022, Plant Biotechnol J.
 
 * **Genbank accession number**  
     + [DQ072592](http://www.ncbi.nlm.nih.gov/nuccore/DQ072592)
@@ -35,6 +36,8 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
     + These data presented suggest that bothOsSUT2andOsMST5 play a role during the development at the early stage of the seed development
     + In this paper we report the identification, cloning and expression analysis of four putative sucrose transporter (SUT) genes from rice, designated OsSUT2, 3, 4 and 5
     + In situ hybridization analysis showed thatOsSUT2transcript is specific to the developing pollen
+    + Genetic analyses showed that GFD1 might control grain-filling duration through OsSWEET4, adjust grain size with OsSUT2 and synergistically modulate grain number per panicle with both OsSUT2 and OsSWEET4
+    + GFD1 protein was partially localized on the plasma membrane and in the Golgi apparatus, and was finally verified to interact with two sugar transporters, OsSWEET4 and OsSUT2
 
 * **Connection**  
     + __OsMST5__, __OsSUT2~OsSUT2M__, [Sugar transporters involved in flowering and grain development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar transporters involved in flowering and grain development of rice%5BTitle%5D), To investigate sugar transport processes during flowering and in developing grains of rice, we newly isolated two genomic clonesOsSUT2(Oryzasativasucrosetransporter 2) andOsMST5(Oryzasativamonosaccharidetransporter 5) and their corresponding cDNAs
@@ -47,6 +50,10 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
     + __OsSUT2~OsSUT2M__, __OsSUT5~OsSUT5Z__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), Semi-quantitative RT-PCR was carried out to investigate the gene expression patterns of OsSUT2M and OsSUT5Z
     + __OsSUT2~OsSUT2M__, __OsSUT5~OsSUT5Z__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), In vegetative organs, transcripts of OsSUT2M were higher in source leaf blades than in other organs at the same development stage, whereas transcripts of OsSUT5Z were less traceable in all organs investigated
     + __OsSUT2~OsSUT2M__, __OsSUT5~OsSUT5Z__, [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z
+    + __GS3.1~DG1~GFD1__, __OsSUT2~OsSUT2M__, [MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.%5BTitle%5D),  GFD1 protein was partially localized on the plasma membrane and in the Golgi apparatus, and was finally verified to interact with two sugar transporters, OsSWEET4 and OsSUT2
+    + __GS3.1~DG1~GFD1__, __OsSUT2~OsSUT2M__, [MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.%5BTitle%5D),  Genetic analyses showed that GFD1 might control grain-filling duration through OsSWEET4, adjust grain size with OsSUT2 and synergistically modulate grain number per panicle with both OsSUT2 and OsSWEET4
+    + __OsSUT2~OsSUT2M__, __OsSWEET4__, [MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.%5BTitle%5D),  GFD1 protein was partially localized on the plasma membrane and in the Golgi apparatus, and was finally verified to interact with two sugar transporters, OsSWEET4 and OsSUT2
+    + __OsSUT2~OsSUT2M__, __OsSWEET4__, [MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=MATE transporter GFD1 cooperates with sugar transporters, mediates carbohydrate partitioning and controls grain-filling duration, grain size and number in rice.%5BTitle%5D),  Genetic analyses showed that GFD1 might control grain-filling duration through OsSWEET4, adjust grain size with OsSUT2 and synergistically modulate grain number per panicle with both OsSUT2 and OsSWEET4
 
 [//]: # * **Key figures**  
 

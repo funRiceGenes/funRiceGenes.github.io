@@ -3,7 +3,7 @@ layout: post
 title: "OsCPS,OsCPS1"
 description: ""
 category: genes
-tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA deficiency, GA biosynthesis]
+tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA deficiency, GA biosynthesis, seedling, domestication]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA defici
     + [gid1, a gibberellin-insensitive dwarf mutant, shows altered regulation of probenazole-inducible protein PBZ1 in response to cold stress and pathogen attack](http://www.ncbi.nlm.nih.gov/pubmed?term=gid1, a gibberellin-insensitive dwarf mutant, shows altered regulation of probenazole-inducible protein PBZ1 in response to cold stress and pathogen attack%5BTitle%5D), 2006, Plant, Cell and Environment.
     + [Biological functions of ent- and syn-copalyl diphosphate synthases in rice: key enzymes for the branch point of gibberellin and phytoalexin biosynthesis](http://www.ncbi.nlm.nih.gov/pubmed?term=Biological functions of ent- and syn-copalyl diphosphate synthases in rice: key enzymes for the branch point of gibberellin and phytoalexin biosynthesis%5BTitle%5D), 2004, Plant J.
     + [Transcripts of two ent-copalyl diphosphate synthase genes differentially localize in rice plants according to their distinct biological roles](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcripts of two ent-copalyl diphosphate synthase genes differentially localize in rice plants according to their distinct biological roles%5BTitle%5D), 2014, J Exp Bot.
+    + [Genome-wide association mapping and gene expression analysis identify OsCPS1 as a new candidate gene controlling early seedling length in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide association mapping and gene expression analysis identify OsCPS1 as a new candidate gene controlling early seedling length in rice.%5BTitle%5D), 2022, Front Plant Sci.
 
 * **Genbank accession number**  
     + [AB126932](http://www.ncbi.nlm.nih.gov/nuccore/AB126932)
@@ -36,6 +37,8 @@ tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA defici
     + The results indicate that transcripts of the two ent-CDP synthase genes differentially localize in rice plants according to their distinct biological roles, OsCPS1 for growth and OsCPS2 for defence.
     + It has been shown previously that loss-of-function OsCPS1 mutants display a severe dwarf phenotype caused by GA deficiency despite possessing another ent-CDP synthase gene, OsCPS2.
     + It has been thought that OsCPS1 participates in GA biosynthesis, while OsCPS2 participates in the biosynthesis of phytoalexins, phytocassanes A-E, and oryzalexins A-F.
+    + Genome-wide association mapping and gene expression analysis identify OsCPS1 as a new candidate gene controlling early seedling length in rice.
+    + Population analysis across wild rice, indica and japonica, suggested that OsCPS1 may be under selection in japonica during domestication
 
 * **Connection**  
     + __OsCPS~OsCPS1__, __OsKS1__, [Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice%5BTitle%5D), The expression levels of gibberellin (GA) biosynthetic genes including OsCPS1, OsKS1, OsKO1, OsKAO, OsGA20ox2/SD1 and OsGA2ox3 were significantly increased in d62 mutant

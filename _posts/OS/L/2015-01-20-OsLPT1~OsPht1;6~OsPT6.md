@@ -21,6 +21,7 @@ tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root]
     + [Modulation of nitrate-induced phosphate response by the MYB transcription factor RLI1/HINGE1 in the nucleus](http://www.ncbi.nlm.nih.gov/pubmed?term=Modulation of nitrate-induced phosphate response by the MYB transcription factor RLI1/HINGE1 in the nucleus%5BTitle%5D), 2020, Mol Plant.
     + [Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphate-Starvation-Inducible S-Like RNase Genes in Rice Are Involved in Phosphate Source Recycling by RNA Decay%5BTitle%5D), 2020, Front Plant Sci.
     + [Trait variations and expression profiling of OsPHT1 gene family at the early growth-stages under phosphorus-limited conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Trait variations and expression profiling of OsPHT1 gene family at the early growth-stages under phosphorus-limited conditions%5BTitle%5D), 2021, Sci Rep.
+    + [Ammonium improved cell wall and cell membrane P reutilization and external P uptake in a putrescine and ethylene dependent pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=Ammonium improved cell wall and cell membrane P reutilization and external P uptake in a putrescine and ethylene dependent pathway.%5BTitle%5D), 2022, Plant Physiol Biochem.
 
 * **Genbank accession number**  
     + [AF536966](http://www.ncbi.nlm.nih.gov/nuccore/AF536966)

@@ -3,7 +3,7 @@ layout: post
 title: "OsZIP7a,OsZIP7"
 description: ""
 category: genes
-tags: [transporter, root, zinc, shoot, iron, plasma membrane, xylem, vascular bundle, grain, homeostasis, Fe]
+tags: [transporter, root, zinc, shoot, iron, plasma membrane, xylem, vascular bundle, grain, homeostasis, Fe, tolerance, cadmium]
 ---
 
 * **Information**  
@@ -17,6 +17,7 @@ tags: [transporter, root, zinc, shoot, iron, plasma membrane, xylem, vascular bu
     + [OsZIP7 functions in xylem loading in roots and inter-vascular transfer in nodes to deliver Zn/Cd to grain in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsZIP7 functions in xylem loading in roots and inter-vascular transfer in nodes to deliver Zn/Cd to grain in rice.%5BTitle%5D), 2019, Biochem Biophys Res Commun.
     + [Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations ](http://www.ncbi.nlm.nih.gov/pubmed?term=Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations %5BTitle%5D), 2020, Physiol Mol Biol Plants.
     + [Comparative transcriptome profile analysis of rice varieties with different tolerance to zinc deficiency](http://www.ncbi.nlm.nih.gov/pubmed?term=Comparative transcriptome profile analysis of rice varieties with different tolerance to zinc deficiency%5BTitle%5D), 2020, Plant Biol (Stuttg).
+    + [OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.%5BTitle%5D), 2022, Int J Mol Sci.
 
 * **Genbank accession number**  
 
@@ -33,6 +34,8 @@ tags: [transporter, root, zinc, shoot, iron, plasma membrane, xylem, vascular bu
     + Our data suggest that OsZIP7 is important for Zn homeostasis under physiological Zn concentrations, and that Fe homeostasis might be affected due to loss of function of OsZIP7
     + Here we describe a Tos17 loss-of-function line for the Zn plasma membrane transporter OsZIP7 (oszip7)
     + On the other hand, we found that Zn excess is more deleterious to oszip7 plants compared to wild type, which may be linked to secondary effects in concentrations of other elements such as Fe
+    + OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.
+    + The yeast one-hybrid assay, transient transcriptional activity assay using the dual-luciferase reporter system and electrophoretic mobility shift assay demonstrated that OsNAC15 directly binds to the zinc deficiency-responsive element motifs in the promoters of OsZIP7 and OsZIP10 to repress their transcriptions
 
 * **Connection**  
     + __OsZIP7a~OsZIP7__, __OsZIP8__, [Cloning and functional identification of two members of the ZIP Zrt, Irt-like protein gene family in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and functional identification of two members of the ZIP Zrt, Irt-like protein gene family in rice Oryza sativa L.%5BTitle%5D), ) by RT-PCR approach, and named as OsZIP7a and OsZIP8 respectively
@@ -53,6 +56,10 @@ tags: [transporter, root, zinc, shoot, iron, plasma membrane, xylem, vascular bu
     + __OsZIP7a~OsZIP7__, __ZN__, [Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations ](http://www.ncbi.nlm.nih.gov/pubmed?term=Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations %5BTitle%5D),  We also demonstrated that, upon Zn deficiency, oszip7 plants slightly increase their photosynthetic performance, suggesting that these plants might be primed for Zn deficiency which makes them more tolerant
     + __OsZIP7a~OsZIP7__, __ZN__, [Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations ](http://www.ncbi.nlm.nih.gov/pubmed?term=Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations %5BTitle%5D),  On the other hand, we found that Zn excess is more deleterious to oszip7 plants compared to wild type, which may be linked to secondary effects in concentrations of other elements such as Fe
     + __OsZIP7a~OsZIP7__, __ZN__, [Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations ](http://www.ncbi.nlm.nih.gov/pubmed?term=Physiological responses of rice  Oryza sativa L. oszip7 loss-of-function plants exposed to varying Zn concentrations %5BTitle%5D),  Our data suggest that OsZIP7 is important for Zn homeostasis under physiological Zn concentrations, and that Fe homeostasis might be affected due to loss of function of OsZIP7
+    + __OsNAC15__, __OsZIP7a~OsZIP7__, [OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.%5BTitle%5D), OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.
+    + __OsNAC15__, __OsZIP7a~OsZIP7__, [OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.%5BTitle%5D),  The yeast one-hybrid assay, transient transcriptional activity assay using the dual-luciferase reporter system and electrophoretic mobility shift assay demonstrated that OsNAC15 directly binds to the zinc deficiency-responsive element motifs in the promoters of OsZIP7 and OsZIP10 to repress their transcriptions
+    + __OsZIP10__, __OsZIP7a~OsZIP7__, [OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.%5BTitle%5D), OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.
+    + __OsZIP10__, __OsZIP7a~OsZIP7__, [OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsNAC15 Regulates Tolerance to Zinc Deficiency and Cadmium by Binding to OsZIP7 and OsZIP10 in Rice.%5BTitle%5D),  The yeast one-hybrid assay, transient transcriptional activity assay using the dual-luciferase reporter system and electrophoretic mobility shift assay demonstrated that OsNAC15 directly binds to the zinc deficiency-responsive element motifs in the promoters of OsZIP7 and OsZIP10 to repress their transcriptions
 
 [//]: # * **Key figures**  
 

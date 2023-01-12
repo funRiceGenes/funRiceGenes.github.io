@@ -3,7 +3,7 @@ layout: post
 title: "DLT,OsGRAS-32,D62,GS6,SMOS2"
 description: ""
 category: genes
-tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, gibberellin,  ga , panicle, tiller, brassinosteroid, grain width, endosperm, stem, grain, yield, root, seedlings, BR, internode elongation]
+tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, gibberellin,  ga , panicle, tiller, brassinosteroid, grain width, endosperm, stem, grain, yield, root, seedlings, BR, internode elongation, Brassinosteroid, Brassinosteroid Signaling]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
     + [GS6, a member of the GRAS gene family, negatively regulates grain size in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=GS6, a member of the GRAS gene family, negatively regulates grain size in rice%5BTitle%5D), 2013, J Integr Plant Biol.
     + [OrMKK3 Influences Morphology and Grain Size in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OrMKK3 Influences Morphology and Grain Size in Rice%5BTitle%5D), 2021, J Plant Biol.
     + [Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.%5BTitle%5D), 2021, Plant Cell.
+    + [Wide Grain 3, a GRAS Protein, Interacts with DLT to Regulate Grain Size and Brassinosteroid Signaling in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Wide Grain 3, a GRAS Protein, Interacts with DLT to Regulate Grain Size and Brassinosteroid Signaling in Rice.%5BTitle%5D), 2022, Rice (N Y).
 
 * **Genbank accession number**  
     + [AK106449](http://www.ncbi.nlm.nih.gov/nuccore/AK106449)
@@ -46,6 +47,8 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
     + DLT physically interacts with OSH15 to co-regulate many genes in seedlings and internodes
     + OSH15 targets and promotes the expression of the BR receptor gene BR INSENSITIVE1 (OsBRI1), and DLT facilitates this regulation in a dosage-dependent manner
     + Taken together, our results suggest that DLT interacts with OSH15, which functions in the lower internodes, to modulate rice internode elongation via orchestrating BR signaling and metabolism
+    + Wide Grain 3, a GRAS Protein, Interacts with DLT to Regulate Grain Size and Brassinosteroid Signaling in Rice.
+    + Moreover, we found that WG3 directly interacts with DWARF AND LOW-TILLERING (DLT), a previously reported GRAS protein, and a genetic experiment demonstrated that WG3 and DLT function in a common pathway to regulate grain size
 
 * **Connection**  
     + __DLT~OsGRAS-32~D62~GS6~SMOS2__, __OsKOS4~OsKO1__, [Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice%5BTitle%5D), The expression levels of gibberellin (GA) biosynthetic genes including OsCPS1, OsKS1, OsKO1, OsKAO, OsGA20ox2/SD1 and OsGA2ox3 were significantly increased in d62 mutant
@@ -71,6 +74,7 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
     + __D6~OSH15~Oskn3~RLB__, __DLT~OsGRAS-32~D62~GS6~SMOS2__, [Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.%5BTitle%5D),  In osh15, dlt, and osh15 dlt, BR levels are higher in seedlings and panicles, but unexpectedly lower in internodes compared with the wild-type
     + __D6~OSH15~Oskn3~RLB__, __DLT~OsGRAS-32~D62~GS6~SMOS2__, [Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.%5BTitle%5D),  Taken together, our results suggest that DLT interacts with OSH15, which functions in the lower internodes, to modulate rice internode elongation via orchestrating BR signaling and metabolism
     + __D61~OsBRI1~OsBRKq1__, __DLT~OsGRAS-32~D62~GS6~SMOS2__, [Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice DWARF AND LOW-TILLERING and the homeodomain protein OSH15 interact to regulate internode elongation via orchestrating brassinosteroid signaling and metabolism.%5BTitle%5D),  OSH15 targets and promotes the expression of the BR receptor gene BR INSENSITIVE1 (OsBRI1), and DLT facilitates this regulation in a dosage-dependent manner
+    + __DLT~OsGRAS-32~D62~GS6~SMOS2__, __OsGRAS19~OsSCL7~WG3__, [Wide Grain 3, a GRAS Protein, Interacts with DLT to Regulate Grain Size and Brassinosteroid Signaling in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Wide Grain 3, a GRAS Protein, Interacts with DLT to Regulate Grain Size and Brassinosteroid Signaling in Rice.%5BTitle%5D),  Moreover, we found that WG3 directly interacts with DWARF AND LOW-TILLERING (DLT), a previously reported GRAS protein, and a genetic experiment demonstrated that WG3 and DLT function in a common pathway to regulate grain size
 
 [//]: # * **Key figures**  
 

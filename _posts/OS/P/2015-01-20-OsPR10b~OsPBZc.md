@@ -14,6 +14,7 @@ tags:
 * **Publication**  
     + [A novel rice PR10 protein, RSOsPR10, specifically induced in roots by biotic and abiotic stresses, possibly via the jasmonic acid signaling pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel rice PR10 protein, RSOsPR10, specifically induced in roots by biotic and abiotic stresses, possibly via the jasmonic acid signaling pathway%5BTitle%5D), 2004, Plant Cell Physiol.
     + [Identification of a small set of genes commonly regulated in rice roots in response to beneficial rhizobacteria](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of a small set of genes commonly regulated in rice roots in response to beneficial rhizobacteria%5BTitle%5D), 2020, Physiol Mol Biol Plants.
+    + [A histone deacetylase inhibitor enhances rice immunity by derepressing the expression of defense-related genes.](http://www.ncbi.nlm.nih.gov/pubmed?term=A histone deacetylase inhibitor enhances rice immunity by derepressing the expression of defense-related genes.%5BTitle%5D), 2022, Front Plant Sci.
 
 * **Genbank accession number**  
 

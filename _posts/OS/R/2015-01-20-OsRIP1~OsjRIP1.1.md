@@ -3,7 +3,7 @@ layout: post
 title: "OsRIP1,OsjRIP1.1"
 description: ""
 category: genes
-tags: [defense, insect, brown planthopper, phloem, cell death, plasma membrane]
+tags: [defense, insect, brown planthopper, phloem, cell death, plasma membrane, growth]
 ---
 
 * **Information**  
@@ -15,6 +15,7 @@ tags: [defense, insect, brown planthopper, phloem, cell death, plasma membrane]
     + [Involvement of OsRIP1, a ribosome-inactivating protein from rice, in plant defense against Nilaparvata lugens.](http://www.ncbi.nlm.nih.gov/pubmed?term=Involvement of OsRIP1, a ribosome-inactivating protein from rice, in plant defense against Nilaparvata lugens.%5BTitle%5D), 2019, Phytochemistry.
     + [Effect of RIP Overexpression on Abiotic Stress Tolerance and Development of Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Effect of RIP Overexpression on Abiotic Stress Tolerance and Development of Rice%5BTitle%5D), 2021, Int J Mol Sci.
     + [The type-1 ribosome inactivating protein OsRIP1 triggers caspase-independent apoptotic-like death in HeLa cells.](http://www.ncbi.nlm.nih.gov/pubmed?term=The type-1 ribosome inactivating protein OsRIP1 triggers caspase-independent apoptotic-like death in HeLa cells.%5BTitle%5D), 2021, Food Chem Toxicol.
+    + [Differential effects of the recombinant type 1 ribosome-inactivating protein, OsRIP1, on growth of PSB-D and BY-2 cells.](http://www.ncbi.nlm.nih.gov/pubmed?term=Differential effects of the recombinant type 1 ribosome-inactivating protein, OsRIP1, on growth of PSB-D and BY-2 cells.%5BTitle%5D), 2022, Front Plant Sci.
 
 * **Genbank accession number**  
 
@@ -25,6 +26,10 @@ tags: [defense, insect, brown planthopper, phloem, cell death, plasma membrane]
     + Over-expression of OsRIP1 in transgenic rice plants did not affect the performance of insects reared on these plants, most likely due to insufficient concentrations of OsRIP1 in the phloem
     + OsRIP1 provoked HeLa cells to undergo caspase-independent cell death, associated with a significant transcriptional upregulation of the apoptotic gene PUMA, interferon regulatory factor 1 (IRF1) and the autophagy-related marker LC3
     + Human cervical cancer HeLa cells were incubated in the presence of OsRIP1 for 24-72 h OsRIP1 treatment yielded an anti-proliferation response of the HeLa cells and resulted in apoptotic-like blebbing of the plasma membrane without causing DNA fragmentation
+    + Our study provides the first evidence that OsRIP1 exerts differential effects on the growth of PSB-D and BY-2 cells
+    + OsRIP1 triggered cell death in tobacco BY-2 cells but not in Arabidopsis PSB-D cells
+    + Targeting of exogenous OsRIP1 to plant vacuoles and OsRIP1-induced accumulation of transcripts for vacuolar processing enzymes (VPEs) indicated that OsRIP1 provoked plant cell death in tobacco BY-2 cells through the activation of VPEs and subsequent vacuolar disruption, which was probably independent of its N-glycosylase activity on cytosolic ribosomes
+    + The vacuole-dependent cell death pathway is associated with the lethal effect of the exogenously applied OsRIP1 on BY-2 cells
 
 * **Connection**  
     + __OsbZIP01~OsRE1__, __OsRIP1~OsjRIP1.1__, [OsRE1 interacts with OsRIP1 to regulate rice heading date by finely modulating Ehd1 expression](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRE1 interacts with OsRIP1 to regulate rice heading date by finely modulating Ehd1 expression%5BTitle%5D), OsRE1 interacts with OsRIP1 to regulate rice heading date by finely modulating Ehd1 expression
