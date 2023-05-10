@@ -18,7 +18,7 @@ __A comprehensive database of functionally characterized rice genes__
 * Contact: venyao@qq.com or yaowen@henau.edu.cn  
 * Help manual [[Download↓]](https://funricegenes.github.io/help.pdf)  
 * Interactive application of funRiceGenes: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
-* Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1)  
+* Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1); [Yao et al. 2018](https://doi.org/10.1093/gigascience/gix119)
 
 <br>
 * __Search this site using Google:__
