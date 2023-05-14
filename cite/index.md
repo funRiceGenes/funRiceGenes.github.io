@@ -8,6 +8,20 @@ __Please cite our <a href="https://doi.org/10.1186/s12284-022-00569-1" target="_
 
 **Publications that cite the funRiceGenes database:**  
 
+- Cai et al. [Revisiting regulatory coherence: accounting for temporal bias in plant gene co-expression analyses](https://doi.org/10.1111/nph.18720), 2023, New Phytologist.
+- Nguyen et al. [Genome-Wide Transcriptome Analysis of Rice Transporters and Its Application to Elucidate the Uncharacterized Functions of OsABCC7 Gene Using the CRISPR/Cas9 System](https://link.springer.com/article/10.1007/s12374-022-09379-w), 2023, Journal of Plant Biology.
+- Sun et al. [Dissecting the genetic basis of heterosis in elite super-hybrid rice](https://doi.org/10.1093/plphys/kiad078), 2023, Plant Physiology.
+- Guo et al. [The translational landscape of bread wheat during grain development](https://doi.org/10.1093/plcell/koad075), 2023, The Plant Cell.
+- Mahto et al. [Cytological, transcriptome and miRNome temporal landscapes decode enhancement of rice grain size](https://link.springer.com/article/10.1186/s12915-023-01577-3), 2023, BMC Biology.
+- Lee et al. [Identifying QTLs Related to Grain Filling Using a Doubled Haploid Rice (Oryza sativa L.) Population](https://doi.org/10.3390/agronomy13030912), 2023, Agronomy.
+- Zhang et al. [Rice3K56 is a high-quality SNP array for genome-based genetic studies and breeding in rice (Oryza sativa L.)](https://doi.org/10.1016/j.cj.2023.02.006), 2023, The Crop Journal.
+- Pang et al. [Genome-wide differences of alternative splicing between Oryza sativa ssp. indica and Oryza sativa ssp. japonica](https://link.springer.com/article/10.1007/s11738-022-03500-9), 2023, Acta Physiologiae Plantarum.
+- Zhang et al. [Genome-wide association and epistasis studies reveal the genetic basis of saline-alkali tolerance at the germination stage in rice](https://www.frontiersin.org/articles/10.3389/fpls.2023.1170641/full), 2023, Frontiers in Plant Science.
+- Adam et al. [African rice (Oryza glaberrima) genomic introgressions impacting upon panicle architecture in Asian rice (O. sativa) lead to the identification of key QTLs](https://www.researchsquare.com/article/rs-2884677/v1), 2023, Research Square.
+- Li et al. [Integrating GWAS and transcriptomics to identify candidate genes conferring heat tolerance in rice](https://doi.org/10.3389/fpls.2022.1102938), 2023, Frontiers in Plant Science.
+- Beye et al. [Traces of introgression from cAus into tropical Japonica observed in African upland rice varieties](https://link.springer.com/article/10.1186/s12284-023-00625-4), 2023, Rice.
+- Rahimi et al. [Genome-wide association study to identify genomic loci associated with early vigor in bread wheat under simulated water deficit complemented with quantitative trait loci meta-analysis](https://doi.org/10.1093/g3journal/jkac320), 2023, G3 Genes|Genomes|Genetics.
+- Liu et al. [作物种业发展态势分析](http://www.kjdb.org/CN/abstract/abstract16804.shtml), 2022, 科技导报.
 - Beye et al. [Traces of introgression from cAus into tropical Japonica observed in African upland rice varieties](https://www.researchsquare.com/article/rs-2160064/v1), 2022, Research Square.
 - Ahmad et al. [Genomics and transcriptomics to protect rice (Oryza sativa. L.) from abiotic stressors: -pathways to achieving zero hunger](https://doi.org/10.3389/fpls.2022.1002596), 2022, Frontiers in Plant Science.
 - Muvunyi et al. [Identification of Potential Zinc Deficiency Responsive Genes and Regulatory Pathways in Rice by Weighted Gene Co-expression Network Analysis](https://doi.org/10.1016/j.rsci.2022.04.002), 2022, Rice Science.
