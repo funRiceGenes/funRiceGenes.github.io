@@ -33,6 +33,7 @@ tags: [transcription factor, temperature, stress, tolerance, heat tolerance]
 
 * **Connection**  
     + __OsHSFA2d~OsHSF7~HTG3__, __OsJAZ9~OsTIFY11a__, [A MITE variation-associated heat-inducible isoform of a heat-shock factor confers heat tolerance through regulation of JASMONATE ZIM-DOMAIN genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A MITE variation-associated heat-inducible isoform of a heat-shock factor confers heat tolerance through regulation of JASMONATE ZIM-DOMAIN genes in rice%5BTitle%5D), Two heat-responsive JASMONATE ZIM-DOMAIN (JAZ) genes were confirmed to be directly upregulated by HTG3a, and one of them, OsJAZ9, positively regulates HT.
+    + __OsbZIP14__, __OsHSFA2d~OsHSF7~HTG3__, [Integrated ATAC-Seq and RNA-Seq Data Analysis to Reveal OsbZIP14 Function in Rice in Response to Heat Stress.](http://www.ncbi.nlm.nih.gov/pubmed?term=Integrated ATAC-Seq and RNA-Seq Data Analysis to Reveal OsbZIP14 Function in Rice in Response to Heat Stress.%5BTitle%5D),  This study identified three TF genes, including OsbZIP14, OsMYB2, and OsHSF7, by integrating transcriptomic and epigenetic sequencing data analysis of rice in response to heat stress
 
 [//]: # * **Key figures**  
 

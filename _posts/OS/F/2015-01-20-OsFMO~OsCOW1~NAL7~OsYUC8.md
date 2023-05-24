@@ -18,6 +18,7 @@ tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis, ethyl
     + [Genetic analysis of rice mutants responsible for narrow leaf phenotype and reduced vein number.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic analysis of rice mutants responsible for narrow leaf phenotype and reduced vein number.%5BTitle%5D), 2016, Genes Genet Syst.
     + [Characterization of dwarf and narrow leaf  dnl-4 mutant in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of dwarf and narrow leaf  dnl-4 mutant in rice%5BTitle%5D), 2020, Plant Signal Behav.
     + [and auxin-mediated mechanisms.](http://www.ncbi.nlm.nih.gov/pubmed?term=and auxin-mediated mechanisms.%5BTitle%5D), 2022, Proc Natl Acad Sci U S A.
+    + [Abscisic acid promotes auxin biosynthesis to inhibit primary root elongation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Abscisic acid promotes auxin biosynthesis to inhibit primary root elongation in rice.%5BTitle%5D), 2022, Plant Physiol.
 
 * **Genbank accession number**  
     + [AK072466](http://www.ncbi.nlm.nih.gov/nuccore/AK072466)
@@ -55,6 +56,7 @@ tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis, ethyl
     + __DNL-4__, __OsFMO~OsCOW1~NAL7~OsYUC8__, [Characterization of dwarf and narrow leaf  dnl-4 mutant in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of dwarf and narrow leaf  dnl-4 mutant in rice%5BTitle%5D),  To understand DNL-4 function in rice, we analyzed the expression levels of leaf growth-related genes, such as NAL1, NAL7, and CSLD4, in the dnl-4 mutant
     + __DNL-4__, __OsFMO~OsCOW1~NAL7~OsYUC8__, [Characterization of dwarf and narrow leaf  dnl-4 mutant in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of dwarf and narrow leaf  dnl-4 mutant in rice%5BTitle%5D),  Expression of NAL1 and NAL7 was downregulated in the dnl-4 mutant compared to the wild type
     + __DNL-4__, __OsFMO~OsCOW1~NAL7~OsYUC8__, [Characterization of dwarf and narrow leaf  dnl-4 mutant in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of dwarf and narrow leaf  dnl-4 mutant in rice%5BTitle%5D),  The observation that DNL-4 expression corresponded with that of NAL1 and NAL7 is consistent with the narrow leaf phenotype of the dnl-4 mutant
+    + __OsFMO~OsCOW1~NAL7~OsYUC8__, __OsSNF7.2__, [ESCRT-III component OsSNF7.2 modulates leaf rolling by trafficking and endosomal degradation of auxin biosynthetic enzyme OsYUC8 in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=ESCRT-III component OsSNF7.2 modulates leaf rolling by trafficking and endosomal degradation of auxin biosynthetic enzyme OsYUC8 in rice.%5BTitle%5D), ESCRT-III component OsSNF7.2 modulates leaf rolling by trafficking and endosomal degradation of auxin biosynthetic enzyme OsYUC8 in rice.
 
 [//]: # * **Key figures**  
 

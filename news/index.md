@@ -5,6 +5,543 @@ comments: no
 thread: 616
 ---
 
+* 2023/May/24 add new info
+* 2023/May/24 add new info for gene: OsPUB7
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsPUB7
+* 2023/May/24 add new info for gene: OsbZIP14
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsbZIP14
+* 2023/May/24 add new info for gene: OsLUX
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: RRS1
+* 2023/May/24 add new pub.
+* 2023/May/24 OsMYB58 == OsMYB63 == RRS1
+* 2023/May/24 add new info for gene: OsMRPL15
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsMRPL15
+* 2023/May/24 add new info for gene: OsAAP15
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsAAP15
+* 2023/May/24 add new info for gene: OsNF-YB4
+* 2023/May/24 add new pub.
+* 2023/May/24 OsHAP3C == OsNF-YB4
+* 2023/May/24 add new info for gene: OsCAT3
+* 2023/May/24 add new pub.
+* 2023/May/24 OsCATC == NOE1 == OsCAT3
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: SPL42
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: SPL42
+* 2023/May/24 add new keywords for OsDRB1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsDRB1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsLHT1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: FTL9
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: FTL9
+* 2023/May/24 add new keywords for OsSPL17
+* 2023/May/24 add new keywords for OsSPL17
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsSPL17
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsNPF7.6
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsNPF7.6
+* 2023/May/24 add new info for gene: OsRbohI
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsRbohI
+* 2023/May/24 add new info for gene: OsMYB7
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsMYB7
+* 2023/May/24 add new info for gene: OsWUS
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 GF14c == OsGF14C
+* 2023/May/24 add new info for gene: GRA117
+* 2023/May/24 add new pub.
+* 2023/May/24 OsFLN2 == HSA1 == GRA117
+* 2023/May/24 OsFLN2 == HSA1GRA117
+* 2023/May/24 add new info for gene: OsSEH1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsSEH1
+* 2023/May/24 add new info for gene: OsAPX7
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsAPX7
+* 2023/May/24 add new info for gene: OsWRKY114
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsWRKY62
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsCERK1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsGRF4
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: GF14f
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsMADS29
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsNAR2.1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: FLO2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsLTPL23
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsLTPL23
+* 2023/May/24 add new info for gene: OsDPE2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new keywords for GL12
+* 2023/May/24 add new reference for GL12
+* 2023/May/24 add new gene: GL12
+* 2023/May/24 add new info for gene: OsSQD1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new keywords for Osa-miR444b.2
+* 2023/May/24 add new keywords for Osa-miR444b.2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: Osa-miR444b.2
+* 2023/May/24 add new info for gene: OsNAS2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsNAS3
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsHDA706
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsHDA706
+* 2023/May/24 add new info for gene: WOX11
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsFBO10
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsFBO10
+* 2023/May/24 add new info for gene: OsLKP2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: TCD8
+* 2023/May/24 add new pub.
+* 2023/May/24 PDD == TCD8
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsCSLD1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsSPT5-2
+* 2023/May/24 add new info for gene: OsSPT5-1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsSPT5-1
+* 2023/May/24 add new info for gene: OsSPT4
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsSPT4
+* 2023/May/24 add new info for gene: TGW3
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsARF4
+* 2023/May/24 add new pub.
+* 2023/May/24 OsARF2 == OsARF4
+* 2023/May/24 add new pub.
+* 2023/May/24 add new reference for OsHRC
+* 2023/May/24 add new gene: OsHRC
+* 2023/May/24 add new info for gene: DTH2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsJRL40
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsJRL40
+* 2023/May/24 add new info for gene: MAP65-5
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: MAP65-5
+* 2023/May/24 add new info for gene: OsCYP1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsCYP1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsMED16
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsUBC11
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsUBC11
+* 2023/May/24 add new pub.
+* 2023/May/24 EUI1 == OsCYP714D1 == LG5
+* 2023/May/24 add new pub.
+* 2023/May/24 add new reference for COG2
+* 2023/May/24 add new gene: COG2
+* 2023/May/24 add new info for gene: OsTTL
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsTTL
+* 2023/May/24 add new info for gene: OsBBX11
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsBBX11
+* 2023/May/24 add new info for gene: OsDOR1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsDOR1
+* 2023/May/24 add new keywords for OsNKD
+* 2023/May/24 add new pub.
+* 2023/May/24 OsIDD10 == OsNKD
+* 2023/May/24 add new info for gene: OsSYMRK
+* 2023/May/24 add new pub.
+* 2023/May/24 SYMRK == OsSYMRK
+* 2023/May/24 add new info for gene: OsTMN11
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsTMN11
+* 2023/May/24 add new info for gene: OsPMEI12
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsPMEI12
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsCCA1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsNAC5
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsCBL5
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsCBL5
+* 2023/May/24 add new info for gene: OsSRDP
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsSRDP
+* 2023/May/24 add new info for gene: HFR131
+* 2023/May/24 add new pub.
+* 2023/May/24 D61 == OsBRI1 == OsBRKq1 == HFR131
+* 2023/May/24 add new info for gene: OsYUC11
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsCCRL1
+* 2023/May/24 add new pub.
+* 2023/May/24 OsTKPR1 == OsDFR2 == OS-DFR2 == OsCCRL1
+* 2023/May/24 add new info for gene: Rc
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsGSK5
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: MP3
+* 2023/May/24 add new pub.
+* 2023/May/24 OsTB1 == FC1 == SCM3 == MP3
+* 2023/May/24 add new info for gene: OsbHLH069
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsbHLH069
+* 2023/May/24 add new info for gene: OsbHLH068
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsbHLH068
+* 2023/May/24 add new info for gene: OsbHLH067
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsbHLH067
+* 2023/May/24 add new info for gene: CRS2
+* 2023/May/24 add new pub.
+* 2023/May/24 OsCRS2 == CRS2
+* 2023/May/24 add new info for gene: OsbHLH38
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsbHLH38
+* 2023/May/24 add new info for gene: OsC1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsBADH2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsPRD2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsPRD2
+* 2023/May/24 add new info for gene: OsEPFL9
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsEPFL8
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsEPFL8
+* 2023/May/24 add new info for gene: OsEPFL7
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsEPFL7
+* 2023/May/24 add new info for gene: OsEPFL6
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsEPFL6
+* 2023/May/24 add new info for gene: OsER1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: DPE1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsHCF222
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsHAK21
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsHKT2;1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsHKT1;5
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsG1L2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsG1L2
+* 2023/May/24 add new info for gene: OsG1L1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsG1L1
+* 2023/May/24 add new info for gene: OsLsi1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsTPKa
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsHAK_like
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsHAK_like
+* 2023/May/24 add new keywords for OsOr
+* 2023/May/24 add new keywords for OsOr
+* 2023/May/24 add new keywords for OsOr
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsOr
+* 2023/May/24 add new info for gene: OsGASD
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsGASD
+* 2023/May/24 add new info for gene: OsSUBSrP1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsSUBSrP1
+* 2023/May/24 add new info for gene: NY1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsFLZ2
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsFLZ2
+* 2023/May/24 add new info for gene: ART1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new keywords for Os4CL5
+* 2023/May/24 add new keywords for Os4CL5
+* 2023/May/24 add new info for gene: Os4CL5
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: Nhd1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new keywords for OsUMP1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsUMP1
+* 2023/May/24 add new info for gene: SRL10
+* 2023/May/24 add new pub.
+* 2023/May/24 OsDRB2 == SRL10
+* 2023/May/24 add new info for gene: FLR14
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: FLR14
+* 2023/May/24 add new info for gene: FLR3
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: FLR3
+* 2023/May/24 add new info for gene: OsOAT
+* 2023/May/24 add new pub.
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsUGT75A
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsUGT75A
+* 2023/May/24 add new info for gene: OsEPSPS
+* 2023/May/24 add new pub.
+* 2023/May/24 add new info for gene: OsCYBDOMG1
+* 2023/May/24 add new pub.
+* 2023/May/24 add new gene: OsCYBDOMG1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OsLIP5
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsLIP5
+* 2023/May/23 add new pub.
+* 2023/May/23 add new pub.
+* 2023/May/23 add new keywords for OsSSIIIb
+* 2023/May/23 add new reference for OsSSIIIb
+* 2023/May/23 add new gene: OsSSIIIb
+* 2023/May/23 add new info for gene: OsFKBP20-1b
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OsDES1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsDES1
+* 2023/May/23 add new info for gene: OsCslF6
+* 2023/May/23 add new pub.
+* 2023/May/23 CslF6 == OsCslF6
+* 2023/May/23 add new info for gene: OsLecRK1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new keywords for OsOFP3
+* 2023/May/23 add new info for gene: OsOFP3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsOFP3
+* 2023/May/23 add new reference for OsNAC20
+* 2023/May/23 add new reference for OsNAC26
+* 2023/May/23 ONAC026 == OsNAC26
+* 2023/May/23 ONAC020 == OsNAC20
+* 2023/May/23 add new info for gene: OsbHLH148
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OsWRKY76
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OsCSN1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsCSN1
+* 2023/May/23 add new info for gene: OsSAP6
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsSAP6
+* 2023/May/23 add new info for gene: OsNF-YA3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsNF-YA3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new keywords for OsNPC3
+* 2023/May/23 add new info for gene: OsNPC3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsNPC3
+* 2023/May/23 add new info for gene: OsERF106MZ
+* 2023/May/23 add new pub.
+* 2023/May/23 add new connections between OsFTL12 and OsMADS15
+* 2023/May/23 add new connections between OsFTL12 and OsMADS14
+* 2023/May/23 add new info for gene: OsFTL12
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsFTL12
+* 2023/May/23 add new info for gene: TIF1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: TIF1
+* 2023/May/23 add new info for gene: TN1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: TN1
+* 2023/May/23 add new keywords for OsYUC7
+* 2023/May/23 OsYUCCA7 == OsYUC7
+* 2023/May/23 add new connections between OsBBM1 and OsYUC9
+* 2023/May/23 add new connections between OsBBM1 and OsYUCCA7
+* 2023/May/23 add new connections between OsBBM1 and OsYUC6
+* 2023/May/23 add new info for gene: OsBBM1
+* 2023/May/23 add new pub.
+* 2023/May/23 BBM1 == OsASGR-BBML1 == OsBBM1
+* 2023/May/23 add new info for gene: OsTKPR2
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsTKPR2
+* 2023/May/23 add new pub.
+* 2023/May/23 OsRHC1 == LE == TT3.1 == DGS1
+* 2023/May/23 add new info for gene: SMG3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: STK
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: STK
+* 2023/May/23 add new info for gene: OsUbc13
+* 2023/May/23 add new pub.
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OCP
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OCP
+* 2023/May/23 add new info for gene: RGA1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OsSAPK2
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OsCPK24
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: OsFRK3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsFRK3
+* 2023/May/23 add new info for gene: COLD11
+* 2023/May/23 add new pub.
+* 2023/May/23 OsRad51 == OsRad51A1 == COLD11
+* 2023/May/23 add new keywords for OSK20
+* 2023/May/23 add new info for gene: SHPR
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: SHPR
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OSK20
+* 2023/May/23 add new info for gene: OsSLK
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsSLK
+* 2023/May/23 add new info for gene: OsARF21
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsARF21
+* 2023/May/23 add new keywords for OsGMT1
+* 2023/May/23 add new keywords for OsGMT1
+* 2023/May/23 add new keywords for OsGMT1
+* 2023/May/23 add new keywords for OsGMT1
+* 2023/May/23 add new info for gene: OsGMT1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsGMT1
+* 2023/May/23 add new info for gene: OsCUGT1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsCUGT1
+* 2023/May/23 add new info for gene: LMM22
+* 2023/May/23 add new pub.
+* 2023/May/23 OsLMP1 == OsUBP2 == LMM22
+* 2023/May/23 add new info for gene: OsPPR11
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsPPR11
+* 2023/May/23 add new keywords for OsOGT1
+* 2023/May/23 add new keywords for OsOGT2
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsOGT2
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsOGT1
+* 2023/May/23 add new info for gene: RAE3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: RAE3
+* 2023/May/23 add new info for gene: OsPML3
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsPML3
+* 2023/May/23 add new keywords for OsRZF1
+* 2023/May/23 add new keywords for OsRZF1
+* 2023/May/23 add new info for gene: OsRZF1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: OsRZF1
+* 2023/May/23 add new info for gene: OsANN1
+* 2023/May/23 add new pub.
+* 2023/May/23 add new info for gene: EPFL10
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: EPFL10
+* 2023/May/23 add new info for gene: SPR9
+* 2023/May/23 add new pub.
+* 2023/May/23 add new gene: SPR9
+* 2023/May/22 add new keywords for OsIAA25
+* 2023/May/22 add new info for gene: OsIAA25
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: OsIAA25
+* 2023/May/22 add new pub.
+* 2023/May/22 OsCYP96B4 == BSH1 == SD37 == OsDSS1
+* 2023/May/22 add new info for gene: OsWR2
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: OsWR2
+* 2023/May/22 add new pub.
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: OsGRAS29
+* 2023/May/22 add new info for gene: POH1
+* 2023/May/22 add new pub.
+* 2023/May/22 OsFBH1 == POH1
+* 2023/May/22 add new info for gene: HBP1
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: HBP1
+* 2023/May/22 add new info for gene: OsHPP04
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: OsHPP04
+* 2023/May/22 add new info for gene: OsPITP6
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: OsPITP6
+* 2023/May/22 add new info for gene: OsPIN3t
+* 2023/May/22 add new pub.
+* 2023/May/22 add new info for gene: OsNRAMP5
+* 2023/May/22 add new pub.
+* 2023/May/22 add new info for gene: OsNRAMP1
+* 2023/May/22 add new pub.
+* 2023/May/22 add new info for gene: OsRbohB
+* 2023/May/22 add new pub.
+* 2023/May/22 add new info for gene: NSL2
+* 2023/May/22 add new pub.
+* 2023/May/22 RNRS1 == St1 == SDL == NSL2
+* 2023/May/22 add new pub.
+* 2023/May/22 OsWRKY55 == WRKY55a == WRKY55b == OsWRKY31
+* 2023/May/22 OsRDCP1 == OsREIW1
+* 2023/May/22 add new keywords for OsLOX10
+* 2023/May/22 add new keywords for OsLOX10
+* 2023/May/22 add new info for gene: OsLOX10
+* 2023/May/22 add new pub.
+* 2023/May/22 add new keywords for OsLDDT1
+* 2023/May/22 add new keywords for OsLDDT1
+* 2023/May/22 add new info for gene: OsLDDT1
+* 2023/May/22 add new pub.
+* 2023/May/22 STS1 == OsLDDT1 == OsSTS1
+* 2023/May/22 add new keywords for OsACE2
+* 2023/May/22 add new keywords for OsACE2
+* 2023/May/22 add new keywords for OsACE2
+* 2023/May/22 add new info for gene: OsACE2
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: OsACE2
+* 2023/May/22 add new info for gene: WAK10
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: WAK10
+* 2023/May/22 add new info for gene: OsTPS31
+* 2023/May/22 add new pub.
+* 2023/May/22 TPS46 == OsTPS31
+* 2023/May/22 add new info for gene: OsGLP3-7
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: OsGLP3-7
+* 2023/May/22 add new info for OsCASP1
+* 2023/May/22 add new pub.
+* 2023/May/22 add new info for gene: FON7
+* 2023/May/22 add new pub.
+* 2023/May/22 add new gene: FON7
+* 2023/May/21 add new genes and info
+* 2023/May/20 add new pub.
+* 2023/May/20 OsLTPL36 == OsCIP1
+* 2023/May/20 add new connections between LAZY2 and LAZY3
+* 2023/May/20 add new info for gene: LAZY2
+* 2023/May/20 add new pub.
+* 2023/May/20 add new gene: LAZY2
+* 2023/May/20 add new info for gene: LAZY3
+* 2023/May/20 add new pub.
+* 2023/May/20 add new info for gene: OsLsi1
+* 2023/May/20 add new pub.
 * 2023/Jan/12 add new info for gene: OsSWEET14
 * 2023/Jan/12 add new pub.
 * 2023/Jan/12 add new pub.

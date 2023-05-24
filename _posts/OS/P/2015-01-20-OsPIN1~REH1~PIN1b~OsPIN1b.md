@@ -3,7 +3,7 @@ layout: post
 title: "OsPIN1,REH1,PIN1b,OsPIN1b"
 description: ""
 category: genes
-tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root, tiller, panicle, development, inflorescence, leaf, growth, stems, seedling, architecture, iaa, homeostasis, auxin transport, height, plant height, leaf angle, panicle length, primary root, IAA, root number]
+tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root, tiller, panicle, development, inflorescence, leaf, growth, stems, seedling, architecture, iaa, homeostasis, auxin transport, height, plant height, leaf angle, panicle length, primary root, IAA, root number, BR, lamina, transporter,  BR , plasma membrane, lamina joint]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root
     + [Functional divergence of PIN1 paralogous genes in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional divergence of PIN1 paralogous genes in rice.%5BTitle%5D), 2019, Plant Cell Physiol.
     + [Cadmium inhibits lateral root emergence in rice by disrupting OsPIN-mediated auxin distribution and the protective effect of OsHMA3](http://www.ncbi.nlm.nih.gov/pubmed?term=Cadmium inhibits lateral root emergence in rice by disrupting OsPIN-mediated auxin distribution and the protective effect of OsHMA3%5BTitle%5D), 2020, Plant Cell Physiol.
     + [Mutation of OsPIN1b by CRISPR/Cas9 Reveals a Role for Auxin Transport in Modulating Rice Architecture and Root Gravitropism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of OsPIN1b by CRISPR/Cas9 Reveals a Role for Auxin Transport in Modulating Rice Architecture and Root Gravitropism.%5BTitle%5D), 2022, Int J Mol Sci.
+    + [Auxin Transporter OsPIN1b, a Novel Regulator of Leaf Inclination in Rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin Transporter OsPIN1b, a Novel Regulator of Leaf Inclination in Rice Oryza sativa L..%5BTitle%5D), 2023, Plants (Basel).
 
 * **Genbank accession number**  
     + [AF056027](http://www.ncbi.nlm.nih.gov/nuccore/AF056027)
@@ -38,6 +39,9 @@ tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root
     + Additionally, amyloplast sedimentation was impaired in the peripheral tiers of the ospin1b root cap columella cell, while it was not the main contributor to the abnormal root gravitropism
     + These data suggest that OsPIN1b not only plays a vital role in regulating rice architecture but also functions in regulating root gravitropism by the integration of light and nutrient signals
     + Tissue-specific analysis showed that OsPIN1b was mainly expressed in roots, stems and sheaths at the seedling stage, and the transcript abundance was progressively decreased during the seedling stages
+    + Here, we reveal a novel regulator of leaf inclination, auxin transporter OsPIN1b
+    + The OsPIN1b was localized on the plasma membrane, and the free IAA contents in the lamina joint of ospin1b mutants were significantly increased while they were decreased in OE-OsPIN1b lines, suggesting that OsPIN1b might action an auxin transporter such as AtPIN1 to alter IAA content and leaf inclination
+    + Furthermore, the OsPIN1b expression was induced by exogenous epibrassinolide (24-eBL) and IAA, and ospin1b mutants are insensitive to BR or IAA treatment, indicating that the effecting leaf inclination is regulated by OsPIN1b
 
 * **Connection**  
     + __OsPIN1~REH1~PIN1b~OsPIN1b__, __RFL~APO2~SSC~LFY__, [Functions for rice RFL in vegetative axillary meristem specification and outgrowth.](http://www.ncbi.nlm.nih.gov/pubmed?term=Functions for rice RFL in vegetative axillary meristem specification and outgrowth.%5BTitle%5D), Further, we report reduced expression of auxin transporter genes OsPIN1 and OsPIN3 in the culm of RFL knockdown transgenic plants
@@ -51,7 +55,7 @@ tags: [auxin, root, ethylene, tiller number, shoot, tillering, adventitious root
     + __OsPIN1~REH1~PIN1b~OsPIN1b__, __PILS6b__, [OsSPL14 acts upstream of OsPIN1b and PILS6b to modulate axillary bud outgrowth by fine-tuning auxin transport in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSPL14 acts upstream of OsPIN1b and PILS6b to modulate axillary bud outgrowth by fine-tuning auxin transport in rice.%5BTitle%5D),  OsPIN1b and PILS6b were highly expressed in axillary buds and proved to be involved in bud outgrowth
     + __OsPIN1~REH1~PIN1b~OsPIN1b__, __PILS6b__, [OsSPL14 acts upstream of OsPIN1b and PILS6b to modulate axillary bud outgrowth by fine-tuning auxin transport in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSPL14 acts upstream of OsPIN1b and PILS6b to modulate axillary bud outgrowth by fine-tuning auxin transport in rice.%5BTitle%5D),  Loss of function of OsPIN1b or PILS6b increased the tiller number of rice
     + __OsPIN1~REH1~PIN1b~OsPIN1b__, __PILS6b__, [OsSPL14 acts upstream of OsPIN1b and PILS6b to modulate axillary bud outgrowth by fine-tuning auxin transport in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSPL14 acts upstream of OsPIN1b and PILS6b to modulate axillary bud outgrowth by fine-tuning auxin transport in rice.%5BTitle%5D),  Taken together, our findings suggested that OsSPL14 can control axillary bud outgrowth and tiller number by activating the expression of OsPIN1b and PILS6b to fine-tune auxin transport in rice
-    + __OsPIN1~REH1~PIN1b~OsPIN1b__, __TAP__, [Mutation of OsPIN1b by CRISPR/Cas9 Reveals a Role for Auxin Transport in Modulating Rice Architecture and Root Gravitropism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of OsPIN1b by CRISPR/Cas9 Reveals a Role for Auxin Transport in Modulating Rice Architecture and Root Gravitropism.%5BTitle%5D),  Moreover, ospin1b mutants displayed a curly root phenotype cultured with tap water regardless of lighting conditions, while nutrient solution culture could partially rescue the curly root phenotype in light and almost completely abolish this phenotype in darkness, indicating the involvement of the integration of light and nutrient signals in root gravitropism regulation
+    + __OsPIN1~REH1~PIN1b~OsPIN1b__, __TAP~TSD1__, [Mutation of OsPIN1b by CRISPR/Cas9 Reveals a Role for Auxin Transport in Modulating Rice Architecture and Root Gravitropism.](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of OsPIN1b by CRISPR/Cas9 Reveals a Role for Auxin Transport in Modulating Rice Architecture and Root Gravitropism.%5BTitle%5D),  Moreover, ospin1b mutants displayed a curly root phenotype cultured with tap water regardless of lighting conditions, while nutrient solution culture could partially rescue the curly root phenotype in light and almost completely abolish this phenotype in darkness, indicating the involvement of the integration of light and nutrient signals in root gravitropism regulation
 
 [//]: # * **Key figures**  
 

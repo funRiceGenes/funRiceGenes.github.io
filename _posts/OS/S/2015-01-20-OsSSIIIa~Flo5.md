@@ -17,6 +17,7 @@ tags: [endosperm, starch, seed]
     + [Deciphering starch quality of rice kernels using metabolite profiling and pedigree network analysis](http://www.ncbi.nlm.nih.gov/pubmed?term=Deciphering starch quality of rice kernels using metabolite profiling and pedigree network analysis%5BTitle%5D), 2012, Mol Plant.
     + [Characterization of SSIIIa-deficient mutants of rice: the function of SSIIIa and pleiotropic effects by SSIIIa deficiency in the rice endosperm](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of SSIIIa-deficient mutants of rice: the function of SSIIIa and pleiotropic effects by SSIIIa deficiency in the rice endosperm%5BTitle%5D), 2007, Plant Physiol.
     + [Critical roles of soluble starch synthase SSIIIa and granule-bound starch synthase Waxy in synthesizing resistant starch in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Critical roles of soluble starch synthase SSIIIa and granule-bound starch synthase Waxy in synthesizing resistant starch in rice.%5BTitle%5D), 2016, Proc Natl Acad Sci U S A.
+    + [Loss of function of SSIIIa and SSIIIb coordinately confers high RS content in cooked rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Loss of function of SSIIIa and SSIIIb coordinately confers high RS content in cooked rice.%5BTitle%5D), 2023, Proc Natl Acad Sci U S A.
 
 * **Genbank accession number**  
     + [AAM49811](http://www.ncbi.nlm.nih.gov/nuccore/AAM49811)

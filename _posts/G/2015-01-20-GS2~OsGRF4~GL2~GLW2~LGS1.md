@@ -3,7 +3,7 @@ layout: post
 title: "GS2,OsGRF4,GL2,GLW2,LGS1"
 description: ""
 category: genes
-tags: [grain size, grain yield, transcriptional regulator, transcription activator, grain weight, grain, yield, development, brassinosteroid, Brassinosteroid, panicle, seed, cytokinin, breeding, shattering, seed shattering, transcription factor, seedlings, seedling, tolerance, cold tolerance, cold stress, stress, stress response]
+tags: [grain size, grain yield, transcriptional regulator, transcription activator, grain weight, grain, yield, development, brassinosteroid, Brassinosteroid, panicle, seed, cytokinin, breeding, shattering, seed shattering, transcription factor, seedlings, seedling, tolerance, cold tolerance, cold stress, stress, stress response, nitrogen, heat tolerance]
 ---
 
 * **Information**  
@@ -23,6 +23,7 @@ tags: [grain size, grain yield, transcriptional regulator, transcription activat
     + [MYB61 is regulated by GRF4 and promotes nitrogen utilization and biomass production in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=MYB61 is regulated by GRF4 and promotes nitrogen utilization and biomass production in rice%5BTitle%5D), 2020, Nat Commun.
     + [Tightly controlled expression of OsbHLH35 is critical for anther development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Tightly controlled expression of OsbHLH35 is critical for anther development in rice%5BTitle%5D), 2021, Plant Sci.
     + [Bin-based genome-wide association studies reveal superior alleles for improvement of appearance quality using a 4-way MAGIC population in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Bin-based genome-wide association studies reveal superior alleles for improvement of appearance quality using a 4-way MAGIC population in rice%5BTitle%5D), 2020, J Adv Res.
+    + [OsGRF4AA compromises heat tolerance of developing pollen grains in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGRF4AA compromises heat tolerance of developing pollen grains in rice.%5BTitle%5D), 2023, Front Plant Sci.
 
 * **Genbank accession number**  
 
@@ -44,6 +45,9 @@ tags: [grain size, grain yield, transcriptional regulator, transcription activat
     + A Missense Mutation in LGS1 Increases Grain Size and Enhances Cold Tolerance in Rice.
     + Here, a semi-dominant QTL, designated Large Grain Size 1 (LGS1), was cloned and the potential molecular mechanism of LGS1 function was studied
     + These findings indicate that the mutation in LGS1 appears to disturb the GRF4-miR396-stress response network and results in the development of enlarged grains and enhancement of cold tolerance in rice
+    + Accumulation of OsGRF4 enhances nitrogen usage and metabolism, and increases grain size and grain yield
+    + Taken together, our results suggest that variation in OsGRF4 affects proper transcriptional and splicing regulation of genes under HS, and that this can be mediated by, and also feed back to, carbohydrate and nitrogen metabolism, resulting in a reduction in the heat tolerance of rice anthers
+    + The rice variety grain size on chromosome 2 (GS2) contains sequence variations of OsGRF4 (Oryza sativa growth-regulating factor 4; OsGRF4(AA) ), escaping the microRNA miR396-mediated degradation of this gene at the mRNA level
 
 * **Connection**  
     + __GS2~OsGRF4~GL2~GLW2~LGS1__, __OSH71~Oskn2__, [Interaction between the GROWTH-REGULATING FACTOR and KNOTTED1-LIKE HOMEOBOX families of transcription factors.](http://www.ncbi.nlm.nih.gov/pubmed?term=Interaction between the GROWTH-REGULATING FACTOR and KNOTTED1-LIKE HOMEOBOX families of transcription factors.%5BTitle%5D), Conversely, RNA interference silencing of OsGRF3, OsGRF4, and OsGRF5 resulted in dwarfism, delayed growth and inflorescence formation, and up-regulation of Oskn2

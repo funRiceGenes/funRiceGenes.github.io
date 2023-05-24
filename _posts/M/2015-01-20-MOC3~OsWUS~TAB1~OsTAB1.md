@@ -3,7 +3,7 @@ layout: post
 title: "MOC3,OsWUS,TAB1,OsTAB1"
 description: ""
 category: genes
-tags: [tiller, cytokinin, cytokinin response, development, map-based cloning, transcription factor, fertility, stem, spikelet, vegetative, floral, meristem, inflorescence, floral organ, floral organ number, axillary meristem, growth, auxin, panicle, culm, auxin response]
+tags: [tiller, cytokinin, cytokinin response, development, map-based cloning, transcription factor, fertility, stem, spikelet, vegetative, floral, meristem, inflorescence, floral organ, floral organ number, axillary meristem, growth, auxin, panicle, culm, auxin response, plant growth, panicle development, plant stature]
 ---
 
 * **Information**  
@@ -18,6 +18,7 @@ tags: [tiller, cytokinin, cytokinin response, development, map-based cloning, tr
     + [TILLERS ABSENT1, the WUSCHEL ortholog, is not involved in stem cell maintenance in the shoot apical meristem in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=TILLERS ABSENT1, the WUSCHEL ortholog, is not involved in stem cell maintenance in the shoot apical meristem in rice.%5BTitle%5D), 2019, Plant Signal Behav.
     + [Antagonistic action of TILLERS ABSENT1 and FLORAL ORGAN NUMBER2 regulates stem cell maintenance during axillary meristem development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Antagonistic action of TILLERS ABSENT1 and FLORAL ORGAN NUMBER2 regulates stem cell maintenance during axillary meristem development in rice.%5BTitle%5D), 2019, New Phytol.
     + [OsWUS promotes tiller bud growth by establishing weak apical dominance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsWUS promotes tiller bud growth by establishing weak apical dominance in rice%5BTitle%5D), 2020, Plant Journal.
+    + [Changes in the expression pattern of OsWUS negatively regulate plant stature and panicle development in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Changes in the expression pattern of OsWUS negatively regulate plant stature and panicle development in rice.%5BTitle%5D), 2023, G3 (Bethesda).
 
 * **Genbank accession number**  
     + [AB218894](http://www.ncbi.nlm.nih.gov/nuccore/AB218894)
@@ -39,6 +40,9 @@ tags: [tiller, cytokinin, cytokinin response, development, map-based cloning, tr
     + Auxin response is enhanced in the dc1 mutant, and knocking out the auxin action-associated gene ABERRANT SPIKELET AND PANICLE 1 (ASP1) de-repressed growth of the tiller buds in the dc1 mutant, suggesting that OsWUS and ASP1 are both involved in outgrowth of the rice tiller bud
     + Collectively, these findings reveal an important role of OsWUS in tiller bud growth by influencing apical dominance, and provide the basis for an improved understanding of tiller bud development in rice
     + In this study, we identified and functionally characterized a low-tillering mutant decreased culm number 1 (dc1) that resulted from loss-of-function of OsWUS
+    + Our results suggest that OsWUS is a precise regulatory element, its specific spatio-temporal expression pattern is critical for its function, and both loss-of-function and gain-of-function mutations lead to abnormal plant growth
+    + Changes in the expression pattern of OsWUS negatively regulate plant stature and panicle development in rice.
+    + OsWUS have distinct functions in meristem development with slightly tuned expression
 
 * **Connection**  
     + __MOC1__, __MOC3~OsWUS~TAB1~OsTAB1__, [Tiller Bud Formation Regulators MOC3 and MOC1 Cooperatively Promote Tiller Bud Outgrowth by Activating FON1 Expression in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Tiller Bud Formation Regulators MOC3 and MOC1 Cooperatively Promote Tiller Bud Outgrowth by Activating FON1 Expression in Rice.%5BTitle%5D), Tiller Bud Formation Regulators MOC3 and MOC1 Cooperatively Promote Tiller Bud Outgrowth by Activating FON1 Expression in Rice.

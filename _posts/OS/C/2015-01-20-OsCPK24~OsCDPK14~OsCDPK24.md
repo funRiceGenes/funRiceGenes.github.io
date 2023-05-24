@@ -3,7 +3,7 @@ layout: post
 title: "OsCPK24,OsCDPK14,OsCDPK24"
 description: ""
 category: genes
-tags: [tolerance, cold tolerance, cold stress, stress, Kinase, stress tolerance, stress response, calcium,  ABA , ABA]
+tags: [tolerance, cold tolerance, cold stress, stress, Kinase, stress tolerance, stress response, calcium,  ABA , ABA, development, resistance, xoo, Xoo,  xoo ]
 ---
 
 * **Information**  
@@ -16,6 +16,7 @@ tags: [tolerance, cold tolerance, cold stress, stress, Kinase, stress tolerance,
     + [Cloning and biochemical properties of CDPK gene OsCDPK14 from rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and biochemical properties of CDPK gene OsCDPK14 from rice%5BTitle%5D), 2005, J Plant Physiol.
     + [Dynamic genome-wide association analysis and identification of candidate genes involved in anaerobic germination tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Dynamic genome-wide association analysis and identification of candidate genes involved in anaerobic germination tolerance in rice%5BTitle%5D), 2021, Rice (N Y).
     + [OsANN4 modulates ROS production and mediates Ca 2+ influx in response to ABA ](http://www.ncbi.nlm.nih.gov/pubmed?term=OsANN4 modulates ROS production and mediates Ca 2+ influx in response to ABA %5BTitle%5D), 2021, BMC Plant Biol.
+    + [Immune Mechanism of Ethylicin-Induced Resistance to Xanthomonas oryzae pv. oryzae in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Immune Mechanism of Ethylicin-Induced Resistance to Xanthomonas oryzae pv. oryzae in Rice.%5BTitle%5D), 2023, J Agric Food Chem.
 
 * **Genbank accession number**  
     + [AY144497](http://www.ncbi.nlm.nih.gov/nuccore/AY144497)
@@ -28,6 +29,8 @@ tags: [tolerance, cold tolerance, cold stress, stress, Kinase, stress tolerance,
     + In addition to these effects in responses to cold stress, we found that the kinase activity of OsCPK24 varied under different calcium concentrations
     + Further, OsCPK24 phosphorylated OsGrx10, a glutathione-dependent thioltransferase, at rates modulated by changes in calcium concentration
     + Conclusions: OsANN4 plays a crucial role in the ABA response, partially by modulating ROS production, mediating Ca2+ influx or interacting with OsCDPK24
+    + This study revealed the molecular mechanism of ET-induced resistance to Xoo in rice via OsCPK24, which provided a basis for the development of new bactericides based on the OsCPK24 protein
+    + In addition, the biological function of OsCPK24 as a mediator for rice resistance to Xoo was determined through the anti-Xoo phenotypic test of OsCPK24 transgenic rice and the affinity analysis of the OsCPK24 recombinant protein in vitro and ET
 
 * **Connection**  
     + __OsCPK24~OsCDPK14~OsCDPK24__, __OsDi19-4__, [OsDi19-4 acts downstream of OsCDPK14 to positively regulate ABA response in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsDi19-4 acts downstream of OsCDPK14 to positively regulate ABA response in rice.%5BTitle%5D), OsDi19-4 acts downstream of OsCDPK14 to positively regulate ABA response in rice.

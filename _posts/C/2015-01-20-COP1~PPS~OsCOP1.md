@@ -40,6 +40,7 @@ tags: [flower, reproductive, panicle, inflorescence, vegetative,  ga , growth, l
     + This study will facilitate a better understanding of the functional roles of OsCOP1 involved in early embryogenesis and flavonoid biosynthesis in rice seeds
 
 * **Connection**  
+    + __COP1~PPS~OsCOP1__, __OsCSN1__, [OsCSN1 regulates the growth of rice seedlings through the GA signaling pathway in blue light.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCSN1 regulates the growth of rice seedlings through the GA signaling pathway in blue light.%5BTitle%5D),  OsCSN1 regulates the nuclear localization of COP1 through the COP9 signaling complex and degrades SLR1 through CUL4-based E3 ligase
 
 [//]: # * **Key figures**  
 

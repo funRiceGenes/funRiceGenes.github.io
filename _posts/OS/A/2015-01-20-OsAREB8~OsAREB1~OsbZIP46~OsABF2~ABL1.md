@@ -23,6 +23,7 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + [A novel nuclear protein phosphatase 2C negatively regulated by ABL1 is involved in abiotic stress and panicle development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel nuclear protein phosphatase 2C negatively regulated by ABL1 is involved in abiotic stress and panicle development in rice%5BTitle%5D), 2013, Mol Biotechnol.
     + [The coordination of OsbZIP72 and OsMYBS2 with reverse roles regulates the transcription of OsPsbS1 in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The coordination of OsbZIP72 and OsMYBS2 with reverse roles regulates the transcription of OsPsbS1 in rice%5BTitle%5D), 2021, New Phytol.
     + [SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.](http://www.ncbi.nlm.nih.gov/pubmed?term=SiMYB19 from Foxtail Millet Setaria italica Confers Transgenic Rice Tolerance to High Salt Stress in the Field.%5BTitle%5D), 2022, Int J Mol Sci.
+    + [Abscisic acid promotes auxin biosynthesis to inhibit primary root elongation in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Abscisic acid promotes auxin biosynthesis to inhibit primary root elongation in rice.%5BTitle%5D), 2022, Plant Physiol.
 
 * **Genbank accession number**  
     + [AK103188](http://www.ncbi.nlm.nih.gov/nuccore/AK103188)
@@ -61,6 +62,7 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
     + In addition, this Osabf2 mutant showed a significantly decreased sensitivity to high levels of ABA at germination and post-germination
     + OsbZIP46 is one member of the third subfamily of bZIP transcription factors in rice (Oryza sativa)
     + SiMYB19 overexpression promotes abscisic acid (ABA) accumulation in transgenic rice and upregulates the ABA synthesis gene OsNCED3 and the ABA signal transduction pathway-related genes OsPK1 and OsABF2
+    + Further investigation revealed that the transcription factor basic region and leucine zipper 46 (OsbZIP46), involved in ABA signaling, can directly bind to the YUCCA8/rice ethylene-insensitive 7 (OsYUC8/REIN7) promoter to activate its expression, and genetic analysis revealed that OsYUC8/REIN7 is located downstream of OsbZIP46
 
 * **Connection**  
     + __OsAREB8~OsAREB1~OsbZIP46~OsABF2~ABL1__, __OsbZIP23__, [Constitutive activation of transcription factor OsbZIP46 improves drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Constitutive activation of transcription factor OsbZIP46 improves drought tolerance in rice%5BTitle%5D), The stress-related genes activated by OsbZIP46CA1 are largely different from those activated by the other rice ABF/AREB homologs (such as OsbZIP23), further implying the value of OsbZIP46CA1 in genetic engineering of drought tolerance

@@ -3,7 +3,7 @@ layout: post
 title: "SnRK1A,OsSnRK1a,OsSnRK1A1"
 description: ""
 category: genes
-tags: [growth, seedling, seed, seed germination, resistance, development, defense, defense response, disease, salicylic acid, blast, disease resistance, immunity, broad-spectrum disease resistance, sheath, sucrose, ATPase, immune response, protoplasts, energy homeostasis, protein translation]
+tags: [growth, seedling, seed, seed germination, resistance, development, defense, defense response, disease, salicylic acid, blast, disease resistance, immunity, broad-spectrum disease resistance, sheath, sucrose, ATPase, immune response, protoplasts, energy homeostasis, protein translation, ABA,  ABA ]
 ---
 
 * **Information**  
@@ -21,6 +21,7 @@ tags: [growth, seedling, seed, seed germination, resistance, development, defens
     + [Sucrose nonfermenting-1-related protein kinase 1 regulates sheath-to-panicle transport of nonstructural carbohydrates during rice grain filling.](http://www.ncbi.nlm.nih.gov/pubmed?term=Sucrose nonfermenting-1-related protein kinase 1 regulates sheath-to-panicle transport of nonstructural carbohydrates during rice grain filling.%5BTitle%5D), 2022, Plant Physiol.
     + [SnRK1A-mediated phosphorylation of a cytosolic ATPase positively regulates rice innate immunity and is inhibited by Ustilaginoidea virens effector SCRE1.](http://www.ncbi.nlm.nih.gov/pubmed?term=SnRK1A-mediated phosphorylation of a cytosolic ATPase positively regulates rice innate immunity and is inhibited by Ustilaginoidea virens effector SCRE1.%5BTitle%5D), 2022, New Phytol.
     + [SNF1-Related Protein Kinase 1 Activity Represses the Canonical Translational Machinery.](http://www.ncbi.nlm.nih.gov/pubmed?term=SNF1-Related Protein Kinase 1 Activity Represses the Canonical Translational Machinery.%5BTitle%5D), 2022, Plants (Basel).
+    + [Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.%5BTitle%5D), 2023, Plant Biotechnol J.
 
 * **Genbank accession number**  
     + [AB101655](http://www.ncbi.nlm.nih.gov/nuccore/AB101655)
@@ -43,6 +44,8 @@ tags: [growth, seedling, seed, seed germination, resistance, development, defens
     + Meanwhile, SCRE1 outcompetes SnRK1A for XB24 binding, and thereby suppresses SnRK1A-mediated phosphorylation and ATPase activity of XB24
     + In this study, using translational reporter constructs transfected in Arabidopsis protoplasts we showed that the expression of OsSnRK1A and AtSnRK1
     + Taken together, these results suggest that OsSnRK1A and AtSnRK1.1 suppress protein translation to maintain energy homeostasis.
+    + In the OsUbc13-RNAi plants, although the protein level of OsSnRK1a did not change, its activity and ABA sensitivity were obviously enhanced, and the K63-linked polyubiquitination was weaker than that of wild-type Dongjin (DJ)
+    + Our data demonstrate OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a
 
 * **Connection**  
     + __alphaAmy3~OsAmy3D~RAmy3D__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), Treatment with a respiratory inhibitor or anoxia also relieved the sugar repression of the rice CIPK15 gene, a main upstream positive regulator of SnRK1A that is critical for Amy3D expression in response to sugar starvation
@@ -61,6 +64,9 @@ tags: [growth, seedling, seed, seed germination, resistance, development, defens
     + __ONAC023~OsNAC23__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [The OsNAC23-Tre6P-SnRK1a feed-forward loop regulates sugar homeostasis and grain yield in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsNAC23-Tre6P-SnRK1a feed-forward loop regulates sugar homeostasis and grain yield in rice.%5BTitle%5D),  Thus, OsNAC23, Tre6P, and SnRK1a form聽a feed-forward loop to sense sugar and maintain sugar homeostasis by transporting sugars to sink organs
     + __SnRK1A~OsSnRK1a~OsSnRK1A1__, __XB24__, [SnRK1A-mediated phosphorylation of a cytosolic ATPase positively regulates rice innate immunity and is inhibited by Ustilaginoidea virens effector SCRE1.](http://www.ncbi.nlm.nih.gov/pubmed?term=SnRK1A-mediated phosphorylation of a cytosolic ATPase positively regulates rice innate immunity and is inhibited by Ustilaginoidea virens effector SCRE1.%5BTitle%5D),  As a central mediator of energy signaling, SnRK1A interacts with and phosphorylates XB24 at Thr83 residue to promote ATPase activity
     + __SnRK1A~OsSnRK1a~OsSnRK1A1__, __XB24__, [SnRK1A-mediated phosphorylation of a cytosolic ATPase positively regulates rice innate immunity and is inhibited by Ustilaginoidea virens effector SCRE1.](http://www.ncbi.nlm.nih.gov/pubmed?term=SnRK1A-mediated phosphorylation of a cytosolic ATPase positively regulates rice innate immunity and is inhibited by Ustilaginoidea virens effector SCRE1.%5BTitle%5D),  Meanwhile, SCRE1 outcompetes SnRK1A for XB24 binding, and thereby suppresses SnRK1A-mediated phosphorylation and ATPase activity of XB24
+    + __OsUBC13__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.%5BTitle%5D), Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.
+    + __OsUBC13__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.%5BTitle%5D),  Strikingly, OsUbc13 directly interacts with OsSnRK1a, which is the 伪 catalytic subunit of SnRK1 (sucrose non-fermenting-1-related protein kinase-1) and acts as a positive regulator of broad-spectrum disease resistance in rice
+    + __OsUBC13__, __SnRK1A~OsSnRK1a~OsSnRK1A1__, [Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice ubiquitin-conjugating enzyme OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a.%5BTitle%5D),  Our data demonstrate OsUbc13 negatively regulates immunity against pathogens by enhancing the activity of OsSnRK1a
 
 [//]: # * **Key figures**  
 

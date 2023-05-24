@@ -3,7 +3,7 @@ layout: post
 title: "OsrbohB,Osrboh7"
 description: ""
 category: genes
-tags: [growth, plant development, seed, drought, salt, seed germination, tolerance,  ABA , drought tolerance, stress, stomatal, seed weight, ABA, organ size, stress response, resistance, floral]
+tags: [growth, plant development, seed, drought, salt, seed germination, tolerance,  ABA , drought tolerance, stress, stomatal, seed weight, ABA, organ size, stress response, resistance, floral, root, Kinase, kinase, oxidative stress, oxidative, root growth, protein kinase, sucrose, ER stress]
 ---
 
 * **Information**  
@@ -17,6 +17,7 @@ tags: [growth, plant development, seed, drought, salt, seed germination, toleran
     + [OsRbohB-mediated ROS production plays a crucial role in drought stress tolerance of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRbohB-mediated ROS production plays a crucial role in drought stress tolerance of rice%5BTitle%5D), 2020, Plant Cell Rep.
     + [Overproduction of OsRACK1A, an effector-targeted scaffold protein promoting OsRBOHB-mediated ROS production, confers rice floral resistance to false smut disease without yield penalty.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overproduction of OsRACK1A, an effector-targeted scaffold protein promoting OsRBOHB-mediated ROS production, confers rice floral resistance to false smut disease without yield penalty.%5BTitle%5D), 2022, Mol Plant.
     + [Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.%5BTitle%5D), 2022, Front Plant Sci.
+    + [Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H2O2 production to potentiate ABA responses in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H2O2 production to potentiate ABA responses in rice.%5BTitle%5D), 2023, Mol Plant.
 
 * **Genbank accession number**  
     + [AK120739](http://www.ncbi.nlm.nih.gov/nuccore/AK120739)
@@ -28,6 +29,10 @@ tags: [growth, plant development, seed, drought, salt, seed germination, toleran
     + All these results suggest the roles of OsRbohB in drought tolerance of rice, which probably performed through the interaction of the OsRbohB-mediated ROS production and ABA signaling
     + The transcriptional expression of OsRbohB is also strongly stimulated by dehydration, salt and several phytohormonal treatments
     + Overproduction of OsRACK1A restores the OsRACK1A-OsRBOHB association and promotes OsRBOHB phosphorylation to enhance ROS production, conferring rice floral resistance to U
+    + Further analyses revealed that OsDMI3-mediated OsRbohB Ser-191 phosphorylation positively regulates the activity of NADPH oxidase and the production of H(2)O(2) in ABA signaling, thereby enhancing the sensitivity of seed germination and root growth to ABA and plant tolerance to water stress and oxidative stress
+    + Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H(2)O(2) production to potentiate ABA responses in rice.
+    + OsDMI3 directly interacts with and phosphorylates OsRbohB at Ser-191, which is OsDMI3-mediated site-specific phosphorylation in ABA signaling
+    + Moreover, we discovered that the OsDMI3-mediated OsRbohB phosphorylation and H(2)O(2) production is dependent on the sucrose non-fermenting 1-related protein kinases SAPK8/9/10, which phosphorylate OsRbohB at Ser-140 in ABA signaling
 
 * **Connection**  
     + __OsrbohB~Osrboh7__, __SDS2__, [The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Monocot-Specific Receptor-like Kinase SDS2 Controls Cell Death and Immunity in Rice.%5BTitle%5D),  In addition, SDS2 interacts with related receptor-like cytoplasmic kinases, OsRLCK118/176, that positively regulate immunity by phosphorylating the NADPH oxidase OsRbohB to stimulate ROS production
@@ -41,6 +46,8 @@ tags: [growth, plant development, seed, drought, salt, seed germination, toleran
     + __OsMPK1~OsMAPK6~OsSIPK__, __OsrbohB~Osrboh7__, [Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.%5BTitle%5D),  OsFER2 knock-out in wild-type rice HY did not induce ROS and ferric ion (Fe(3+)) accumulation, lipid peroxidation and hypersensitive response (HR) cell death, and also downregulated the defense-related genes OsPAL1, OsPR1-b, OsRbohB, OsNADP-ME2-3, OsMEK2 and OsMPK1, and vacuolar membrane transporter OsVIT2 expression
     + __OsrbohB~Osrboh7__, __OsVIT2__, [Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.%5BTitle%5D),  OsFER2 knock-out in wild-type rice HY did not induce ROS and ferric ion (Fe(3+)) accumulation, lipid peroxidation and hypersensitive response (HR) cell death, and also downregulated the defense-related genes OsPAL1, OsPR1-b, OsRbohB, OsNADP-ME2-3, OsMEK2 and OsMPK1, and vacuolar membrane transporter OsVIT2 expression
     + __OsrbohB~Osrboh7__, __PAL~OsPAL4~OsPAL1__, [Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice iron storage protein ferritin 2 OsFER2 positively regulates ferroptotic cell death and defense responses against Magnaporthe oryzae.%5BTitle%5D),  OsFER2 knock-out in wild-type rice HY did not induce ROS and ferric ion (Fe(3+)) accumulation, lipid peroxidation and hypersensitive response (HR) cell death, and also downregulated the defense-related genes OsPAL1, OsPR1-b, OsRbohB, OsNADP-ME2-3, OsMEK2 and OsMPK1, and vacuolar membrane transporter OsVIT2 expression
+    + __OsCCaMK~OsDMI3__, __OsrbohB~Osrboh7__, [Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H2O2 production to potentiate ABA responses in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H2O2 production to potentiate ABA responses in rice.%5BTitle%5D), Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H(2)O(2) production to potentiate ABA responses in rice.
+    + __OsCCaMK~OsDMI3__, __OsrbohB~Osrboh7__, [Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H2O2 production to potentiate ABA responses in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of OsRbohB by the protein kinase OsDMI3 promotes H2O2 production to potentiate ABA responses in rice.%5BTitle%5D),  OsDMI3 directly interacts with and phosphorylates OsRbohB at Ser-191, which is OsDMI3-mediated site-specific phosphorylation in ABA signaling
 
 [//]: # * **Key figures**  
 
