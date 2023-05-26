@@ -9,7 +9,7 @@ tags: [cell wall, cell elongation]
 * **Information**  
     + Symbol: OsSUI1,OsPSS  
     + MSU: [LOC_Os01g02890](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g02890)  
-    + RAPdb: [Os01g0118300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0118300)  
+    + RAPdb: [Os01g0118300](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0118300)  
 
 * **Publication**  
     + [SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=SUI-family genes encode phosphatidylserine synthases and regulate stem development in rice%5BTitle%5D), 2013, Planta.

@@ -9,7 +9,7 @@ tags: [panicle, seedling, mitochondria, tapetum degeneration, programmed cell de
 * **Information**  
     + Symbol: OsALDH2b,OsALDH2B1,ALDH2b  
     + MSU: [LOC_Os06g15990](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g15990)  
-    + RAPdb: [Os06g0270900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0270900)  
+    + RAPdb: [Os06g0270900](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0270900)  
 
 * **Publication**  
     + [Organ-specific expressions and chromosomal locations of two mitochondrial aldehyde dehydrogenase genes from rice Oryza sativa L., ALDH2a and ALDH2b](http://www.ncbi.nlm.nih.gov/pubmed?term=Organ-specific expressions and chromosomal locations of two mitochondrial aldehyde dehydrogenase genes from rice Oryza sativa L., ALDH2a and ALDH2b%5BTitle%5D), 2003, Gene.

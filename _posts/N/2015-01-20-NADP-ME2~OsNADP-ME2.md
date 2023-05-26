@@ -9,7 +9,7 @@ tags: [growth, seedling, salt, root]
 * **Information**  
     + Symbol: NADP-ME2,OsNADP-ME2  
     + MSU: [LOC_Os01g52500](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g52500)  
-    + RAPdb: [Os01g0723400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0723400)  
+    + RAPdb: [Os01g0723400](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0723400)  
 
 * **Publication**  
     + [Expression of an NADP-malic enzyme gene in rice Oryza sativa. L is induced by environmental stresses; over-expression of the gene in Arabidopsis confers salt and osmotic stress tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of an NADP-malic enzyme gene in rice Oryza sativa. L is induced by environmental stresses; over-expression of the gene in Arabidopsis confers salt and osmotic stress tolerance%5BTitle%5D), 2007, Plant Mol Biol.

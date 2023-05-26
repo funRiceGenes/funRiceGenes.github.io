@@ -9,7 +9,7 @@ tags: [leaf, chloroplast, growth, development, vegetative, chloroplast developme
 * **Information**  
     + Symbol: YGL138(t),OscpSRP54a,TSYL1  
     + MSU: [LOC_Os11g05552](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g05552)  
-    + RAPdb: [Os11g0153600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os11g0153600)  
+    + RAPdb: [Os11g0153600](https://rapdb.dna.affrc.go.jp/locus/?name=Os11g0153600)  
 
 * **Publication**  
     + [YGL138t, encoding a putative signal recognition particle 54 kDa protein, is involved in chloroplast development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=YGL138t, encoding a putative signal recognition particle 54 kDa protein, is involved in chloroplast development of rice%5BTitle%5D), 2013, Rice.

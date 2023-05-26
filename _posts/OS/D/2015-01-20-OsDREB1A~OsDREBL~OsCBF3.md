@@ -9,7 +9,7 @@ tags: [salt, temperature, drought, transcription factor, abiotic stress, cold st
 * **Information**  
     + Symbol: OsDREB1A,OsDREBL,OsCBF3  
     + MSU: [LOC_Os09g35030](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g35030)  
-    + RAPdb: [Os09g0522200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0522200)  
+    + RAPdb: [Os09g0522200](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0522200)  
 
 * **Publication**  
     + [Drought inducible OsDhn1 promoter is activated by OsDREB1A and OsDREB1D](http://www.ncbi.nlm.nih.gov/pubmed?term=Drought inducible OsDhn1 promoter is activated by OsDREB1A and OsDREB1D%5BTitle%5D), 2013, Journal of Plant Biology.

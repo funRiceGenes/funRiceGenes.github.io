@@ -9,7 +9,7 @@ tags: [leaf, seedling, leaf development, growth, development, reproductive, repr
 * **Information**  
     + Symbol: OsPORB,FGL  
     + MSU: [LOC_Os10g35370](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g35370)  
-    + RAPdb: [Os10g0496900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0496900)  
+    + RAPdb: [Os10g0496900](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0496900)  
 
 * **Publication**  
     + [The rice faded green leaf locus encodes protochlorophyllide oxidoreductase B and is essential for chlorophyll synthesis under high light conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice faded green leaf locus encodes protochlorophyllide oxidoreductase B and is essential for chlorophyll synthesis under high light conditions%5BTitle%5D), 2013, Plant J.

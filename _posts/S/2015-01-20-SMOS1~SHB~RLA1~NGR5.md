@@ -9,7 +9,7 @@ tags: [auxin, organ size, transcription factor, root, meristem,  ga , GA, GA def
 * **Information**  
     + Symbol: SMOS1,SHB,RLA1,NGR5  
     + MSU: [LOC_Os05g32270](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g32270)  
-    + RAPdb: [Os05g0389000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0389000)  
+    + RAPdb: [Os05g0389000](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0389000)  
 
 * **Publication**  
     + [A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel AP2-type transcription factor, SMALL ORGAN SIZE1, controls organ size downstream of an auxin signaling pathway%5BTitle%5D), 2014, Plant Cell Physiol.

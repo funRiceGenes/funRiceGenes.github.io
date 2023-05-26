@@ -9,7 +9,7 @@ tags: [cold stress, salt, photosynthesis, submergence, drought, gibberellin, lea
 * **Information**  
     + Symbol: OsMGD,OsMGD2  
     + MSU: [LOC_Os02g55910](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g55910)  
-    + RAPdb: [Os02g0802700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0802700)  
+    + RAPdb: [Os02g0802700](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0802700)  
 
 * **Publication**  
     + [Cloning of a putative monogalactosyldiacylglycerol synthase gene from rice Oryza sativa L. plants and its expression in response to submergence and other stresses](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning of a putative monogalactosyldiacylglycerol synthase gene from rice Oryza sativa L. plants and its expression in response to submergence and other stresses%5BTitle%5D), 2004, Planta.

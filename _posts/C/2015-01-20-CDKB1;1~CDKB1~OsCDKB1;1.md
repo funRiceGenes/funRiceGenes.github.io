@@ -9,7 +9,7 @@ tags: [root apical meristem, root, shoot, meristem, stomatal, Kinase, kinase, sa
 * **Information**  
     + Symbol: CDKB1;1,CDKB1,OsCDKB1;1  
     + MSU: [LOC_Os01g67160](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g67160)  
-    + RAPdb: [Os01g0897000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0897000)  
+    + RAPdb: [Os01g0897000](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0897000)  
 
 * **Publication**  
     + [Isolation and characterization of a rice cDNA encoding B1-type cyclin-dependent kinase](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a rice cDNA encoding B1-type cyclin-dependent kinase%5BTitle%5D), 2006, Plant Biotechnology.

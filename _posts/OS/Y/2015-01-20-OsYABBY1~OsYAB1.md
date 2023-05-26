@@ -9,7 +9,7 @@ tags: [floral, flower, vascular bundle, lemma, sheath, growth, meristem, vegetat
 * **Information**  
     + Symbol: OsYABBY1,OsYAB1  
     + MSU: [LOC_Os07g06620](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g06620)  
-    + RAPdb: [Os07g0160100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0160100)  
+    + RAPdb: [Os07g0160100](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0160100)  
 
 * **Publication**  
     + [Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1%5BTitle%5D), 2007, Mol Genet Genomics.

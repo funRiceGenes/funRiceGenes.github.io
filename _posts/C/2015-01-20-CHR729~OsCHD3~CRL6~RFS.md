@@ -9,7 +9,7 @@ tags: [seedling, development, gibberellin, R protein, Gibberellin, stem, root, m
 * **Information**  
     + Symbol: CHR729,OsCHD3,CRL6,RFS  
     + MSU: [LOC_Os07g31450](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g31450)  
-    + RAPdb: [Os07g0497100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0497100),[Os07g0497000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0497000)  
+    + RAPdb: [Os07g0497100](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0497100),[Os07g0497000](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0497000)  
 
 * **Publication**  
     + [CHD3 protein recognizes and regulates methylated histone H3 lysines 4 and 27 over a subset of targets in the rice genome](http://www.ncbi.nlm.nih.gov/pubmed?term=CHD3 protein recognizes and regulates methylated histone H3 lysines 4 and 27 over a subset of targets in the rice genome%5BTitle%5D), 2012, Proc Natl Acad Sci U S A.

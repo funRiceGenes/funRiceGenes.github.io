@@ -9,7 +9,7 @@ tags: [seed, pollen, meiosis, anther development, growth, anther, sterility, end
 * **Information**  
     + Symbol: OsUgp1,Ugp1,UGPase1  
     + MSU: [LOC_Os09g38030](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g38030)  
-    + RAPdb: [Os09g0553200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0553200)  
+    + RAPdb: [Os09g0553200](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0553200)  
 
 * **Publication**  
     + [UDP-glucose pyrophosphorylase2 OsUgp2, a pollen-preferential gene in rice, plays a critical role in starch accumulation during pollen maturation](http://www.ncbi.nlm.nih.gov/pubmed?term=UDP-glucose pyrophosphorylase2 OsUgp2, a pollen-preferential gene in rice, plays a critical role in starch accumulation during pollen maturation%5BTitle%5D), 2009, Chinese Science Bulletin.

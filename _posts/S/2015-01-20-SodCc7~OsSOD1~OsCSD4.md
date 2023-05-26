@@ -9,7 +9,7 @@ tags: [zinc, resistance, salt, oxidative, salt stress, stress]
 * **Information**  
     + Symbol: SodCc7,OsSOD1,OsCSD4  
     + MSU: [LOC_Os03g22810](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g22810)  
-    + RAPdb: [Os03g0351500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0351500)  
+    + RAPdb: [Os03g0351500](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0351500)  
 
 * **Publication**  
     + [Molecular Cloning of the Gene SodCc7 that Encodes a Cytosolic Copper/Zinc-Superoxide  Dismutase from Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular Cloning of the Gene SodCc7 that Encodes a Cytosolic Copper/Zinc-Superoxide  Dismutase from Rice%5BTitle%5D), 1995, Plant Physiol Biochem.

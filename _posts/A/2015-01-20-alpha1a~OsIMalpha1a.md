@@ -9,7 +9,7 @@ tags: [defense response, disease resistance]
 * **Information**  
     + Symbol: alpha1a,OsIMalpha1a  
     + MSU: [LOC_Os01g14950](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g14950)  
-    + RAPdb: [Os01g0253300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0253300)  
+    + RAPdb: [Os01g0253300](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0253300)  
 
 * **Publication**  
     + [Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning of a cDNA encoding an importin-alpha and down-regulation of the gene by light in rice leaves%5BTitle%5D), 1998, Gene.

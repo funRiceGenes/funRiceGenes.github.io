@@ -9,7 +9,7 @@ tags: [root, transcription factor, homeostasis, shoot, leaf, growth, development
 * **Information**  
     + Symbol: OsIRO3,OsOsbHLH063  
     + MSU: [LOC_Os03g26210](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g26210)  
-    + RAPdb: [Os03g0379300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0379300)  
+    + RAPdb: [Os03g0379300](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0379300)  
 
 * **Publication**  
     + [Identification of a novel iron regulated basic helix-loop-helix protein involved in Fe homeostasis in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of a novel iron regulated basic helix-loop-helix protein involved in Fe homeostasis in Oryza sativa%5BTitle%5D), 2010, BMC Plant Biol.

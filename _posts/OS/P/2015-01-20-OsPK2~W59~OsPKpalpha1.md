@@ -9,7 +9,7 @@ tags: [grain, seed, starch, map-based cloning, yield, endosperm, grain filling, 
 * **Information**  
     + Symbol: OsPK2,W59,OsPKpalpha1  
     + MSU: [LOC_Os07g08340](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g08340)  
-    + RAPdb: [Os07g0181000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0181000)  
+    + RAPdb: [Os07g0181000](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0181000)  
 
 * **Publication**  
     + [OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsPK2 encodes a plastidic pyruvate kinase involved in rice endosperm starch synthesis, compound granule formation and grain filling.%5BTitle%5D), 2018, Plant Biotechnol J.

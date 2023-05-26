@@ -9,7 +9,7 @@ tags: [transcription factor, growth, resistance, drought, stress, plant growth, 
 * **Information**  
     + Symbol: OsWRKY55,WRKY55a,WRKY55b,OsWRKY31  
     + MSU: [LOC_Os03g20550](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g20550)  
-    + RAPdb: [Os03g0321700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0321700)  
+    + RAPdb: [Os03g0321700](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0321700)  
 
 * **Publication**  
     + [Constitutive expression of pathogen-inducible OsWRKY31 enhances disease resistance and affects root growth and auxin response in transgenic rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Constitutive expression of pathogen-inducible OsWRKY31 enhances disease resistance and affects root growth and auxin response in transgenic rice plants%5BTitle%5D), 2008, Cell Res.

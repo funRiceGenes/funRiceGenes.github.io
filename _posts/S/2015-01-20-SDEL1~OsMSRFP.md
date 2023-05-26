@@ -9,7 +9,7 @@ tags: [Pi,  pi , salt, tolerance, salt tolerance]
 * **Information**  
     + Symbol: SDEL1,OsMSRFP  
     + MSU: [LOC_Os12g35320](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g35320)  
-    + RAPdb: [Os12g0538500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0538500)  
+    + RAPdb: [Os12g0538500](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0538500)  
 
 * **Publication**  
     + [Two RING-finger ubiquitin E3 ligases regulate the degradation of SPX4, the internal phosphate sensor, for phosphate homeostasis and signaling in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Two RING-finger ubiquitin E3 ligases regulate the degradation of SPX4, the internal phosphate sensor, for phosphate homeostasis and signaling in rice.%5BTitle%5D), 2019, Mol Plant.

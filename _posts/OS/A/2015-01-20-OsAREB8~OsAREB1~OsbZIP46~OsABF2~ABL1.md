@@ -9,7 +9,7 @@ tags: [drought tolerance, salinity, auxin,  ABA , abiotic stress, flower, drough
 * **Information**  
     + Symbol: OsAREB8,OsAREB1,OsbZIP46,OsABF2,ABL1  
     + MSU: [LOC_Os06g10880](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g10880)  
-    + RAPdb: [Os06g0211200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0211200)  
+    + RAPdb: [Os06g0211200](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0211200)  
 
 * **Publication**  
     + [OsAREB1, an ABRE-binding protein responding to ABA and glucose, has multiple functions in Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=OsAREB1, an ABRE-binding protein responding to ABA and glucose, has multiple functions in Arabidopsis%5BTitle%5D), 2010, BMB reports.

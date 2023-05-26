@@ -9,7 +9,7 @@ tags: [nitrogen, grain, tiller, grain yield, yield, breeding, tiller number, nit
 * **Information**  
     + Symbol: OsNIA1,OsNia1,OsNR2  
     + MSU: [LOC_Os02g53130](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g53130)  
-    + RAPdb: [Os02g0770800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0770800)  
+    + RAPdb: [Os02g0770800](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0770800)  
 
 * **Publication**  
     + [Knockdown of a rice stelar nitrate transporter alters long-distance translocation but not root influx](http://www.ncbi.nlm.nih.gov/pubmed?term=Knockdown of a rice stelar nitrate transporter alters long-distance translocation but not root influx%5BTitle%5D), 2012, Plant Physiol.

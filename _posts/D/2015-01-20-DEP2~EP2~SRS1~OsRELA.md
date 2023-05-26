@@ -9,7 +9,7 @@ tags: [erect, grain, seed size, seed, panicle, vascular bundle, architecture, st
 * **Information**  
     + Symbol: DEP2,EP2,SRS1,OsRELA  
     + MSU: [LOC_Os07g42410](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g42410)  
-    + RAPdb: [Os07g0616000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0616000)  
+    + RAPdb: [Os07g0616000](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0616000)  
 
 * **Publication**  
     + [The SMALL AND ROUND SEED1 SRS1/DEP2 gene is involved in the regulation of seed size in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SMALL AND ROUND SEED1 SRS1/DEP2 gene is involved in the regulation of seed size in rice%5BTitle%5D), 2010, Genes Genet Syst.

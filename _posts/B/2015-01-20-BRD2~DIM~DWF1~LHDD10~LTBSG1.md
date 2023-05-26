@@ -9,7 +9,7 @@ tags: [dwarf, seed, brassinosteroid, flower,  BR , shoot, map-based cloning, hei
 * **Information**  
     + Symbol: BRD2,DIM,DWF1,LHDD10,LTBSG1  
     + MSU: [LOC_Os10g25780](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g25780)  
-    + RAPdb: [Os10g0397400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0397400)  
+    + RAPdb: [Os10g0397400](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0397400)  
 
 * **Publication**  
     + [The Rice brassinosteroid-deficient dwarf2 mutant, defective in the rice homolog of Arabidopsis DIMINUTO/DWARF1, is rescued by the endogenously accumulated alternative bioactive brassinosteroid, dolichosterone](http://www.ncbi.nlm.nih.gov/pubmed?term=The Rice brassinosteroid-deficient dwarf2 mutant, defective in the rice homolog of Arabidopsis DIMINUTO/DWARF1, is rescued by the endogenously accumulated alternative bioactive brassinosteroid, dolichosterone%5BTitle%5D), 2005, Plant Cell.

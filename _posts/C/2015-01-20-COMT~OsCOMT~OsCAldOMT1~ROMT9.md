@@ -9,7 +9,7 @@ tags: [disease, disease resistance, cytoplasm, melatonin, melatonin biosynthesis
 * **Information**  
     + Symbol: COMT,OsCOMT,OsCAldOMT1,ROMT9  
     + MSU: [LOC_Os08g06100](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g06100)  
-    + RAPdb: [Os08g0157500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0157500)  
+    + RAPdb: [Os08g0157500](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0157500)  
 
 * **Publication**  
     + [OsCAD2 is the major CAD gene responsible for monolignol biosynthesis in rice culm](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCAD2 is the major CAD gene responsible for monolignol biosynthesis in rice culm%5BTitle%5D), 2012, Plant Cell Rep.

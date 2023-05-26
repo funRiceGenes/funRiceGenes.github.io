@@ -9,7 +9,7 @@ tags: [ BR , root, brassinosteroid,  ga , fertility, ethylene, dwarf, primary ro
 * **Information**  
     + Symbol: OsGSR1,GW6,OsGASR7  
     + MSU: [LOC_Os06g15620](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g15620)  
-    + RAPdb: [Os06g0266800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0266800)  
+    + RAPdb: [Os06g0266800](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0266800)  
 
 * **Publication**  
     + [OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGSR1 is involved in crosstalk between gibberellins and brassinosteroids in rice%5BTitle%5D), 2009, Plant J.

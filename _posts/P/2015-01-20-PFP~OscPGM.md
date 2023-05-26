@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: PFP,OscPGM  
     + MSU: [LOC_Os03g50480](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g50480)  
-    + RAPdb: [Os03g0712700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0712700)  
+    + RAPdb: [Os03g0712700](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0712700)  
 
 * **Publication**  
 

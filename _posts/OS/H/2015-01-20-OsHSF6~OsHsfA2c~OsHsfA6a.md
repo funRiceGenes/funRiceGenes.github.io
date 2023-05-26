@@ -9,7 +9,7 @@ tags: [seed, transcription factor, root, stress]
 * **Information**  
     + Symbol: OsHSF6,OsHsfA2c,OsHsfA6a  
     + MSU: [LOC_Os10g28340](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g28340)  
-    + RAPdb: [Os10g0419300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0419300)  
+    + RAPdb: [Os10g0419300](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0419300)  
 
 * **Publication**  
     + [Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of a cDNA encoding two novel heat-shock factor OsHSF6 and OsHSF12 in Oryza sativa L%5BTitle%5D), 2005, J Biochem Mol Biol.

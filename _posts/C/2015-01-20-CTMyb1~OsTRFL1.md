@@ -9,7 +9,7 @@ tags: [development, vegetative, reproductive, telomere lengthening, telomere rep
 * **Information**  
     + Symbol: CTMyb1,OsTRFL1  
     + MSU: [LOC_Os02g53670](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g53670)  
-    + RAPdb: [Os02g0776700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0776700)  
+    + RAPdb: [Os02g0776700](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0776700)  
 
 * **Publication**  
     + [An N-terminal region of a Myb-like protein is involved in its intracellular localization and activation of a gibberellin-inducible proteinase gene in germinated rice seeds.](http://www.ncbi.nlm.nih.gov/pubmed?term=An N-terminal region of a Myb-like protein is involved in its intracellular localization and activation of a gibberellin-inducible proteinase gene in germinated rice seeds.%5BTitle%5D), 2015, Biosci Biotechnol Biochem.

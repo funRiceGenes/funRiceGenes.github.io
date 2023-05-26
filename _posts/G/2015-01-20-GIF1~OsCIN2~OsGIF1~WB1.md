@@ -9,7 +9,7 @@ tags: [domestication, grain, homeostasis, grain weight, cell wall, development, 
 * **Information**  
     + Symbol: GIF1,OsCIN2,OsGIF1,WB1  
     + MSU: [LOC_Os04g33740](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g33740)  
-    + RAPdb: [Os04g0413500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0413500)  
+    + RAPdb: [Os04g0413500](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0413500)  
 
 * **Publication**  
     + [Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication](http://www.ncbi.nlm.nih.gov/pubmed?term=Duplication and independent selection of cell-wall invertase genes GIF1 and OsCIN1 during rice evolution and domestication%5BTitle%5D), 2010, BMC Evol Biol.

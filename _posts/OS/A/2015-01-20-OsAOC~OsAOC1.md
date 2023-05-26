@@ -9,7 +9,7 @@ tags: [jasmonic acid, jasmonic, jasmonate]
 * **Information**  
     + Symbol: OsAOC,OsAOC1  
     + MSU: [LOC_Os03g32314](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g32314)  
-    + RAPdb: [Os03g0438100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0438100)  
+    + RAPdb: [Os03g0438100](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0438100)  
 
 * **Publication**  
     + [Cloning of novel rice allene oxide cyclase OsAOC: mRNA expression and comparative analysis with allene oxide synthase OsAOS gene provides insight into the transcriptional regulation of octadecanoid pathway biosynthetic genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning of novel rice allene oxide cyclase OsAOC: mRNA expression and comparative analysis with allene oxide synthase OsAOS gene provides insight into the transcriptional regulation of octadecanoid pathway biosynthetic genes in rice%5BTitle%5D), 2003, Plant Science.

@@ -9,7 +9,7 @@ tags: [resistance, blast, immune response, plasma membrane, Kinase, chitin signa
 * **Information**  
     + Symbol: OsRacGEF1,OsRopGEF7B  
     + MSU: [LOC_Os01g62990](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g62990)  
-    + RAPdb: [Os01g0849100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0849100)  
+    + RAPdb: [Os01g0849100](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0849100)  
 
 * **Publication**  
     + [An OsCEBiP/OsCERK1-OsRacGEF1-OsRac1 module is an essential early component of chitin-induced rice immunity.](http://www.ncbi.nlm.nih.gov/pubmed?term=An OsCEBiP/OsCERK1-OsRacGEF1-OsRac1 module is an essential early component of chitin-induced rice immunity.%5BTitle%5D), 2013, Cell Host Microbe.

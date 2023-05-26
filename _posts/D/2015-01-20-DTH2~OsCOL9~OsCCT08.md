@@ -9,7 +9,7 @@ tags: [domestication, flower, reproductive, floral, heading date, breeding, resi
 * **Information**  
     + Symbol: DTH2,OsCOL9,OsCCT08  
     + MSU: [LOC_Os02g49230](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g49230)  
-    + RAPdb: [Os02g0724000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0724000)  
+    + RAPdb: [Os02g0724000](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0724000)  
 
 * **Publication**  
     + [Association of functional nucleotide polymorphisms at DTH2 with the northward expansion of rice cultivation in Asia](http://www.ncbi.nlm.nih.gov/pubmed?term=Association of functional nucleotide polymorphisms at DTH2 with the northward expansion of rice cultivation in Asia%5BTitle%5D), 2013, Proc Natl Acad Sci U S A.

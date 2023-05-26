@@ -9,7 +9,7 @@ tags: [defense, disease, salicylic acid,  ja ,  sa , jasmonic acid, cell death, 
 * **Information**  
     + Symbol: OsEDR1,OsACDR1,OsMAPKKK1,SPL3  
     + MSU: [LOC_Os03g06410](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g06410)  
-    + RAPdb: [Os03g0160100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0160100)  
+    + RAPdb: [Os03g0160100](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0160100)  
 
 * **Publication**  
     + [Molecular cloning and mRNA expression analysis of a novel rice  L. MAPK kinase kinase, , an ortholog of , reveal its role in defense/stress signalling pathways and development](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular cloning and mRNA expression analysis of a novel rice  L. MAPK kinase kinase, , an ortholog of , reveal its role in defense/stress signalling pathways and development%5BTitle%5D), 2003, Biochem Biophys Res Commun.

@@ -9,7 +9,7 @@ tags: [pathogen]
 * **Information**  
     + Symbol: OsDXS,OsDXS3  
     + MSU: [LOC_Os07g09190](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g09190)  
-    + RAPdb: [Os07g0190000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0190000)  
+    + RAPdb: [Os07g0190000](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0190000)  
 
 * **Publication**  
     + [Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice%5BTitle%5D), 2007, Plant Mol Biol.

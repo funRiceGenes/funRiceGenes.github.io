@@ -9,7 +9,7 @@ tags: [root, transporter, vegetative, xylem, cadmium, growth, reproductive, zinc
 * **Information**  
     + Symbol: OsHMA2,OsHMA2v  
     + MSU: [LOC_Os06g48720](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g48720)  
-    + RAPdb: [Os06g0700700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0700700)  
+    + RAPdb: [Os06g0700700](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0700700)  
 
 * **Publication**  
     + [Cadmium retention in rice roots is influenced by cadmium availability, chelation and translocation](http://www.ncbi.nlm.nih.gov/pubmed?term=Cadmium retention in rice roots is influenced by cadmium availability, chelation and translocation%5BTitle%5D), 2011, Plant Cell Environ.

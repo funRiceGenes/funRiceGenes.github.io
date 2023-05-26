@@ -9,7 +9,7 @@ tags: [endosperm, starch, seed]
 * **Information**  
     + Symbol: OsSSIIIa,Flo5  
     + MSU: [LOC_Os08g09230](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g09230)  
-    + RAPdb: [Os08g0191433](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0191433)  
+    + RAPdb: [Os08g0191433](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0191433)  
 
 * **Publication**  
     + [Knockout of a starch synthase gene OsSSIIIa/Flo5 causes white-core floury endosperm in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Knockout of a starch synthase gene OsSSIIIa/Flo5 causes white-core floury endosperm in rice Oryza sativa L.%5BTitle%5D), 2007, Plant Cell Rep.

@@ -9,7 +9,7 @@ tags: [immune response, sa, SA,  sa , leaf, chloroplast, resistance, blast, cell
 * **Information**  
     + Symbol: OsLMP1,OsUBP2,LMM22  
     + MSU: [LOC_Os09g32740](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g32740)  
-    + RAPdb: [Os09g0505100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0505100)  
+    + RAPdb: [Os09g0505100](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0505100)  
 
 * **Publication**  
     + [OsLMP1, Encoding a Deubiquitinase, Regulates the Immune Response in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsLMP1, Encoding a Deubiquitinase, Regulates the Immune Response in Rice.%5BTitle%5D), 2022, Front Plant Sci.

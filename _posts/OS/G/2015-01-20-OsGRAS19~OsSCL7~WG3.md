@@ -9,7 +9,7 @@ tags: [brassinosteroid, grain, Brassinosteroid, resistance, disease, disease res
 * **Information**  
     + Symbol: OsGRAS19,OsSCL7,WG3  
     + MSU: [LOC_Os03g51330](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g51330)  
-    + RAPdb: [Os03g0723000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0723000)  
+    + RAPdb: [Os03g0723000](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0723000)  
 
 * **Publication**  
     + [OsGRAS19 may be a novel component involved in the brassinosteroid signaling pathway in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsGRAS19 may be a novel component involved in the brassinosteroid signaling pathway in rice%5BTitle%5D), 2013, Mol Plant.

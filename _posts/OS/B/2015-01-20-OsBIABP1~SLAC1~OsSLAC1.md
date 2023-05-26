@@ -9,7 +9,7 @@ tags: [defense response, stem, magnaporthe oryzae, root, flower, leaf, defense, 
 * **Information**  
     + Symbol: OsBIABP1,SLAC1,OsSLAC1  
     + MSU: [LOC_Os04g57850](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g57850)  
-    + RAPdb: [Os04g0674700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0674700)  
+    + RAPdb: [Os04g0674700](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0674700)  
 
 * **Publication**  
     + [Increased leaf photosynthesis caused by elevated stomatal conductance in a rice mutant deficient in SLAC1, a guard cell anion channel protein](http://www.ncbi.nlm.nih.gov/pubmed?term=Increased leaf photosynthesis caused by elevated stomatal conductance in a rice mutant deficient in SLAC1, a guard cell anion channel protein%5BTitle%5D), 2012, J Exp Bot.

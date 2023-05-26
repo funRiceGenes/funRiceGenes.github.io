@@ -9,7 +9,7 @@ tags: [transcription factor, development, resistance, disease, defense response,
 * **Information**  
     + Symbol: OsNIN-like2,OsNLP2  
     + MSU: [LOC_Os04g41850](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g41850)  
-    + RAPdb: [Os04g0495800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0495800)  
+    + RAPdb: [Os04g0495800](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0495800)  
 
 * **Publication**  
     + [Five novel transcription factors as potential regulators of OsNHX1 gene expression in a salt tolerant rice genotype.](http://www.ncbi.nlm.nih.gov/pubmed?term=Five novel transcription factors as potential regulators of OsNHX1 gene expression in a salt tolerant rice genotype.%5BTitle%5D), 2016, Plant Mol Biol.

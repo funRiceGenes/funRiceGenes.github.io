@@ -9,7 +9,7 @@ tags: [temperature, cell elongation, root, leaf, cell wall, seedling, abiotic st
 * **Information**  
     + Symbol: Osgr-rbp4,Osgrp1  
     + MSU: [LOC_Os12g43600](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g43600)  
-    + RAPdb: [Os12g0632000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0632000)  
+    + RAPdb: [Os12g0632000](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0632000)  
 
 * **Publication**  
     + [Molecular characterization of a novel isoform of rice Oryza sativa L. glycine rich-RNA binding protein and evidence for its involvement in high temperature stress response](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of a novel isoform of rice Oryza sativa L. glycine rich-RNA binding protein and evidence for its involvement in high temperature stress response%5BTitle%5D), 2007, Plant Science.

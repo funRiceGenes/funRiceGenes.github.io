@@ -9,7 +9,7 @@ tags: [starch, endosperm, starch biosynthesis]
 * **Information**  
     + Symbol: OsBEIIa,OsSBE4,RBE4  
     + MSU: [LOC_Os04g33460](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g33460)  
-    + RAPdb: [Os04g0409200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0409200)  
+    + RAPdb: [Os04g0409200](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0409200)  
 
 * **Publication**  
     + [Sugary Endosperm is Modulated by Starch Branching Enzyme IIa in Rice Oryza sativa L..](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugary Endosperm is Modulated by Starch Branching Enzyme IIa in Rice Oryza sativa L..%5BTitle%5D), 2017, Rice (N Y).

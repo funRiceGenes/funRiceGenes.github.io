@@ -9,7 +9,7 @@ tags: [growth, abiotic stress, biotic stress, leaf, leaf senescence, senescence,
 * **Information**  
     + Symbol: OsXDH,OsSAC3  
     + MSU: [LOC_Os03g31550](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g31550)  
-    + RAPdb: [Os03g0429800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0429800)  
+    + RAPdb: [Os03g0429800](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0429800)  
 
 * **Publication**  
     + [Enhancing xanthine dehydrogenase activity is an effective way to delay leaf senescence and increase rice yield.](http://www.ncbi.nlm.nih.gov/pubmed?term=Enhancing xanthine dehydrogenase activity is an effective way to delay leaf senescence and increase rice yield.%5BTitle%5D), 2020, Rice (N Y).

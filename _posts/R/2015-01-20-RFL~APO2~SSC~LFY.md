@@ -9,7 +9,7 @@ tags: [architecture, flower, panicle, meristem, reproductive, inflorescence, gro
 * **Information**  
     + Symbol: RFL,APO2,SSC,LFY  
     + MSU: [LOC_Os04g51000](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g51000)  
-    + RAPdb: [Os04g0598300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0598300)  
+    + RAPdb: [Os04g0598300](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0598300)  
 
 * **Publication**  
     + [ABERRANT PANICLE ORGANIZATION 2/RFL, the rice ortholog of Arabidopsis LEAFY, suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1](http://www.ncbi.nlm.nih.gov/pubmed?term=ABERRANT PANICLE ORGANIZATION 2/RFL, the rice ortholog of Arabidopsis LEAFY, suppresses the transition from inflorescence meristem to floral meristem through interaction with APO1%5BTitle%5D), 2012, Plant J.

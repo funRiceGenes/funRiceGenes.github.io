@@ -9,7 +9,7 @@ tags: [stamen, flower, lemma, floral, leaf, palea, seed, seed germination, ABA, 
 * **Information**  
     + Symbol: OsMADS8,OsMADS24  
     + MSU: [LOC_Os09g32948](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g32948)  
-    + RAPdb: [Os09g0507200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0507200)  
+    + RAPdb: [Os09g0507200](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0507200)  
 
 * **Publication**  
     + [MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress](http://www.ncbi.nlm.nih.gov/pubmed?term=MADS-box gene family in rice: genome-wide identification, organization and expression profiling during reproductive development and stress%5BTitle%5D), 2007, BMC Genomics.

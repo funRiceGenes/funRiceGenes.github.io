@@ -9,7 +9,7 @@ tags: [heading date]
 * **Information**  
     + Symbol: OsWDR5a,OsWDR5  
     + MSU: [LOC_Os03g51550](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g51550)  
-    + RAPdb: [Os03g0725400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0725400)  
+    + RAPdb: [Os03g0725400](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0725400)  
 
 * **Publication**  
     + [The COMPASS-like complex promotes flowering and panicle branching in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The COMPASS-like complex promotes flowering and panicle branching in rice.%5BTitle%5D), 2018, Plant Physiol.

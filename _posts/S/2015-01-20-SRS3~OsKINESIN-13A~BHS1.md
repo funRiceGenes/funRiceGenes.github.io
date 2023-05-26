@@ -9,7 +9,7 @@ tags: [grain, seed, cellulose, cell elongation, grain length, grain size, growth
 * **Information**  
     + Symbol: SRS3,OsKINESIN-13A,BHS1  
     + MSU: [LOC_Os05g06280](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g06280)  
-    + RAPdb: [Os05g0154700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0154700)  
+    + RAPdb: [Os05g0154700](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0154700)  
 
 * **Publication**  
     + [Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Antagonistic actions of HLH/bHLH proteins are involved in grain length and weight in rice%5BTitle%5D), 2012, PLoS One.

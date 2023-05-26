@@ -9,7 +9,7 @@ tags: [blight,  ja , jasmonate, bacterial blight,  xoo , defense, seedlings, sal
 * **Information**  
     + Symbol: OsJAZ8,OsTIFY10c  
     + MSU: [LOC_Os09g26780](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g26780)  
-    + RAPdb: [Os09g0439200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0439200)  
+    + RAPdb: [Os09g0439200](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0439200)  
 
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.

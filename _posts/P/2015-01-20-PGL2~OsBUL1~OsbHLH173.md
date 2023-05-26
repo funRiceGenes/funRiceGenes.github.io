@@ -9,7 +9,7 @@ tags: [grain length, palea, grain size, brassinosteroid, grain, lemma, leaf, cel
 * **Information**  
     + Symbol: PGL2,OsBUL1,OsbHLH173  
     + MSU: [LOC_Os02g51320](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g51320)  
-    + RAPdb: [Os02g0747900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0747900)  
+    + RAPdb: [Os02g0747900](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0747900)  
 
 * **Publication**  
     + [An atypical bHLH protein encoded by POSITIVE REGULATOR OF GRAIN LENGTH 2 is involved in controlling grain length and weight of rice through interaction with a typical bHLH protein APG](http://www.ncbi.nlm.nih.gov/pubmed?term=An atypical bHLH protein encoded by POSITIVE REGULATOR OF GRAIN LENGTH 2 is involved in controlling grain length and weight of rice through interaction with a typical bHLH protein APG%5BTitle%5D), 2012, Breed Sci.

@@ -9,7 +9,7 @@ tags: [pigment biosynthesis, terpenoid biosynthesis]
 * **Information**  
     + Symbol: OsHDR,OsHMBPP,OsIspH1  
     + MSU: [LOC_Os03g52170](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g52170)  
-    + RAPdb: [Os03g0731900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0731900)  
+    + RAPdb: [Os03g0731900](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0731900)  
 
 * **Publication**  
     + [Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Elicitor induced activation of the methylerythritol phosphate pathway toward phytoalexins biosynthesis in rice%5BTitle%5D), 2007, Plant Mol Biol.

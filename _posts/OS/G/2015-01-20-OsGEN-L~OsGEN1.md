@@ -9,7 +9,7 @@ tags: [microspore, sterile, fertility, anther, pollen, sterility, development, m
 * **Information**  
     + Symbol: OsGEN-L,OsGEN1  
     + MSU: [LOC_Os09g35000](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g35000)  
-    + RAPdb: [Os09g0521900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0521900)  
+    + RAPdb: [Os09g0521900](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0521900)  
 
 * **Publication**  
     + [The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5 '-flap endonuclease activity](http://www.ncbi.nlm.nih.gov/pubmed?term=The OsGEN-L protein from Oryza sativa possesses Holliday junction resolvase activity as well as 5 '-flap endonuclease activity%5BTitle%5D), 2012, J Biochem.

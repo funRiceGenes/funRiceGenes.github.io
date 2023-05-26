@@ -9,7 +9,7 @@ tags: [transcription factor, resistance, stress, chilling]
 * **Information**  
     + Symbol: OsMAPK33,OsMAPK3  
     + MSU: [LOC_Os02g05480](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g05480)  
-    + RAPdb: [Os02g0148100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0148100)  
+    + RAPdb: [Os02g0148100](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0148100)  
 
 * **Publication**  
     + [Overexpression of the mitogen-activated protein kinase gene OsMAPK33 enhances sensitivity to salt stress in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of the mitogen-activated protein kinase gene OsMAPK33 enhances sensitivity to salt stress in rice Oryza sativa L.%5BTitle%5D), 2011, Journal of Biosciences.

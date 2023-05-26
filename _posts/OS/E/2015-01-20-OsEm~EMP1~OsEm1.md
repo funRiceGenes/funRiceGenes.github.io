@@ -9,7 +9,7 @@ tags: [ ABA , drought, tolerance, abiotic stress, vegetative, drought tolerance,
 * **Information**  
     + Symbol: OsEm,EMP1,OsEm1  
     + MSU: [LOC_Os05g28210](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g28210)  
-    + RAPdb: [Os05g0349800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0349800)  
+    + RAPdb: [Os05g0349800](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0349800)  
 
 * **Publication**  
     + [Nucleotide sequence of the rice Oryza sativa Em protein gene Emp1](http://www.ncbi.nlm.nih.gov/pubmed?term=Nucleotide sequence of the rice Oryza sativa Em protein gene Emp1%5BTitle%5D), 1992, Plant Mol Biol.

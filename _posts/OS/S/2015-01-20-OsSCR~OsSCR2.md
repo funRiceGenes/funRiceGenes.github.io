@@ -9,7 +9,7 @@ tags: [leaf, root, stomatal, iaa, stomata, stomatal development, leaf developmen
 * **Information**  
     + Symbol: OsSCR,OsSCR2  
     + MSU: [LOC_Os12g02870](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g02870)  
-    + RAPdb: [Os12g0122000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0122000)  
+    + RAPdb: [Os12g0122000](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0122000)  
 
 * **Publication**  
     + [The SCARECROW gene's role in asymmetric cell divisions in rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=The SCARECROW gene's role in asymmetric cell divisions in rice plants%5BTitle%5D), 2003, The Plant Journal.

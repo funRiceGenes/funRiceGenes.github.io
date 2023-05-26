@@ -9,7 +9,7 @@ tags: [phosphate, shoot, homeostasis, transporter,  pi , Pi]
 * **Information**  
     + Symbol: OsSPX-MFS1,OsPSS1  
     + MSU: [LOC_Os04g48390](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g48390)  
-    + RAPdb: [Os04g0573000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0573000)  
+    + RAPdb: [Os04g0573000](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0573000)  
 
 * **Publication**  
     + [Auxin response factor OsARF12, a novel regulator for phosphate homeostasis in rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin response factor OsARF12, a novel regulator for phosphate homeostasis in rice Oryza sativa%5BTitle%5D), 2014, New Phytol.

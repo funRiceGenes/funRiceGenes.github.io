@@ -9,7 +9,7 @@ tags: [meristem, growth, root, brassinosteroid, stem, seed, lemma, cell elongati
 * **Information**  
     + Symbol: TID1,SRS5,OsTubA2  
     + MSU: [LOC_Os11g14220](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g14220)  
-    + RAPdb: [Os11g0247300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os11g0247300)  
+    + RAPdb: [Os11g0247300](https://rapdb.dna.affrc.go.jp/locus/?name=Os11g0247300)  
 
 * **Publication**  
     + [Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Small and round seed 5 gene encodes alpha-tubulin regulating seed cell elongation in rice%5BTitle%5D), 2012, Rice (N Y).

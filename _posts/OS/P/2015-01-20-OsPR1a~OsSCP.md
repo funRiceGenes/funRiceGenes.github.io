@@ -9,7 +9,7 @@ tags: [leaf,  sa , jasmonic acid, jasmonic, phytohormone,  pi , ethylene, salicy
 * **Information**  
     + Symbol: OsPR1a,OsSCP  
     + MSU: [LOC_Os07g03710](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g03710)  
-    + RAPdb: [Os07g0129200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0129200)  
+    + RAPdb: [Os07g0129200](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0129200)  
 
 * **Publication**  
     + [A novel rice Oryza sativa L. acidic PR1 gene highly responsive to cut, phytohormones, and protein phosphatase inhibitors](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel rice Oryza sativa L. acidic PR1 gene highly responsive to cut, phytohormones, and protein phosphatase inhibitors%5BTitle%5D), 2000, Biochem Biophys Res Commun.

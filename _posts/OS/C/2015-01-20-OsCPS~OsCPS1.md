@@ -9,7 +9,7 @@ tags: [gibberellin,  ga , dwarf, flower, ent-CDP synthase, growth, GA, GA defici
 * **Information**  
     + Symbol: OsCPS,OsCPS1  
     + MSU: [LOC_Os02g17780](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g17780)  
-    + RAPdb: [Os02g0278700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0278700)  
+    + RAPdb: [Os02g0278700](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0278700)  
 
 * **Publication**  
     + [Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice%5BTitle%5D), 2010, Planta.

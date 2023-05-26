@@ -9,7 +9,7 @@ tags: [domestication, development,  awn , cytokinin, panicle, grain, tiller, gra
 * **Information**  
     + Symbol: LABA1,OsLOGL6,An-2  
     + MSU: [LOC_Os04g43840](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g43840)  
-    + RAPdb: [Os04g0518800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0518800)  
+    + RAPdb: [Os04g0518800](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0518800)  
 
 * **Publication**  
     + [LABA1, a Domestication Gene Associated with Long, Barbed Awns in Wild Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=LABA1, a Domestication Gene Associated with Long, Barbed Awns in Wild Rice.%5BTitle%5D), 2015, Plant Cell.

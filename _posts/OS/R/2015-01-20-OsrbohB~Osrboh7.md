@@ -9,7 +9,7 @@ tags: [growth, plant development, seed, drought, salt, seed germination, toleran
 * **Information**  
     + Symbol: OsrbohB,Osrboh7  
     + MSU: [LOC_Os09g26660](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g26660)  
-    + RAPdb: [Os09g0438000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0438000)  
+    + RAPdb: [Os09g0438000](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0438000)  
 
 * **Publication**  
     + [Reactive oxygen species production and activation mechanism of the rice NADPH oxidase OsRbohB](http://www.ncbi.nlm.nih.gov/pubmed?term=Reactive oxygen species production and activation mechanism of the rice NADPH oxidase OsRbohB%5BTitle%5D), 2012, J Biochem.

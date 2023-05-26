@@ -9,7 +9,7 @@ tags: [dwarf, seed,  ABA , gibberellin,  ga , homeostasis, height, flower, shoot
 * **Information**  
     + Symbol: SLR1,OsGAI,OsSLR1  
     + MSU: [LOC_Os03g49990](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g49990)  
-    + RAPdb: [Os03g0707600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0707600)  
+    + RAPdb: [Os03g0707600](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0707600)  
 
 * **Publication**  
     + [Identification and characterization of two new members of the GRAS gene family in rice responsive to N-acetylchitooligosaccharide elicitor](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of two new members of the GRAS gene family in rice responsive to N-acetylchitooligosaccharide elicitor%5BTitle%5D), 2003, Biochimica et Biophysica Acta (BBA) - Gene Structure and Expression.

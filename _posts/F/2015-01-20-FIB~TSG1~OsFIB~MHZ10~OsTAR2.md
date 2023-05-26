@@ -9,7 +9,7 @@ tags: [auxin, tryptophan aminotransferase, small leaves, large lamina joint angl
 * **Information**  
     + Symbol: FIB,TSG1,OsFIB,MHZ10,OsTAR2  
     + MSU: [LOC_Os01g07500](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g07500)  
-    + RAPdb: [Os01g0169800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0169800)  
+    + RAPdb: [Os01g0169800](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0169800)  
 
 * **Publication**  
     + [The rice FISH BONE gene encodes a tryptophan aminotransferase, which affects pleiotropic auxin-related processes](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice FISH BONE gene encodes a tryptophan aminotransferase, which affects pleiotropic auxin-related processes%5BTitle%5D), 2014, Plant J.

@@ -9,7 +9,7 @@ tags: [mycorrhizal symbiosis]
 * **Information**  
     + Symbol: CYCLOPS,OsIPD3,OsCYCLOPS  
     + MSU: [LOC_Os06g02520](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g02520)  
-    + RAPdb: [Os06g0115600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0115600)  
+    + RAPdb: [Os06g0115600](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0115600)  
 
 * **Publication**  
     + [OsIPD3, an ortholog of the Medicago truncatula DMI3 interacting protein IPD3, is required for mycorrhizal symbiosis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsIPD3, an ortholog of the Medicago truncatula DMI3 interacting protein IPD3, is required for mycorrhizal symbiosis in rice%5BTitle%5D), 2008, New Phytol.

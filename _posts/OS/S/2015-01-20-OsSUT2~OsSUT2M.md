@@ -9,7 +9,7 @@ tags: [leaf, grain, panicle, spikelet, root, growth, transporter, tiller, seed, 
 * **Information**  
     + Symbol: OsSUT2,OsSUT2M  
     + MSU: [LOC_Os12g44380](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g44380)  
-    + RAPdb: [Os12g0641400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0641400)  
+    + RAPdb: [Os12g0641400](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0641400)  
 
 * **Publication**  
     + [Sugar transporters involved in flowering and grain development of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Sugar transporters involved in flowering and grain development of rice%5BTitle%5D), 2001, Journal of Plant Physiology.

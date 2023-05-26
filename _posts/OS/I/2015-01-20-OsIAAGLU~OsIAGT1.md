@@ -9,7 +9,7 @@ tags: [flower, iaa, tiller, leaf, gravitropic response, root, shoot, panicle, ar
 * **Information**  
     + Symbol: OsIAAGLU,OsIAGT1  
     + MSU: [LOC_Os03g48740](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g48740)  
-    + RAPdb: [Os03g0693600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0693600)  
+    + RAPdb: [Os03g0693600](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0693600)  
 
 * **Publication**  
     + [Tiller formation in rice is altered by overexpression of OsIAGLU gene encoding an IAA-conjugating enzyme or exogenous treatment of free IAA](http://www.ncbi.nlm.nih.gov/pubmed?term=Tiller formation in rice is altered by overexpression of OsIAGLU gene encoding an IAA-conjugating enzyme or exogenous treatment of free IAA%5BTitle%5D), 2013, Journal of Plant Biology.

@@ -9,7 +9,7 @@ tags: [seedling, temperature, growth, oxidative stress, oxidative, stress]
 * **Information**  
     + Symbol: DHAR1,OsDHAR1,OsDHAR  
     + MSU: [LOC_Os05g02530](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g02530)  
-    + RAPdb: [Os05g0116100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0116100)  
+    + RAPdb: [Os05g0116100](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0116100)  
 
 * **Publication**  
     + [Comprehensive expression analysis suggests overlapping and specific roles of rice glutathione S-transferase genes during development and stress responses](http://www.ncbi.nlm.nih.gov/pubmed?term=Comprehensive expression analysis suggests overlapping and specific roles of rice glutathione S-transferase genes during development and stress responses%5BTitle%5D), 2010, BMC Genomics.

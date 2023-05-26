@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: UreG,OsUreG  
     + MSU: [LOC_Os05g49050](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g49050)  
-    + RAPdb: [Os05g0565200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0565200)  
+    + RAPdb: [Os05g0565200](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0565200)  
 
 * **Publication**  
     + [Identification and characterization of proteins involved in rice urea and arginine catabolism](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of proteins involved in rice urea and arginine catabolism%5BTitle%5D), 2010, Plant Physiol.

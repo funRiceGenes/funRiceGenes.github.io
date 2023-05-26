@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: OsPLDalpha5  
     + MSU: [LOC_Os06g40180](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g40180)  
-    + RAPdb: [Os06g0604300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0604300)  
+    + RAPdb: [Os06g0604300](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0604300)  
 
 * **Publication**  
     + [The chloroplast-localized phospholipases D alpha4 and alpha5 regulate herbivore-induced direct and indirect defenses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The chloroplast-localized phospholipases D alpha4 and alpha5 regulate herbivore-induced direct and indirect defenses in rice%5BTitle%5D), 2011, Plant Physiol.

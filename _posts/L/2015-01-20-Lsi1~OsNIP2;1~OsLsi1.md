@@ -9,7 +9,7 @@ tags: [silicon, root, arsenite, transporter, lateral root, shoot, grain, crown, 
 * **Information**  
     + Symbol: Lsi1,OsNIP2;1,OsLsi1  
     + MSU: [LOC_Os02g51110](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g51110)  
-    + RAPdb: [Os02g0745100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0745100)  
+    + RAPdb: [Os02g0745100](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0745100)  
 
 * **Publication**  
     + [The role of the rice aquaporin Lsi1 in arsenite efflux from roots](http://www.ncbi.nlm.nih.gov/pubmed?term=The role of the rice aquaporin Lsi1 in arsenite efflux from roots%5BTitle%5D), 2010, New Phytol.

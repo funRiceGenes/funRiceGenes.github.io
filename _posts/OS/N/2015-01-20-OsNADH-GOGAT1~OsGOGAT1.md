@@ -9,7 +9,7 @@ tags: [nitrogen, grain, grain yield, yield, plant growth, breeding, grain fillin
 * **Information**  
     + Symbol: OsNADH-GOGAT1,OsGOGAT1  
     + MSU: [LOC_Os01g48960](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g48960)  
-    + RAPdb: [Os01g0681900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0681900),[Os01g0682001](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0682001)  
+    + RAPdb: [Os01g0681900](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0681900),[Os01g0682001](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0682001)  
 
 * **Publication**  
     + [Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice Ferredoxin-Dependent Glutamate Synthase Regulates Nitrogen-Carbon Metabolomes and Is Genetically Differentiated between japonica and indica Subspecies%5BTitle%5D), 2016, Molecular plant.

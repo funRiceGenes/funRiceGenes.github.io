@@ -9,7 +9,7 @@ tags: [ awn , leaf, vascular bundle, meristem, transcription factor]
 * **Information**  
     + Symbol: OsETT2,OsETTIN2  
     + MSU: [LOC_Os01g48060](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g48060)  
-    + RAPdb: [Os01g0670800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0670800)  
+    + RAPdb: [Os01g0670800](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0670800)  
 
 * **Publication**  
     + [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D), 2013, Plant Physiol.

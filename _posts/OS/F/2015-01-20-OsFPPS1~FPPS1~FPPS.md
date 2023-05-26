@@ -9,7 +9,7 @@ tags: [chloroplast]
 * **Information**  
     + Symbol: OsFPPS1,FPPS1,FPPS  
     + MSU: [LOC_Os01g50760](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g50760)  
-    + RAPdb: [Os01g0703400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0703400)  
+    + RAPdb: [Os01g0703400](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0703400)  
 
 * **Publication**  
     + [Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Two solanesyl diphosphate synthases with different subcellular localizations and their respective physiological roles in Oryza sativa%5BTitle%5D), 2010, J Exp Bot.

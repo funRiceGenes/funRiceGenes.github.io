@@ -9,7 +9,7 @@ tags: [tapetal, microspore, anther, pollen, sterile, pollen exine formation, dev
 * **Information**  
     + Symbol: OsPKS1,YY2,OsLAP6  
     + MSU: [LOC_Os10g34360](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g34360)  
-    + RAPdb: [Os10g0484800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0484800)  
+    + RAPdb: [Os10g0484800](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0484800)  
 
 * **Publication**  
     + [Isolation and characterization of two cDNA clones for mRNAs that are abundantly expressed in immature anthers of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of two cDNA clones for mRNAs that are abundantly expressed in immature anthers of rice Oryza sativa L.%5BTitle%5D), 1996, Plant Mol Biol.

@@ -9,7 +9,7 @@ tags: [blast, defense, disease, defense response, seedling, blast disease, disea
 * **Information**  
     + Symbol: OsBIDK1,OsDGK1  
     + MSU: [LOC_Os04g54200](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g54200)  
-    + RAPdb: [Os04g0634700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0634700)  
+    + RAPdb: [Os04g0634700](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0634700)  
 
 * **Publication**  
     + [Overexpression of a rice diacylglycerol kinase gene OsBIDK1 enhances disease resistance in transgenic tobacco](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a rice diacylglycerol kinase gene OsBIDK1 enhances disease resistance in transgenic tobacco%5BTitle%5D), 2008, Mol Cells.

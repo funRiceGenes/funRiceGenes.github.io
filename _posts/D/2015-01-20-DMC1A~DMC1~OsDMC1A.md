@@ -9,7 +9,7 @@ tags: [meiosis]
 * **Information**  
     + Symbol: DMC1A,DMC1,OsDMC1A  
     + MSU: [LOC_Os12g04980](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g04980)  
-    + RAPdb: [Os12g0143800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0143800)  
+    + RAPdb: [Os12g0143800](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0143800)  
 
 * **Publication**  
     + [Analysis of anther transcriptomes to identify genes contributing to meiosis and male gametophyte development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Analysis of anther transcriptomes to identify genes contributing to meiosis and male gametophyte development in rice%5BTitle%5D), 2011, BMC Plant Biol.

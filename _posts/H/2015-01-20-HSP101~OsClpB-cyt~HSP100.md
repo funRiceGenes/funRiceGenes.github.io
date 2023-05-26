@@ -9,7 +9,7 @@ tags: [seedling, arsenite, seed, flower, vegetative, chloroplast, seed developme
 * **Information**  
     + Symbol: HSP101,OsClpB-cyt,HSP100  
     + MSU: [LOC_Os05g44340](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g44340)  
-    + RAPdb: [Os05g0519700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0519700)  
+    + RAPdb: [Os05g0519700](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0519700)  
 
 * **Publication**  
     + [Molecular characterization of rice hsp101: complementation of yeast hsp104 mutation by disaggregation of protein granules and differential expression in indica and japonica rice types](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of rice hsp101: complementation of yeast hsp104 mutation by disaggregation of protein granules and differential expression in indica and japonica rice types%5BTitle%5D), 2003, Plant Mol Biol.

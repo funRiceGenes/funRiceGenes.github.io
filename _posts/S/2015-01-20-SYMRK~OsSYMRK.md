@@ -9,7 +9,7 @@ tags: [Leu-rich repeat receptor kinase, AM colonization, defense response, defen
 * **Information**  
     + Symbol: SYMRK,OsSYMRK  
     + MSU: [LOC_Os07g38070](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g38070)  
-    + RAPdb: [Os07g0568100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0568100)  
+    + RAPdb: [Os07g0568100](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0568100)  
 
 * **Publication**  
     + [Arbuscular mycorrhiza-specific signaling in rice transcends the common symbiosis signaling pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=Arbuscular mycorrhiza-specific signaling in rice transcends the common symbiosis signaling pathway%5BTitle%5D), 2008, Plant Cell.

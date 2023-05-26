@@ -9,7 +9,7 @@ tags: [stem, seed, leaf, nitrogen, drought, root, grain, growth, spikelet, sheat
 * **Information**  
     + Symbol: OsGS,OsGS1,GS1,OsGS1;1,OsGLN1;1  
     + MSU: [LOC_Os02g50240](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g50240)  
-    + RAPdb: [Os02g0735200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0735200)  
+    + RAPdb: [Os02g0735200](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0735200)  
 
 * **Publication**  
     + [Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Regulation of glutamine synthetase isoforms in two differentially drought-tolerant rice Oryza sativa L. cultivars under water deficit conditions%5BTitle%5D), 2013, Plant Cell Rep.

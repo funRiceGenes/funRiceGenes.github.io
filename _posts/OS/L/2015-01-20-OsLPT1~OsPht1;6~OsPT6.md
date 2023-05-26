@@ -9,7 +9,7 @@ tags: [shoot, transporter,  pi , xylem, phosphate, root, lateral root]
 * **Information**  
     + Symbol: OsLPT1,OsPht1;6,OsPT6  
     + MSU: [LOC_Os08g45000](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g45000)  
-    + RAPdb: [Os08g0564000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0564000)  
+    + RAPdb: [Os08g0564000](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0564000)  
 
 * **Publication**  
     + [OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsMYB2P-1, an R2R3 MYB transcription factor, is involved in the regulation of phosphate-starvation responses and root architecture in rice%5BTitle%5D), 2012, Plant Physiol.

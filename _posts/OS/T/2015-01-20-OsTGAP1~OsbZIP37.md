@@ -9,7 +9,7 @@ tags: [phosphate, transcription factor, jasmonic, jasmonic acid]
 * **Information**  
     + Symbol: OsTGAP1,OsbZIP37  
     + MSU: [LOC_Os04g54474](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g54474)  
-    + RAPdb: [Os04g0637000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0637000)  
+    + RAPdb: [Os04g0637000](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0637000)  
 
 * **Publication**  
     + [Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-wide analysis of basic leucine zipper transcription factor families in Arabidopsis thaliana, Oryza sativa and Populus trichocarpa%5BTitle%5D), 2009, Journal of Shanghai University (English Edition).

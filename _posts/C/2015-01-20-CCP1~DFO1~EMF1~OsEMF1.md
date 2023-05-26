@@ -9,7 +9,7 @@ tags: [map-based cloning, floral, palea, development, floral organ]
 * **Information**  
     + Symbol: CCP1,DFO1,EMF1,OsEMF1  
     + MSU: [LOC_Os01g12890](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g12890)  
-    + RAPdb: [Os01g0229300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0229300)  
+    + RAPdb: [Os01g0229300](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0229300)  
 
 * **Publication**  
     + [CURVED CHIMERIC PALEA 1 encoding an EMF1-like protein maintains epigenetic repression of OsMADS58 in rice palea development.](http://www.ncbi.nlm.nih.gov/pubmed?term=CURVED CHIMERIC PALEA 1 encoding an EMF1-like protein maintains epigenetic repression of OsMADS58 in rice palea development.%5BTitle%5D), 2015, Plant J.

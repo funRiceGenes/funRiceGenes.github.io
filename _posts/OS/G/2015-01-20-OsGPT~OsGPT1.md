@@ -9,7 +9,7 @@ tags: [seed, grain, grain weight, development, fertility, pollen, anther, steril
 * **Information**  
     + Symbol: OsGPT,OsGPT1  
     + MSU: [LOC_Os08g08840](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g08840)  
-    + RAPdb: [Os08g0187800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0187800)  
+    + RAPdb: [Os08g0187800](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0187800)  
 
 * **Publication**  
     + [Cloning and characterization of a glucose 6-phosphate/phosphate translocator fromOryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and characterization of a glucose 6-phosphate/phosphate translocator fromOryza sativa%5BTitle%5D), 2003, Journal of Zhejiang University SCIENCE A.

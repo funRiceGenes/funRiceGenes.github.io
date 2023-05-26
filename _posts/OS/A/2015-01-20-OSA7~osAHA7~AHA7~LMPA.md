@@ -9,7 +9,7 @@ tags: [leaf, development, panicle, ATPase, salt, salt stress, stress, cell death
 * **Information**  
     + Symbol: OSA7,osAHA7,AHA7,LMPA  
     + MSU: [LOC_Os04g56160](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g56160)  
-    + RAPdb: [Os04g0656100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0656100)  
+    + RAPdb: [Os04g0656100](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0656100)  
 
 * **Publication**  
     + [Oryza sativa H+-ATPase OSA is Involved in the Regulation of Dumbbell-Shaped Guard Cells of Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Oryza sativa H+-ATPase OSA is Involved in the Regulation of Dumbbell-Shaped Guard Cells of Rice.%5BTitle%5D), 2016, Plant Cell Physiol.

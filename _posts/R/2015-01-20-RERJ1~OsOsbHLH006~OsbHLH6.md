@@ -9,7 +9,7 @@ tags: [jasmonic, drought, transcription factor, jasmonic acid, growth,  ja , lea
 * **Information**  
     + Symbol: RERJ1,OsOsbHLH006,OsbHLH6  
     + MSU: [LOC_Os04g23550](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g23550)  
-    + RAPdb: [Os04g0301500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0301500)  
+    + RAPdb: [Os04g0301500](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0301500)  
 
 * **Publication**  
     + [RERJ1, a jasmonic acid-responsive gene from rice, encodes a basic helix-loop-helix protein](http://www.ncbi.nlm.nih.gov/pubmed?term=RERJ1, a jasmonic acid-responsive gene from rice, encodes a basic helix-loop-helix protein%5BTitle%5D), 2004, Biochem Biophys Res Commun.

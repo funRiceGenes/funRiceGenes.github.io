@@ -9,7 +9,7 @@ tags: [root, growth, reproductive, transporter, seedling, shoot, architecture, a
 * **Information**  
     + Symbol: LTN1,OsPHO2,OsRLS1  
     + MSU: [LOC_Os05g48390](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g48390)  
-    + RAPdb: [Os05g0557700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0557700)  
+    + RAPdb: [Os05g0557700](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0557700)  
 
 * **Publication**  
     + [Fine characterization of OsPHO2 knockout mutants reveals its key role in Pi utilization in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Fine characterization of OsPHO2 knockout mutants reveals its key role in Pi utilization in rice%5BTitle%5D), 2014, J Plant Physiol.

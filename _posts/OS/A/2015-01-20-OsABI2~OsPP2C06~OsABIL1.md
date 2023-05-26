@@ -9,7 +9,7 @@ tags: [transcription factor]
 * **Information**  
     + Symbol: OsABI2,OsPP2C06,OsABIL1  
     + MSU: [LOC_Os01g40094](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g40094)  
-    + RAPdb: [Os01g0583100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0583100)  
+    + RAPdb: [Os01g0583100](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0583100)  
 
 * **Publication**  
     + [The NAC family transcription factor OsNAP confers abiotic stress response through the ABA pathway](http://www.ncbi.nlm.nih.gov/pubmed?term=The NAC family transcription factor OsNAP confers abiotic stress response through the ABA pathway%5BTitle%5D), 2014, Plant Cell Physiol.

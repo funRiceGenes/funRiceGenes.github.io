@@ -9,7 +9,7 @@ tags: [branching, tiller, tillering, dwarf, yield, shoot, tiller angle, growth, 
 * **Information**  
     + Symbol: OsNAC2,OsTIL1,OMTN2,OsORE1  
     + MSU: [LOC_Os04g38720](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g38720)  
-    + RAPdb: [Os04g0460600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0460600)  
+    + RAPdb: [Os04g0460600](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0460600)  
 
 * **Publication**  
     + [Overexpression of a NAC-domain protein promotes shoot branching in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a NAC-domain protein promotes shoot branching in rice%5BTitle%5D), 2007, New Phytol.

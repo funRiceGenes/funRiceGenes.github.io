@@ -9,7 +9,7 @@ tags: [adventitious root, meristem, auxin, shoot, root, root development, growth
 * **Information**  
     + Symbol: OsPID,OsPINOID  
     + MSU: [LOC_Os12g42020](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g42020)  
-    + RAPdb: [Os12g0614600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0614600)  
+    + RAPdb: [Os12g0614600](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0614600)  
 
 * **Publication**  
     + [Characterization of OsPID, the rice ortholog of PINOID, and its possible involvement in the control of polar auxin transport](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of OsPID, the rice ortholog of PINOID, and its possible involvement in the control of polar auxin transport%5BTitle%5D), 2007, Plant Cell Physiol.

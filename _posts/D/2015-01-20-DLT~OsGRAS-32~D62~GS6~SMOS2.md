@@ -9,7 +9,7 @@ tags: [BR signaling,  BR , domestication, dwarf, tillering, lamina, grain size, 
 * **Information**  
     + Symbol: DLT,OsGRAS-32,D62,GS6,SMOS2  
     + MSU: [LOC_Os06g03710](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g03710)  
-    + RAPdb: [Os06g0127800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0127800)  
+    + RAPdb: [Os06g0127800](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0127800)  
 
 * **Publication**  
     + [Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of dwarf 62, a loss-of-function mutation in DLT/OsGRAS-32 affecting gibberellin metabolism in rice%5BTitle%5D), 2010, Planta.

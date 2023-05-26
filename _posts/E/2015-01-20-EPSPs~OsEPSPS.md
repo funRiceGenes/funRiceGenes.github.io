@@ -9,7 +9,7 @@ tags: [development, grain, resistance, grain yield]
 * **Information**  
     + Symbol: EPSPs,OsEPSPS  
     + MSU: [LOC_Os06g04280](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g04280)  
-    + RAPdb: [Os06g0133900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0133900)  
+    + RAPdb: [Os06g0133900](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0133900)  
 
 * **Publication**  
     + [Evidence for an evolutionary force that prevents epigenetic silencing between tail-to-tail rice genes with a short spacer](http://www.ncbi.nlm.nih.gov/pubmed?term=Evidence for an evolutionary force that prevents epigenetic silencing between tail-to-tail rice genes with a short spacer%5BTitle%5D), 2005, Gene.

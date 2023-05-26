@@ -9,7 +9,7 @@ tags: [flower, flowering time, sheath, seedling,  ga , leaf, gibberellin, phosph
 * **Information**  
     + Symbol: PHYC,OsphyC,LHD3  
     + MSU: [LOC_Os03g54084](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g54084)  
-    + RAPdb: [Os03g0752100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0752100)  
+    + RAPdb: [Os03g0752100](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0752100)  
 
 * **Publication**  
     + [Molecular dissection of the roles of phytochrome in photoperiodic flowering in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular dissection of the roles of phytochrome in photoperiodic flowering in rice%5BTitle%5D), 2011, Plant Physiol.

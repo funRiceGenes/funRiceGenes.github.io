@@ -9,7 +9,7 @@ tags: [leaf, leaf senescence, seedlings, root, temperature, growth, oxidative, a
 * **Information**  
     + Symbol: OsCBSCBSPB4  
     + MSU: [LOC_Os12g07190](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g07190)  
-    + RAPdb: [Os12g0169400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0169400)  
+    + RAPdb: [Os12g0169400](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0169400)  
 
 * **Publication**  
     + [OsCBSCBSPB4 is a Two Cystathionine-β-Synthase Domain-containing Protein from Rice that Functions in Abiotic Stress Tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCBSCBSPB4 is a Two Cystathionine-β-Synthase Domain-containing Protein from Rice that Functions in Abiotic Stress Tolerance.%5BTitle%5D), 2018, Curr Genomics.

@@ -9,7 +9,7 @@ tags: [leaf, seed, seed development, homeostasis, phosphorus, pyrophosphorylase]
 * **Information**  
     + Symbol: OsAPL1,OsAGPL3,OsAGPL1  
     + MSU: [LOC_Os03g52460](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g52460)  
-    + RAPdb: [Os03g0735000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0735000)  
+    + RAPdb: [Os03g0735000](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0735000)  
 
 * **Publication**  
     + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.%5BTitle%5D), 2007, Plant Mol Biol.

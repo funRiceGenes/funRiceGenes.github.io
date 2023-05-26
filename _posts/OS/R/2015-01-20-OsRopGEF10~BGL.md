@@ -9,7 +9,7 @@ tags: [leaf, sheath, root, development, crown root development, root development
 * **Information**  
     + Symbol: OsRopGEF10,BGL  
     + MSU: [LOC_Os05g38000](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g38000)  
-    + RAPdb: [Os05g0454200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0454200)  
+    + RAPdb: [Os05g0454200](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0454200)  
 
 * **Publication**  
     + [The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces](http://www.ncbi.nlm.nih.gov/pubmed?term=The rice bright green leaf bgl locus encodes OsRopGEF10, which activates the development of small cuticular papillae on leaf surfaces%5BTitle%5D), 2011, Plant Mol Biol.

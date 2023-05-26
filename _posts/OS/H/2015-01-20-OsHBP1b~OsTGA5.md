@@ -9,7 +9,7 @@ tags: [drought, salinity, tolerance, stress, seedlings, grain, grain yield, yiel
 * **Information**  
     + Symbol: OsHBP1b,OsTGA5  
     + MSU: [LOC_Os01g17260](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g17260)  
-    + RAPdb: [Os01g0279900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0279900)  
+    + RAPdb: [Os01g0279900](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0279900)  
 
 * **Publication**  
     + [A nuclear-localized histone-gene binding protein from rice OsHBP1b functions in salinity and drought stress tolerance by maintaining chlorophyll content and improving the antioxidant machinery.](http://www.ncbi.nlm.nih.gov/pubmed?term=A nuclear-localized histone-gene binding protein from rice OsHBP1b functions in salinity and drought stress tolerance by maintaining chlorophyll content and improving the antioxidant machinery.%5BTitle%5D), 2014, J Plant Physiol.

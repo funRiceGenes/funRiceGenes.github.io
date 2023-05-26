@@ -9,7 +9,7 @@ tags: [submergence, phytohormone, ethylene, abiotic stress, transcription factor
 * **Information**  
     + Symbol: OsARD,OsARD2  
     + MSU: [LOC_Os03g06620](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g06620)  
-    + RAPdb: [Os03g0161800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0161800)  
+    + RAPdb: [Os03g0161800](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0161800)  
 
 * **Publication**  
     + [Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of a novel water-deficit-suppressed gene OsARD encoding an aci-reductone-dioxygenase-like protein in rice%5BTitle%5D), 2005, Gene.

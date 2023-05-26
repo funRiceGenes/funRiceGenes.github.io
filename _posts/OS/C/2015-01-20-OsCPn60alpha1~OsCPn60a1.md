@@ -9,7 +9,7 @@ tags: [seedling, leaf, chloroplast]
 * **Information**  
     + Symbol: OsCPn60alpha1,OsCPn60a1  
     + MSU: [LOC_Os12g17910](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g17910)  
-    + RAPdb: [Os12g0277500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0277500)  
+    + RAPdb: [Os12g0277500](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0277500)  
 
 * **Publication**  
     + [OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCpn60alpha1, encoding the plastid chaperonin 60alpha subunit, is essential for folding of rbcL%5BTitle%5D), 2013, Mol Cells.

@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: rubq2,Ubiqutin2  
     + MSU: [LOC_Os02g06640](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g06640)  
-    + RAPdb: [Os02g0161900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0161900)  
+    + RAPdb: [Os02g0161900](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0161900)  
 
 * **Publication**  
     + [Kiddo, a new transposable element family closely associated with rice genes](http://www.ncbi.nlm.nih.gov/pubmed?term=Kiddo, a new transposable element family closely associated with rice genes%5BTitle%5D), 2001, Mol Genet Genomics.

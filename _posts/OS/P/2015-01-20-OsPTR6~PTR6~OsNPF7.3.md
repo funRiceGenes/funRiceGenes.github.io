@@ -9,7 +9,7 @@ tags: [growth, nitrogen, transporter, plant growth, grain, grain yield]
 * **Information**  
     + Symbol: OsPTR6,PTR6,OsNPF7.3  
     + MSU: [LOC_Os04g50950](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g50950)  
-    + RAPdb: [Os04g0597800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0597800)  
+    + RAPdb: [Os04g0597800](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0597800)  
 
 * **Publication**  
     + [Over-expression of OsPTR6 in rice increased plant growth at different nitrogen supplies but decreased nitrogen use efficiency at high ammonium supply.](http://www.ncbi.nlm.nih.gov/pubmed?term=Over-expression of OsPTR6 in rice increased plant growth at different nitrogen supplies but decreased nitrogen use efficiency at high ammonium supply.%5BTitle%5D), 2014, Plant Sci.

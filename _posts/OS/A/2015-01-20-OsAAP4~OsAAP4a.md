@@ -9,7 +9,7 @@ tags: [nitrogen, tillering, grain, tiller, grain yield, yield, cytokinin, transp
 * **Information**  
     + Symbol: OsAAP4,OsAAP4a  
     + MSU: [LOC_Os12g09300](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g09300)  
-    + RAPdb: [Os12g0194900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0194900)  
+    + RAPdb: [Os12g0194900](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0194900)  
 
 * **Publication**  
     + [The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Amino Acid Transporter OsAAP4 Contributes to Rice Tillering and Grain Yield by Regulating Neutral Amino Acid Allocation through Two Splicing Variants.%5BTitle%5D), 2021, Rice (N Y).

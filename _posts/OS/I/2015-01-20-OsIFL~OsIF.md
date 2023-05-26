@@ -9,7 +9,7 @@ tags: [salinity, tolerance, abiotic stress, salinity stress, stress, biotic stre
 * **Information**  
     + Symbol: OsIFL,OsIF  
     + MSU: [LOC_Os01g18840](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g18840)  
-    + RAPdb: [Os01g0292700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0292700)  
+    + RAPdb: [Os01g0292700](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0292700)  
 
 * **Publication**  
     + [Evidence for nuclear interaction of a cytoskeleton protein OsIFL with metallothionein and its role in salinity stress tolerance.](http://www.ncbi.nlm.nih.gov/pubmed?term=Evidence for nuclear interaction of a cytoskeleton protein OsIFL with metallothionein and its role in salinity stress tolerance.%5BTitle%5D), 2016, Sci Rep.

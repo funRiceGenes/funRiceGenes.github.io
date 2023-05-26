@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: OsRALyase  
     + MSU: [LOC_Os02g29150](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g29150)  
-    + RAPdb: [Os02g0493100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0493100)  
+    + RAPdb: [Os02g0493100](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0493100)  
 
 * **Publication**  
     + [NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=NOA1 functions in a temperature-dependent manner to regulate chlorophyll biosynthesis and Rubisco formation in rice%5BTitle%5D), 2011, PLoS One.

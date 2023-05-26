@@ -9,7 +9,7 @@ tags: [growth, root]
 * **Information**  
     + Symbol: OsDTS2,OsKSL4,OsKS4  
     + MSU: [LOC_Os04g10060](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g10060)  
-    + RAPdb: [Os04g0179700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0179700)  
+    + RAPdb: [Os04g0179700](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0179700)  
 
 * **Publication**  
     + [Diterpene Cyclases Responsible for the Biosynthesis of Phytoalexins, Momilactones A, B, and Oryzalexins A–F in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Diterpene Cyclases Responsible for the Biosynthesis of Phytoalexins, Momilactones A, B, and Oryzalexins A–F in Rice%5BTitle%5D), 2014, Bioscience, Biotechnology and Biochemistry.

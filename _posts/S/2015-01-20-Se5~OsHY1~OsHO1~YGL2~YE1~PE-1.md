@@ -9,7 +9,7 @@ tags: [breeding, flower, seedling, growth, seed germination, floral, oxidative, 
 * **Information**  
     + Symbol: Se5,OsHY1,OsHO1,YGL2,YE1,PE-1  
     + MSU: [LOC_Os06g40080](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g40080)  
-    + RAPdb: [Os06g0603000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0603000)  
+    + RAPdb: [Os06g0603000](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0603000)  
 
 * **Publication**  
     + [A knockdown mutation of YELLOW-GREEN LEAF2 blocks chlorophyll biosynthesis in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A knockdown mutation of YELLOW-GREEN LEAF2 blocks chlorophyll biosynthesis in rice%5BTitle%5D), 2013, Plant Cell Rep.

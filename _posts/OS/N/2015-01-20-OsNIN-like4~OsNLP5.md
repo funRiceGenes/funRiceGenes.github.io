@@ -9,7 +9,7 @@ tags: [drought, salt, tolerance, salt stress, stress, drought stress, drought st
 * **Information**  
     + Symbol: OsNIN-like4,OsNLP5  
     + MSU: [LOC_Os11g16290](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g16290)  
-    + RAPdb: [Os11g0264300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os11g0264300)  
+    + RAPdb: [Os11g0264300](https://rapdb.dna.affrc.go.jp/locus/?name=Os11g0264300)  
 
 * **Publication**  
     + [Five novel transcription factors as potential regulators of OsNHX1 gene expression in a salt tolerant rice genotype.](http://www.ncbi.nlm.nih.gov/pubmed?term=Five novel transcription factors as potential regulators of OsNHX1 gene expression in a salt tolerant rice genotype.%5BTitle%5D), 2016, Plant Mol Biol.

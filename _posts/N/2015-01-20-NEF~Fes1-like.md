@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: NEF,Fes1-like  
     + MSU: [LOC_Os09g33780](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g33780)  
-    + RAPdb: [Os09g0512700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0512700)  
+    + RAPdb: [Os09g0512700](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0512700)  
 
 * **Publication**  
     + [Signal transduction by IRE1-mediated splicing of bZIP50 and other stress sensors in the endoplasmic reticulum stress response of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Signal transduction by IRE1-mediated splicing of bZIP50 and other stress sensors in the endoplasmic reticulum stress response of rice%5BTitle%5D), 2012, Plant J.

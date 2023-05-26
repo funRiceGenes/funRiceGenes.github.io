@@ -9,7 +9,7 @@ tags: [meristem, branching, vegetative, pollen, auxin, anther, dwarf, panicle, h
 * **Information**  
     + Symbol: OsTPL,ASP1,OsLIS-L1,ASP-LSL  
     + MSU: [LOC_Os08g06480](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g06480)  
-    + RAPdb: [Os08g0162100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0162100)  
+    + RAPdb: [Os08g0162100](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0162100)  
 
 * **Publication**  
     + [OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsLIS-L1 encoding a lissencephaly type-1-like protein with WD40 repeats is required for plant height and male gametophyte formation in rice%5BTitle%5D), 2012, Planta.

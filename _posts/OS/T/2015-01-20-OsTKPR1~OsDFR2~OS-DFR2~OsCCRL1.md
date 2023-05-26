@@ -9,7 +9,7 @@ tags: [pollen, anther, sterility, development, cuticle, tapetum, male sterility,
 * **Information**  
     + Symbol: OsTKPR1,OsDFR2,OS-DFR2,OsCCRL1  
     + MSU: [LOC_Os09g32020](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g32020)  
-    + RAPdb: [Os09g0493500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0493500)  
+    + RAPdb: [Os09g0493500](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0493500)  
 
 * **Publication**  
     + [Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Conserved metabolic steps for sporopollenin precursor formation in tobacco and rice%5BTitle%5D), 2013, Physiol Plant.

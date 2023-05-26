@@ -9,7 +9,7 @@ tags: [salt, transcription factor, jasmonate, salt tolerance, salt stress, toler
 * **Information**  
     + Symbol: OsJAZ9,OsTIFY11a  
     + MSU: [LOC_Os03g08310](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g08310)  
-    + RAPdb: [Os03g0180800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0180800)  
+    + RAPdb: [Os03g0180800](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0180800)  
 
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.

@@ -9,7 +9,7 @@ tags: [pericarp, grain, endosperm, reproductive, seed, seed development, grain f
 * **Information**  
     + Symbol: FLO4,OsPPDKB,ppdk,OsC4PPDK  
     + MSU: [LOC_Os05g33570](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g33570)  
-    + RAPdb: [Os05g0405000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0405000)  
+    + RAPdb: [Os05g0405000](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0405000)  
 
 * **Publication**  
     + [Posttranslational regulation of pyruvate, orthophosphate dikinase in developing rice Oryza sativa seeds](http://www.ncbi.nlm.nih.gov/pubmed?term=Posttranslational regulation of pyruvate, orthophosphate dikinase in developing rice Oryza sativa seeds%5BTitle%5D), 2006, Planta.

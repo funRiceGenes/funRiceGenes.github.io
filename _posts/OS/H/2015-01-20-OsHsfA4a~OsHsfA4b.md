@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: OsHsfA4a,OsHsfA4b  
     + MSU: [LOC_Os01g54550](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g54550)  
-    + RAPdb: [Os01g0749300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0749300)  
+    + RAPdb: [Os01g0749300](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0749300)  
 
 * **Publication**  
     + [A 9 bp cis-element in the promoters of class I small heat shock protein genes on chromosome 3 in rice mediates L-azetidine-2-carboxylic acid and heat shock responses](http://www.ncbi.nlm.nih.gov/pubmed?term=A 9 bp cis-element in the promoters of class I small heat shock protein genes on chromosome 3 in rice mediates L-azetidine-2-carboxylic acid and heat shock responses%5BTitle%5D), 2010, J Exp Bot.

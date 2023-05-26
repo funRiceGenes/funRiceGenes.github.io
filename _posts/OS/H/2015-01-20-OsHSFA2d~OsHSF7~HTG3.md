@@ -9,7 +9,7 @@ tags: [transcription factor, temperature, stress, tolerance, heat tolerance]
 * **Information**  
     + Symbol: OsHSFA2d,OsHSF7,HTG3  
     + MSU: [LOC_Os03g06630](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g06630)  
-    + RAPdb: [Os03g0161900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0161900)  
+    + RAPdb: [Os03g0161900](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0161900)  
 
 * **Publication**  
     + [OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor](http://www.ncbi.nlm.nih.gov/pubmed?term=OsHSF7 gene in rice, Oryza sativa L., encodes a transcription factor that functions as a high temperature receptive and responsive factor%5BTitle%5D), 2009, BMB reports.

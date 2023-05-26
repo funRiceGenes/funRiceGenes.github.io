@@ -9,7 +9,7 @@ tags: [meristem, development, plant development]
 * **Information**  
     + Symbol: OsSEND-1,OsSEND1  
     + MSU: [LOC_Os08g01130](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g01130)  
-    + RAPdb: [Os08g0101600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0101600)  
+    + RAPdb: [Os08g0101600](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0101600)  
 
 * **Publication**  
     + [OsSEND-1: a new RAD2 nuclease family member in higher plants](http://www.ncbi.nlm.nih.gov/pubmed?term=OsSEND-1: a new RAD2 nuclease family member in higher plants%5BTitle%5D), 2003, Plant Mol Biol.

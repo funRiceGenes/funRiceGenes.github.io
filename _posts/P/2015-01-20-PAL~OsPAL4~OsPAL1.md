@@ -9,7 +9,7 @@ tags: [sheath, disease, blast, blight, breeding, resistance]
 * **Information**  
     + Symbol: PAL,OsPAL4,OsPAL1  
     + MSU: [LOC_Os02g41680](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g41680)  
-    + RAPdb: [Os02g0627100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0627100)  
+    + RAPdb: [Os02g0627100](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0627100)  
 
 * **Publication**  
     + [OsCERK1 and OsRLCK176 play important roles in peptidoglycan and chitin signaling in rice innate immunity](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCERK1 and OsRLCK176 play important roles in peptidoglycan and chitin signaling in rice innate immunity%5BTitle%5D), 2014, Plant J.

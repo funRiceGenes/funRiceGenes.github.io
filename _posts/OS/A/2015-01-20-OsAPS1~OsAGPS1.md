@@ -9,7 +9,7 @@ tags: [seed development, leaf, seed]
 * **Information**  
     + Symbol: OsAPS1,OsAGPS1  
     + MSU: [LOC_Os09g12660](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g12660)  
-    + RAPdb: [Os09g0298200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0298200)  
+    + RAPdb: [Os09g0298200](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0298200)  
 
 * **Publication**  
     + [Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification of the ADP-glucose pyrophosphorylase isoforms essential for starch synthesis in the leaf and seed endosperm of rice Oryza sativa L.%5BTitle%5D), 2007, Plant Mol Biol.

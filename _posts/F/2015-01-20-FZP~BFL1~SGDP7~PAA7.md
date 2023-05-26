@@ -9,7 +9,7 @@ tags: [meristem, floral, spikelet meristem, branching, ethylene, panicle, spikel
 * **Information**  
     + Symbol: FZP,BFL1,SGDP7,PAA7  
     + MSU: [LOC_Os07g47330](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g47330)  
-    + RAPdb: [Os07g0669500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0669500)  
+    + RAPdb: [Os07g0669500](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0669500)  
 
 * **Publication**  
     + [A novel frameshift mutant allele, fzp-10, affecting the panicle architecture of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A novel frameshift mutant allele, fzp-10, affecting the panicle architecture of rice%5BTitle%5D), 2011, Euphytica.

@@ -9,7 +9,7 @@ tags: [dwarf, tillering, seedling, tiller, salinity, growth,  ABA , salt, stem]
 * **Information**  
     + Symbol: OsRNS4,OsRRP  
     + MSU: [LOC_Os09g36680](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g36680)  
-    + RAPdb: [Os09g0537700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0537700)  
+    + RAPdb: [Os09g0537700](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0537700)  
 
 * **Publication**  
     + [Overexpression of an S-like ribonuclease gene, OsRNS4, confers enhanced tolerance to high salinity and hyposensitivity to phytochrome-mediated light signals in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of an S-like ribonuclease gene, OsRNS4, confers enhanced tolerance to high salinity and hyposensitivity to phytochrome-mediated light signals in rice%5BTitle%5D), 2014, Plant Sci.

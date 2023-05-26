@@ -9,7 +9,7 @@ tags: [floral, dwarf, endosperm, seed, development, transcription factor, seed d
 * **Information**  
     + Symbol: OsFIE1,Epi-df  
     + MSU: [LOC_Os08g04290](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g04290)  
-    + RAPdb: [Os08g0137250](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0137250)  
+    + RAPdb: [Os08g0137250](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0137250)  
 
 * **Publication**  
     + [Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and characterization of an epi-allele of FIE1 reveals a regulatory linkage between two epigenetic marks in rice%5BTitle%5D), 2012, Plant Cell.

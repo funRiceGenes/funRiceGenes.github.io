@@ -9,7 +9,7 @@ tags: [leaf, shoot, cell death, disease resistance, resistant, architecture, def
 * **Information**  
     + Symbol: OsBISERK1,OsSERK1,OsBAK1,TBP1  
     + MSU: [LOC_Os08g07760](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g07760)  
-    + RAPdb: [Os08g0174700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0174700)  
+    + RAPdb: [Os08g0174700](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0174700)  
 
 * **Publication**  
     + [Expression of SERK family receptor-like protein kinase genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of SERK family receptor-like protein kinase genes in rice%5BTitle%5D), 2005, Biochim Biophys Acta.

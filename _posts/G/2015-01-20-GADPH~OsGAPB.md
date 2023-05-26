@@ -9,7 +9,7 @@ tags: [transcription factor, photosynthesis, tolerance, vegetative, stress, stre
 * **Information**  
     + Symbol: GADPH,OsGAPB  
     + MSU: [LOC_Os03g03720](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g03720)  
-    + RAPdb: [Os03g0129300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0129300)  
+    + RAPdb: [Os03g0129300](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0129300)  
 
 * **Publication**  
     + [A highly efficient rice green tissue protoplast system for transient gene expression and studying light/chloroplast-related processes](http://www.ncbi.nlm.nih.gov/pubmed?term=A highly efficient rice green tissue protoplast system for transient gene expression and studying light/chloroplast-related processes%5BTitle%5D), 2011, Plant Methods.

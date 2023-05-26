@@ -9,7 +9,7 @@ tags: [dwarf,  ga , gibberellin, Gibberellin]
 * **Information**  
     + Symbol: OsKOS1,OsKOL4,CYP701A8,qST-6.2  
     + MSU: [LOC_Os06g37300](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g37300)  
-    + RAPdb: [Os06g0569500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0569500)  
+    + RAPdb: [Os06g0569500](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0569500)  
 
 * **Publication**  
     + [A rice semi-dwarf gene, Tan-Ginbozu D35, encodes the gibberellin biosynthesis enzyme, ent-kaurene oxidase](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice semi-dwarf gene, Tan-Ginbozu D35, encodes the gibberellin biosynthesis enzyme, ent-kaurene oxidase%5BTitle%5D), 2004, Plant Mol Biol.

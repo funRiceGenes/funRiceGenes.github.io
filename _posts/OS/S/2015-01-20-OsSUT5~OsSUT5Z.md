@@ -9,7 +9,7 @@ tags: [leaf, transporter, vegetative, phloem]
 * **Information**  
     + Symbol: OsSUT5,OsSUT5Z  
     + MSU: [LOC_Os02g36700](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g36700)  
-    + RAPdb: [Os02g0576600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0576600)  
+    + RAPdb: [Os02g0576600](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0576600)  
 
 * **Publication**  
     + [Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z](http://www.ncbi.nlm.nih.gov/pubmed?term=Cloning and expression analysis of rice sucrose transporter genes OsSUT2M and OsSUT5Z%5BTitle%5D), 2008, J Integr Plant Biol.

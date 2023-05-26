@@ -9,7 +9,7 @@ tags: [root, meristem, anther, panicle, endosperm, stress]
 * **Information**  
     + Symbol: OsMet1-1,OsMET1a,OsDMT702  
     + MSU: [LOC_Os03g58400](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g58400)  
-    + RAPdb: [Os03g0798300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0798300)  
+    + RAPdb: [Os03g0798300](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0798300)  
 
 * **Publication**  
     + [Alternative splicing of the rice OsMET1 genes encoding maintenance DNA methyltransferase](http://www.ncbi.nlm.nih.gov/pubmed?term=Alternative splicing of the rice OsMET1 genes encoding maintenance DNA methyltransferase%5BTitle%5D), 2008, J Plant Physiol.

@@ -9,7 +9,7 @@ tags: [nitrogen, seed, starch, nitrogen utilization, grain yield, grain quality]
 * **Information**  
     + Symbol: AlaAT,OsAlaAT1  
     + MSU: [LOC_Os10g25130](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g25130)  
-    + RAPdb: [Os10g0390500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0390500)  
+    + RAPdb: [Os10g0390500](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0390500)  
 
 * **Publication**  
     + [Molecular characterization of a gene for alanine aminotransferase from rice Oryza sativa](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization of a gene for alanine aminotransferase from rice Oryza sativa%5BTitle%5D), 1999, Plant Mol Biol.

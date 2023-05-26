@@ -9,7 +9,7 @@ tags: [seed, tolerance, stress, stress tolerance, flowering, heat stress, Heat S
 * **Information**  
     + Symbol: OsNCED1,OsCCD4a  
     + MSU: [LOC_Os02g47510](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g47510)  
-    + RAPdb: [Os02g0704000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0704000)  
+    + RAPdb: [Os02g0704000](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0704000)  
 
 * **Publication**  
     + [Phosphorylation of D-allose by hexokinase involved in regulation of OsABF1 expression for growth inhibition in Oryza sativa L](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorylation of D-allose by hexokinase involved in regulation of OsABF1 expression for growth inhibition in Oryza sativa L%5BTitle%5D), 2013, Planta.

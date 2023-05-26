@@ -9,7 +9,7 @@ tags: [grain, grain size, cytoplasm, nucleus, transcription factor, tiller, grai
 * **Information**  
     + Symbol: WTG1,OsOTUB1,GWC1  
     + MSU: [LOC_Os08g42540](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g42540)  
-    + RAPdb: [Os08g0537800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0537800)  
+    + RAPdb: [Os08g0537800](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0537800)  
 
 * **Publication**  
     + [WIDE AND THICK GRAIN 1, which encodes an otubain-like protease with deubiquitination activity, influences grain size and shape in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=WIDE AND THICK GRAIN 1, which encodes an otubain-like protease with deubiquitination activity, influences grain size and shape in rice.%5BTitle%5D), 2017, Plant J.

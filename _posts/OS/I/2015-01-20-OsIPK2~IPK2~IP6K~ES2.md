@@ -9,7 +9,7 @@ tags: [mitochondria, anther, root, auxin, lateral root, auxin response, leaf, le
 * **Information**  
     + Symbol: OsIPK2,IPK2,IP6K,ES2  
     + MSU: [LOC_Os02g32370](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g32370)  
-    + RAPdb: [Os02g0523800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0523800)  
+    + RAPdb: [Os02g0523800](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0523800)  
 
 * **Publication**  
     + [IP6K gene identification in plant genomes by tag searching](http://www.ncbi.nlm.nih.gov/pubmed?term=IP6K gene identification in plant genomes by tag searching%5BTitle%5D), 2011, BMC Proc.

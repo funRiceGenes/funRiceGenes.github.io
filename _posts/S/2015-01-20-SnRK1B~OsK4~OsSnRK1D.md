@@ -9,7 +9,7 @@ tags: [Kinase]
 * **Information**  
     + Symbol: SnRK1B,OsK4,OsSnRK1D  
     + MSU: [LOC_Os08g37800](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g37800)  
-    + RAPdb: [Os08g0484600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0484600)  
+    + RAPdb: [Os08g0484600](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0484600)  
 
 * **Publication**  
     + [The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=The SnRK1A protein kinase plays a key role in sugar signaling during germination and seedling growth of rice%5BTitle%5D), 2007, Plant Cell.

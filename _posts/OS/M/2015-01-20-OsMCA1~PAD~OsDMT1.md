@@ -9,7 +9,7 @@ tags: [seed, shoot, root, growth, plant architecture, architecture, GA, GA deact
 * **Information**  
     + Symbol: OsMCA1,PAD,OsDMT1  
     + MSU: [LOC_Os03g06120](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g06120)  
-    + RAPdb: [Os03g0157300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0157300)  
+    + RAPdb: [Os03g0157300](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0157300)  
 
 * **Publication**  
     + [Plasma membrane protein OsMCA1 is involved in regulation of hypo-osmotic shock-induced Ca2+ influx and modulates generation of reactive oxygen species in cultured rice cells](http://www.ncbi.nlm.nih.gov/pubmed?term=Plasma membrane protein OsMCA1 is involved in regulation of hypo-osmotic shock-induced Ca2+ influx and modulates generation of reactive oxygen species in cultured rice cells%5BTitle%5D), 2012, BMC Plant Biol.

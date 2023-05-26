@@ -9,7 +9,7 @@ tags: [brown planthopper, insect, jasmonate, drought, leaf, defense response, de
 * **Information**  
     + Symbol: OsCOI1,OsCOI1a  
     + MSU: [LOC_Os01g63420](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g63420)  
-    + RAPdb: [Os01g0853400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0853400)  
+    + RAPdb: [Os01g0853400](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0853400)  
 
 * **Publication**  
     + [OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsbHLH148, a basic helix-loop-helix protein, interacts with OsJAZ proteins in a jasmonate signaling pathway leading to drought tolerance in rice%5BTitle%5D), 2011, Plant J.

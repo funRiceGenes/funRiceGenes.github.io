@@ -9,7 +9,7 @@ tags: [growth, seedling,  ABA , abiotic stress, salt, seed germination, drought,
 * **Information**  
     + Symbol: OsPYL,RCAR5,OsPYL5  
     + MSU: [LOC_Os05g12260](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g12260)  
-    + RAPdb: [Os05g0213500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0213500)  
+    + RAPdb: [Os05g0213500](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0213500)  
 
 * **Publication**  
     + [A rice orthologue of the ABA receptor, OsPYL/RCAR5, is a positive regulator of the ABA signal transduction pathway in seed germination and early seedling growth](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice orthologue of the ABA receptor, OsPYL/RCAR5, is a positive regulator of the ABA signal transduction pathway in seed germination and early seedling growth%5BTitle%5D), 2012, J Exp Bot.

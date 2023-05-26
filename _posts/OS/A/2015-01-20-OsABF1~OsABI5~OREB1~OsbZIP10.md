@@ -9,7 +9,7 @@ tags: [transcription factor, salinity, drought, growth, seed germination,  ABA ,
 * **Information**  
     + Symbol: OsABF1,OsABI5,OREB1,OsbZIP10  
     + MSU: [LOC_Os01g64730](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g64730)  
-    + RAPdb: [Os01g0867300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0867300)  
+    + RAPdb: [Os01g0867300](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0867300)  
 
 * **Publication**  
     + [Characterization of alternative splicing products of bZIP transcription factors OsABI5](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of alternative splicing products of bZIP transcription factors OsABI5%5BTitle%5D), 2007, Biochem Biophys Res Commun.

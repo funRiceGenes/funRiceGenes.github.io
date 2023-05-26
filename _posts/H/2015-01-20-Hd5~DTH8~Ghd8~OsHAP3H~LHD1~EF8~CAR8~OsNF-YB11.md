@@ -9,7 +9,7 @@ tags: [grains per panicle, grain yield, heading date, yield, height, tiller, flo
 * **Information**  
     + Symbol: Hd5,DTH8,Ghd8,OsHAP3H,LHD1,EF8,CAR8,OsNF-YB11  
     + MSU: [LOC_Os08g07740](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g07740)  
-    + RAPdb: [Os08g0174500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0174500)  
+    + RAPdb: [Os08g0174500](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0174500)  
 
 * **Publication**  
     + [Genetic interactions involved in the inhibition of heading by heading date QTL, Hd2 in rice under long-day conditions](http://www.ncbi.nlm.nih.gov/pubmed?term=Genetic interactions involved in the inhibition of heading by heading date QTL, Hd2 in rice under long-day conditions%5BTitle%5D), 2011, Theor Appl Genet.

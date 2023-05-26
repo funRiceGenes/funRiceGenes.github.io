@@ -9,7 +9,7 @@ tags: [leaf, resistance, defense, disease, salicylic acid, disease resistance, R
 * **Information**  
     + Symbol: OsTGA2,OsTGAL1  
     + MSU: [LOC_Os01g59350](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g59350)  
-    + RAPdb: [Os01g0808100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0808100)  
+    + RAPdb: [Os01g0808100](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0808100)  
 
 * **Publication**  
     + [OsTGA2 confers disease resistance to rice against leaf blight by regulating expression levels of disease related genes via interaction with NH1.](http://www.ncbi.nlm.nih.gov/pubmed?term=OsTGA2 confers disease resistance to rice against leaf blight by regulating expression levels of disease related genes via interaction with NH1.%5BTitle%5D), 2018, PLoS One.

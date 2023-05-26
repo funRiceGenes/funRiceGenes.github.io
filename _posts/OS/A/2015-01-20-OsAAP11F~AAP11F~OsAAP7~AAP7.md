@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: OsAAP11F,AAP11F,OsAAP7,AAP7  
     + MSU: [LOC_Os05g34980](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g34980)  
-    + RAPdb: [Os05g0424000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0424000)  
+    + RAPdb: [Os05g0424000](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0424000)  
 
 * **Publication**  
     + [Transport Function of Rice Amino Acid Permeases AAPs.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transport Function of Rice Amino Acid Permeases AAPs.%5BTitle%5D), 2015, Plant Cell Physiol.

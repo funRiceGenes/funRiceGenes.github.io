@@ -5,6 +5,32 @@ comments: no
 thread: 616
 ---
 
+* 2023/May/26 add new info for gene: OsCHS1
+* 2023/May/26 add new pub.
+* 2023/May/26 add new reference for OsGA2ox9
+* 2023/May/26 add new gene: OsGA2ox9
+* 2023/May/26 add new info for gene: SNAC1
+* 2023/May/26 add new pub.
+* 2023/May/26 add new info for gene: OsTMS15
+* 2023/May/26 add new pub.
+* 2023/May/26 OsMSP1 == MSP1 == OsTMS15
+* 2023/May/26 add new keywords for OsTIFY11b
+* 2023/May/26 add new info for gene: OsTIFY11b
+* 2023/May/26 add new pub.
+* 2023/May/26 OsJAZ10 == OsTIFY11b
+* 2023/May/26 add new info for gene: OsSPL2
+* 2023/May/26 add new pub.
+* 2023/May/26 add new gene: OsSPL2
+* 2023/May/26 add new info for gene: OsThi9
+* 2023/May/26 add new pub.
+* 2023/May/26 add new gene: OsThi9
+* 2023/May/26 add new keywords for OsTST1
+* 2023/May/26 add new info for gene: OsTST1
+* 2023/May/26 add new pub.
+* 2023/May/26 OsTMT1 == OsTST1
+* 2023/May/26 add new info for gene: qCTB7
+* 2023/May/26 add new pub.
+* 2023/May/26 add new gene: qCTB7
 * 2023/May/24 add new info
 * 2023/May/24 add new info for gene: OsPUB7
 * 2023/May/24 add new pub.

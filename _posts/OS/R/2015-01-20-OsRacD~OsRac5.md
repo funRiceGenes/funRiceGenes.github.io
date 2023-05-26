@@ -9,7 +9,7 @@ tags: [sterility, fertility, growth, panicle, sterile]
 * **Information**  
     + Symbol: OsRacD,OsRac5  
     + MSU: [LOC_Os02g58730](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g58730)  
-    + RAPdb: [Os02g0834000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0834000)  
+    + RAPdb: [Os02g0834000](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0834000)  
 
 * **Publication**  
     + [Structural analysis and identification of cis-elements of rice osRACD gene](http://www.ncbi.nlm.nih.gov/pubmed?term=Structural analysis and identification of cis-elements of rice osRACD gene%5BTitle%5D), 2004, Acta Biochim Biophys Sin (Shanghai).

@@ -9,7 +9,7 @@ tags: [meristem, shoot, root apical meristem, root, meiotic, cell cycle, shoot a
 * **Information**  
     + Symbol: OsPCNA,PCNA  
     + MSU: [LOC_Os02g56130](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g56130)  
-    + RAPdb: [Os02g0805200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0805200)  
+    + RAPdb: [Os02g0805200](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0805200)  
 
 * **Publication**  
     + [Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles](http://www.ncbi.nlm.nih.gov/pubmed?term=Characterization of plant proliferating cell nuclear antigen PCNA and flap endonuclease-1 FEN-1, and their distribution in mitotic and meiotic cell cycles%5BTitle%5D), 2002, The Plant Journal.

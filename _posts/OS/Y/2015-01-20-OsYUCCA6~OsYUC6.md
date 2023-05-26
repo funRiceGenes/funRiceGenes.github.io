@@ -9,7 +9,7 @@ tags: [auxin,  ga , auxin transport, GA, auxin biosynthesis]
 * **Information**  
     + Symbol: OsYUCCA6,OsYUC6  
     + MSU: [LOC_Os07g25540](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os07g25540)  
-    + RAPdb: [Os07g0437000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os07g0437000)  
+    + RAPdb: [Os07g0437000](https://rapdb.dna.affrc.go.jp/locus/?name=Os07g0437000)  
 
 * **Publication**  
     + [Auxin biosynthesis by the YUCCA genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin biosynthesis by the YUCCA genes in rice%5BTitle%5D), 2007, Plant Physiol.

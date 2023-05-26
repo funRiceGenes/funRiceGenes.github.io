@@ -9,7 +9,7 @@ tags: [drought, jasmonate, drought tolerance, JA signalling repressor , root, sh
 * **Information**  
     + Symbol: OsJAZ1,OsTIFY3,EG2  
     + MSU: [LOC_Os04g55920](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g55920)  
-    + RAPdb: [Os04g0653000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0653000)  
+    + RAPdb: [Os04g0653000](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0653000)  
 
 * **Publication**  
     + [Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Identification and expression profiling analysis of TIFY family genes involved in stress and phytohormone responses in rice%5BTitle%5D), 2009, Plant Mol Biol.

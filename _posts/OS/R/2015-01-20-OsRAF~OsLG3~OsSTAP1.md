@@ -9,7 +9,7 @@ tags: [ethylene, root, grain, grain length, yield, breeding, transcription facto
 * **Information**  
     + Symbol: OsRAF,OsLG3,OsSTAP1  
     + MSU: [LOC_Os03g08470](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g08470)  
-    + RAPdb: [Os03g0183000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0183000)  
+    + RAPdb: [Os03g0183000](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0183000)  
 
 * **Publication**  
     + [OsRAF is an ethylene responsive and root abundant factor gene of rice](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRAF is an ethylene responsive and root abundant factor gene of rice%5BTitle%5D), 2007, Plant Growth Regulation.

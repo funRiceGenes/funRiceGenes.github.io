@@ -9,7 +9,7 @@ tags: [transcription factor, grain, grain yield, yield, plant growth, nitrate]
 * **Information**  
     + Symbol: OsNIN-like3,OsNLP3  
     + MSU: [LOC_Os01g13540](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g13540)  
-    + RAPdb: [Os01g0236700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0236700)  
+    + RAPdb: [Os01g0236700](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0236700)  
 
 * **Publication**  
     + [Five novel transcription factors as potential regulators of OsNHX1 gene expression in a salt tolerant rice genotype.](http://www.ncbi.nlm.nih.gov/pubmed?term=Five novel transcription factors as potential regulators of OsNHX1 gene expression in a salt tolerant rice genotype.%5BTitle%5D), 2016, Plant Mol Biol.

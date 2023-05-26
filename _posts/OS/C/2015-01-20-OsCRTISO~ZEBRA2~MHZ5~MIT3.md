@@ -9,7 +9,7 @@ tags: [oxidative, photosynthesis,  ABA , ethylene, ABA, ethylene response, seedl
 * **Information**  
     + Symbol: OsCRTISO,ZEBRA2,MHZ5,MIT3  
     + MSU: [LOC_Os11g36440](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g36440)  
-    + RAPdb: [Os11g0572700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os11g0572700)  
+    + RAPdb: [Os11g0572700](https://rapdb.dna.affrc.go.jp/locus/?name=Os11g0572700)  
 
 * **Publication**  
     + [ZEBRA2, encoding a carotenoid isomerase, is involved in photoprotection in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=ZEBRA2, encoding a carotenoid isomerase, is involved in photoprotection in rice%5BTitle%5D), 2011, Plant Mol Biol.

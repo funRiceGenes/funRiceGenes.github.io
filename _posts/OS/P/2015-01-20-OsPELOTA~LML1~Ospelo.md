@@ -9,7 +9,7 @@ tags: [resistance, map-based cloning, salicylic acid, blight, bacterial blight, 
 * **Information**  
     + Symbol: OsPELOTA,LML1,Ospelo  
     + MSU: [LOC_Os04g56480](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g56480)  
-    + RAPdb: [Os04g0659900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0659900)  
+    + RAPdb: [Os04g0659900](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0659900)  
 
 * **Publication**  
     + [A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.](http://www.ncbi.nlm.nih.gov/pubmed?term=A substitution mutation in OsPELOTA confers bacterial blight resistance by activating the salicylic acid pathway.%5BTitle%5D), 2017, J Integr Plant Biol.

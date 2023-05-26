@@ -9,7 +9,7 @@ tags: [inflorescence, architecture, lemma, cell division, grain size, palea, gra
 * **Information**  
     + Symbol: BLS1,BSG1,OsG1L6,TH1,AFD1  
     + MSU: [LOC_Os02g56610](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g56610)  
-    + RAPdb: [Os02g0811000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0811000)  
+    + RAPdb: [Os02g0811000](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0811000)  
 
 * **Publication**  
     + [BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice](http://www.ncbi.nlm.nih.gov/pubmed?term=BEAK LIKE SPIKELET1 is Required for Lateral Development of Lemma and Palea in Rice%5BTitle%5D), 2012, Plant Molecular Biology Reporter.

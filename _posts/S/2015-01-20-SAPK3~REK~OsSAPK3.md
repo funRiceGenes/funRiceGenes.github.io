@@ -9,7 +9,7 @@ tags: [grain, grain size, tiller, drought, stress, drought stress, drought stres
 * **Information**  
     + Symbol: SAPK3,REK,OsSAPK3  
     + MSU: [LOC_Os10g41490](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g41490)  
-    + RAPdb: [Os10g0564500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0564500)  
+    + RAPdb: [Os10g0564500](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0564500)  
 
 * **Publication**  
     + [Differential Activation of the Rice Sucrose Nonfermenting1-Related Protein Kinase2 Family by Hyperosmotic Stress and Abscisic Acid](http://www.ncbi.nlm.nih.gov/pubmed?term=Differential Activation of the Rice Sucrose Nonfermenting1-Related Protein Kinase2 Family by Hyperosmotic Stress and Abscisic Acid%5BTitle%5D), 2004, The Plant Cell Online.

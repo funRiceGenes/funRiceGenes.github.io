@@ -9,7 +9,7 @@ tags: [xylem, root, xylem parenchyma, growth, cell wall, Pi,  pi , Pi uptake, bl
 * **Information**  
     + Symbol: OsDEF7,CAL1,OsAFP1  
     + MSU: [LOC_Os02g41904](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g41904)  
-    + RAPdb: [Os02g0629800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0629800)  
+    + RAPdb: [Os02g0629800](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0629800)  
 
 * **Publication**  
     + [Gene expression analysis, subcellular localization, and in planta antimicrobial activity of rice Oryza sativa L. defensin 7 and 8.](http://www.ncbi.nlm.nih.gov/pubmed?term=Gene expression analysis, subcellular localization, and in planta antimicrobial activity of rice Oryza sativa L. defensin 7 and 8.%5BTitle%5D), 2018, Plant Physiol Biochem.

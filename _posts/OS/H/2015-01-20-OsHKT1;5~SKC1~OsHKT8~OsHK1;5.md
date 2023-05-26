@@ -9,7 +9,7 @@ tags: [salinity stress, salinity, salt tolerance, homeostasis, xylem, leaf, shoo
 * **Information**  
     + Symbol: OsHKT1;5,SKC1,OsHKT8,OsHK1;5  
     + MSU: [LOC_Os01g20160](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g20160)  
-    + RAPdb: [Os01g0307500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0307500)  
+    + RAPdb: [Os01g0307500](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0307500)  
 
 * **Publication**  
     + [QTLs for Na+ and K+ uptake of the shoots and roots controlling rice salt tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=QTLs for Na+ and K+ uptake of the shoots and roots controlling rice salt tolerance%5BTitle%5D), 2004, Theor Appl Genet.

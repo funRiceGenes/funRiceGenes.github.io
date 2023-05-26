@@ -9,7 +9,7 @@ tags: [brown planthopper, ethylene, leaf,  ja , chloroplast, stem]
 * **Information**  
     + Symbol: OsHI-LOX,OsLOX9  
     + MSU: [LOC_Os08g39840](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g39840)  
-    + RAPdb: [Os08g0508800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0508800)  
+    + RAPdb: [Os08g0508800](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0508800)  
 
 * **Publication**  
     + [Silencing OsHI-LOX makes rice more susceptible to chewing herbivores, but enhances resistance to a phloem feeder](http://www.ncbi.nlm.nih.gov/pubmed?term=Silencing OsHI-LOX makes rice more susceptible to chewing herbivores, but enhances resistance to a phloem feeder%5BTitle%5D), 2009, Plant J.

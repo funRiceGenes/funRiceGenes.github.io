@@ -9,7 +9,7 @@ tags: [leaf, vascular bundle, leaf development, development, map-based cloning, 
 * **Information**  
     + Symbol: SRL2,AVB,NRL2,NRL3  
     + MSU: [LOC_Os03g19520](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g19520)  
-    + RAPdb: [Os03g0308200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0308200)  
+    + RAPdb: [Os03g0308200](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0308200)  
 
 * **Publication**  
     + [Semi-Rolled Leaf2 modulates rice leaf rolling by regulating abaxial side cell differentiation.](http://www.ncbi.nlm.nih.gov/pubmed?term=Semi-Rolled Leaf2 modulates rice leaf rolling by regulating abaxial side cell differentiation.%5BTitle%5D), 2016, J Exp Bot.

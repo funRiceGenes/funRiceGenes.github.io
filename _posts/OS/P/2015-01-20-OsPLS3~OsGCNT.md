@@ -9,7 +9,7 @@ tags: [leaf, leaf senescence, senescence, map-based cloning, ethylene, cytokinin
 * **Information**  
     + Symbol: OsPLS3,OsGCNT  
     + MSU: [LOC_Os12g42420](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g42420)  
-    + RAPdb: [Os12g0618800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0618800)  
+    + RAPdb: [Os12g0618800](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0618800)  
 
 * **Publication**  
     + [A 22-bp deletion in OsPLS3 gene encoding a DUF266-containing protein is implicated in rice leaf senescence.](http://www.ncbi.nlm.nih.gov/pubmed?term=A 22-bp deletion in OsPLS3 gene encoding a DUF266-containing protein is implicated in rice leaf senescence.%5BTitle%5D), 2018, Plant Mol Biol.

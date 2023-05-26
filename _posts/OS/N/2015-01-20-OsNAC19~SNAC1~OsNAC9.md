@@ -9,7 +9,7 @@ tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, eth
 * **Information**  
     + Symbol: OsNAC19,SNAC1,OsNAC9  
     + MSU: [LOC_Os03g60080](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g60080)  
-    + RAPdb: [Os03g0815100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0815100)  
+    + RAPdb: [Os03g0815100](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0815100)  
 
 * **Publication**  
     + [Rice gene OsNAC19 encodes a novel NAC-domain transcription factor and responds to infection by Magnaporthe grisea](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice gene OsNAC19 encodes a novel NAC-domain transcription factor and responds to infection by Magnaporthe grisea%5BTitle%5D), 2007, Plant Science.
@@ -20,6 +20,7 @@ tags: [salt,  ABA , sheath, oxidative, root architecture, stomatal, drought, eth
     + [A homolog of human ski-interacting protein in rice positively regulates cell viability and stress tolerance](http://www.ncbi.nlm.nih.gov/pubmed?term=A homolog of human ski-interacting protein in rice positively regulates cell viability and stress tolerance%5BTitle%5D), 2009, Proc Natl Acad Sci U S A.
     + [Overexpression of a new stress-repressive gene OsDSR2 encoding a protein with a DUF966 domain increases salt and simulated drought stress sensitivities and reduces ABA sensitivity in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of a new stress-repressive gene OsDSR2 encoding a protein with a DUF966 domain increases salt and simulated drought stress sensitivities and reduces ABA sensitivity in rice%5BTitle%5D), 2014, Plant Cell Rep.
     + [Genome-Wide Identification of SNAC1-Targeted Genes Involved in Drought Response in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Genome-Wide Identification of SNAC1-Targeted Genes Involved in Drought Response in Rice.%5BTitle%5D), 2019, Front Plant Sci.
+    + [Transcription factor OsSNAC1 positively regulates nitrate transporter gene expression in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=Transcription factor OsSNAC1 positively regulates nitrate transporter gene expression in rice.%5BTitle%5D), 2023, Plant Physiol.
 
 * **Genbank accession number**  
     + [AK067690](http://www.ncbi.nlm.nih.gov/nuccore/AK067690)

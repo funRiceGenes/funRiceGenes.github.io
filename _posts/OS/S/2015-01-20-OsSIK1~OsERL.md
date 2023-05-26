@@ -9,7 +9,7 @@ tags: [stem, stomata, stomatal, leaf, oxidative, drought, spikelet, salt, salt s
 * **Information**  
     + Symbol: OsSIK1,OsERL  
     + MSU: [LOC_Os06g03970](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os06g03970)  
-    + RAPdb: [Os06g0130100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os06g0130100)  
+    + RAPdb: [Os06g0130100](https://rapdb.dna.affrc.go.jp/locus/?name=Os06g0130100)  
 
 * **Publication**  
     + [Receptor-like kinase OsSIK1 improves drought and salt stress tolerance in rice Oryza sativa plants](http://www.ncbi.nlm.nih.gov/pubmed?term=Receptor-like kinase OsSIK1 improves drought and salt stress tolerance in rice Oryza sativa plants%5BTitle%5D), 2010, Plant J.

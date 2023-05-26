@@ -9,7 +9,7 @@ tags: [ ga , anther, tapetum, inflorescence, stem, transcription factor, endospe
 * **Information**  
     + Symbol: OsMYBGA,OsGAMYB  
     + MSU: [LOC_Os01g59660](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g59660)  
-    + RAPdb: [Os01g0812000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0812000)  
+    + RAPdb: [Os01g0812000](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0812000)  
 
 * **Publication**  
     + [A RING finger E3 ligase gene, Oryza sativa Delayed Seed Germination 1 OsDSG1, controls seed germination and stress responses in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=A RING finger E3 ligase gene, Oryza sativa Delayed Seed Germination 1 OsDSG1, controls seed germination and stress responses in rice%5BTitle%5D), 2010, Plant Mol Biol.

@@ -9,7 +9,7 @@ tags: [breeding, leaf, transcription factor, leaf development, development]
 * **Information**  
     + Symbol: GLR1,OsWOX3B,GL1,LSY1  
     + MSU: [LOC_Os05g02730](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g02730)  
-    + RAPdb: [Os05g0118700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0118700)  
+    + RAPdb: [Os05g0118700](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0118700)  
 
 * **Publication**  
     + [Glabrous Rice 1, encoding a homeodomain protein, regulates trichome development in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Glabrous Rice 1, encoding a homeodomain protein, regulates trichome development in rice%5BTitle%5D), 2012, Rice (N Y).

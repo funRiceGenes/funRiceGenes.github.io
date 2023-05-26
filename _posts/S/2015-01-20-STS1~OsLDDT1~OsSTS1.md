@@ -9,7 +9,7 @@ tags: [fertility, pollen, anther, homeostasis, breeding, pollen wall, developmen
 * **Information**  
     + Symbol: STS1,OsLDDT1,OsSTS1  
     + MSU: [LOC_Os03g02170](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g02170)  
-    + RAPdb: [Os03g0112800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0112800)  
+    + RAPdb: [Os03g0112800](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0112800)  
 
 * **Publication**  
     + [SWOLLEN TAPETUM AND STERILITY 1 Is Required for Tapetum Degeneration and Pollen Wall Formation in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=SWOLLEN TAPETUM AND STERILITY 1 Is Required for Tapetum Degeneration and Pollen Wall Formation in Rice.%5BTitle%5D), 2022, Plant Physiol.

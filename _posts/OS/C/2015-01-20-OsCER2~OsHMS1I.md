@@ -9,7 +9,7 @@ tags: [male sterility, fatty acid biosynthesis]
 * **Information**  
     + Symbol: OsCER2,OsHMS1I  
     + MSU: [LOC_Os04g52164](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g52164)  
-    + RAPdb: [Os04g0611200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0611200)  
+    + RAPdb: [Os04g0611200](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0611200)  
 
 * **Publication**  
     + [A beta-ketoacyl-CoA synthase is Involved in Rice Leaf Cuticular Wax Synthesis and requires a CER2-LIKE Protein as a Cofactor.](http://www.ncbi.nlm.nih.gov/pubmed?term=A beta-ketoacyl-CoA synthase is Involved in Rice Leaf Cuticular Wax Synthesis and requires a CER2-LIKE Protein as a Cofactor.%5BTitle%5D), 2016, Plant Physiol.

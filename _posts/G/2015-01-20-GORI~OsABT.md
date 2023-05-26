@@ -9,7 +9,7 @@ tags: [growth, pollen, sterility, plasma membrane, male sterility, root, stress,
 * **Information**  
     + Symbol: GORI,OsABT  
     + MSU: [LOC_Os03g52870](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g52870)  
-    + RAPdb: [Os03g0738700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0738700)  
+    + RAPdb: [Os03g0738700](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0738700)  
 
 * **Publication**  
     + [WD40-domain protein GORI is an integrative scaffold that is required for pollen tube growth in rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=WD40-domain protein GORI is an integrative scaffold that is required for pollen tube growth in rice.%5BTitle%5D), 2022, Plant Signal Behav.

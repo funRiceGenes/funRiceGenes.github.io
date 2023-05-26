@@ -9,7 +9,7 @@ tags: [root development, salinity, seed,  ja , transcription factor, root, growt
 * **Information**  
     + Symbol: OsRMC,OsRLK  
     + MSU: [LOC_Os04g56430](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g56430)  
-    + RAPdb: [Os04g0659300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0659300)  
+    + RAPdb: [Os04g0659300](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0659300)  
 
 * **Publication**  
     + [OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors](http://www.ncbi.nlm.nih.gov/pubmed?term=OsRMC, a negative regulator of salt stress response in rice, is regulated by two AP2/ERF transcription factors%5BTitle%5D), 2013, Plant Mol Biol.

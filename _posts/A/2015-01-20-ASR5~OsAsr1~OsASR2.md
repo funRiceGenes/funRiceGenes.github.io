@@ -9,7 +9,7 @@ tags: [vegetative, root, palea, growth, transcription factor, photosynthesis, te
 * **Information**  
     + Symbol: ASR5,OsAsr1,OsASR2  
     + MSU: [LOC_Os11g06720](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os11g06720)  
-    + RAPdb: [Os11g0167800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os11g0167800)  
+    + RAPdb: [Os11g0167800](https://rapdb.dna.affrc.go.jp/locus/?name=Os11g0167800)  
 
 * **Publication**  
     + [Structure, allelic diversity and selection of Asr genes, candidate for drought tolerance, in Oryza sativa L. and wild relatives](http://www.ncbi.nlm.nih.gov/pubmed?term=Structure, allelic diversity and selection of Asr genes, candidate for drought tolerance, in Oryza sativa L. and wild relatives%5BTitle%5D), 2010, Theor Appl Genet.

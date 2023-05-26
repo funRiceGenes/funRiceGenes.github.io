@@ -9,7 +9,7 @@ tags: [development, spikelet, inflorescence, spikelet development, panicle]
 * **Information**  
     + Symbol: OsYABBY3,OsYAB4,TOB3  
     + MSU: [LOC_Os10g36420](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g36420)  
-    + RAPdb: [Os10g0508300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0508300)  
+    + RAPdb: [Os10g0508300](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0508300)  
 
 * **Publication**  
     + [Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular characterization the YABBY gene family in Oryza sativa and expression analysis of OsYABBY1%5BTitle%5D), 2007, Mol Genet Genomics.

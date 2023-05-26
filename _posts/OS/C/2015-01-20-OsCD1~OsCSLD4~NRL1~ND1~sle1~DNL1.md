@@ -9,7 +9,7 @@ tags: [cell cycle, panicle, leaf, dwarf, cellulose, meristem, root, cell wall, v
 * **Information**  
     + Symbol: OsCD1,OsCSLD4,NRL1,ND1,sle1,DNL1  
     + MSU: [LOC_Os12g36890](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g36890)  
-    + RAPdb: [Os12g0555600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0555600)  
+    + RAPdb: [Os12g0555600](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0555600)  
 
 * **Publication**  
     + [Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice slender leaf 1 gene encodes cellulose synthase-like D4 and is specifically expressed in M-phase cells to regulate cell proliferation%5BTitle%5D), 2013, J Exp Bot.

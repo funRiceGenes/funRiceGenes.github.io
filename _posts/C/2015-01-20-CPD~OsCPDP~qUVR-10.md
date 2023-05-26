@@ -9,7 +9,7 @@ tags: [growth, resistant, breeding, mitochondria, chloroplast]
 * **Information**  
     + Symbol: CPD,OsCPDP,qUVR-10  
     + MSU: [LOC_Os10g08580](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os10g08580)  
-    + RAPdb: [Os10g0167600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os10g0167600)  
+    + RAPdb: [Os10g0167600](https://rapdb.dna.affrc.go.jp/locus/?name=Os10g0167600)  
 
 * **Publication**  
     + [qUVR-10, a major quantitative trait locus for ultraviolet-B resistance in rice, encodes cyclobutane pyrimidine dimer photolyase](http://www.ncbi.nlm.nih.gov/pubmed?term=qUVR-10, a major quantitative trait locus for ultraviolet-B resistance in rice, encodes cyclobutane pyrimidine dimer photolyase%5BTitle%5D), 2005, Genetics.

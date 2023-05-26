@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: Osrboh9,OsRBOHH  
     + MSU: [LOC_Os12g35610](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os12g35610)  
-    + RAPdb: [Os12g0541300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os12g0541300)  
+    + RAPdb: [Os12g0541300](https://rapdb.dna.affrc.go.jp/locus/?name=Os12g0541300)  
 
 * **Publication**  
     + [Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity](http://www.ncbi.nlm.nih.gov/pubmed?term=Phosphatidylinositol 3-kinase plays a vital role in regulation of rice seed vigor via altering NADPH oxidase activity%5BTitle%5D), 2012, PLoS One.

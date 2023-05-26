@@ -9,7 +9,7 @@ tags: [flower, flowering time, map-based cloning, Chl biosynthesis]
 * **Information**  
     + Symbol: PNZIP,OsCRD1,YL-1,YGL8  
     + MSU: [LOC_Os01g17170](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g17170)  
-    + RAPdb: [Os01g0279100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0279100)  
+    + RAPdb: [Os01g0279100](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0279100)  
 
 * **Publication**  
     + [Dissection of a QTL reveals an adaptive, interacting gene complex associated with transgressive variation for flowering time in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Dissection of a QTL reveals an adaptive, interacting gene complex associated with transgressive variation for flowering time in rice%5BTitle%5D), 2010, Theor Appl Genet.

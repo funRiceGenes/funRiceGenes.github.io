@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: CAB2R,OsLhcp  
     + MSU: [LOC_Os01g41710](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os01g41710)  
-    + RAPdb: [Os01g0600900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0600900)  
+    + RAPdb: [Os01g0600900](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0600900)  
 
 * **Publication**  
     + [Functional analysis of two isoforms of leaf-type ferredoxin-NADP+-oxidoreductase in rice using the heterologous expression system of Arabidopsis](http://www.ncbi.nlm.nih.gov/pubmed?term=Functional analysis of two isoforms of leaf-type ferredoxin-NADP+-oxidoreductase in rice using the heterologous expression system of Arabidopsis%5BTitle%5D), 2011, Plant Physiol.

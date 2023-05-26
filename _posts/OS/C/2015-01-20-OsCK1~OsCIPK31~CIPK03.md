@@ -9,7 +9,7 @@ tags: [seed, salt stress, salt, drought, cytokinin, shoot, growth, seedling, see
 * **Information**  
     + Symbol: OsCK1,OsCIPK31,CIPK03  
     + MSU: [LOC_Os03g20380](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g20380)  
-    + RAPdb: [Os03g0319400](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0319400)  
+    + RAPdb: [Os03g0319400](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0319400)  
 
 * **Publication**  
     + [OsCIPK31, a CBL-interacting protein kinase is involved in germination and seedling growth under abiotic stress conditions in rice plants](http://www.ncbi.nlm.nih.gov/pubmed?term=OsCIPK31, a CBL-interacting protein kinase is involved in germination and seedling growth under abiotic stress conditions in rice plants%5BTitle%5D), 2010, Mol Cells.

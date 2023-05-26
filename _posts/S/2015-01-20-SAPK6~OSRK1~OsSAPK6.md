@@ -9,7 +9,7 @@ tags: [vegetative, seed, drought, seed germination, root,  ABA , transcription f
 * **Information**  
     + Symbol: SAPK6,OSRK1,OsSAPK6  
     + MSU: [LOC_Os02g34600](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g34600)  
-    + RAPdb: [Os02g0551100](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0551100)  
+    + RAPdb: [Os02g0551100](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0551100)  
 
 * **Publication**  
     + [A rice dehydration-inducible SNF1-related protein kinase 2 phosphorylates an abscisic acid responsive element-binding factor and associates with ABA signaling](http://www.ncbi.nlm.nih.gov/pubmed?term=A rice dehydration-inducible SNF1-related protein kinase 2 phosphorylates an abscisic acid responsive element-binding factor and associates with ABA signaling%5BTitle%5D), 2007, Plant Mol Biol.

@@ -9,7 +9,7 @@ tags: [seed development, endosperm, blast, seed, abiotic stress, oxidative]
 * **Information**  
     + Symbol: OsALDH7,OsALDH7B6,ALDH7B7  
     + MSU: [LOC_Os09g26880](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g26880)  
-    + RAPdb: [Os09g0440300](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0440300)  
+    + RAPdb: [Os09g0440300](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0440300)  
 
 * **Publication**  
     + [Mutation of OsALDH7 causes a yellow-colored endosperm associated with accumulation of oryzamutaic acid A in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Mutation of OsALDH7 causes a yellow-colored endosperm associated with accumulation of oryzamutaic acid A in rice%5BTitle%5D), 2012, Planta.

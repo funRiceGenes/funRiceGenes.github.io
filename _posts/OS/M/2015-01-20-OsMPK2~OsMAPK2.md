@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: OsMPK2,OsMAPK2  
     + MSU: [LOC_Os08g06060](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os08g06060)  
-    + RAPdb: [Os08g0157000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os08g0157000)  
+    + RAPdb: [Os08g0157000](https://rapdb.dna.affrc.go.jp/locus/?name=Os08g0157000)  
 
 * **Publication**  
     + [Molecular analysis of the rice MAP kinase gene family in relation to Magnaporthe grisea infection](http://www.ncbi.nlm.nih.gov/pubmed?term=Molecular analysis of the rice MAP kinase gene family in relation to Magnaporthe grisea infection%5BTitle%5D), 2006, Mol Plant Microbe Interact.

@@ -9,7 +9,7 @@ tags: [auxin]
 * **Information**  
     + Symbol: OsYUCCA7,OsYUC7  
     + MSU: [LOC_Os04g03980](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g03980)  
-    + RAPdb: [Os04g0128900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0128900)  
+    + RAPdb: [Os04g0128900](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0128900)  
 
 * **Publication**  
     + [Auxin biosynthesis by the YUCCA genes in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=Auxin biosynthesis by the YUCCA genes in rice%5BTitle%5D), 2007, Plant Physiol.

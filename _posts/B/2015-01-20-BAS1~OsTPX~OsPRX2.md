@@ -9,7 +9,7 @@ tags: [oxidative, temperature, seedling, yield, homeostasis, leaf, chloroplast, 
 * **Information**  
     + Symbol: BAS1,OsTPX,OsPRX2  
     + MSU: [LOC_Os02g33450](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g33450)  
-    + RAPdb: [Os02g0537700](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0537700)  
+    + RAPdb: [Os02g0537700](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0537700)  
 
 * **Publication**  
     + [Expression of salt-induced 2-Cys peroxiredoxin from Oryza sativa increases stress tolerance and fermentation capacity in genetically engineered yeast Saccharomyces cerevisiae](http://www.ncbi.nlm.nih.gov/pubmed?term=Expression of salt-induced 2-Cys peroxiredoxin from Oryza sativa increases stress tolerance and fermentation capacity in genetically engineered yeast Saccharomyces cerevisiae%5BTitle%5D), 2013, Appl Microbiol Biotechnol.

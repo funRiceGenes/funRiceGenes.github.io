@@ -9,7 +9,7 @@ tags: [drought, growth, seedling]
 * **Information**  
     + Symbol: OsRDCP1,OsREIW1  
     + MSU: [LOC_Os04g44820](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g44820)  
-    + RAPdb: [Os04g0530500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0530500)  
+    + RAPdb: [Os04g0530500](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0530500)  
 
 * **Publication**  
     + [Overexpression of OsRDCP1, a rice RING domain-containing E3 ubiquitin ligase, increased tolerance to drought stress in rice Oryza sativa L.](http://www.ncbi.nlm.nih.gov/pubmed?term=Overexpression of OsRDCP1, a rice RING domain-containing E3 ubiquitin ligase, increased tolerance to drought stress in rice Oryza sativa L.%5BTitle%5D), 2011, Plant Sci.

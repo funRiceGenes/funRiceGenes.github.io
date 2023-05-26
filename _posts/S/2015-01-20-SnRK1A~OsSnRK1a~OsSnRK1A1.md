@@ -9,7 +9,7 @@ tags: [growth, seedling, seed, seed germination, resistance, development, defens
 * **Information**  
     + Symbol: SnRK1A,OsSnRK1a,OsSnRK1A1  
     + MSU: [LOC_Os05g45420](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os05g45420)  
-    + RAPdb: [Os05g0530500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os05g0530500)  
+    + RAPdb: [Os05g0530500](https://rapdb.dna.affrc.go.jp/locus/?name=Os05g0530500)  
 
 * **Publication**  
     + [Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation](http://www.ncbi.nlm.nih.gov/pubmed?term=Interference with oxidative phosphorylation enhances anoxic expression of rice alpha-amylase genes through abolishing sugar regulation%5BTitle%5D), 2010, J Exp Bot.

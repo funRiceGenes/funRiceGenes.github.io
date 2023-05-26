@@ -9,7 +9,7 @@ tags: [meristem, transcription factor]
 * **Information**  
     + Symbol: OsKANADI1,OsKANADI2  
     + MSU: [LOC_Os02g46940](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os02g46940)  
-    + RAPdb: [Os02g0696900](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os02g0696900)  
+    + RAPdb: [Os02g0696900](https://rapdb.dna.affrc.go.jp/locus/?name=Os02g0696900)  
 
 * **Publication**  
     + [Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways](http://www.ncbi.nlm.nih.gov/pubmed?term=Rice LHS1/OsMADS1 controls floret meristem specification by coordinated regulation of transcription factors and hormone signaling pathways%5BTitle%5D), 2013, Plant Physiol.

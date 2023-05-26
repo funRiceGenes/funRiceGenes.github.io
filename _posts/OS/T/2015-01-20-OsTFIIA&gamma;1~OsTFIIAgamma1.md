@@ -9,7 +9,7 @@ tags:
 * **Information**  
     + Symbol: OsTFIIA&gamma;1,OsTFIIAgamma1  
     + MSU: None  
-    + RAPdb: [Os01g0970500](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os01g0970500)  
+    + RAPdb: [Os01g0970500](https://rapdb.dna.affrc.go.jp/locus/?name=Os01g0970500)  
 
 * **Publication**  
 

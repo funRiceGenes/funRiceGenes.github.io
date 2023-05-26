@@ -9,7 +9,7 @@ tags: [leaf, salt, transcription factor, Salt Sensitivity, salt stress, R protei
 * **Information**  
     + Symbol: OsROC1,OsMYBc  
     + MSU: [LOC_Os09g12770](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os09g12770)  
-    + RAPdb: [Os09g0299200](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os09g0299200)  
+    + RAPdb: [Os09g0299200](https://rapdb.dna.affrc.go.jp/locus/?name=Os09g0299200)  
 
 * **Publication**  
     + [The Indeterminate Domain Protein ROC1 Regulates Chilling Tolerance via Activation of DREB1B/CBF1 in Rice.](http://www.ncbi.nlm.nih.gov/pubmed?term=The Indeterminate Domain Protein ROC1 Regulates Chilling Tolerance via Activation of DREB1B/CBF1 in Rice.%5BTitle%5D), 2016, Int J Mol Sci.

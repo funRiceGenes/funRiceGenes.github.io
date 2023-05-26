@@ -9,7 +9,7 @@ tags: [stem, growth, leaf, iaa, root, shoot, seedling, auxin, homeostasis, ethyl
 * **Information**  
     + Symbol: OsFMO,OsCOW1,NAL7,OsYUC8  
     + MSU: [LOC_Os03g06654](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g06654)  
-    + RAPdb: [Os03g0162000](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0162000)  
+    + RAPdb: [Os03g0162000](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0162000)  
 
 * **Publication**  
     + [NARROW LEAF 7 controls leaf shape mediated by auxin in rice](http://www.ncbi.nlm.nih.gov/pubmed?term=NARROW LEAF 7 controls leaf shape mediated by auxin in rice%5BTitle%5D), 2008, Mol Genet Genomics.

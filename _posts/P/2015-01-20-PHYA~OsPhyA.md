@@ -9,7 +9,7 @@ tags: [sheath, flower, seedling,  ga , phosphate, flowering time, ethylene, flor
 * **Information**  
     + Symbol: PHYA,OsPhyA  
     + MSU: [LOC_Os03g51030](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os03g51030)  
-    + RAPdb: [Os03g0719800](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os03g0719800)  
+    + RAPdb: [Os03g0719800](https://rapdb.dna.affrc.go.jp/locus/?name=Os03g0719800)  
 
 * **Publication**  
     + [Isolation and characterization of rice phytochrome A mutants](http://www.ncbi.nlm.nih.gov/pubmed?term=Isolation and characterization of rice phytochrome A mutants%5BTitle%5D), 2001, Plant Cell.

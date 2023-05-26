@@ -9,7 +9,7 @@ tags: [tiller, cytokinin, cytokinin response, development, map-based cloning, tr
 * **Information**  
     + Symbol: MOC3,OsWUS,TAB1,OsTAB1  
     + MSU: [LOC_Os04g56780](http://rice.uga.edu/cgi-bin/ORF_infopage.cgi?orf=LOC_Os04g56780)  
-    + RAPdb: [Os04g0663600](http://rapdb.dna.affrc.go.jp/viewer/gbrowse_details/irgsp1?name=Os04g0663600)  
+    + RAPdb: [Os04g0663600](https://rapdb.dna.affrc.go.jp/locus/?name=Os04g0663600)  
 
 * **Publication**  
     + [MONOCULM 3, an Ortholog of WUSCHEL in Rice, Is Required for Tiller Bud Formation.](http://www.ncbi.nlm.nih.gov/pubmed?term=MONOCULM 3, an Ortholog of WUSCHEL in Rice, Is Required for Tiller Bud Formation.%5BTitle%5D), 2015, J Genet Genomics.
