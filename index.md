@@ -35,4 +35,4 @@ __A comprehensive database of functionally characterized rice genes__
   
 <br>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5ydy9wmznml&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uqNWvV2iVBLy0RJPArodbyEe24A4kBxQ4dijbSb2zig&cl=ffffff&w=a"></script>
