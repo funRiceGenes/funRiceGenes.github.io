@@ -22,10 +22,9 @@ __A comprehensive database of functionally characterized rice genes__
 
 
 <div style="padding: 12px 18px; background-color: #fdf2f2; border: 1px solid #f0b1b0; color: #9f1d1d; border-radius: 5px; margin: 15px 0; font-size: 1.1em; font-weight: bold; text-align: center;">
-Please go to funPlantGenes for more comprehensive information!
+<a href="https://funplantgenes.henau.edu.cn/" target="_blank">Please go to funPlantGenes for more comprehensive information!</a>
 </div>
 
-<br>
 * __Search this site using Google:__
 <script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
 <div class="gcse-search"></div>
