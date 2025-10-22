@@ -20,6 +20,11 @@ __A comprehensive database of functionally characterized rice genes__
 * Interactive application of funRiceGenes: [https://venyao.xyz/funRiceGenes/](https://venyao.xyz/funRiceGenes/)  
 * Citation: [Huang et al. 2022 Rice](https://doi.org/10.1186/s12284-022-00569-1); [Yao et al. 2018 GigaScience](https://doi.org/10.1093/gigascience/gix119)
 
+
+<div style="padding: 12px 18px; background-color: #fdf2f2; border: 1px solid #f0b1b0; color: #9f1d1d; border-radius: 5px; margin: 15px 0; font-size: 1.1em; font-weight: bold; text-align: center;">
+Please go to funPlantGenes for more comprehensive information!
+</div>
+
 <br>
 * __Search this site using Google:__
 <script async src="https://cse.google.com/cse.js?cx=5c42ad5862fcc38a6"></script>
